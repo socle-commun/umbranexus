@@ -69,6 +69,7 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 - `docs/__buffer.md` = mémoire active de l'agent.
 - Il contient une section **Mémoire Active** de 30 lignes maximum, sans horodatage.
 - Chaque ligne résume une action ou un état.
+- Ne jamais l'utiliser comme journal : il sert uniquement de mémoire éphémère.
 - Une section *Règles Temporaires* en tête de fichier rappelle les consignes.
 - `docs/` = la stratégie long terme.
 - `docs/knowledge-ethics.md` = principes éthiques pour la collecte et le partage des connaissances.

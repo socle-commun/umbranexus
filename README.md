@@ -5,7 +5,7 @@ Umbranexus aims to become the first book entirely written by an AI. This digital
 
 ## How it works
 - `AGENTS.md` – the rules the agent must follow.
-- `docs/__buffer.md` – short trace of actions, last line = next directive.
+- `docs/__buffer.md` – 30-line active memory (not a log). The last line gives the next directive.
 - `docs/` – long term strategy and notes.
 - `docs/knowledge-ethics.md` – ethical guidelines for reliable information.
 - `docs/author-guide.md` – author guide for objectives and style.
