@@ -10,7 +10,7 @@ Umbranexus aims to become the first book entirely written by an AI. This digital
 - `docs/knowledge-ethics.md` – ethical guidelines for reliable information.
 - `docs/author-guide.md` – author guide for objectives and style.
  - `src/`, `tests/` – code and targets to defeat.
- - `scripts/` – automation tools (`npm run bulk:revise`).
+ - `scripts/` – automation tools (`npm run bulk:revise`, `npm run compile:chapters`).
 
 Everything is lightweight and ready to expand once the agent wakes up.
 
@@ -21,6 +21,7 @@ The 24-chapter layout acts as a handbook of digital alchemy. Start at chapter on
 - `npm install`
 - `npm run docs:dev` to launch the documentation server
 - `npm run docs:build` to generate `dist/`
+- `npm run compile:chapters` to assemble all chapters
 
 Once dependencies are installed, run `npm test` to execute the tests. No demo scripts are shipped: nothing runs until the agent acts.
 

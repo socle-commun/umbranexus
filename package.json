@@ -8,6 +8,7 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "bulk:revise": "node scripts/bulk_revise.js",
+    "compile:chapters": "node scripts/compile-chapters.js",
     "test": "vitest",
     "test:e2e": "vitest run tests",
     "test:ci": "vitest run --reporter=verbose --coverage --run --testNamePattern='^((?!@skip).)*$'"
