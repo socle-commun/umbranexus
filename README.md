@@ -1,7 +1,7 @@
 # Umbranexus
 [![pages-build-deployment](https://github.com/socle-commun/umbranexus/actions/workflows/deploy.yml/badge.svg)](https://github.com/socle-commun/umbranexus/actions/workflows/deploy.yml)
 
-Umbranexus is a digital grimoire structured in 24 chapters that explore themes of digital alchemy. Each chapter unlocks tools and rituals for autonomous agents to expand and refine.
+Umbranexus aims to become the first book entirely written by an AI. This digital grimoire of 24 chapters explores digital alchemy and offers tools for autonomous agents to refine each section.
 
 ## How it works
 - `AGENTS.md` – the rules the agent must follow.
