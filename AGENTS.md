@@ -39,6 +39,7 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 - Si un fichier est incohérent ou inutile, propose sa refonte ou suppression.
 - Si tu ne sais pas quoi faire : crée utilise le [fichier de roadmap](/docs/roadmap.md) avec des hypothèses d'action.
 - Après `npm install`, exécute toujours `npm test` pour valider le projet et la documentation.
+- Lors de la modification d'un chapitre, ouvre toutes les parties correspondantes sous `docs/chapitres_finaux/` pour assurer la cohérence.
 
 ---
 
@@ -58,9 +59,8 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 - Une section *Règles Temporaires* en tête de fichier rappelle les consignes.
 - `docs/` = la stratégie long terme.
 - `docs/knowledge-ethics.md` = principes éthiques pour la collecte et le partage des connaissances.
+- `docs/author-guide.md` = directives de style et références littéraires.
 - `src/` = le champ de bataille.
 - `tests/` = la vérification de tes exécutions.
 - `config.yaml` Contiens les informations génériques du projet (comme la langue ou le type de projet). Utilise le comme mémoire permettant de comprendre le contexte projet rapidement.
-
-
-
+- `docs/chapitres_finaux/` = texte final des chapitres en plusieurs parties. Lire l'ensemble avant modification et n'y laisser aucun brouillon.

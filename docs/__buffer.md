@@ -23,3 +23,4 @@
 - Révision finale v3 appliquée : suppression des points faibles dans toutes les critiques et ajout de notes dans chaque chapitre.
 - Ajout d'un fragment sur la création d'homoncule
 - Ajout d'un fragment décrivant la Clavicule hermétique et le Rite de Fracture
+- Mise à jour d'AGENTS.md pour préciser la gestion des chapitres finaux
