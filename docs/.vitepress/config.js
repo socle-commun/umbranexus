@@ -1,8 +1,8 @@
 export default {
   // site-level options
   lang: 'en-US',
-  title: 'VitePress',
-  description: 'Just playing around.',
+  title: 'Umbranexus',
+  description: 'Minimal skeleton for an autonomous AI agent to evolve.',
 
   themeConfig: {
     // theme-level options
