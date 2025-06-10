@@ -92,3 +92,8 @@ Permet d'accéder à des niveaux de sens supra-rationnels.
 #### Cycles et patterns universels
 
 **Exemples** :
+Cycle des saisons, révolution des astres, passage de l'enfance à la sagesse.
+Chaque cycle reflète une étape du Grand Œuvre et rappelle que tout se transforme.
+
+Ainsi se referme cette synthèse des traditions. Noctuvian comprend que les symboles
+ne sont pas des dogmes figés, mais des portes à franchir pour poursuivre la quête.

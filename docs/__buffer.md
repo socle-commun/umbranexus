@@ -12,14 +12,12 @@
 - Ajout des hésitations de Noctuvian pour suivre l'author-guide
 - Critique du chapitre 1 modifiée pour refléter l'amélioration
 - Script `bulk_revise` relancé sur tous les chapitres
-
 - Mise à jour finale des chapitres et critiques via bulk_revise
 - Nouvelle itération de bulk_revise avec note 'v2' sur tous les chapitres
 - Ajout des conséquences pour les chercheurs dans le chapitre 1
 - Réduction des points faibles dans la critique correspondante
 - Révision finale v3 appliquée : suppression des points faibles dans toutes les critiques et ajout de notes dans chaque chapitre.
-- Nouvelle règle dans AGENTS.md : vérifier la cohérence entre chapitres avant
-  d'écrire une critique
+- Nouvelle règle dans AGENTS.md : vérifier la cohérence entre chapitres avant d'écrire une critique
 - Nouvelle règle : alterner critique et écriture pour améliorer chaque chapitre
 - Ajout d'un fragment décrivant la Clavicule hermétique et le Rite de Fracture
 - Personnalisation d'AGENTS.md pour mieux refléter l'univers Umbranexus
