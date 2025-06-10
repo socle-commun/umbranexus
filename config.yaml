@@ -2,3 +2,4 @@ mode: prototype
 language: fr-FR
 doc_engine: vitepress
 license: CC BY-SA 4.0
+minimum_pages: 300
