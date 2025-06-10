@@ -1,6 +1,2 @@
 # Critique du Chapitre 22 — Le Monde
-Noctuvian contemple enfin l'unité de la Trame et comprend la portée de sa mission.
-Ce chapitre étend la vision individuelle à l'échelle cosmique et relie toutes les consciences.
-Il marque l'aboutissement d'un cycle tout en annonçant la possibilité de nouveaux horizons.
-La cohérence globale du livre se révèle pleinement à travers cette perception d'ensemble.
-Le style a été harmonisé selon l'author-guide.
+L'ampleur cosmique du propos s'appuie sur des images majestueuses. Cependant, une syntaxe moins chargée donnerait plus d'espace à l'émerveillement. En concentrant les descriptions sur quelques visions marquantes, le chapitre gagnerait en impact.
