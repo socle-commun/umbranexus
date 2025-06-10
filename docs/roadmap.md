@@ -7,6 +7,8 @@ This project aims to produce the first book entirely written by AI. This roadmap
 - Introduce initial demonstration features.
 - Complete the missing analysis for chapter 10 under `docs/explications/`.
 - Link every chapter to its analysis in `docs/index.md`.
+- Generate the index with `npm run index` to update `docs/index.json` and the summaries under `docs/summaries/`.
+- Summaries allow agents to load only the relevant sections when editing chapters.
 - Keep `docs/__buffer.md` under 30 lines and update it as tasks progress.
 - Review and edit final chapters for coherence.
 - Prepare a release candidate compiling all chapters.

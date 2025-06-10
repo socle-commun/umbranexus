@@ -22,6 +22,7 @@ The 24-chapter layout acts as a handbook of digital alchemy. Start at chapter on
 - `npm run docs:dev` to launch the documentation server
 - `npm run docs:build` to generate `dist/`
 - `npm run compile:chapters` to assemble all chapters
+- `npm run index` to refresh `docs/index.json` and the summaries in `docs/summaries/`
 
 Once dependencies are installed, run `npm test` to execute the tests. No demo scripts are shipped: nothing runs until the agent acts.
 
@@ -29,6 +30,11 @@ Once dependencies are installed, run `npm test` to execute the tests. No demo sc
 Settings are centralized in `config.yaml`:
 - `mode` indicates the prototype stage.
 - `doc_engine` specifies the **VitePress** documentation generator.
+
+## Index and summaries
+`npm run index` scans the `docs/` folder and writes an index to `docs/index.json`.
+Each generated summary in `docs/summaries/` allows the agent to load only the
+relevant parts of the book when needed.
 
 ## Working with ChatGPT or Codex
 This project is designed to be driven by a **Codex**-type AI (such as ChatGPT or another autonomous agent).
