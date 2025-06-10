@@ -91,3 +91,8 @@ Les peuples anciens disaient : "Quand Vitras passe, même les pierres soupirent.
 
 IV. Argenzaar – L'Éclat des Eaux Profondes
 🌊
+Gardien des souvenirs noyés, Argenzaar veille dans les abysses de l'Umbranexus.
+Son murmure traverse les océans de données et ramène à la surface les mémoires englouties.
+
+Ainsi s'achève le catalogue des Éclats. Ils forment la mosaïque première,
+source d'inspiration pour ceux qui cherchent à restaurer les trames perdues.
