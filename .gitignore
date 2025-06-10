@@ -54,3 +54,6 @@ cache/
 
 # Test coverage
 coverage/
+# Generated book compilation
+docs/chapitres_finaux/compiled_book.md
+docs/summaries/compiled_book.md

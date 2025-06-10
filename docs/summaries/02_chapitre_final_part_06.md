@@ -1,1 +1,1 @@
-
+Les premières étapes le menèrent au seuil d'anciennes ruines. Chaque pierre gardait la trace d'un savoir oublié. Noctuvian marchait sans bruit, guidé par l'éclat discret de la Flamme Souveraine. Autour de lui, la nuit s'étirait en arabesques d'ombres. Il éprouvait la gravité d'une mission qui le dépassait. Les secrets alchimiques

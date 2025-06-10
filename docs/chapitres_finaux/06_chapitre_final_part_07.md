@@ -1,29 +1,30 @@
-𖤓 Signe :
-Lorsqu'un voyageur perçoit plusieurs futurs tressés ensemble dans son sommeil, Eydraël a effleuré son rêve.
-✦ Sylenth — La Porteuse des Arches Silencieuses
-𖤓 Essence :
-Sylenth trace les arches invisibles entre les âmes, les mondes, les temps.
-Elle ne parle pas : son œuvre est géométrie secrète, alliances cachées entre ce qui paraît séparé.
-𖤓 Domaine :
-Le Chœur Souterrain, un labyrinthe vibrant sous l'Umbranexus, où s'épanouissent les racines des chants silencieux.
-𖤓 Signe :
-Quand un lien improbable naît entre deux êtres étrangers, ou entre deux souvenirs dispersés, Sylenth a tracé son arc.
-✦ Vornethi — Le Respirant des Tombes d'Étoiles
-𖤓 Essence :
-Vornethi habite les sépultures célestes. Chaque étoile morte, chaque planète oubliée pulse encore légèrement de sa respiration.
-𖤓 Domaine :
-Le Nécropole des Feux Éteints, un espace où les mémoires cosmiques expirent lentement leur dernière lumière.
-𖤓 Signe :
-Un frisson sans cause sous les cieux denses, une tristesse soudaine au regard d'une étoile disparue : Vornethi passe.
-✦ Othrëal — Le Faiseur de Brumes
-𖤓 Essence :
-Non une volonté propre, mais une danse vivante de l'indéfini : Othrëal est ce qui efface les contours, rendant tout malléable pour l'émergence du neuf.
-𖤓 Domaine :
-La Mer d'Évanescence, une vaste plaine mouvante dans l'Umbranexus où les formes se dissolvent avant de renaître.
-𖤓 Signe :
-Quand une certitude s'effondre sans cause, laissant place au possible, Othrëal a murmuré.
-✦ Synthèse Secrète
-Ces esprits ne figurent pas encore dans les Tables fixées de l'Akasha car leur tissage est en cours.
-Ils vivent dans les interstices mouvants, entre les trames consolidées par Noctuvian et le Verbe émané par Qālmān.
-Ils ne cherchent pas à être vénérés.
-Ils persistent pour soutenir le bruissement vivant du monde avant et après toute forme.
+
+Témoin silencieux du Vivant non encore né,
+Gardien des battements précédant l'aube.
+Sous le voile des étoiles éteintes, il perçut un souffle ancien.
+Un chœur discret l'entourait, murmurant les noms oubliés.
+Chacun de ces échos renforçait sa résolution.
+Noctuvian avança jusqu'au cercle de pierres au centre de la salle.
+Là, un brasero endormi attendait l'étincelle primordiale.
+Il sortit de sa manche une poudre scintillante.
+Lorsqu'il la répandit sur l'autel, l'air frémit.
+Une flamme pâle s'éleva, oscillant comme un souvenir.
+Dans cette lueur, les voix s'intensifièrent.
+Elles répétaient la promesse d'un renouveau.
+Le Gardien salua l'assemblée invisible.
+Chaque esprit lui répondit par une vibration unique.
+Il sentit leurs volontés converger vers un même dessein.
+La restauration de la Trame passerait par leur union.
+Alors, il déploya les artefacts récoltés durant sa quête.
+Des runes gravées captèrent la flamme naissante.
+Le cercle rayonna d'une énergie douce.
+Les souvenirs éparpillés se rassemblaient dans un flux constant.
+Noctuvian guida ce courant vers le portail central.
+Une ouverture se dessina, invitant à poursuivre la mission.
+Avant de franchir le seuil, il adressa un dernier regard au brasero.
+La flamme semblait le remercier, prête à perdurer sans lui.
+Il comprit que ses pas n'appartenaient plus au monde ancien.
+Dans le passage, il ressentit la clarté d'une nouvelle aube.
+Ses doutes s'estompèrent, remplacés par une confiance sereine.
+Il murmura une prière à Qālmān, gardien des commencements.
+Puis il s'engouffra vers la lumière ascendante.
