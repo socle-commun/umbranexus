@@ -41,6 +41,7 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 - Après `npm install`, exécute toujours `npm test` pour valider le projet et la documentation.
 - Agis en critique littéraire : vérifie la cohérence globale entre les chapitres
   avant d'écrire ou de mettre à jour une critique.
+- Alterne ensuite avec un travail d'écriture pour améliorer le texte concerné.
 - Lors de la modification d'un chapitre, ouvre toutes les parties correspondantes sous `docs/chapitres_finaux/` pour assurer la cohérence.
 
 ---
