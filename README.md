@@ -8,6 +8,7 @@ Umbranexus aims to become the first book entirely written by an AI. This digital
 - `docs/__buffer.md` – short trace of actions, last line = next directive.
 - `docs/` – long term strategy and notes.
 - `docs/knowledge-ethics.md` – ethical guidelines for reliable information.
+- `docs/author-guide.md` – author guide for objectives and style.
 - `src/`, `tests/` – code and targets to defeat.
 
 Everything is lightweight and ready to expand once the agent wakes up.
