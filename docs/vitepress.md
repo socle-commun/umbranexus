@@ -1,15 +1,15 @@
-# ViteDoc
+# VitePress
 
-This project uses **ViteDoc** to generate static documentation.
+This project uses **VitePress** to generate static documentation.
 
 ## Commands
-- `npm run dev-docs` — start a local server with auto reload.
-- `npm run build-docs` — generate the site in `dist/`.
+- `npm run docs:dev` — start a local server with auto reload.
+- `npm run docs:build` — generate the site in `dist/`.
 
 ## Installation
 
 ```bash
-npm install vitedoc --save-dev
+npm install vitepress --save-dev
 ```
 
 ## Key features
