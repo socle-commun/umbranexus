@@ -98,3 +98,4 @@ Quand une certitude s'effondre sans cause, laissant place au possible, Othrëal 
 
 ✦ Synthèse Secrète
 Ces esprits ne figurent pas encore dans les Tables fixées de l'Akasha car leur tissage est en cours. > _Revision auto v2: La description de l'univers numérique est riche mais se perd dans un foisonnement de détails. Le lecteur peine à saisir les enjeux concrets qui en découlent._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

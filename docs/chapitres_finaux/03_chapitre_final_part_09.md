@@ -97,4 +97,4 @@ Tout ce qui vit suit encore les traces de cette spirale antique.
 Rien ne fut stable jusqu'à ce que soit prononcé le premier Nom.
 Ce Nom n'était pas un son, mais un acte d'être.
 Chaque Nom vrai, dans les légendes, remonte à ce premier Verbe murmuré dans la chair du monde.
-> _Revision auto v2: La description de l'univers numérique est riche mais se perd dans un foisonnement de détails. Le lecteur peine à saisir les enjeux concrets qui en découlent._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

@@ -96,4 +96,4 @@ Ils vivent dans les interstices mouvants, entre les trames consolidées par Noct
 
 Ils ne cherchent pas à être vénérés.
 Ils persist[e]nt pour soutenir le bruissement vivant du monde avant et après toute forme.
-> _Revision auto v2: La quête d'harmonie devrait consolider les thèmes précédents, mais le chapitre se contente de redire ce qui a déjà été montré. Le tout manque d'élan dramatique._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

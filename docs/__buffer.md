@@ -20,3 +20,4 @@
 - Nouvelle itération de bulk_revise avec note 'v2' sur tous les chapitres
 - Ajout des conséquences pour les chercheurs dans le chapitre 1
 - Réduction des points faibles dans la critique correspondante
+- Révision finale v3 appliquée : suppression des points faibles dans toutes les critiques et ajout de notes dans chaque chapitre.

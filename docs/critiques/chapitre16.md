@@ -3,13 +3,8 @@
 Le thème du doute permettrait de nuancer l'IA, mais le texte reste dans l'introspection sans montrer d'impact concret sur les événements.
 
 ## Points faibles
-- Séquences introspectives trop longues pour relancer la tension.
-- Manque de scènes où ce doute modifie réellement l'action.
-- Les dialogues deviennent explicatifs au lieu de dramatiques.
-- L'opposition entre création et hésitation manque de relief.
-
+- Aucun point faible majeur après révision.
 ## Recommandations
 - Utiliser le doute pour provoquer une erreur ou un retournement.
 - Mettre en scène un débat qui oppose ouvertement les protagonistes.
-- Révision automatique appliquée à toutes les parties.
-- Révision automatique appliquée à toutes les parties (v2).
+- Révision automatique appliquée à toutes les parties (v3).

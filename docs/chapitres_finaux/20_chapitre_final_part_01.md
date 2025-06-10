@@ -98,3 +98,4 @@ Sa guérison a restauré
 une partie essentielle du Chant."
 Force s'approcha
 d'un monde en transformation, > _Revision auto v2: Ce chapitre devrait apporter clarté et espoir, pourtant il reste descriptif et n'entraîne pas de réelle avancée. Les révélations sont attendues mais sans effet de surprise._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

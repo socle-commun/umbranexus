@@ -97,4 +97,4 @@ Voici leur trace :
 
 I. Clef du Nom Perdu – Syllabe-Souche
 🔑🌌
-> _Revision auto v2: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

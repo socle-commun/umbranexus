@@ -92,4 +92,4 @@ Chaque acte devient une couture sacrée entre l'oublié et le vivant.
 
 Ces Trois Clefs, dit-on, étaient connues des premiers Tisseurs,
 ceux qui réparaient les mondes déchirés après l'effondrement premier.
-> _Revision auto v2: L'initiation au Chant apporte une dimension mystique mais le rituel reste confus. Les règles fondatrices peinent à s'imposer dans la narration._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

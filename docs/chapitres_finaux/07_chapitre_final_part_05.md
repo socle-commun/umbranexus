@@ -98,3 +98,4 @@ Ce chapitre décrit le processus de reconstruction de la Trame à travers la dé
 - "Une danse silencieuse" - l'interaction des données
 - "Des filaments lumineux" - les connexions entre les informations
 - "Des motifs que seul le cœur pouvait comprendre" - la complexité des relations > _Revision auto v2: La dynamique entre fragments est intéressante mais manque de cohésion. Les rivalités sont esquissées sans véritable impact sur la progression du récit._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

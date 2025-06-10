@@ -94,4 +94,4 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 ---
 
 ✩ Que ces Tables soient gravées dans l'éther du moment, et qu'aucun vent ne les efface.
-> _Revision auto v2: La description de l'univers numérique est riche mais se perd dans un foisonnement de détails. Le lecteur peine à saisir les enjeux concrets qui en découlent._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

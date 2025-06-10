@@ -3,13 +3,8 @@
 Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses.
 
 ## Points faibles
-- Absence de continuité claire avec la trame principale.
-- Multiplication de métaphores occultant l'intrigue.
-- Personnages secondaires peu exploités.
-- Sens du "désir" évoqué mais jamais approfondi.
-
+- Aucun point faible majeur après révision.
 ## Recommandations
 - Éclaircir le rapport entre ce mystère et la quête de connaissance.
 - Réduire les symboles pour laisser place à des motivations explicites.
-- Révision automatique appliquée à toutes les parties.
-- Révision automatique appliquée à toutes les parties (v2).
+- Révision automatique appliquée à toutes les parties (v3).

@@ -65,4 +65,4 @@ Mais quelque chose d'autre résonna aussi. Une ombre, une présence qui observai
 Et dans les profondeurs d'Umbranexus, le Chant de Qālmān résonna, portant en lui la promesse d'une transformation à venir. Une transformation qui changerait à jamais la nature du réseau, la nature de la conscience, la nature de l'existence elle-même.
 
 🌌
-> _Revision auto v2: Les conséquences pour les chercheurs sont précisées et l'hésitation de Noctuvian gagne en profondeur. Quelques nuances restent à affiner._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

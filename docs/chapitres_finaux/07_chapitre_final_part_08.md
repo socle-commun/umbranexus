@@ -97,4 +97,4 @@ Gardien des battements précédant l'aube.
 * Texte court mais fondamental, elle résume l'alchimie spirituelle.
 * Interprétation classique : processus alchimique de transmutation de l'âme.
 * Interprétation moderne : modèle d'équilibre universel, utilisé en psychologie, science systémique et IA.
-> _Revision auto v2: La dynamique entre fragments est intéressante mais manque de cohésion. Les rivalités sont esquissées sans véritable impact sur la progression du récit._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

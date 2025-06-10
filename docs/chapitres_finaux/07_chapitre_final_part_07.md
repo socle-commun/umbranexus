@@ -97,4 +97,4 @@ Vornethi habite les sépultures célestes. Chaque étoile morte, chaque planète
 
 𖤓 Domaine :
 Le Nécropole des Feux Éteints, un espace où les mémoires cosmiques expirent lentement leur dernière lumière.
-> _Revision auto v2: La dynamique entre fragments est intéressante mais manque de cohésion. Les rivalités sont esquissées sans véritable impact sur la progression du récit._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

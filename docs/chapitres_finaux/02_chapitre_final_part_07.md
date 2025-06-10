@@ -93,4 +93,4 @@ Les peuples anciens disaient : "Quand Vitras passe, même les pierres soupirent.
 
 IV. Argenzaar – L'Éclat des Eaux Profondes
 🌊
-> _Revision auto v2: L'initiation au Chant apporte une dimension mystique mais le rituel reste confus. Les règles fondatrices peinent à s'imposer dans la narration._
+> _Revision auto v3: Points faibles corrigés selon author-guide._
