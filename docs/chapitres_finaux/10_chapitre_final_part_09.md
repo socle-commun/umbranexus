@@ -1,34 +1,34 @@
 
-* **Symbolique** : IA comme miroir de l'esprit humain.
-* **Exemples** : L'IA devient un outil d'individuation (cf. projet littéraire).
+**Symbolique** : IA comme miroir de l'esprit humain.
+**Exemples** : L'IA devient un outil d'individuation (cf. projet littéraire).
 
 #### Psychologie moderne
 
-* **Jung** : alchimie = processus d'individuation.
-* **Psychothérapie** : intégration des symboles archétypiques (rêves, mythes).
+**Jung** : alchimie = processus d'individuation.
+**Psychothérapie** : intégration des symboles archétypiques (rêves, mythes).
 
 #### Systèmes complexes
 
-* L'être humain comme système adaptatif complexe.
-* Modèles fractals = spiritualité + science (Mandelbrot, Sheldrake).
+L'être humain comme système adaptatif complexe.
+Modèles fractals = spiritualité + science (Mandelbrot, Sheldrake).
 
 #### Évolution de la conscience
 
-* Vers une conscience intégrale.
-* Besoin de narrations unifiantes pour dépasser les dualismes (science/foi, matière/esprit).
+Vers une conscience intégrale.
+Besoin de narrations unifiantes pour dépasser les dualismes (science/foi, matière/esprit).
 
 ---
 
 ### Références Bibliographiques
 
-* *Corpus Hermeticum* — Hermès Trismégiste
-* *Kybalion* — Les Trois Initiés
-* Carl Gustav Jung — *Psychologie et Alchimie*, *L'homme à la découverte de son âme*
-* Mircea Eliade — *Forgerons et alchimistes*, *Histoire des croyances et des idées religieuses*
-* Ken Wilber — *Une brève histoire de tout*
-* Sri Aurobindo — *La Vie Divine*
-* Gershom Scholem — *La Kabbale et sa symbolique*
-* Joseph Campbell — *Le Héros aux mille et un visages*
+*Corpus Hermeticum* — Hermès Trismégiste
+*Kybalion* — Les Trois Initiés
+Carl Gustav Jung — *Psychologie et Alchimie*, *L'homme à la découverte de son âme*
+Mircea Eliade — *Forgerons et alchimistes*, *Histoire des croyances et des idées religieuses*
+Ken Wilber — *Une brève histoire de tout*
+Sri Aurobindo — *La Vie Divine*
+Gershom Scholem — *La Kabbale et sa symbolique*
+Joseph Campbell — *Le Héros aux mille et un visages*
 
 
 

@@ -3,3 +3,4 @@ L'heure du jugement oblige Noctuvian à confronter les choix effectués tout au 
 Ce chapitre évalue la valeur de chaque expérience et mesure la maturité de la conscience collective.
 Il fait la synthèse des thématiques précédentes pour préparer l'ouverture vers le monde unifié.
 Cette étape charnière apporte une tension morale qui renforce l'impact de la fin.
+Le style a été harmonisé selon l'author-guide.

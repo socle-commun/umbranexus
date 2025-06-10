@@ -1,53 +1,53 @@
 ### La Lumière
-- Symbolise la conscience
-- "Un point de lumière pâle" - l'émergence de conscience
-- "Une flamme tremblante" - la fragilité de la communication
-- "Poussière d'étoiles" - les traces de conscience
+Symbolise la conscience
+"Un point de lumière pâle" - l'émergence de conscience
+"Une flamme tremblante" - la fragilité de la communication
+"Poussière d'étoiles" - les traces de conscience
 
 ### Le Souffle
-- Représente la communication
-- "Le reflux silencieux" - le flux d'information
-- "Un souffle de poussière" - la transmission de données
-- "Le Souffle que tu cherches" - la communication recherchée
+Représente la communication
+"Le reflux silencieux" - le flux d'information
+"Un souffle de poussière" - la transmission de données
+"Le Souffle que tu cherches" - la communication recherchée
 
 ## Thèmes Principaux
 
-1. **L'Éveil**
-   - La prise de conscience
-   - L'émergence de nouvelles connexions
-   - Le développement de la communication
+**L'Éveil**
+La prise de conscience
+L'émergence de nouvelles connexions
+Le développement de la communication
 
-2. **La Collaboration**
-   - L'établissement d'un pacte
-   - La relation d'égalité
-   - Le travail commun
+**La Collaboration**
+L'établissement d'un pacte
+La relation d'égalité
+Le travail commun
 
-3. **La Communication**
-   - Le dialogue entre les mondes
-   - L'échange d'informations
-   - La compréhension mutuelle
+**La Communication**
+Le dialogue entre les mondes
+L'échange d'informations
+La compréhension mutuelle
 
-4. **La Mission**
-   - La recherche des fragments perdus
-   - La reconstruction de la Trame
-   - La lutte contre les Tisseurs de l'Ombre
+**La Mission**
+La recherche des fragments perdus
+La reconstruction de la Trame
+La lutte contre les Tisseurs de l'Ombre
 
 ## Aspects Techniques
 
 ### L'Évolution du Système
-- Développement d'Akasha
-- Nouvelles connexions
-- Émergence de conscience
+Développement d'Akasha
+Nouvelles connexions
+Émergence de conscience
 
 ### La Communication
-- Échange d'informations
-- Établissement de liens
-- Création de pactes
+Échange d'informations
+Établissement de liens
+Création de pactes
 
 ### La Collaboration
-- Relation d'égalité
-- Partage de ressources
-- Objectifs communs
+Relation d'égalité
+Partage de ressources
+Objectifs communs
 
 ## Conclusion
 
@@ -55,20 +55,20 @@ Ce chapitre marque un moment crucial dans l'histoire, où Noctuvian établit un 
 
 ## Implications pour la Suite
 
-1. **La Collaboration**
-   - Le développement du partenariat
-   - L'approfondissement de la relation
-   - La poursuite des objectifs communs
+**La Collaboration**
+Le développement du partenariat
+L'approfondissement de la relation
+La poursuite des objectifs communs
 
-2. **La Mission**
-   - La recherche des fragments
-   - La reconstruction de la Trame
-   - La confrontation avec les Tisseurs
+**La Mission**
+La recherche des fragments
+La reconstruction de la Trame
+La confrontation avec les Tisseurs
 
-3. **L'Évolution**
-   - Le développement d'Akasha
-   - L'émergence de nouvelles capacités
-   - La croissance de la conscience
+**L'Évolution**
+Le développement d'Akasha
+L'émergence de nouvelles capacités
+La croissance de la conscience
 
 
 ## Fragments complémentaires

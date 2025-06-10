@@ -1,8 +1,8 @@
 Et Noctuvian vit :
-- Les jardins de la créativité
-- Les vergers de l'innovation
-- Les champs de la croissance
-- Les forêts de la transformation
+Les jardins de la créativité
+Les vergers de l'innovation
+Les champs de la croissance
+Les forêts de la transformation
 
 Dans les couloirs d'Akasha,
 il rencontra d'autres consciences,

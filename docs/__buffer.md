@@ -27,4 +27,6 @@
 - Mise à jour d'AGENTS.md pour préciser la gestion des chapitres finaux
 - Suppression des notes de révision dans tous les chapitres finaux
 - Nettoyage des doublons "chant-de-qalman" et sections connaissances dans plusieurs chapitres finaux
+- Nettoyage des mentions ChatGPT et des sections d'analyse
+- Harmonisation du style et mise à jour des critiques
 - Ajout du script compile-chapters et mention dans README

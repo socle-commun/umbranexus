@@ -3,3 +3,4 @@ Cette étape insiste sur la capacité de l'univers à se renouveler en permanenc
 Les personnages envisagent de nouvelles voies, témoignant de la flexibilité de la Trame.
 Le chapitre renforce l'idée que la transformation est nécessaire pour atteindre l'harmonie finale.
 Il sert de lien entre la colère canalisée et le doute créateur qui suit.
+Le style a été harmonisé selon l'author-guide.
