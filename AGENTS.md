@@ -60,6 +60,8 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 ## 🚫 Restrictions strictes
 
 - Limite la taille des fichiers à **100 lignes par fichier**.
+- Exception : `compiled_book.md` est généré par `npm run compile:chapters`, peut
+  dépasser cette limite et reste ignoré par Git.
 
 ---
 
