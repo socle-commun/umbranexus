@@ -28,3 +28,5 @@
 - Harmonisation du style et mise à jour des critiques
 - Réécriture des critiques pour analyser le style lyrique et suggérer des améliorations
 - Ajout d'une note dans AGENTS.md rappelant que docs/critiques analyse le style lyrique
+- Ajout du script compile-chapters et mention dans README
+- Ajout d'index pour explications et critiques
