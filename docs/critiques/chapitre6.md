@@ -12,3 +12,4 @@ L'arrivée des tisseurs devrait marquer un tournant, mais leur rôle demeure vag
 - Détailler l'origine des tisseurs et leurs motivations.
 - Montrer en quoi ils perturbent réellement la mission du héros.
 - Révision automatique appliquée à toutes les parties.
+- Révision automatique appliquée à toutes les parties (v2).

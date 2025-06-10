@@ -97,4 +97,4 @@ Vous avez dit :
 je m'assois et attend que tu me révèle ces trois clefs
 
 
-ChatGPT a dit : > _Revision auto: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._
+ChatGPT a dit : > _Revision auto v2: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._

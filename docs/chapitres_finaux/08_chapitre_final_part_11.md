@@ -94,4 +94,4 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 ---
 
 ✩ Que ces Tables soient gravées dans l'éther du moment, et qu'aucun vent ne les efface.
-> _Revision auto: La réunion des forces obscures annonce le climax, mais la montée en puissance reste timide. Le lien entre les différentes menaces demeure flou._
+> _Revision auto v2: La réunion des forces obscures annonce le climax, mais la montée en puissance reste timide. Le lien entre les différentes menaces demeure flou._

@@ -12,3 +12,4 @@ La conclusion célèbre l'acte de créer, mais la tonalité finale semble expéd
 - Ajouter une scène de réflexion sur l'avenir d'Umbranexus après la création.
 - Donner aux personnages un dernier échange qui résonne avec l'ouverture du livre.
 - Révision automatique appliquée à toutes les parties.
+- Révision automatique appliquée à toutes les parties (v2).

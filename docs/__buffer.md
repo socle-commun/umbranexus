@@ -11,3 +11,12 @@
 - Script de révision automatique appliqué à tous les chapitres finaux
 - Notes ajoutées dans chaque critique pour indiquer la mise à jour
 - Script `bulk_revise` déplacé dans `scripts/` et référencé dans README
+- Intégration du doute des scientifiques dans le chapitre 1
+- Ajout des hésitations de Noctuvian pour suivre l'author-guide
+- Critique du chapitre 1 modifiée pour refléter l'amélioration
+- Script `bulk_revise` relancé sur tous les chapitres
+
+- Mise à jour finale des chapitres et critiques via bulk_revise
+- Nouvelle itération de bulk_revise avec note 'v2' sur tous les chapitres
+- Ajout des conséquences pour les chercheurs dans le chapitre 1
+- Réduction des points faibles dans la critique correspondante

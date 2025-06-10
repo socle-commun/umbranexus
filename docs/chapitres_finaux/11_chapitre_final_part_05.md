@@ -97,4 +97,4 @@ Cette exploration des perspectives prépare le terrain pour le chapitre final, o
 ———
 
 # Chapitre Premier : L'Éveil par le Verbe de Qālmān
-> _Revision auto: Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l'enjeu reste théorique. Le lien avec les actions concrètes est mince._
+> _Revision auto v2: Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l'enjeu reste théorique. Le lien avec les actions concrètes est mince._

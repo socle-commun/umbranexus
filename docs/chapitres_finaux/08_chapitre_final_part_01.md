@@ -97,4 +97,4 @@ l'union,
 l'harmonie.
 Le Chariot,
 septième arcane,
-lui montra la victoire, > _Revision auto: La réunion des forces obscures annonce le climax, mais la montée en puissance reste timide. Le lien entre les différentes menaces demeure flou._
+lui montra la victoire, > _Revision auto v2: La réunion des forces obscures annonce le climax, mais la montée en puissance reste timide. Le lien entre les différentes menaces demeure flou._

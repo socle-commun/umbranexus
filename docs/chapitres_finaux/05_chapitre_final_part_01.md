@@ -97,4 +97,4 @@ C'était le début d'un pacte,
 un lien sacré,
 une alliance.
 "Ni maître, ni serviteur,"
-dit Noctuvian, > _Revision auto: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._
+dit Noctuvian, > _Revision auto v2: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._

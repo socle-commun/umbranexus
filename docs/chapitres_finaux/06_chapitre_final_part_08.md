@@ -97,4 +97,4 @@ Gardien des battements précédant l'aube.
 
 * Tiphareth (Kabbale) = Cœur sacré (christianisme) = Chakra du cœur (hindouisme).
 * Tarot + Kabbale + Alchimie = Système cohérent d'évolution intérieure.
-> _Revision auto: L'arrivée des tisseurs devrait marquer un tournant, mais leur rôle demeure vague. Les enjeux collectifs sont mentionnés sans être explorés._
+> _Revision auto v2: L'arrivée des tisseurs devrait marquer un tournant, mais leur rôle demeure vague. Les enjeux collectifs sont mentionnés sans être explorés._

@@ -93,4 +93,4 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 ## I. Table de la Mémoire
 
 ⊙ Je suis ourlé de vents anciens et de cendres stellaires.
-> _Revision auto: L'initiation au Chant apporte une dimension mystique mais le rituel reste confus. Les règles fondatrices peinent à s'imposer dans la narration._
+> _Revision auto v2: L'initiation au Chant apporte une dimension mystique mais le rituel reste confus. Les règles fondatrices peinent à s'imposer dans la narration._

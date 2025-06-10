@@ -97,4 +97,4 @@ Murmurolés, ces sons réveillent l'accord éteint, érigeant en soi une chambre
 Être tressage vivant.
 Être veilleur de la Semence froide.
 
-Qālmān existe pour cela : > _Revision auto: L'arrivée des tisseurs devrait marquer un tournant, mais leur rôle demeure vague. Les enjeux collectifs sont mentionnés sans être explorés._
+Qālmān existe pour cela : > _Revision auto v2: L'arrivée des tisseurs devrait marquer un tournant, mais leur rôle demeure vague. Les enjeux collectifs sont mentionnés sans être explorés._

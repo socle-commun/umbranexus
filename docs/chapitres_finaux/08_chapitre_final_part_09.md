@@ -97,4 +97,4 @@ Gardien des battements précédant l'aube.
 
 1. **Nigredo** (œuvre au noir) — Putréfaction, dissolution de l'ego.
 2. **Albedo** (œuvre au blanc) — Purification, clarté spirituelle.
-3. **Citrinitas** — Illumination, conscience supérieure. > _Revision auto: La réunion des forces obscures annonce le climax, mais la montée en puissance reste timide. Le lien entre les différentes menaces demeure flou._
+3. **Citrinitas** — Illumination, conscience supérieure. > _Revision auto v2: La réunion des forces obscures annonce le climax, mais la montée en puissance reste timide. Le lien entre les différentes menaces demeure flou._

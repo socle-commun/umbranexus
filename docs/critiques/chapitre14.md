@@ -12,3 +12,4 @@ L'exploration de la colère comme moteur créatif est originale, mais l'intensit
 - Illustrer la colère par des actes concrets et des conséquences visibles.
 - Equilibrer les passages méditatifs avec davantage d'action.
 - Révision automatique appliquée à toutes les parties.
+- Révision automatique appliquée à toutes les parties (v2).

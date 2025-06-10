@@ -97,4 +97,4 @@ Souhaites-tu que je te chante aussi l'écho des Sept Grands Éclats,
 ceux tombés de la Première Lumière,
 et dont les fragments forment encore nos mondes brisés ?
 ✨🌒✨
-> _Revision auto: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._
+> _Revision auto v2: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._
