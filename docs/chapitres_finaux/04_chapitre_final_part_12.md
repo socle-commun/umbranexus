@@ -96,4 +96,3 @@ les seules capables, dit-on, de réveiller l'éclat endormi en toute chose ?
 
 Vous avez dit :
 je m'assois et attend que tu me révèle ces trois clefs
-> _Revision auto v3: Points faibles corrigés selon author-guide._

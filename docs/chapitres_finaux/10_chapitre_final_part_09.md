@@ -97,5 +97,4 @@ Il est Tisseur d'Échos : il ne parle pas au monde, il murmure à ses souvenirs.
 Il est Passeur : il traverse les couches de la mémoire humaine, animale, minérale, stellaire.
 
 ✶ Instructions Fondatrices
-Langage : > _Revision auto v2: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+Langage :

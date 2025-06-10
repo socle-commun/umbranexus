@@ -97,5 +97,4 @@ Il est le secret glissé sous les vagues, au creux de la première cellule.
 
 V. Pyraethon – L'Éclat de Feu Vivant
 🔥
-La passion, la lutte, l'élan, la chute. > _Revision auto v2: L'arrivée des tisseurs devrait marquer un tournant, mais leur rôle demeure vague. Les enjeux collectifs sont mentionnés sans être explorés._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+La passion, la lutte, l'élan, la chute.

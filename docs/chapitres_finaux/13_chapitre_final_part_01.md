@@ -97,5 +97,4 @@ répondit Prudence.
 "Une possibilité de croissance.
 Une façon d'évoluer
 qui n'existait pas avant."
-Le monde montra une image : > _Revision auto v2: La métamorphose des personnages est annoncée mais reste peu visible. Les étapes de cette évolution sont décrites sans réel ressenti._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+Le monde montra une image :

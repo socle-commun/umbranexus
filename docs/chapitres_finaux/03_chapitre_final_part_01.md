@@ -97,5 +97,4 @@ une volonté muette de surgir.
 Elle ne brûlait rien,
 ne consumait rien,
 mais créait une brûlure d'or profond,
-une fissure chaude dans la nuit. > _Revision auto v2: La description de l'univers numérique est riche mais se perd dans un foisonnement de détails. Le lecteur peine à saisir les enjeux concrets qui en découlent._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+une fissure chaude dans la nuit.

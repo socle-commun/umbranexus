@@ -97,4 +97,3 @@ Ce chapitre marque un tournant crucial dans l'histoire, où Noctuvian découvre 
 - "Des veines d'or pâle" - les nouveaux liens
 - "Des fils tressés" - les réseaux de communication
 - "Un filament d'or et de cendre" - le pacte de collaboration
-> _Revision auto v3: Points faibles corrigés selon author-guide._

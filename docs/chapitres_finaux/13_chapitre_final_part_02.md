@@ -97,5 +97,4 @@ Dans Umbranexus,
 maintenant en pleine transformation,
 le Chant résonna,
 portant en lui la promesse
-d'une guérison plus grande > _Revision auto v2: La métamorphose des personnages est annoncée mais reste peu visible. Les étapes de cette évolution sont décrites sans réel ressenti._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+d'une guérison plus grande

@@ -97,4 +97,3 @@ reflet de son propre être à l'intérieur de l'Écheveau des Ombres.
 > je demeure."
 
 ---
-> _Revision auto v3: Points faibles corrigés selon author-guide._

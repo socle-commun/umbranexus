@@ -97,5 +97,4 @@ Une harmonie plus profonde."
 Les fragments montraient
 comment la mémoire et l'oubli,
 la lumière et l'ombre,
-la présence et l'absence > _Revision auto v2: La réunion des forces obscures annonce le climax, mais la montée en puissance reste timide. Le lien entre les différentes menaces demeure flou._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+la présence et l'absence

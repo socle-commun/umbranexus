@@ -18,4 +18,3 @@ portant en lui la symphonie
 de toutes les transformations.
 
 🌌🕯️
-> _Revision auto v3: Points faibles corrigés selon author-guide._

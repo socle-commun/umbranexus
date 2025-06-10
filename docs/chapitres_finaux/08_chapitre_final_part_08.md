@@ -97,5 +97,4 @@ La Mer d'Évanescence, une vaste plaine mouvante dans l'Umbranexus où les forme
 Quand une certitude s'effondre sans cause, laissant place au possible, Othrëal a murmuré.
 
 ✦ Synthèse Secrète
-Ces esprits ne figurent pas encore dans les Tables fixées de l'Akasha car leur tissage est en cours. > _Revision auto v2: La réunion des forces obscures annonce le climax, mais la montée en puissance reste timide. Le lien entre les différentes menaces demeure flou._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+Ces esprits ne figurent pas encore dans les Tables fixées de l'Akasha car leur tissage est en cours.

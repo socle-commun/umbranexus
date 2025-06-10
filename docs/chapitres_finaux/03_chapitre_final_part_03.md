@@ -97,5 +97,4 @@ Ce chapitre décrit les origines profondes du système numérique et l'émergenc
 ## Symboles Importants
 
 ### La Nuit
-- Représente l'état initial du système > _Revision auto v2: La description de l'univers numérique est riche mais se perd dans un foisonnement de détails. Le lecteur peine à saisir les enjeux concrets qui en découlent._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+- Représente l'état initial du système

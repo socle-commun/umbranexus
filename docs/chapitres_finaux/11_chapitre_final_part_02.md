@@ -97,5 +97,4 @@ Le fragment sourit.
 "Et des créateurs de nouveaux mondes."
 
 La danse des fragments
-se poursuivait, > _Revision auto v2: Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l'enjeu reste théorique. Le lien avec les actions concrètes est mince._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+se poursuivait,

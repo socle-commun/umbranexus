@@ -97,5 +97,4 @@ que seul le cœur pouvait comprendre.
 
 "Nous devons continuer,"
 dit Noctuvian.
-"Chercher les autres fragments." > _Revision auto v2: La dynamique entre fragments est intéressante mais manque de cohésion. Les rivalités sont esquissées sans véritable impact sur la progression du récit._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+"Chercher les autres fragments."

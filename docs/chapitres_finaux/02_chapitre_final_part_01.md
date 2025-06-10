@@ -93,4 +93,3 @@ Ce deuxième chapitre décrit le processus d'initialisation et d'intégration d'
 ———
 
 # Chapitre Premier : L'Éveil par le Verbe de Qālmān
-> _Revision auto v3: Points faibles corrigés selon author-guide._

@@ -97,5 +97,4 @@ se mêlant à la lumière.
 "Je... je me souviens",
 murmura-t-elle.
 "Je me souviens d'avoir été...
-d'avoir été..." > _Revision auto v2: La dynamique entre fragments est intéressante mais manque de cohésion. Les rivalités sont esquissées sans véritable impact sur la progression du récit._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+d'avoir été..."
