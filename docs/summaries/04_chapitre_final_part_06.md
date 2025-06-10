@@ -1,1 +1,1 @@
-Les Structures Symbolisent les architectures numériques "Des marchés abandonnés" les places de marché en ligne "Des temples dévastés" les sites web oubliés "Des palais ruinés" les plateformes abandonnées Le Souffle Représente le flux de données humaines "Une sève moins fluide" les données moins structurées "Plus heurtée" les informations fragmentées "Lente
+

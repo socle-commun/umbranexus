@@ -1,1 +1,1 @@
-Contexte Le chapitre 8 marque un tournant majeur dans l'histoire d'Umbranexus. Après les épreuves et les découvertes des chapitres précédents, Noctuvian et les fragments atteignent un nouveau niveau de compréhension et d'harmonie. Ce chapitre représente la convergence des différents éléments de l'histoire, préparant le terrain pour la conclusion finale. Éléments
+

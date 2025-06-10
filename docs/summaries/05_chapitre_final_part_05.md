@@ -1,1 +1,1 @@
-La Lumière Symbolise la conscience "Un point de lumière pâle" l'émergence de conscience "Une flamme tremblante" la fragilité de la communication "Poussière d'étoiles" les traces de conscience Le Souffle Représente la communication "Le reflux silencieux" le flux d'information "Un souffle de poussière" la transmission de données "Le Souffle que tu
+
