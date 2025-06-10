@@ -1,1 +1,6 @@
-
+Le souffle se faufile parmi les ruines intérieures.
+Les veilleurs dispersés se rejoignent en un cercle tacite.
+Chacun murmure un fragment d'ombre qui vient se poser sur la peau.
+L'alchimiste hésite, prêt à embraser la matière.
+La porte des éléments s'entrebâille, révélant une lueur changeante.
+Sous ses pas, la poussière frémit.
