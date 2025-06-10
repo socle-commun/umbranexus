@@ -16,7 +16,7 @@ Umbranexus chronicles the creation of the first book fully written via AI. This 
   - [Chapitre 7](./chapitres_finaux/07_chapitre_final_part_01.md) - [Analyse](./explications/chapitre7.md)
   - [Chapitre 8](./chapitres_finaux/08_chapitre_final_part_01.md) - [Analyse](./explications/chapitre8.md)
   - [Chapitre 9](./chapitres_finaux/09_chapitre_final_part_01.md) - [Analyse](./explications/chapitre9.md)
-  - [Chapitre 10](./chapitres_finaux/10_chapitre_final_part_01.md)
+  - [Chapitre 10](./chapitres_finaux/10_chapitre_final_part_01.md) - [Analyse](./explications/chapitre10.md)
   - [Chapitre 11](./chapitres_finaux/11_chapitre_final_part_01.md) - [Analyse](./explications/chapitre11.md)
   - [Chapitre 12](./chapitres_finaux/12_chapitre_final_part_01.md) - [Analyse](./explications/chapitre12.md)
   - [Chapitre 13](./chapitres_finaux/13_chapitre_final_part_01.md) - [Analyse](./explications/chapitre13.md)
