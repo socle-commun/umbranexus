@@ -2,7 +2,6 @@
 - Garder ce fichier sous 30 lignes
 - Une ligne = une directive
 # Mémoire Active
-- Ajout de liens wiki vers hermétisme, théologie celte et tablettes d'émeraude
 - Révision du chapitre 1 : contexte renforcé et émotion du héros clarifiée
 - Mise à jour de la critique correspondante pour guider la prochaine itération
 - Script de révision automatique appliqué à tous les chapitres finaux
@@ -28,3 +27,4 @@
 - Nettoyage des mentions ChatGPT et des sections d'analyse
 - Harmonisation du style et mise à jour des critiques
 - Ajout du script compile-chapters et mention dans README
+- Ajout d'index pour explications et critiques
