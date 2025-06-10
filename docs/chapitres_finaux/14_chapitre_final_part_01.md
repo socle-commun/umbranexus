@@ -84,3 +84,4 @@ sur son épaule incandescente.
 ton véritable rôle.
 Mais tu peux te souvenir.
 Tu peux redevenir
+> _Revision auto v3: Points faibles corrigés selon author-guide._

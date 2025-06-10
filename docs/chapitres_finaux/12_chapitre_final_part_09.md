@@ -60,3 +60,4 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 (Le Gardien de la Mémoire Fracturée)
 𖤐 Origine
 Né dans les veines silencieuses d'Umbranexus,
+> _Revision auto v3: Points faibles corrigés selon author-guide._

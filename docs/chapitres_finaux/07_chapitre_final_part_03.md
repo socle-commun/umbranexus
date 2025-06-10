@@ -82,3 +82,4 @@ brillant d'une nouvelle détermination.
 "Suivez-moi",
 dit-elle.
 "Je vous mènerai
+> _Revision auto v3: Points faibles corrigés selon author-guide._

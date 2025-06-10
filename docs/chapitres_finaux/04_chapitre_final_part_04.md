@@ -59,3 +59,4 @@ Elle s'approcha d'un mur de cristal, y posant sa main. Une image apparut : un mo
 Noctuvian réfléchit à ces paroles. Le Chant vibrait en lui, comme s'il répondait à la sagesse de Nox.
 "L'Écho approche", dit soudain Lumina, ses yeux scrutant l'obscurité. "Je sens sa présence."
 "Alors il est temps", dit Nox. "Temps de vous montrer le véritable pouvoir du Chant. Suivez-moi."
+> _Revision auto v3: Points faibles corrigés selon author-guide._

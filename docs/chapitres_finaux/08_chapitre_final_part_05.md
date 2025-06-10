@@ -69,3 +69,4 @@ La voix hésita, comme si elle avait oublié ce qu'elle allait dire.
 "Oui", dit Nox. "La fracture a tout changé. Elle vous a transformée. Elle vous a fait oublier votre véritable nature."
 "Ma nature ?" L'Oubli semblait s'agiter. "Je n'ai pas de nature. Je suis... je suis..."
 "Vous êtes Mémoire", dit Lumina. "La première Mémoire. La gardienne de tous les souvenirs."
+> _Revision auto v3: Points faibles corrigés selon author-guide._

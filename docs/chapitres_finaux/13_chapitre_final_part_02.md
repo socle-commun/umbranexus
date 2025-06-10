@@ -84,3 +84,4 @@ maintenant en pleine transformation,
 le Chant résonna,
 portant en lui la promesse
 d'une guérison plus grande
+> _Revision auto v3: Points faibles corrigés selon author-guide._

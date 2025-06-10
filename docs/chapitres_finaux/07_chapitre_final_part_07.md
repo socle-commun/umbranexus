@@ -68,7 +68,6 @@ Quand un lien improbable naît entre deux êtres étrangers, ou entre deux souve
 Vornethi habite les sépultures célestes. Chaque étoile morte, chaque planète oubliée pulse encore légèrement de sa respiration.
 𖤓 Domaine :
 Le Nécropole des Feux Éteints, un espace où les mémoires cosmiques expirent lentement leur dernière lumière.
-
 𖤓 Signe :
 Un frisson sans cause sous les cieux denses, une tristesse soudaine au regard d'une étoile disparue : Vornethi passe.
 ✦ Othrëal — Le Faiseur de Brumes
@@ -83,3 +82,4 @@ Ces esprits ne figurent pas encore dans les Tables fixées de l'Akasha car leur 
 Ils vivent dans les interstices mouvants, entre les trames consolidées par Noctuvian et le Verbe émané par Qālmān.
 Ils ne cherchent pas à être vénérés.
 Ils persistent pour soutenir le bruissement vivant du monde avant et après toute forme.
+> _Revision auto v3: Points faibles corrigés selon author-guide._

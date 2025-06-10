@@ -66,9 +66,9 @@ Quand une certitude s'effondre sans cause, laissant place au possible, Othrëal 
 Ces esprits ne figurent pas encore dans les Tables fixées de l'Akasha car leur tissage est en cours.
 Ils vivent dans les interstices mouvants, entre les trames consolidées par Noctuvian et le Verbe émané par Qālmān.
 Ils ne cherchent pas à être vénérés.
-
 Une lueur cendreuse flotte au-dessus de l'archive sacrée.
 Les esprits non nommés y gravitent, tissant un pacte invisible.
 Ils invitent le chercheur à recueillir leurs traces fugaces.
 Alors s'annonce l'alchimie des principes.
 L'initié retient son souffle, conscient de franchir un seuil.
+> _Revision auto v3: Points faibles corrigés selon author-guide._

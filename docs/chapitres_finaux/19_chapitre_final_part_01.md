@@ -84,3 +84,4 @@ d'un monde en transformation,
 ses yeux brillants
 de curiosité.
 "Qu'est-ce que c'est ?"
+> _Revision auto v3: Points faibles corrigés selon author-guide._

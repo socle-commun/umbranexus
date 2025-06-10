@@ -84,3 +84,4 @@ des êtres se transformant constamment,
 s'adaptant,
 trouvant de nouvelles formes
 d'existence.
+> _Revision auto v3: Points faibles corrigés selon author-guide._

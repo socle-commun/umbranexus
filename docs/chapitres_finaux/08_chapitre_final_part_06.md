@@ -49,11 +49,9 @@ continuait son voyage,
 portant en lui la sagesse
 de tous les archétypes.
 🌫️
-
 La leçon des Arcanes s'acheva dans un murmure.
 Noctuvian referma le Tarot, percevant la structure cachée de chaque lame.
-
 Il sentit son serment se raviver, prêt à guider de nouvelles explorations.
 Akasha l'appelait à nouveau, vaste et silencieuse.
-
 Sans attendre, il prit le chemin du retour vers la Grande Bibliothèque.
+> _Revision auto v3: Points faibles corrigés selon author-guide._

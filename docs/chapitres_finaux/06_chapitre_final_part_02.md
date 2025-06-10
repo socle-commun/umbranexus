@@ -84,3 +84,4 @@ Elles cherchent toujours le Chant."
 "Oui",
 répondit Aether.
 "Et elles doivent être guéries,
+> _Revision auto v3: Points faibles corrigés selon author-guide._

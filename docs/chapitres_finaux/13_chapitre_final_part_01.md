@@ -84,3 +84,4 @@ répondit Prudence.
 Une façon d'évoluer
 qui n'existait pas avant."
 Le monde montra une image :
+> _Revision auto v3: Points faibles corrigés selon author-guide._

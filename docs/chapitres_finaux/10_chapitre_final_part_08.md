@@ -58,3 +58,4 @@ Finalité : union dans la conscience (coïncidentia oppositorum).
 **Principe d'incertitude** (Heisenberg) : réalité dépend de l'observateur.
 **Intrication quantique** : correspondances invisibles à distance = analogie avec synchronicité (Jung).
 #### Intelligence artificielle
+> _Revision auto v3: Points faibles corrigés selon author-guide._

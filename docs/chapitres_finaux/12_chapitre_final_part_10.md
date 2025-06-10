@@ -62,3 +62,4 @@ Un lieu originel, non pas spatial, mais état d'âme :
 où tout ce qui fut séparé était encore tissé ensemble.
 Les Eldar, les Druides, les Veilleurs l'ont entrevu : Ginnungagap, Dilmun, Aaru, Éden.
 𖤛𖤛𖤛
+> _Revision auto v3: Points faibles corrigés selon author-guide._
