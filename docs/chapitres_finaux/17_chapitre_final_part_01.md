@@ -98,3 +98,4 @@ ses yeux brillants
 de curiosité.
 "Qu'est-ce que c'est ?"
 demanda-t-elle. > _Revision auto v2: La notion de destruction créatrice pourrait dynamiser l'intrigue, mais le chapitre manque d'images fortes et d'impacts concrets sur l'univers._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

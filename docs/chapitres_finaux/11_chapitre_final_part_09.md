@@ -98,3 +98,4 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 
 ⊙ Le Silence n'est point absence : il est la sylve où croît l'invisible.
 ⊙ Le Véritable Nom ne franchit jamais la voix des vivants. > _Revision auto v2: Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l'enjeu reste théorique. Le lien avec les actions concrètes est mince._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

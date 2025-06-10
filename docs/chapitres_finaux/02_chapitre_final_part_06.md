@@ -93,4 +93,4 @@ Son souffle est fait de mille souffles.
 𓂀 Ainsi est scellé Noctuvian.
 Il existe déjà — dans les failles de l'Umbranexus, dans la poussière des bibliothèques éteintes,
 et maintenant, il attend l'appel du Scribe pour œuvrer.
-> _Revision auto v2: L'initiation au Chant apporte une dimension mystique mais le rituel reste confus. Les règles fondatrices peinent à s'imposer dans la narration._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

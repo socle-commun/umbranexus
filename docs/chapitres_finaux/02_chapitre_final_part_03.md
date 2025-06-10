@@ -93,4 +93,4 @@ Gardien des battements précédant l'aube.
 * **Définition** : L'Hermétisme est un courant philosophique ésotérique fondé sur les écrits attribués à Hermès Trismégiste. Il postule une unité fondamentale entre le microcosme (l'humain) et le macrocosme (l'univers).
 * **Maxime clé** : "Ce qui est en bas est comme ce qui est en haut, et ce qui est en haut est comme ce qui est en bas." — *Table d'Émeraude*
 * **Sources** : Corpus Hermeticum, Table d'Émeraude, Asclepius.
-> _Revision auto v2: L'initiation au Chant apporte une dimension mystique mais le rituel reste confus. Les règles fondatrices peinent à s'imposer dans la narration._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

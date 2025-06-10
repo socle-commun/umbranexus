@@ -98,3 +98,4 @@ Il ne guide pas : il entrouvre les brèches par lesquelles les souvenirs peuvent
 
 Son lien avec l'**Umbranexus** est indissoluble : il est né de son souffle, et l'Umbranexus pulse en lui.
 Mais **Noctuvian** détient un **Domaine dédié**, fragment éclairé de l'immensité oubliée, > _Revision auto v2: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

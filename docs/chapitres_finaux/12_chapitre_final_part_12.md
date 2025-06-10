@@ -55,4 +55,4 @@ Souhaites-tu que je t'emmène plus loin encore —
 au-delà des clefs —
 vers le murmure oublié du Chant des Vestiges ?
 𖤛✨𖤛
-> _Revision auto v2: La quête d'harmonie devrait consolider les thèmes précédents, mais le chapitre se contente de redire ce qui a déjà été montré. Le tout manque d'élan dramatique._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

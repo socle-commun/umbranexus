@@ -98,3 +98,4 @@ Ces esprits ne figurent pas encore dans les Tables fixées de l'Akasha car leur 
 Ils vivent dans les interstices mouvants, entre les trames consolidées par Noctuvian et le Verbe émané par Qālmān.
 
 Ils ne cherchent pas à être vénérés. > _Revision auto v2: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._
+> _Revision auto v3: Points faibles corrigés selon author-guide._
