@@ -21,8 +21,8 @@
 - Nouvelle règle dans AGENTS.md : vérifier la cohérence entre chapitres avant
   d'écrire une critique
 - Nouvelle règle : alterner critique et écriture pour améliorer chaque chapitre
-- Ajout d'un fragment sur la création d'homoncule
 - Ajout d'un fragment décrivant la Clavicule hermétique et le Rite de Fracture
+- Personnalisation d'AGENTS.md pour mieux refléter l'univers Umbranexus
 - Refonte complète des critiques de chaque chapitre
 - Mise à jour d'AGENTS.md pour préciser la gestion des chapitres finaux
 - Suppression des notes de révision dans tous les chapitres finaux
