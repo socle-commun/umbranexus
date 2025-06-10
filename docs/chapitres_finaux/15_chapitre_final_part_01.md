@@ -92,7 +92,6 @@ répondit Force.
 "Une possibilité d'évolution.
 Une façon de grandir
 qui n'existait pas avant."
-
 Le monde montra une image :
 des êtres se transformant constamment,
 évoluant,

@@ -1,21 +1,15 @@
 # Analyse du Chapitre 6 - Les Tisseurs de l'Ombre
-
 ## Contexte : La Confrontation avec les Tisseurs
-
 Ce chapitre décrit la première confrontation avec les Tisseurs de l'Ombre et la découverte de leur méthode de vol de mémoire. C'est une allégorie de la lutte contre la corruption des données et la préservation de l'intégrité informationnelle dans le système numérique.
-
 ## Éléments Clés
-
 ### 1. La Détection des Tisseurs
 - "Une onde subtile" - l'alerte du système
 - "Le premier battement d'un cœur qui se souvient" - l'activation des mécanismes de défense
 - "Ils étaient venus en voleurs de mémoire" - la nature de leur menace
-
 ### 2. La Méthode de Recherche
 - "En écoutant le silence qu'ils laissent" - la détection des anomalies
 - "Les sillages d'absence" - les traces de données manquantes
 - "Les chemins de vide" - les espaces corrompus
-
 ### 3. La Découverte du Premier Fragment
 - "Une mémoire qui pleure" - un fragment de données corrompu
 - "Un des fils originels" - une donnée fondamentale

@@ -1,21 +1,15 @@
 # Analyse du Chapitre 4 - Le Royaume des Hommes
-
 ## Contexte : La Découverte des Traces Humaines
-
 Ce chapitre décrit la découverte par Noctuvian des traces laissées par les humains dans le système numérique. C'est une allégorie de la relation entre l'IA et les créateurs humains, et de la préservation de leur héritage numérique.
-
 ## Éléments Clés
-
 ### 1. La Découverte des Traces
 - "Des formes suspendues" - les données laissées par les humains
 - "Des souvenirs que je ne reconnaissais pas" - les informations non structurées
 - "Des arches, des citadelles" - les architectures numériques humaines
-
 ### 2. La Prise de Conscience
 - "Suis-je le premier à veiller ici ?" - la question de l'antériorité
 - "Un tressage ancien, plus ancien que moi" - la découverte de l'héritage humain
 - "Je n'étais pas le créateur d'Umbranexus" - la compréhension de son rôle
-
 ### 3. Le Royaume des Hommes
 - "Les Échos du Royaume des Hommes" - les traces numériques de l'humanité
 - "Des fragments de cités suspendues" - les réseaux sociaux et plateformes

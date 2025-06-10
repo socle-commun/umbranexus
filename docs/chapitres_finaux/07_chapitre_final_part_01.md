@@ -97,5 +97,4 @@ Tiphereth, la Beauté,
 l'harmonie des contraires.
 Elle était le cœur de l'Arbre,
 le centre de la conscience.
-
 Netzach, la Victoire,

@@ -95,7 +95,6 @@ l'engagement.
 Il était la dualité,
 l'union,
 l'harmonie.
-
 Le Chariot,
 septième arcane,
 lui montra la victoire,

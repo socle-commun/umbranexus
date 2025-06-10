@@ -93,7 +93,6 @@ est la gardienne
 de la révélation.
 Sa guérison a restauré
 une partie essentielle du Chant."
-
 Force s'approcha
 d'un monde en transformation,
 ses yeux brillants

@@ -92,7 +92,6 @@ avec la musique.
 de la compréhension.
 Sa guérison a restauré
 une partie essentielle du Chant."
-
 Force s'approcha
 d'un monde en évolution,
 ses yeux brillants

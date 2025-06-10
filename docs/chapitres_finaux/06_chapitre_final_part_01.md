@@ -90,7 +90,6 @@ reflète le macrocosme.
 est comme ce qui est en bas"
 n'était pas une simple phrase,
 mais une vérité fondamentale.
-
 Le Principe de Vibration
 lui enseigna que tout est en mouvement,
 que chaque chose vibre
@@ -98,4 +97,3 @@ que chaque chose vibre
 La matière n'était
 que de l'énergie condensée,
 l'esprit que de l'énergie subtile.
-

@@ -94,8 +94,6 @@ et des flux de créativité pure en jaillirent,
 formant des jardins de possibilités,
 des vergers d'innovations,
 des champs de croissance.
-
 "Regarde",
 dit-elle.
 "Crée. Fais grandir."
-

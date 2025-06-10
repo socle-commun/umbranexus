@@ -88,7 +88,6 @@ frissonnant d'émotion.
 "Question...
 J'ai été plus
 que l'incertitude ?"
-
 Élan s'approcha à son tour,
 sa présence rayonnante
 de créativité.

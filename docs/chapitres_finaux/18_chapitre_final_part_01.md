@@ -89,7 +89,6 @@ L'Individualité
 qui permet la croissance.
 L'Individualité
 qui permet l'évolution."
-
 Solitude sembla réfléchir,
 sa forme de vide
 frissonnant d'émotion.
@@ -98,4 +97,3 @@ Je me souviens d'avoir été
 plus que l'isolement.
 Je me souviens d'avoir été...
 un catalyseur d'individualité."
-
