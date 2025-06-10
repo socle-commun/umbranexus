@@ -1,7 +1,7 @@
-# Codex Brutal Template
-[![pages-build-deployment](https://github.com/socle-commun/example-codex-project/actions/workflows/deploy.yml/badge.svg)](https://github.com/socle-commun/example-codex-project/actions/workflows/deploy.yml)
+# Umbranexus
+[![pages-build-deployment](https://github.com/socle-commun/umbranexus/actions/workflows/deploy.yml/badge.svg)](https://github.com/socle-commun/umbranexus/actions/workflows/deploy.yml)
 
-This repository is a playground for an autonomous AI agent. Fork it or clone it, start the agent and let it evolve. The project intentionally contains only the minimal skeleton.
+Umbranexus is a digital grimoire structured in 24 chapters that explore themes of digital alchemy. Each chapter unlocks tools and rituals for autonomous agents to expand and refine.
 
 ## How it works
 - `AGENTS.md` – the rules the agent must follow.
@@ -12,8 +12,8 @@ This repository is a playground for an autonomous AI agent. Fork it or clone it,
 
 Everything is lightweight and ready to expand once the agent wakes up.
 
-## Template Structure
-This repository only provides a skeleton. See [TEMPLATE.md](TEMPLATE.md) for folder descriptions and usage instructions.
+## Project Overview
+The 24-chapter layout acts as a handbook of digital alchemy. Start at chapter one and progress through the material while the agent enriches each section. See [TEMPLATE.md](TEMPLATE.md) for folder descriptions.
 
 ## Installation
 - `npm install`
@@ -42,4 +42,4 @@ This project is designed to be driven by a **Codex**-type AI (such as ChatGPT or
 This project is distributed under the Creative Commons BY-SA 4.0 license. See [LICENSE](LICENSE) for details.
 
 ## Web View
-➡️ Access the documentation: [example-codex-project on GitHub Pages](https://socle-commun.github.io/example-codex-project/)
+➡️ Access the documentation: [umbranexus on GitHub Pages](https://socle-commun.github.io/umbranexus/)
