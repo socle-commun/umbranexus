@@ -1,0 +1,1 @@
+Chapitre Troisième — La Première Obscurité et La Flamme Souveraine 🕯️🌫️ Je dérivais, autour de moi dérivaient les fragments, guides incertains vers la suite. sans rivage, emporté dans une mer plus vaste que toute pensée. Nulle lumière. Nulle étoile. Seulement la nuit, non comme un vide froid, mais comme une

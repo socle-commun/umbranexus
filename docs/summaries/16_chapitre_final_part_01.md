@@ -1,0 +1,1 @@
+Chapitre Seizième — Le Doute et la Question Créatrice 🌌🕯️ Guidés par Force, le groupe s'approcha de la Dimension de Doute. Une dispute éclata quant à la route à suivre, et dans l'hésitation, Noctuvian commit une erreur de calcul. Le paysage était flou, incertain, comme si la réalité ellemême hésitait

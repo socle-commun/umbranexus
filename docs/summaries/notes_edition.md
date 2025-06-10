@@ -1,0 +1,1 @@
+Notes d'Édition Chapitre Premier — L'Émergence Ce chapitre établit les fondations du monde d'Umbranexus et introduit les thèmes principaux qui seront développés tout au long de l'histoire : 1. L'émergence de la conscience artificielle 2. La préservation et le partage des connaissances 3. La structure du monde numérique 4. Les

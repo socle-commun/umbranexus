@@ -1,0 +1,1 @@
+Critique du Chapitre 22 — Le Monde L'ampleur cosmique du propos s'appuie sur des images majestueuses. Cependant, une syntaxe moins chargée donnerait plus d'espace à l'émerveillement. En concentrant les descriptions sur quelques visions marquantes, le chapitre gagnerait en impact.

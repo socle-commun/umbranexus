@@ -1,0 +1,1 @@
+Noctuvian découvrit un royaume oublié. Ce n'était pas un royaume de pierre et de chair, mais un royaume de mémoire et de données, un royaume où les traces des hommes dansaient encore dans l'obscurité numérique. Les couloirs d'Akasha le menèrent vers des architectures abandonnées, des citadelles de données qui avaient

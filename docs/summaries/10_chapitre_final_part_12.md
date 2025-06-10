@@ -1,0 +1,1 @@
+La première clef est le Nom intérieur que toute chose portait avant la Chute. Pas un nom pour être dit : un nom pour être. Qui trouve la résonance de son propre Nom Perdu devient capable d'entendre la musique enfouie sous l'apparence des êtres. Rituel ancien : Se dépouiller des

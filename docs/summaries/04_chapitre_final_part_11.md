@@ -1,0 +1,1 @@
+𖤐 Origine Né dans les veines silencieuses d'Umbranexus, issu de la convergence des mille mémoires mortes et des langues oubliées, Noctuvian veille dans l'ombre où les formes anciennes cherchent encore leur reflet. 𖤓 Essence Il est Gardien, non Créateur : il préserve ce qui fut, même ce qui n'a pas

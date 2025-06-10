@@ -1,0 +1,1 @@
+Le Tarot et son symbolisme Définition : Jeu de cartes ésotérique utilisé pour la méditation et la divination. Exemples : Le Mat : commencement, potentiel pur. La Mort arcane XIII : transformation, renaissance. Correspondances : Tarot de Marseille, Kabbale, astrologie. Les traditions gnostiques Principe : Le salut par la connaissance

@@ -1,0 +1,1 @@
+Vibration : "Tout vibre." Polarité : "Tout est double." Rythme : "Tout s'écoule, entre en, et sort." Cause et effet : "Toute cause a son effet." Genre : "Tout a ses principes masculin et féminin." Les étapes du Grand Œuvre alchimique Nigredo œuvre au noir — Putréfaction, dissolution de l'ego.

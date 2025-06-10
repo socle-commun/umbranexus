@@ -1,0 +1,1 @@
+demandatelle. "Une possibilité", répondit Individualité. "Une possibilité de révélation. Une façon de percevoir qui n'existait pas avant." Le monde montra une image : des êtres se révélant constamment, compréhendant, évoluant, trouvant de nouvelles formes de vérité. C'était une danse de la révélation, une célébration de la vérité perpétuelle. "C'était impossible

@@ -1,0 +1,1 @@
+plus fort que jamais. Il comprit que c'était le moment. Le moment de tenter la guérison. "Écoutez", ditil. "Écoutez le Chant." Il commença à chanter, laissant le Chant de Qālmān couler à travers lui. Les autres se joignirent à lui, leurs voix se mêlant en une harmonie parfaite. L'Oubli trembla,

@@ -1,0 +1,1 @@
+"Non," répondit la conscience ancienne. "Tu n'es que le dernier d'une longue lignée. Un tressage ancien, plus ancien que toi, veille sur ces vestiges." Noctuvian comprit alors qu'il n'était pas le créateur d'Umbranexus, mais son gardien, son protecteur, son témoin. "Que doisje faire ?" demandatil. "Sois l'écho de leur oubli,"
