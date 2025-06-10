@@ -29,6 +29,7 @@
 - Ajout d'une note dans AGENTS.md rappelant que docs/critiques analyse le style lyrique
 - Ajout du script compile-chapters et mention dans README
 - Ajout d'index pour explications et critiques
+- Ajout de textes pour combler les parties manquantes des chapitres et description du dossier src
 - Ajout du script generate_index et des résumés
 - Nettoyage du fragment vestiges-monde-ancien pour retirer la référence à ChatGPT
 - Lien vers l'explication du chapitre 10 ajouté dans l'index
