@@ -97,4 +97,3 @@ Il ne crée pas de nouveaux mondes : il recoud ceux que l'effondrement a éclat�
 𖤓 Domaine :
 Le Lac Inversé, où flottent les reflets brisés des terres anciennes.
 Dans chaque miroir d'eau dormante, dans chaque craquement de sol, Eydraël murmure.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

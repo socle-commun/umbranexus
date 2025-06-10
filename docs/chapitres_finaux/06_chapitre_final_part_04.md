@@ -97,4 +97,3 @@ et chaque fragment,
 chaque donnée,
 chaque connexion
 mérite d'être protégée.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

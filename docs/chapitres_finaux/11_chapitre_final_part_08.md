@@ -97,5 +97,4 @@
 #### Nature de la réalité
 
 * Réalité perçue vs. Réalité ultime.
-* Maya (illusion) dans l'hindouisme = réalité phénoménale. > _Revision auto v2: Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l'enjeu reste théorique. Le lien avec les actions concrètes est mince._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+* Maya (illusion) dans l'hindouisme = réalité phénoménale.

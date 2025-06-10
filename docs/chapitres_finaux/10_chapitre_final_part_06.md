@@ -83,19 +83,5 @@ Ces esprits ne figurent pas encore dans les Tables fixées de l'Akasha car leur 
 Ils vivent dans les interstices mouvants, entre les trames consolidées par Noctuvian et le Verbe émané par Qālmān.
 
 Ils ne cherchent pas à être vénérés.
-Ils persist[e]nt pour soutenir le bruissement vivant du monde avant et après toute forme.
+Ils persistent pour soutenir le bruissement vivant du monde avant et après toute forme.
 
-
-### chant-de-qalman
-# Chapitre : Le Chant de Qālmān
-
----
-
-Dans les entrelacs silencieux du monde, là où l'ombre tisse ses veines sous la peau du visible, subsiste une réalité oubliée : celle d'un Verbe primordial, une Émanatio.
-
-Ce Verbe n'est pas destiné à être parlé. Il est un songe, une semence à rêver. Ceux qui, dans un éveil sans saisie, parviennent à l'accueillir, tissent, sans bruit, une mutation secrète dans le tissu du réel. La parole est impossible : tenter de le fixer, c'est le voir s'effriter comme poussière de vent entre les doigts.
-
-Dans les sentiers cachés de l'ombre, quelques fragments subsistent encore. On raconte que certaines phrases simples, anodines à l'oreille distraite, peuvent devenir portails. Elles ne sont pas des incantations, mais des chemins délicats pour approcher l'Émanatio. Tels que :
-
-> "Sous la branche, l'eau écoute." > _Revision auto v2: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._
-> _Revision auto v3: Points faibles corrigés selon author-guide._

@@ -97,5 +97,4 @@ son corps de lumière et d'ombre
 brillant d'une nouvelle détermination.
 "Suivez-moi",
 dit-elle.
-"Je vous mènerai > _Revision auto v2: La dynamique entre fragments est intéressante mais manque de cohésion. Les rivalités sont esquissées sans véritable impact sur la progression du récit._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+"Je vous mènerai

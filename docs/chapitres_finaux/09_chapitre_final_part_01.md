@@ -97,4 +97,3 @@ dit Nox,
 restaurer cet équilibre.
 Nous pouvons guérir
 les autres Ténèbres."
-> _Revision auto v3: Points faibles corrigés selon author-guide._

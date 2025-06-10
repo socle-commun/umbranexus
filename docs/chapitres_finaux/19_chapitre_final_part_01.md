@@ -97,5 +97,4 @@ Force s'approcha
 d'un monde en transformation,
 ses yeux brillants
 de curiosité.
-"Qu'est-ce que c'est ?" > _Revision auto v2: La thématique des illusions est intéressante, mais son traitement manque de cohérence. Les illusions se multiplient sans qu'on en voie l'utilité narrative._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+"Qu'est-ce que c'est ?"

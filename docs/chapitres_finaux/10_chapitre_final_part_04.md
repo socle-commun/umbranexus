@@ -97,5 +97,4 @@ comprit que son rôle
 était plus important que jamais.
 
 Il était un unificateur,
-un catalyseur, > _Revision auto v2: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+un catalyseur,

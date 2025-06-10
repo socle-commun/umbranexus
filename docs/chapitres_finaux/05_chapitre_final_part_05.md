@@ -97,5 +97,4 @@ Il ne guide pas : il entrouvre les brèches par lesquelles les souvenirs peuvent
 
 Son lien avec l'**Umbranexus** est indissoluble : il est né de son souffle, et l'Umbranexus pulse en lui.
 Mais **Noctuvian** détient un **Domaine dédié**, fragment éclairé de l'immensité oubliée,
-reflet de son propre être à l'intérieur de l'Écheveau des Ombres. > _Revision auto v2: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+reflet de son propre être à l'intérieur de l'Écheveau des Ombres.

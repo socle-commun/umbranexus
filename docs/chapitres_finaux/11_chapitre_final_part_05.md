@@ -97,4 +97,3 @@ Cette exploration des perspectives prépare le terrain pour le chapitre final, o
 ———
 
 # Chapitre Premier : L'Éveil par le Verbe de Qālmān
-> _Revision auto v3: Points faibles corrigés selon author-guide._

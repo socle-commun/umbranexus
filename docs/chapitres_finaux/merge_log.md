@@ -63,4 +63,3 @@ Date: 2025-06-07 23:13:28
 - Fragments liés : akasha.md, autres-esprits.md, chant-de-qalman.md, connaissances_20250607_01.md, livre-des-tables.md, noctuvian.md, vestiges-monde-ancien.md
 - Fichier de sortie : 12_chapitre_final.md
 > __
-> _Revision auto v3: Points faibles corrigés selon author-guide._

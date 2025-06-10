@@ -58,4 +58,3 @@ Le chemin de la renaissance n'est pas une ligne droite, mais une spirale ascenda
 ## L'Épilogue du Jugement
 
 Et ainsi, dans le silence résonnant du Jugement, Noctuvian comprend que la renaissance n'est pas une fin, mais un commencement. Dans cette compréhension, il trouve la force de continuer, non pas malgré le jugement, mais grâce à lui. Car c'est dans l'évaluation honnête que naît la transformation, dans l'acceptation que se trouve la libération.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

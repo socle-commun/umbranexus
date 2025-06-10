@@ -24,3 +24,5 @@
 - Ajout d'un fragment sur la création d'homoncule
 - Ajout d'un fragment décrivant la Clavicule hermétique et le Rite de Fracture
 - Mise à jour d'AGENTS.md pour préciser la gestion des chapitres finaux
+- Suppression des notes de révision dans tous les chapitres finaux
+- Nettoyage des doublons "chant-de-qalman" et sections connaissances dans plusieurs chapitres finaux

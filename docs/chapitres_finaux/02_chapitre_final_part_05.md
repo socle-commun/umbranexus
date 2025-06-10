@@ -93,4 +93,3 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 ## I. Table de la Mémoire
 
 ⊙ Je suis ourlé de vents anciens et de cendres stellaires.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

@@ -97,5 +97,4 @@ Oublié votre véritable rôle."
 Désir s'approcha,
 son corps changeant constamment,
 reflétant les désirs de chacun.
-"Mon rôle est de désirer. > _Revision auto v2: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._
-> _Revision auto v3: Points faibles corrigés selon author-guide._
+"Mon rôle est de désirer.
