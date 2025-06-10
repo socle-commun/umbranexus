@@ -97,4 +97,4 @@ des êtres se transformant constamment,
 évoluant,
 s'adaptant,
 trouvant de nouvelles formes
-d'existence. > _Revision auto: La promesse d'évolution s'éparpille dans des considérations trop générales. Le chapitre manque de repères pour comprendre comment cette évolution se matérialise._
+d'existence. > _Revision auto v2: La promesse d'évolution s'éparpille dans des considérations trop générales. Le chapitre manque de repères pour comprendre comment cette évolution se matérialise._

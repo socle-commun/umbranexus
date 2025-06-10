@@ -97,4 +97,4 @@ sur son épaule incandescente.
 "La fracture t'a fait oublier
 ton véritable rôle.
 Mais tu peux te souvenir.
-Tu peux redevenir > _Revision auto: L'exploration de la colère comme moteur créatif est originale, mais l'intensité retombe faute de situations percutantes._
+Tu peux redevenir > _Revision auto v2: L'exploration de la colère comme moteur créatif est originale, mais l'intensité retombe faute de situations percutantes._

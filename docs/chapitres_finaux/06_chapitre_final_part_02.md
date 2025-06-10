@@ -97,4 +97,4 @@ Elles cherchent toujours le Chant."
 
 "Oui",
 répondit Aether.
-"Et elles doivent être guéries, > _Revision auto: L'arrivée des tisseurs devrait marquer un tournant, mais leur rôle demeure vague. Les enjeux collectifs sont mentionnés sans être explorés._
+"Et elles doivent être guéries, > _Revision auto v2: L'arrivée des tisseurs devrait marquer un tournant, mais leur rôle demeure vague. Les enjeux collectifs sont mentionnés sans être explorés._

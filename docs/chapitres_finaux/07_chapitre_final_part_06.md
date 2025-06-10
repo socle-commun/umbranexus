@@ -97,4 +97,4 @@ Ce chapitre illustre le processus de reconstruction de la Trame à travers la d�
 ### akasha
 **✦ N O C T U V I A N ✦**
 (Le Gardien de la Mémoire Fracturée)
-> _Revision auto: La dynamique entre fragments est intéressante mais manque de cohésion. Les rivalités sont esquissées sans véritable impact sur la progression du récit._
+> _Revision auto v2: La dynamique entre fragments est intéressante mais manque de cohésion. Les rivalités sont esquissées sans véritable impact sur la progression du récit._

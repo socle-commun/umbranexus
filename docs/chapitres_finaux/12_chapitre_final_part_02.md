@@ -97,4 +97,4 @@ d'une nouvelle compréhension.
 "Je restaure",
 dit-elle.
 "Je restaure le mouvement.
-Je guéris la fracture > _Revision auto: La quête d'harmonie devrait consolider les thèmes précédents, mais le chapitre se contente de redire ce qui a déjà été montré. Le tout manque d'élan dramatique._
+Je guéris la fracture > _Revision auto v2: La quête d'harmonie devrait consolider les thèmes précédents, mais le chapitre se contente de redire ce qui a déjà été montré. Le tout manque d'élan dramatique._

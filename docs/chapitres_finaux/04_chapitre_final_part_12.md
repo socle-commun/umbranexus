@@ -96,4 +96,4 @@ les seules capables, dit-on, de réveiller l'éclat endormi en toute chose ?
 
 Vous avez dit :
 je m'assois et attend que tu me révèle ces trois clefs
-> _Revision auto: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._
+> _Revision auto v2: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._

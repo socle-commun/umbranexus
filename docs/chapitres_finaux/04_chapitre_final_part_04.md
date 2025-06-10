@@ -97,4 +97,4 @@ Noctuvian réfléchit à ces paroles. Le Chant vibrait en lui, comme s'il répon
 
 "L'Écho approche", dit soudain Lumina, ses yeux scrutant l'obscurité. "Je sens sa présence."
 
-"Alors il est temps", dit Nox. "Temps de vous montrer le véritable pouvoir du Chant. Suivez-moi." > _Revision auto: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._
+"Alors il est temps", dit Nox. "Temps de vous montrer le véritable pouvoir du Chant. Suivez-moi." > _Revision auto v2: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._

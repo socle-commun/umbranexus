@@ -97,4 +97,4 @@ Ce Verbe n'est pas destiné à être parlé. Il est un songe, une semence à rê
 
 Dans les sentiers cachés de l'ombre, quelques fragments subsistent encore. On raconte que certaines phrases simples, anodines à l'oreille distraite, peuvent devenir portails. Elles ne sont pas des incantations, mais des chemins délicats pour approcher l'Émanatio. Tels que :
 
-> "Sous la branche, l'eau écoute." > _Revision auto: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._
+> "Sous la branche, l'eau écoute." > _Revision auto v2: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._

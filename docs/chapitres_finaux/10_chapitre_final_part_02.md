@@ -97,4 +97,4 @@ dit-elle.
 Je guéris la fracture
 que j'ai causée."
 
-Dans les profondeurs d'Akasha, > _Revision auto: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._
+Dans les profondeurs d'Akasha, > _Revision auto v2: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._

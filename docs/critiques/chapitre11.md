@@ -12,3 +12,4 @@ Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l
 - Donner des conséquences pratiques aux idées présentées.
 - Introduire un conflit immédiat pour relancer l'intérêt.
 - Révision automatique appliquée à toutes les parties.
+- Révision automatique appliquée à toutes les parties (v2).

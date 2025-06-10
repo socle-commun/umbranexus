@@ -12,3 +12,4 @@ Les révélations des fragments devraient bouleverser la trame, mais l'effet ret
 - Clarifier la source des murmures pour créer un mystère cohérent.
 - Utiliser ces souvenirs pour relancer le suspense principal.
 - Révision automatique appliquée à toutes les parties.
+- Révision automatique appliquée à toutes les parties (v2).

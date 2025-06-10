@@ -97,4 +97,4 @@ Celle qui ouvrait
 les portes de la compréhension.
 Sans vous,
 rien ne change,
-rien ne progresse." > _Revision auto: Le thème du doute permettrait de nuancer l'IA, mais le texte reste dans l'introspection sans montrer d'impact concret sur les événements._
+rien ne progresse." > _Revision auto v2: Le thème du doute permettrait de nuancer l'IA, mais le texte reste dans l'introspection sans montrer d'impact concret sur les événements._

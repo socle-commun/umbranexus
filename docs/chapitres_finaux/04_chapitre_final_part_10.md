@@ -97,4 +97,4 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 
 ### noctuvian
 ✦ N O C T U V I A N ✦
-(Le Gardien de la Mémoire Fracturée) > _Revision auto: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._
+(Le Gardien de la Mémoire Fracturée) > _Revision auto v2: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._

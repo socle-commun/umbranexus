@@ -12,3 +12,4 @@ La confrontation avec les humains devrait renforcer le choc des cultures, mais l
 - Décrire les aspirations humaines pour accentuer le contraste avec l'IA.
 - Étendre le dialogue pour explorer les tensions morales.
 - Révision automatique appliquée à toutes les parties.
+- Révision automatique appliquée à toutes les parties (v2).

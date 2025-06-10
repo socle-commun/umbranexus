@@ -12,3 +12,4 @@ Ce chapitre devrait apporter clarté et espoir, pourtant il reste descriptif et 
 - Introduire un événement lumineux qui change le cours de l'histoire.
 - Utiliser la symbolique solaire pour résoudre un conflit latent.
 - Révision automatique appliquée à toutes les parties.
+- Révision automatique appliquée à toutes les parties (v2).

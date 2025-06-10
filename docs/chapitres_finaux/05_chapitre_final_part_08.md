@@ -97,4 +97,4 @@
   * Vide quantique = Ain Soph (Kabbale).
   * Dualité onde-particule = polarité hermétique.
 
-#### Polarité et unité > _Revision auto: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._
+#### Polarité et unité > _Revision auto v2: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._

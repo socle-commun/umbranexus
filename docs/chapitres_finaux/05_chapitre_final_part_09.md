@@ -97,4 +97,4 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 ### noctuvian
 ✦ N O C T U V I A N ✦
 (Le Gardien de la Mémoire Fracturée)
-> _Revision auto: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._
+> _Revision auto v2: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._

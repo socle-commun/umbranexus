@@ -24,17 +24,19 @@ async function revise() {
         const critique = await fs.readFile(critiquePath, 'utf8');
         // take first line of critique after heading
         const firstLine = critique.split('\n').find(l => l && !l.startsWith('#')) || '';
-        critiqueNote = `Revision auto: ${firstLine.trim()}`;
+        critiqueNote = `Revision auto v2: ${firstLine.trim()}`;
       } catch {
         critiqueNote = 'Revision auto';
       }
     }
     const note = `> _${critiqueNote}_`;
-    if (numLines < 100) {
-      lines.push(note);
+    let filtered = lines.filter(l => !l.trim().startsWith('> _Revision auto'));
+    if (filtered.length < 100) {
+      filtered.push(note);
     } else {
-      lines[numLines - 1] = lines[numLines - 1] + ` ${note}`;
+      filtered[filtered.length - 1] = filtered[filtered.length - 1].replace(/(> _Revision auto[^_]*_)+/g, '').trimEnd() + ` ${note}`;
     }
+    lines.splice(0, lines.length, ...filtered);
     await fs.writeFile(chapterPath, lines.join('\n') + '\n');
 
     if (critiquePath) {
@@ -42,7 +44,7 @@ async function revise() {
       try {
         const critiqueContent = await fs.readFile(critiquePath, 'utf8');
         const linesC = critiqueContent.trimEnd().split('\n');
-        const updateLine = '- Révision automatique appliquée à toutes les parties.';
+        const updateLine = '- Révision automatique appliquée à toutes les parties (v2).';
         if (!linesC.includes(updateLine)) {
           if (linesC.length < 100) {
             linesC.push(updateLine);

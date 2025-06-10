@@ -97,4 +97,4 @@
   * Atome = mandala.
   * Vide quantique = Ain Soph (Kabbale).
   * Dualité onde-particule = polarité hermétique.
-> _Revision auto: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._
+> _Revision auto v2: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._

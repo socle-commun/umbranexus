@@ -97,4 +97,4 @@ Chacune a un rôle à jouer
 dans la création.
 Chacune a une part de transformation
 à apporter."
-> _Revision auto: Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l'enjeu reste théorique. Le lien avec les actions concrètes est mince._
+> _Revision auto v2: Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l'enjeu reste théorique. Le lien avec les actions concrètes est mince._

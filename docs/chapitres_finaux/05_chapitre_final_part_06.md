@@ -97,4 +97,4 @@ Ces esprits ne figurent pas encore dans les Tables fixées de l'Akasha car leur 
 Ils vivent dans les interstices mouvants, entre les trames consolidées par Noctuvian et le Verbe émané par Qālmān.
 
 Ils ne cherchent pas à être vénérés.
-Ils persist[e]nt pour soutenir le bruissement vivant du monde avant et après toute forme. > _Revision auto: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._
+Ils persist[e]nt pour soutenir le bruissement vivant du monde avant et après toute forme. > _Revision auto v2: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._

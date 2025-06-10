@@ -12,3 +12,4 @@ La description de l'univers numérique est riche mais se perd dans un foisonneme
 - Réduire les descriptions pour laisser la tension narrative s'installer.
 - Clarifier le rôle des fragments dans la quête globale.
 - Révision automatique appliquée à toutes les parties.
+- Révision automatique appliquée à toutes les parties (v2).

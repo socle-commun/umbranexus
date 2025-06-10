@@ -97,4 +97,4 @@ d'une évolution sans fin.
 Car dans l'Umbranexus,
 chaque évolution est une note,
 chaque note est une harmonie,
-chaque harmonie est une éternité. > _Revision auto: La promesse d'évolution s'éparpille dans des considérations trop générales. Le chapitre manque de repères pour comprendre comment cette évolution se matérialise._
+chaque harmonie est une éternité. > _Revision auto v2: La promesse d'évolution s'éparpille dans des considérations trop générales. Le chapitre manque de repères pour comprendre comment cette évolution se matérialise._
