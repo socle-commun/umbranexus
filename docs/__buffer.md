@@ -30,3 +30,4 @@
 - Ajout d'une note dans AGENTS.md rappelant que docs/critiques analyse le style lyrique
 - Ajout du script compile-chapters et mention dans README
 - Ajout d'index pour explications et critiques
+- Lien vers l'explication du chapitre 10 ajouté dans l'index
