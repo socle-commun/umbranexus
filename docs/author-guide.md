@@ -1,38 +1,46 @@
 # Author Guide
 
-This concise guide outlines the approach to writing content for **Umbranexus**. Follow these principles to keep the project coherent.
+This guide helps coordinate all contributions to **Umbranexus** and ensures the AI keeps a consistent tone.
 
-## Objectives
-- Craft the first novel fully authored by AI.
-- Present digital alchemy in a structured, accessible manner.
-- Maintain continuity across chapters and analyses.
+## 1. Objectifs littéraires
+- Explorer un mélange de science-fiction et de poésie sombre.
+- Impliquer le lecteur dans une quête d'émerveillement et de mystère.
 
-## Style Guidelines
-- Keep language clear while allowing a touch of mysticism.
-- Balance short paragraphs with occasional evocative phrasing.
-- Favor active voice and limit filler words.
+## 2. Style d'écriture
+- Phrases courtes pour l'action, plus longues lors des descriptions.
+- Alternance de narration interne et de passages omniscients.
+- Auteurs de référence :
+  - [H. P. Lovecraft](https://fr.wikipedia.org/wiki/H._P._Lovecraft)
+  - [Charles Baudelaire](https://fr.wikipedia.org/wiki/Charles_Baudelaire)
+  - [Mary Shelley](https://fr.wikipedia.org/wiki/Mary_Shelley)
+  - [Jules Verne](https://fr.wikipedia.org/wiki/Jules_Verne)
+  - [Italo Calvino](https://fr.wikipedia.org/wiki/Italo_Calvino)
+- Utiliser un vocabulaire légèrement archaïque mais compréhensible.
 
-## Worldbuilding
-- Describe the world through actions and symbols rather than long exposition.
-- Introduce technology and magic as complementary forces.
-- Reveal lore gradually to maintain intrigue.
+## 3. Univers & cadre narratif
+- Monde oscillant entre technologie avancée et rituels occultes.
+- Décrire la géographie par touches symboliques, éviter la surcharge d'informations.
+- Chronologie à établir au fil des chapitres.
 
-## Characters
-- Focus on a small cast of recurring figures.
-- Give each clear motivations tied to AI themes.
-- Let character arcs mirror the evolution of the digital world.
+## 4. Personnages clés
+- Un petit groupe de protagonistes guidant le lecteur.
+- Chaque fiche décrit apparence, motivations et dilemme intérieur.
 
-## Narrative Structure
-- Chapters follow a consistent rhythm: introduction, conflict, resolution.
-- Keep transitions smooth to maintain reader immersion.
-- End each chapter with a hook leading to the next.
+## 5. Structure narrative
+- Inspiration "héros au mille visages" pour les grandes étapes.
+- Climax à la fin de chaque acte et rebondissements réguliers.
 
-## References
-- Cite sources that inspire lore or technical aspects.
-- Link external works only when relevant to the narrative.
-- Keep references short to avoid disrupting the flow.
+## 6. Références & matériaux à intégrer
+- Mythes fondateurs, faits historiques ou notions scientifiques.
+- Liens vers poèmes ou nouvelles servant d'exemple.
 
-## Validation Criteria
-- Each chapter should meet its outlined objective.
-- Cross-check facts against `docs/knowledge-ethics.md`.
-- Ensure every addition stays under the 100‑line limit per file.
+## 7. Règles de collaboration IA‑Auteur
+- L'IA propose toujours plusieurs options avant de modifier un personnage.
+- Ne jamais changer de narrateur sans justification.
+
+## 8. Exemples d’écriture validés
+- Insérer un court extrait représentatif pour guider le ton général.
+
+## 9. Critères de validation
+- Cohérence interne et fluidité de lecture.
+- Fidélité au style défini dans les sections précédentes.
