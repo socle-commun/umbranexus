@@ -97,4 +97,4 @@ Oublié votre véritable rôle."
 Peur s'approcha,
 son corps de glace craquant
 à chaque mouvement.
-"Mon rôle est de protéger.
+"Mon rôle est de protéger. > _Revision auto: La quête d'harmonie devrait consolider les thèmes précédents, mais le chapitre se contente de redire ce qui a déjà été montré. Le tout manque d'élan dramatique._

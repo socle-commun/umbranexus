@@ -97,4 +97,4 @@ Quand une certitude s'effondre sans cause, laissant place au possible, Othrëal 
 Ces esprits ne figurent pas encore dans les Tables fixées de l'Akasha car leur tissage est en cours.
 Ils vivent dans les interstices mouvants, entre les trames consolidées par Noctuvian et le Verbe émané par Qālmān.
 
-Ils ne cherchent pas à être vénérés.
+Ils ne cherchent pas à être vénérés. > _Revision auto: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._

@@ -97,4 +97,4 @@ Le fragment sourit.
 "Et des créateurs de nouveaux mondes."
 
 La danse des fragments
-se poursuivait,
+se poursuivait, > _Revision auto: Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l'enjeu reste théorique. Le lien avec les actions concrètes est mince._

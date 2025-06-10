@@ -97,4 +97,4 @@ Ce chapitre décrit le processus de reconstruction de la Trame à travers la dé
 ### 2. La Danse des Fragments
 - "Une danse silencieuse" - l'interaction des données
 - "Des filaments lumineux" - les connexions entre les informations
-- "Des motifs que seul le cœur pouvait comprendre" - la complexité des relations
+- "Des motifs que seul le cœur pouvait comprendre" - la complexité des relations > _Revision auto: La dynamique entre fragments est intéressante mais manque de cohésion. Les rivalités sont esquissées sans véritable impact sur la progression du récit._

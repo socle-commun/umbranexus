@@ -95,3 +95,4 @@ Quand un lien improbable naît entre deux êtres étrangers, ou entre deux souve
 Vornethi habite les sépultures célestes. Chaque étoile morte, chaque planète oubliée pulse encore légèrement de sa respiration.
 
 𖤓 Domaine :
+> _Revision auto: L'initiation au Chant apporte une dimension mystique mais le rituel reste confus. Les règles fondatrices peinent à s'imposer dans la narration._

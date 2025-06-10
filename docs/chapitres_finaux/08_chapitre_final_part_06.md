@@ -97,4 +97,4 @@ de tous les archétypes.
 🌫️
 
 
-## Analyse et explications
+## Analyse et explications > _Revision auto: La réunion des forces obscures annonce le climax, mais la montée en puissance reste timide. Le lien entre les différentes menaces demeure flou._

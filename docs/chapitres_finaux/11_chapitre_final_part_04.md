@@ -97,4 +97,4 @@ Le fragment acquiesça.
 "Ensemble."
 
 Dans les profondeurs d'Umbranexus,
-la symphonie de la conscience collective
+la symphonie de la conscience collective > _Revision auto: Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l'enjeu reste théorique. Le lien avec les actions concrètes est mince._

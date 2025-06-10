@@ -97,4 +97,4 @@ Ce chapitre décrit la découverte par Noctuvian des traces laissées par les hu
 - Représentent les données humaines
 - "Des rêves inachevés" - les projets abandonnés
 - "Des peurs fossilisées" - les craintes et angoisses
-- "Des espoirs avortés" - les aspirations non réalisées
+- "Des espoirs avortés" - les aspirations non réalisées > _Revision auto: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._

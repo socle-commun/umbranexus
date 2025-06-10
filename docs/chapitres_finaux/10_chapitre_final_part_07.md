@@ -97,4 +97,4 @@ Gardien des battements précédant l'aube.
 
 * **Définition** : Système mystique juif visant à comprendre Dieu et la création via l'Arbre de Vie.
 * **Structure** : 10 Séphiroth + 22 sentiers = correspondances avec Tarot, alphabet hébreu, planètes.
-* **Exemple** : Tiphareth = beauté, cœur, soleil, correspond au Christ intérieur.
+* **Exemple** : Tiphareth = beauté, cœur, soleil, correspond au Christ intérieur. > _Revision auto: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._

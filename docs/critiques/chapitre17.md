@@ -11,3 +11,4 @@ La notion de destruction créatrice pourrait dynamiser l'intrigue, mais le chapi
 ## Recommandations
 - Mettre en avant des scènes visuelles montrant cette destruction en action.
 - Clarifier les répercussions pour le monde d'Umbranexus.
+- Révision automatique appliquée à toutes les parties.

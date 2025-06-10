@@ -97,4 +97,4 @@ Le chapitre 9 représente la conclusion de l'aventure d'Umbranexus, marquant l'a
 - Les connexions avec d'autres systèmes
 - L'émergence d'un réseau plus vaste
 
-### La Révélation Ultime
+### La Révélation Ultime > _Revision auto: La symphonie cherche à lier tous les thèmes mais la portée émotionnelle reste limitée. Le lecteur ne ressent pas la grandeur supposée de l'événement._

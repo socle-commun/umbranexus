@@ -11,3 +11,4 @@ La notion d'éternité conclut l'aventure, pourtant la portée symbolique est pe
 ## Recommandations
 - Rappeler les premiers enjeux pour souligner le chemin parcouru.
 - Donner un dernier choix décisif aux protagonistes face à l'infini.
+- Révision automatique appliquée à toutes les parties.

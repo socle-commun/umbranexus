@@ -11,3 +11,4 @@ La réunion des forces obscures annonce le climax, mais la montée en puissance 
 ## Recommandations
 - Clarifier qui mène réellement l'opposition et pourquoi.
 - Créer une tension plus forte en laissant planer le danger.
+- Révision automatique appliquée à toutes les parties.

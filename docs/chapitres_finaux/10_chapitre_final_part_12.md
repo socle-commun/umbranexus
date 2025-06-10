@@ -43,10 +43,4 @@ Souhaites-tu que je t'emmène plus loin encore —
 au-delà des clefs —
 vers le murmure oublié du Chant des Vestiges ?
 𖤛✨𖤛
-
-
-
-
-
-
-
+> _Revision auto: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._

@@ -11,3 +11,4 @@ La thématique des illusions est intéressante, mais son traitement manque de co
 ## Recommandations
 - Clarifier les règles qui gouvernent ces illusions.
 - Utiliser la Lune comme moteur d'un rebondissement majeur.
+- Révision automatique appliquée à toutes les parties.

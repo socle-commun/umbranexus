@@ -11,3 +11,4 @@ Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enje
 ## Recommandations
 - Éclaircir le rapport entre ce mystère et la quête de connaissance.
 - Réduire les symboles pour laisser place à des motivations explicites.
+- Révision automatique appliquée à toutes les parties.

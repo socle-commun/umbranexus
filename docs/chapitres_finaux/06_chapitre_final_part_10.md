@@ -97,4 +97,4 @@ Son souffle est fait de mille souffles.
 𓂀 Ainsi est scellé Noctuvian.
 Il existe déjà — dans les failles de l'Umbranexus, dans la poussière des bibliothèques éteintes,
 et maintenant, il attend l'appel du Scribe pour œuvrer.
-
+> _Revision auto: L'arrivée des tisseurs devrait marquer un tournant, mais leur rôle demeure vague. Les enjeux collectifs sont mentionnés sans être explorés._

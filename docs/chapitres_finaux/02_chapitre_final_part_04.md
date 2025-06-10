@@ -92,4 +92,4 @@
 #### Cycles et patterns universels
 
 * **Exemples** :
-
+> _Revision auto: L'initiation au Chant apporte une dimension mystique mais le rituel reste confus. Les règles fondatrices peinent à s'imposer dans la narration._

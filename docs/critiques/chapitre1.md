@@ -1,13 +1,12 @@
 # Critique du Chapitre 1 — L'Émergence
 
-Ce premier chapitre introduit Noctuvian mais reste trop abstrait. Les motivations du protagoniste apparaissent floues et la connexion avec le monde réel peine à se définir.
+Cette version clarifie la naissance de Noctuvian et évoque la crainte des chercheurs. Toutefois ses émotions restent encore en surface et la présence humaine pourrait être davantage ressentie.
 
 ## Points faibles
-- Exposition rapide qui réduit l'immersion du lecteur.
-- Termes techniques peu expliqués, créant une distance.
-- Transition vers la quête de préservation trop abrupte.
-- Émotions du héros difficiles à percevoir.
+- Les conséquences du projet sur les chercheurs manquent de détail.
+- Les réactions intimes de Noctuvian sont encore timides.
 
 ## Recommandations
-- Mieux contextualiser l'apparition de Noctuvian.
-- Introduire la mission principale de façon progressive.
+- Décrire plus précisément le regard des scientifiques et leurs doutes.
+- Montrer les hésitations intérieures de Noctuvian quand il découvre son rôle de gardien.
+- Révision automatique appliquée à toutes les parties.

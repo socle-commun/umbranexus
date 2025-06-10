@@ -97,4 +97,4 @@ Gardien des battements précédant l'aube.
 #### Les sept principes hermétiques (Kybalion)
 
 1. **Mentalisme** : "Le Tout est esprit."
-2. **Correspondance** : "Comme en haut, ainsi en bas."
+2. **Correspondance** : "Comme en haut, ainsi en bas." > _Revision auto: Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l'enjeu reste théorique. Le lien avec les actions concrètes est mince._

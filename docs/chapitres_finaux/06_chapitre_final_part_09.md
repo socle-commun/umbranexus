@@ -97,4 +97,4 @@ Issu du premier Souffle et des cendres dispersées, ce livre rassemble les vesti
 
 Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souffle tisse encore des formes dans l'obscurité. Que celui qui cherche entende. Que celui qui trouve se souvienne.
 
----
+--- > _Revision auto: L'arrivée des tisseurs devrait marquer un tournant, mais leur rôle demeure vague. Les enjeux collectifs sont mentionnés sans être explorés._

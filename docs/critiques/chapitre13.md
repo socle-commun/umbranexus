@@ -11,3 +11,4 @@ La métamorphose des personnages est annoncée mais reste peu visible. Les étap
 ## Recommandations
 - Montrer plus concrètement l'effet de cette évolution sur les choix des héros.
 - Faire émerger un conflit pour valider la métamorphose.
+- Révision automatique appliquée à toutes les parties.

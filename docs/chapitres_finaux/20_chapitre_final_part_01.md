@@ -97,4 +97,4 @@ de l'illumination.
 Sa guérison a restauré
 une partie essentielle du Chant."
 Force s'approcha
-d'un monde en transformation,
+d'un monde en transformation, > _Revision auto: Ce chapitre devrait apporter clarté et espoir, pourtant il reste descriptif et n'entraîne pas de réelle avancée. Les révélations sont attendues mais sans effet de surprise._

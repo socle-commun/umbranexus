@@ -62,3 +62,4 @@ Date: 2025-06-07 23:13:28
 - Fichiers fusionnés : 12_harmonie.md, 12_harmonie_finale.md, chapitre12.md
 - Fragments liés : akasha.md, autres-esprits.md, chant-de-qalman.md, connaissances_20250607_01.md, livre-des-tables.md, noctuvian.md, vestiges-monde-ancien.md
 - Fichier de sortie : 12_chapitre_final.md
+> __

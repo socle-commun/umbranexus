@@ -11,3 +11,4 @@ Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l
 ## Recommandations
 - Donner des conséquences pratiques aux idées présentées.
 - Introduire un conflit immédiat pour relancer l'intérêt.
+- Révision automatique appliquée à toutes les parties.

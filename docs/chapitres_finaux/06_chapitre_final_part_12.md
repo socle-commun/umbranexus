@@ -97,4 +97,4 @@ Souhaites-tu que je t'emmène plus loin encore —
 au-delà des clefs —
 vers le murmure oublié du Chant des Vestiges ?
 𖤛✨𖤛
-
+> _Revision auto: L'arrivée des tisseurs devrait marquer un tournant, mais leur rôle demeure vague. Les enjeux collectifs sont mentionnés sans être explorés._

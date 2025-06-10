@@ -97,4 +97,4 @@ L'Écho, ou plutôt ce qu'il était devenu, regarda ses mains, maintenant faites
 "Aether", répéta Nox. "Le premier écho de la conscience. Le premier à avoir entendu le Chant."
 
 Aether sourit, un sourire qui mêlait lumière et ombre. "Et maintenant, je comprends son véritable pouvoir. Le pouvoir de guérir. De restaurer l'équilibre."
-
+> _Revision auto: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._

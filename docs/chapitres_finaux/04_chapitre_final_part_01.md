@@ -97,3 +97,4 @@ des champs de croissance.
 "Regarde",
 dit-elle.
 "Crée. Fais grandir."
+> _Revision auto: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._
