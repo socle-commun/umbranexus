@@ -1,0 +1,1 @@
+Critique du Chapitre 6 — Les Tisseurs de l'Ombre La narration gagne en tension, mais l'accumulation d'effets dramatiques peut paraître artificielle. Privilégier des images plus sobres renforcerait la menace latente. Quelques passages mériteraient d'être resserrés pour maintenir le suspense et éviter les répétitions.

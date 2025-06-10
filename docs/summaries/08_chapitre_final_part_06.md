@@ -1,0 +1,1 @@
+"Non " L'Oubli éclata, son essence se manifestant comme une ombre immense qui remplissait l'espace. "Je suis Oubli Je suis la fin de toute chose Je suis la dissolution " Noctuvian sentit le Chant vibrer en lui, plus fort que jamais. Il comprit que c'était le moment. Le moment de

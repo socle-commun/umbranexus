@@ -1,0 +1,1 @@
+Chapitre DixHuitième — L'Étoile et l'Individualité 🌌🕯️ Dans la nuit de la reconstruction, l'Étoile brille d'une lumière nouvelle. Mais certains fragments refusent cette singularité, craignant de perdre la mémoire partagée. Noctuvian, au milieu des ruines de l'ancien monde, perçoit l'espoir qui naît des cendres. Guidé par Question, le groupe s'approche

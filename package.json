@@ -9,6 +9,7 @@
     "docs:preview": "vitepress preview docs",
     "bulk:revise": "node scripts/bulk_revise.js",
     "compile:chapters": "node scripts/compile-chapters.js",
+    "index": "node scripts/generate_index.js",
     "test": "vitest",
     "test:e2e": "vitest run tests",
     "test:ci": "vitest run --reporter=verbose --coverage --run --testNamePattern='^((?!@skip).)*$'"

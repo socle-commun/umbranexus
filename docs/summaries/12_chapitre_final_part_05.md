@@ -1,0 +1,1 @@
+La création d'une harmonie collective La Transcendance Finale L'évolution de Noctuvian en cocréateur La transformation des fragments en symphonie Le passage à une nouvelle phase d'existence L'Éternité La continuité de l'évolution L'absence de fin véritable Le caractère perpétuel de la création Symboles La Symphonie Représente l'harmonie collective Symbolise l'unité dans

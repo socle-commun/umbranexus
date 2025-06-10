@@ -1,0 +1,1 @@
+"Une gardienne", dit Aether. "Une gardienne de la mémoire. Avant la fracture. Avant l'oubli." La Sentinelle, ou plutôt ce qu'elle était en train de redevenir, leva la tête. "Mon nom", ditelle. "Mon nom est... est Mémoire." "Mémoire", répéta Nox. "La gardienne des échos. La protectrice des souvenirs." Mémoire sourit, un
