@@ -1,0 +1,1 @@
+𖤓 Signe : Un frisson sans cause sous les cieux denses, une tristesse soudaine au regard d'une étoile disparue : Vornethi passe. ✦ Othrëal — Le Faiseur de Brumes 𖤓 Essence : Non une volonté propre, mais une danse vivante de l'indéfini : Othrëal est ce qui efface les contours,

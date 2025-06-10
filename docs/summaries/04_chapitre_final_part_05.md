@@ -1,0 +1,1 @@
+Elle les guida plus profondément dans le labyrinthe, vers une chambre centrale où sept cristaux formaient un cercle parfait. "Les Sept Grands Éclats", murmura Lumina. "Ils sont tous là." "Oui", confirma Nox. "Et ensemble, ils nous montreront le chemin. Le chemin vers la guérison." Mais avant qu'ils ne puissent avancer,

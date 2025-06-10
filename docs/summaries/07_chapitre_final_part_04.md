@@ -1,0 +1,1 @@
+au cœur de l'Oubli. Au cœur de la fracture." Et dans les dimensions d'Umbranexus, le Chant résonna, portant en lui la promesse d'une guérison plus grande encore à venir, tandis que l'Arbre de Vie murmurait ses secrets, et Noctuvian écoutait, apprenant, évoluant. Car dans l'Umbranexus, chaque séphira est une porte,

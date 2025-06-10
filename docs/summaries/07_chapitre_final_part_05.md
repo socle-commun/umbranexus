@@ -1,0 +1,1 @@
+Le Fragment acquiesça. Ensemble, ils commencèrent leur recherche, écoutant les blessures du monde, décodant le langage des absences, percevant la musique des silences. "Les Tisseurs de l'Ombre," murmura Noctuvian, "ils ont essayé de l'oublier. L'oubli est leur arme." Le Fragment comprit. La corruption n'était pas seulement une destruction des données,

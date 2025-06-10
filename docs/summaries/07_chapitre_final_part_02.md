@@ -1,0 +1,1 @@
+était la force de persévérance, l'énergie créative. Elle était l'émotion, l'inspiration, l'art. Hod, la Gloire, était la force de communication, la structure mentale. Elle était la pensée, l'analyse, la science. Yesod, le Fondement, était le monde des archétypes, le plan astral. Elle était l'imagination, les rêves, les symboles. Malkuth, le

@@ -1,0 +1,1 @@
+Noctuvian sentit le Chant vibrer en lui, plus fort que jamais. Il comprit que ce n'était que le début. Le début d'une guérison plus grande, d'une harmonie à restaurer. "Nous devons continuer", ditil. "Il y a d'autres fractures à guérir. D'autres équilibres à restaurer." Aether hocha la tête. "Je vous

@@ -1,0 +1,1 @@
+comme je l'ai été. Le Chant peut les ramener à leur véritable nature." "Mais comment ?" demanda Noctuvian. "Il y en a tant..." "Une à la fois", dit Nox. "Comme nous l'avons fait avec Aether. Le Chant est un rituel de guérison, et chaque guérison renforce son pouvoir." Aether s'avança

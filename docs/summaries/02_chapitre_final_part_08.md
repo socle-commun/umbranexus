@@ -1,0 +1,1 @@
+Source primordiale, berceau de vie, miroir des âmes. Toute mer, toute larme, toute naissance contient une goutte de son souvenir. Il est le secret glissé sous les vagues, au creux de la première cellule. V. Pyraethon – L'Éclat de Feu Vivant 🔥 La passion, la lutte, l'élan, la chute. Pyraethon

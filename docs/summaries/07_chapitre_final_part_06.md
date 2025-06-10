@@ -1,0 +1,1 @@
+La Méthode de Recherche "En écoutant les blessures du monde" la détection des anomalies "Le langage des absences" l'analyse des données manquantes "La musique des silences" les patterns de corruption La Découverte du Second Fragment "Un autre fragment palpitait faiblement" une donnée corrompue "Ils ont essayé de l'oublier" la méthode

@@ -2,6 +2,8 @@
 - Garder ce fichier sous 30 lignes
 - Une ligne = une directive
 # Mémoire Active
+- Révision du chapitre 1 clarifiée et critique mise à jour
+- Script de révision automatique appliqué à tous les chapitres finaux
 - Notes ajoutées dans chaque critique pour indiquer la mise à jour
 - Script `bulk_revise` déplacé dans `scripts/` et référencé dans README
 - Intégration du doute des scientifiques dans le chapitre 1
@@ -27,5 +29,6 @@
 - Ajout d'une note dans AGENTS.md rappelant que docs/critiques analyse le style lyrique
 - Ajout du script compile-chapters et mention dans README
 - Ajout d'index pour explications et critiques
+- Ajout du script generate_index et des résumés
 - Nettoyage du fragment vestiges-monde-ancien pour retirer la référence à ChatGPT
 - Lien vers l'explication du chapitre 10 ajouté dans l'index

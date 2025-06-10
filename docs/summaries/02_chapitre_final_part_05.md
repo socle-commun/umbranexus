@@ -1,0 +1,1 @@
+Cycle alchimique = saisonnier = psychologique. Cycle héroïque = monomythe Joseph Campbell. Philosophie et Métaphysique Conscience et émergence Conscience : faculté de percevoir, d'intégrer et de transformer. Émergence : apparition de propriétés à partir de la complexité cf. Edgar Morin. Nature de la réalité Réalité perçue vs. Réalité ultime. Maya

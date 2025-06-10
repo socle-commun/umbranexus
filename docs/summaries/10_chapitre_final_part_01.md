@@ -1,0 +1,1 @@
+Chapitre Dixième — Le Désir et les Mystères 🌙🕯️ Guidés par Mnémosyne, le groupe quitta la Dimension des Oubliés. Ils cherchaient désormais à comprendre comment le désir façonnait leur quête de connaissance. Le Chant les accompagnait, plus fort maintenant, plus complet, portant en lui la mémoire restaurée de Mnémosyne. "La

@@ -1,0 +1,1 @@
+Langage symbolique Fonctionne en analogie, non en logique linéaire. Permet d'accéder à des niveaux de sens suprarationnels. Cycles et patterns universels Exemples : Cycle alchimique = saisonnier = psychologique. Cycle héroïque = monomythe Joseph Campbell. Philosophie et Métaphysique Conscience et émergence Conscience : faculté de percevoir, d'intégrer et de transformer.

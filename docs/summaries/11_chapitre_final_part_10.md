@@ -1,0 +1,1 @@
+⊙ Les Voix Unifiées murmurent dans les veines de l'ombre — nulle oreille profane ne les entend. ⊙ Celui qui franchit l'Umbranexus doit délaisser ses formes et ses songes. ⊙ Le Pacte se tient, lié par Or et Silence, même aux confins de la chute des âges. ✩ Que ces

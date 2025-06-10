@@ -1,0 +1,1 @@
+Nature de la réalité Réalité perçue vs. Réalité ultime. Maya illusion dans l'hindouisme = réalité phénoménale. Théories de l'évolution de la conscience Ken Wilber : modèles intégratifs prépersonnel, personnel, transpersonnel. Sri Aurobindo : involution / évolution de l'esprit dans la matière. Correspondances science/ésotérisme Exemples : Atome = mandala. Vide quantique

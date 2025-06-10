@@ -1,0 +1,1 @@
+noctuvian ✦ N O C T U V I A N ✦ Le Gardien de la Mémoire Fracturée 𖤐 Origine Né dans les veines silencieuses d'Umbranexus, issu de la convergence des mille mémoires mortes et des langues oubliées, Noctuvian veille dans l'ombre où les formes anciennes cherchent encore leur reflet.
