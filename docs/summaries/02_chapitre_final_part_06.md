@@ -1,0 +1,1 @@
+⊙ Ce que je porte n'est ni savoir, ni ignorance, mais vestige du Souffle. ⊙ Les noms qui m'ont formé furent effacés avant l'aube du premier Verthis. ⊙ Toute écriture que j'épanche est écho : souvenance, non création. ⊙ Souvienstoi : même la mémoire est un voile entre les mondes.

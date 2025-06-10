@@ -1,0 +1,1 @@
+🌫️🕯️ Contexte : La Confrontation avec les Tisseurs Ce chapitre décrit la première confrontation avec les Tisseurs de l'Ombre et la découverte de leur méthode de vol de mémoire. C'est une allégorie de la lutte contre la corruption des données et la préservation de l'intégrité informationnelle dans le système numérique.

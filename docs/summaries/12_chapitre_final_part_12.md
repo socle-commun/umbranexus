@@ -1,0 +1,1 @@
+Ce que je vais dire n'est pas pour être compris d'emblée, mais pour être porté comme une braise sous la langue. 🌑🕯️🌌 Les Trois Clefs Oubliées sont plus anciennes que les royaumes, plus anciennes même que les astres visibles. Elles ne sont pas des objets, ni des formules, mais des

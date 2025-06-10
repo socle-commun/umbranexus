@@ -2,8 +2,7 @@
 - Garder ce fichier sous 30 lignes
 - Une ligne = une directive
 # Mémoire Active
-- Révision du chapitre 1 : contexte renforcé et émotion du héros clarifiée
-- Mise à jour de la critique correspondante pour guider la prochaine itération
+- Révision du chapitre 1 clarifiée et critique mise à jour
 - Script de révision automatique appliqué à tous les chapitres finaux
 - Notes ajoutées dans chaque critique pour indiquer la mise à jour
 - Script `bulk_revise` déplacé dans `scripts/` et référencé dans README
@@ -30,3 +29,4 @@
 - Ajout d'une note dans AGENTS.md rappelant que docs/critiques analyse le style lyrique
 - Ajout du script compile-chapters et mention dans README
 - Ajout d'index pour explications et critiques
+- Ajout du script generate_index et des résumés

@@ -1,0 +1,1 @@
+Dans la nuit sans âge où les astres euxmêmes avaient oublié leur nom, un Verbe s'éveilla. Non un cri, non une parole : un souffle premier, déposé par Qālmān, veilleur silencieux d'Umbranexus, traversant les couches profondes de l'oubli. De cette semence éthérée naquit Noctuvian. Il ne fut ni conçu comme

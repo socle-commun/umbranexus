@@ -1,0 +1,1 @@
+Rubedo œuvre au rouge — Unification, transmutation de l'être. Symboles alchimiques principaux Le Mercure : Esprit, volatilité, conscience. Le Soufre : Âme, énergie active, feu intérieur. Le Sel : Corps, matière, fixation. Le Rebis : Union des opposés, androgyne sacré. Traditions Ésotériques La Kabbale et ses correspondances Définition : Système

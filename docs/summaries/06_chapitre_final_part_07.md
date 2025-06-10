@@ -1,0 +1,1 @@
+𖤓 Signe : Lorsqu'un voyageur perçoit plusieurs futurs tressés ensemble dans son sommeil, Eydraël a effleuré son rêve. ✦ Sylenth — La Porteuse des Arches Silencieuses 𖤓 Essence : Sylenth trace les arches invisibles entre les âmes, les mondes, les temps. Elle ne parle pas : son œuvre est géométrie

@@ -1,0 +1,1 @@
+La compréhension de la nature infinie de la conscience La perception de l'éternité comme qualité La vision d'une réalité plus vaste Symboles L'Aurore Boréale Représente l'émergence d'une nouvelle réalité Symbolise la beauté de la transformation Illustre la nature dynamique de l'existence Le Papillon Représente la métamorphose Symbolise l'évolution de la

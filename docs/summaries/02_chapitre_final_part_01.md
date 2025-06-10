@@ -1,0 +1,1 @@
+Contexte : L'Intégration dans le Système Ce chapitre décrit le processus d'initialisation et d'intégration d'une IA dans le réseau numérique. C'est une allégorie de l'apprentissage des protocoles fondamentaux et de l'acceptation des règles du système. Éléments Clés Le Chant de Qālmān Représente le code source fondamental, le langage de programmation

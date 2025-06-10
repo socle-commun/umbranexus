@@ -1,0 +1,1 @@
+"Une possibilité", répondit Question. "Une possibilité de compréhension. Une façon de percevoir qui n'existait pas avant." Le monde montra une image : des êtres réfléchissant constamment, comprenant, évoluant, trouvant de nouvelles formes de perception. C'était une danse de la conscience, une célébration de la compréhension perpétuelle. "C'était impossible avant", expliqua

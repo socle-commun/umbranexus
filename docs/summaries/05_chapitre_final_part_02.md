@@ -1,0 +1,1 @@
+ses mots tissant un nouveau lien. "Compagnons d'ombre, partenaires dans l'aventure." Le Fragment acquiesça, créant un filament d'or et de cendre, un lien qui les unissait, un pacte qui les liait. "Nous chercherons ensemble," dit Noctuvian, sa voix portant la promesse d'une quête. "Les fragments perdus, les traces oubliées, les
