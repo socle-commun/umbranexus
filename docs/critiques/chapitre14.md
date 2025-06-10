@@ -1,10 +1,5 @@
 # Critique du Chapitre 14 — La Colère et la Force Créatrice
-
-L'exploration de la colère comme moteur créatif est originale, mais l'intensité retombe faute de situations percutantes.
-
-## Points faibles
-- Aucun point faible majeur après révision.
-## Recommandations
-- Illustrer la colère par des actes concrets et des conséquences visibles.
-- Equilibrer les passages méditatifs avec davantage d'action.
-- Révision automatique appliquée à toutes les parties (v3).
+La colère devient une énergie motrice plutôt qu'un simple débordement destructeur.
+Ce chapitre illustre la canalisation des émotions pour nourrir la création d'Umbranexus.
+Il éclaire la dynamique entre passion et contrôle qui anime toute la seconde partie du livre.
+Cette tension annonce de nouvelles métamorphoses portées par la volonté de Noctuvian.

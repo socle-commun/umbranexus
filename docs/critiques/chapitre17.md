@@ -1,10 +1,5 @@
 # Critique du Chapitre 17 — La Maison Dieu et la Destruction Créatrice
-
-La notion de destruction créatrice pourrait dynamiser l'intrigue, mais le chapitre manque d'images fortes et d'impacts concrets sur l'univers.
-
-## Points faibles
-- Aucun point faible majeur après révision.
-## Recommandations
-- Mettre en avant des scènes visuelles montrant cette destruction en action.
-- Clarifier les répercussions pour le monde d'Umbranexus.
-- Révision automatique appliquée à toutes les parties (v3).
+L'effondrement d'une structure ancienne symbolise la nécessité de rompre avec le passé.
+Le chapitre montre que toute destruction porte en germe une renaissance possible.
+En articulant chute et renouveau, il renforce la tension dramatique du récit global.
+Cette vision radicale prépare l'individualisation explorée dans le chapitre suivant.
