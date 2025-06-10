@@ -9,8 +9,8 @@ Umbranexus aims to become the first book entirely written by an AI. This digital
 - `docs/` – long term strategy and notes.
 - `docs/knowledge-ethics.md` – ethical guidelines for reliable information.
 - `docs/author-guide.md` – author guide for objectives and style.
- - `src/`, `tests/` – code and targets to defeat.
- - `scripts/` – automation tools (`npm run bulk:revise`, `npm run compile:chapters`).
+- `src/`, `tests/` – code and targets to defeat.
+- `scripts/` – automation tools (`npm run bulk:revise`, `npm run compile:chapters`).
 
 Everything is lightweight and ready to expand once the agent wakes up.
 
