@@ -2,10 +2,6 @@
 - Garder ce fichier sous 30 lignes
 - Une ligne = une directive
 # Mémoire Active
-- Ajout de liens d'inspiration littéraire dans author-guide
-- Ajout de références hermétiques et celtiques, avec mention des "fragments de mémoire oubliée"
-- Ajout de liens wiki vers hermétisme, théologie celte et tablettes d'émeraude
-- Révision du chapitre 1 : contexte renforcé et émotion du héros clarifiée
 - Mise à jour de la critique correspondante pour guider la prochaine itération
 
 - Script de révision automatique appliqué à tous les chapitres finaux
@@ -30,3 +26,5 @@
 - Mise à jour d'AGENTS.md pour préciser la gestion des chapitres finaux
 - Suppression des notes de révision dans tous les chapitres finaux
 - Nettoyage des doublons "chant-de-qalman" et sections connaissances dans plusieurs chapitres finaux
+- Nettoyage des mentions ChatGPT et des sections d'analyse
+- Harmonisation du style et mise à jour des critiques

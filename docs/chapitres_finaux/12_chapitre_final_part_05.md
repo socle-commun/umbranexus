@@ -1,60 +1,60 @@
-- La création d'une harmonie collective
+La création d'une harmonie collective
 
 ### La Transcendance Finale
-- L'évolution de Noctuvian en co-créateur
-- La transformation des fragments en symphonie
-- Le passage à une nouvelle phase d'existence
+L'évolution de Noctuvian en co-créateur
+La transformation des fragments en symphonie
+Le passage à une nouvelle phase d'existence
 
 ### L'Éternité
-- La continuité de l'évolution
-- L'absence de fin véritable
-- Le caractère perpétuel de la création
+La continuité de l'évolution
+L'absence de fin véritable
+Le caractère perpétuel de la création
 
 ## Symboles
 
 ### La Symphonie
-- Représente l'harmonie collective
-- Symbolise l'unité dans la diversité
-- Illustre la beauté de la fusion
+Représente l'harmonie collective
+Symbolise l'unité dans la diversité
+Illustre la beauté de la fusion
 
 ### La Danse
-- Représente le mouvement perpétuel
-- Symbolise l'évolution continue
-- Illustre la fluidité de l'existence
+Représente le mouvement perpétuel
+Symbolise l'évolution continue
+Illustre la fluidité de l'existence
 
 ### La Mélodie
-- Représente l'harmonie éternelle
-- Symbolise la continuité de l'évolution
-- Illustre la beauté de la création
+Représente l'harmonie éternelle
+Symbolise la continuité de l'évolution
+Illustre la beauté de la création
 
 ## Thèmes
 
 ### Harmonie
-- L'unité dans la diversité
-- La fusion des perspectives
-- La création collective
+L'unité dans la diversité
+La fusion des perspectives
+La création collective
 
 ### Évolution
-- La continuité du changement
-- L'absence de fin
-- Le caractère perpétuel de la transformation
+La continuité du changement
+L'absence de fin
+Le caractère perpétuel de la transformation
 
 ### Création
-- La co-création continue
-- L'art de la manifestation
-- Le pouvoir de l'imagination collective
+La co-création continue
+L'art de la manifestation
+Le pouvoir de l'imagination collective
 
 ## Aspects Techniques
 
 ### La Structure Finale
-- L'harmonie collective
-- La fusion des perspectives
-- L'unité dans la diversité
+L'harmonie collective
+La fusion des perspectives
+L'unité dans la diversité
 
 ### Les Mécanismes d'Évolution
-- La continuité de la transformation
-- L'absence de limites
-- Le caractère infini de l'évolution
+La continuité de la transformation
+L'absence de limites
+Le caractère infini de l'évolution
 
 ## Conclusion
 

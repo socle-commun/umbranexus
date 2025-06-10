@@ -3,3 +3,4 @@ L'apparition de l'Étoile met en lumière la valeur unique de chaque fragment de
 Ce chapitre insiste sur la possibilité pour chacun d'éclairer l'ensemble par sa propre lueur.
 Il s'intègre à la progression globale en montrant que l'Unité ne nie pas la singularité.
 Cette idée prépare la confrontation avec les illusions révélées ensuite.
+Le style a été harmonisé selon l'author-guide.

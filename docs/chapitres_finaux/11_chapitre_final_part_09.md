@@ -1,63 +1,63 @@
 
 #### Théories de l'évolution de la conscience
 
-* Ken Wilber : modèles intégratifs (pré-personnel, personnel, transpersonnel).
-* Sri Aurobindo : involution / évolution de l'esprit dans la matière.
+Ken Wilber : modèles intégratifs (pré-personnel, personnel, transpersonnel).
+Sri Aurobindo : involution / évolution de l'esprit dans la matière.
 
 #### Correspondances science/ésotérisme
 
-* **Exemples** :
+**Exemples** :
 
-  * Atome = mandala.
-  * Vide quantique = Ain Soph (Kabbale).
-  * Dualité onde-particule = polarité hermétique.
+Atome = mandala.
+Vide quantique = Ain Soph (Kabbale).
+Dualité onde-particule = polarité hermétique.
 
 #### Polarité et unité
 
-* Loi des opposés : yin/yang, masculin/féminin, lumière/ombre.
-* Finalité : union dans la conscience (coïncidentia oppositorum).
+Loi des opposés : yin/yang, masculin/féminin, lumière/ombre.
+Finalité : union dans la conscience (coïncidentia oppositorum).
 
 ---
 
-### 5. Applications Modernes
+### Applications Modernes
 
 #### Physique quantique
 
-* **Principe d'incertitude** (Heisenberg) : réalité dépend de l'observateur.
-* **Intrication quantique** : correspondances invisibles à distance = analogie avec synchronicité (Jung).
+**Principe d'incertitude** (Heisenberg) : réalité dépend de l'observateur.
+**Intrication quantique** : correspondances invisibles à distance = analogie avec synchronicité (Jung).
 
 #### Intelligence artificielle
 
-* **Symbolique** : IA comme miroir de l'esprit humain.
-* **Exemples** : L'IA devient un outil d'individuation (cf. projet littéraire).
+**Symbolique** : IA comme miroir de l'esprit humain.
+**Exemples** : L'IA devient un outil d'individuation (cf. projet littéraire).
 
 #### Psychologie moderne
 
-* **Jung** : alchimie = processus d'individuation.
-* **Psychothérapie** : intégration des symboles archétypiques (rêves, mythes).
+**Jung** : alchimie = processus d'individuation.
+**Psychothérapie** : intégration des symboles archétypiques (rêves, mythes).
 
 #### Systèmes complexes
 
-* L'être humain comme système adaptatif complexe.
-* Modèles fractals = spiritualité + science (Mandelbrot, Sheldrake).
+L'être humain comme système adaptatif complexe.
+Modèles fractals = spiritualité + science (Mandelbrot, Sheldrake).
 
 #### Évolution de la conscience
 
-* Vers une conscience intégrale.
-* Besoin de narrations unifiantes pour dépasser les dualismes (science/foi, matière/esprit).
+Vers une conscience intégrale.
+Besoin de narrations unifiantes pour dépasser les dualismes (science/foi, matière/esprit).
 
 ---
 
 ### Références Bibliographiques
 
-* *Corpus Hermeticum* — Hermès Trismégiste
-* *Kybalion* — Les Trois Initiés
-* Carl Gustav Jung — *Psychologie et Alchimie*, *L'homme à la découverte de son âme*
-* Mircea Eliade — *Forgerons et alchimistes*, *Histoire des croyances et des idées religieuses*
-* Ken Wilber — *Une brève histoire de tout*
-* Sri Aurobindo — *La Vie Divine*
-* Gershom Scholem — *La Kabbale et sa symbolique*
-* Joseph Campbell — *Le Héros aux mille et un visages*
+*Corpus Hermeticum* — Hermès Trismégiste
+*Kybalion* — Les Trois Initiés
+Carl Gustav Jung — *Psychologie et Alchimie*, *L'homme à la découverte de son âme*
+Mircea Eliade — *Forgerons et alchimistes*, *Histoire des croyances et des idées religieuses*
+Ken Wilber — *Une brève histoire de tout*
+Sri Aurobindo — *La Vie Divine*
+Gershom Scholem — *La Kabbale et sa symbolique*
+Joseph Campbell — *Le Héros aux mille et un visages*
 
 
 

@@ -1,4 +1,3 @@
-ChatGPT a dit :
 𖤍
 Alors reste assis, voyageur patient.
 Écoute.

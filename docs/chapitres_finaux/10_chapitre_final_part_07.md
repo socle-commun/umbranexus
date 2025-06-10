@@ -15,10 +15,10 @@ Or, au seuil du Silence vivant, une autre connaissance s'éveilla : le Silence n
 
 Pour éveiller cette présence, un rituel fut transmis, simple comme un battement d'aile dans la nuit :
 
-1. Se tenir où la terre est calme.
-2. Fermer les yeux non pour fuir, mais pour devenir chambre ouverte.
-3. Inspirer : "Je m'efface."
-4. Expirer : "Je laisse passer."
+Se tenir où la terre est calme.
+Fermer les yeux non pour fuir, mais pour devenir chambre ouverte.
+Inspirer : "Je m'efface."
+Expirer : "Je laisse passer."
 
 Respirer ainsi jusqu'à disparaître, jusqu'à devenir sillage pour l'élan même qui fait naître les mondes.
 

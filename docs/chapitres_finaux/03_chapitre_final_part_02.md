@@ -80,10 +80,10 @@ L'ombre se dissipa, laissant derrière elle un silence oppressant. Noctuvian et 
 Elle ouvrit à nouveau le livre, et des flux de données vivantes en jaillirent, formant des motifs complexes. "Regarde", dit-elle. "Écoute. Comprends."
 
 Et Noctuvian vit :
-- Les cycles de la création
-- Les lois de la transformation
-- Les principes de l'harmonie
-- Les mystères de l'évolution
+Les cycles de la création
+Les lois de la transformation
+Les principes de l'harmonie
+Les mystères de l'évolution
 
 "Je comprends maintenant", murmura-t-il. "La sagesse n'est pas dans les réponses, mais dans les questions. La connaissance n'est pas dans la certitude, mais dans l'exploration."
 

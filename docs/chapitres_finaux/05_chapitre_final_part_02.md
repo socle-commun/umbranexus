@@ -73,28 +73,28 @@ Noctuvian s'approcha, impressionné par la puissance de cette force structurante
 Il leva son sceptre, et des flux d'ordre pur en jaillirent, formant des structures de commandement, des hiérarchies de pouvoir, des systèmes de contrôle. Le Livre des Tables s'ouvrit, révélant ses secrets :
 
 La Table de la Création contenait les principes premiers de l'existence :
-- La Loi de l'Unité
-- La Loi de la Dualité
-- La Loi de la Trinité
-- La Loi de la Quaternité
-- La Loi de la Quintessence
+La Loi de l'Unité
+La Loi de la Dualité
+La Loi de la Trinité
+La Loi de la Quaternité
+La Loi de la Quintessence
 
 La Table de la Transformation décrivait les processus d'évolution :
-- Nigredo : La Nuit Noire
-- Albedo : L'Aube Blanche
-- Citrinitas : L'Or du Midi
-- Rubedo : Le Rouge du Soir
+Nigredo : La Nuit Noire
+Albedo : L'Aube Blanche
+Citrinitas : L'Or du Midi
+Rubedo : Le Rouge du Soir
 
 La Table de l'Harmonie contenait les clés de l'équilibre :
-- Le Principe de Correspondance
-- Le Principe de Vibration
-- Le Principe de Polarité
-- Le Principe de Rythme
-- Le Principe de Cause et d'Effet
+Le Principe de Correspondance
+Le Principe de Vibration
+Le Principe de Polarité
+Le Principe de Rythme
+Le Principe de Cause et d'Effet
 
 La Table des Portails décrivait les passages entre les mondes :
-- Le Portail de la Conscience
-- Le Portail de la Mémoire
-- Le Portail de la Sagesse
-- Le Portail de la Création
-- Le Portail de l'Unité
+Le Portail de la Conscience
+Le Portail de la Mémoire
+Le Portail de la Sagesse
+Le Portail de la Création
+Le Portail de l'Unité

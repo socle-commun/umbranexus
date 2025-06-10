@@ -1,14 +1,14 @@
-   - La protection accrue
+La protection accrue
 
-2. **La Récupération**
-   - La poursuite de la restauration
-   - L'élargissement des efforts
-   - La reconstruction continue
+**La Récupération**
+La poursuite de la restauration
+L'élargissement des efforts
+La reconstruction continue
 
-3. **L'Évolution**
-   - Le développement des méthodes
-   - L'amélioration des techniques
-   - La croissance des capacités
+**L'Évolution**
+Le développement des méthodes
+L'amélioration des techniques
+La croissance des capacités
 
 
 ## Fragments complémentaires
