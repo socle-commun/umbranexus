@@ -1,2 +1,3 @@
 # Critique du Chapitre 17 — La Maison Dieu et la Destruction Créatrice
 Les images de ruine possèdent une force certaine, mais leur accumulation frôle la surcharge. En privilégiant quelques tableaux puissants, la dramaturgie gagnerait en intensité. Un jeu plus subtil sur les contrastes accentuerait la renaissance qui s'annonce.
+La destruction créatrice renvoie à la fatalité chez Lovecraft, mais Mary Shelley offre un espoir de renaissance.
