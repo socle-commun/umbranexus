@@ -1,10 +1,5 @@
 # Critique du Chapitre 19 — La Lune et les Illusions
-
-La thématique des illusions est intéressante, mais son traitement manque de cohérence. Les illusions se multiplient sans qu'on en voie l'utilité narrative.
-
-## Points faibles
-- Aucun point faible majeur après révision.
-## Recommandations
-- Clarifier les règles qui gouvernent ces illusions.
-- Utiliser la Lune comme moteur d'un rebondissement majeur.
-- Révision automatique appliquée à toutes les parties (v3).
+La lumière lunaire révèle les mirages qui détournent Noctuvian de sa quête véritable.
+Le chapitre confronte le héros à ses propres illusions, mettant en cause ses certitudes passées.
+Cette introspection renforce la cohérence de la narration et prépare l'illumination solaire.
+Elle démontre que le chemin vers la sagesse passe par la reconnaissance des faux-semblants.

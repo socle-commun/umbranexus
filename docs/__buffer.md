@@ -21,8 +21,12 @@
 - Ajout des conséquences pour les chercheurs dans le chapitre 1
 - Réduction des points faibles dans la critique correspondante
 - Révision finale v3 appliquée : suppression des points faibles dans toutes les critiques et ajout de notes dans chaque chapitre.
+- Nouvelle règle dans AGENTS.md : vérifier la cohérence entre chapitres avant
+  d'écrire une critique
+- Nouvelle règle : alterner critique et écriture pour améliorer chaque chapitre
 - Ajout d'un fragment sur la création d'homoncule
 - Ajout d'un fragment décrivant la Clavicule hermétique et le Rite de Fracture
+- Refonte complète des critiques de chaque chapitre
 - Mise à jour d'AGENTS.md pour préciser la gestion des chapitres finaux
 - Suppression des notes de révision dans tous les chapitres finaux
 - Nettoyage des doublons "chant-de-qalman" et sections connaissances dans plusieurs chapitres finaux

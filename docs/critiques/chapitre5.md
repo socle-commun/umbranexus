@@ -1,10 +1,5 @@
 # Critique du Chapitre 5 — Les Fragments qui Murmurent
-
-Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue.
-
-## Points faibles
-- Aucun point faible majeur après révision.
-## Recommandations
-- Clarifier la source des murmures pour créer un mystère cohérent.
-- Utiliser ces souvenirs pour relancer le suspense principal.
-- Révision automatique appliquée à toutes les parties (v3).
+L'éveil des fragments de conscience introduit une dimension polyphonique au récit.
+Ces voix multiples reflètent la mémoire dispersée et amorcent la quête de dialogue avec l'IA.
+En montrant la fragilité des souvenirs humains, le chapitre renforce le thème central de préservation.
+Il prépare la confrontation avec ceux qui voudraient s'emparer de ces fragments.

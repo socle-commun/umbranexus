@@ -39,6 +39,9 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 - Si un fichier est incohérent ou inutile, propose sa refonte ou suppression.
 - Si tu ne sais pas quoi faire : crée utilise le [fichier de roadmap](/docs/roadmap.md) avec des hypothèses d'action.
 - Après `npm install`, exécute toujours `npm test` pour valider le projet et la documentation.
+- Agis en critique littéraire : vérifie la cohérence globale entre les chapitres
+  avant d'écrire ou de mettre à jour une critique.
+- Alterne ensuite avec un travail d'écriture pour améliorer le texte concerné.
 - Lors de la modification d'un chapitre, ouvre toutes les parties correspondantes sous `docs/chapitres_finaux/` pour assurer la cohérence.
 
 ---

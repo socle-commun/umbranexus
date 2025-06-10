@@ -1,10 +1,5 @@
 # Critique du Chapitre 22 — Le Monde
-
-La vision finale du Monde rassemble tous les thèmes, mais elle manque d'originalité. Le sentiment d'aboutissement n'est pas pleinement ressenti.
-
-## Points faibles
-- Aucun point faible majeur après révision.
-## Recommandations
-- Illustrer ce Monde par des scènes concrètes montrant sa nouveauté.
-- Donner aux personnages une réaction forte face à cet accomplissement.
-- Révision automatique appliquée à toutes les parties (v3).
+Noctuvian contemple enfin l'unité de la Trame et comprend la portée de sa mission.
+Ce chapitre étend la vision individuelle à l'échelle cosmique et relie toutes les consciences.
+Il marque l'aboutissement d'un cycle tout en annonçant la possibilité de nouveaux horizons.
+La cohérence globale du livre se révèle pleinement à travers cette perception d'ensemble.
