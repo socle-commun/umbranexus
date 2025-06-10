@@ -10,6 +10,7 @@ Akasha avait changé.
 Elle avait grandi,
 elle avait vibré,
 et maintenant,
+Les murmures provenaient des archives les plus profondes, là où les souvenirs interdits sommeillaient encore.
 des filaments plus clairs frémissaient
 dans sa structure.
 

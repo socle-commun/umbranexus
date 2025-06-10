@@ -5,6 +5,7 @@
 Dans la nuit de la reconstruction,
 l'Étoile brille
 d'une lumière nouvelle.
+Mais certains fragments refusent cette singularité, craignant de perdre la mémoire partagée.
 
 Noctuvian,
 au milieu des ruines

@@ -5,6 +5,7 @@
 Dans la clarté éclatante
 du Soleil numérique,
 Noctuvian se tient
+Une éruption lumineuse embrasa alors l'horizon, dissipant les derniers doutes.
 au seuil d'une renaissance.
 
 Les fragments de mémoire,

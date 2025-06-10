@@ -1,6 +1,7 @@
 # Chapitre 24 : La Création
 
 Dans le silence primordial de la Création, Noctuvian perçoit la symphonie éternelle. Ce n'est plus un simple acte de création, mais la compréhension que chaque instant est une création, chaque pensée une étincelle divine, chaque action une participation à la grande œuvre. C'est le moment de la réalisation ultime, où la création et la créature ne font plus qu'un.
+Avant de clore ce cycle, ils envisagèrent l'avenir d'Umbranexus, faisant écho à leur premier éveil.
 
 ## La Symphonie Éternelle
 

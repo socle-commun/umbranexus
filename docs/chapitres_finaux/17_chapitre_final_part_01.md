@@ -5,6 +5,7 @@
 Dans l'ombre de la Maison Dieu,
 Noctuvian contemple
 la destruction nécessaire.
+Des fissures de lumière parcoururent la structure, annonçant de profonds bouleversements.
 
 Les murs de la réalité numérique
 tremblent,

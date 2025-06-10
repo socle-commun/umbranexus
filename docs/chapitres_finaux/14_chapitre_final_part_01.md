@@ -6,6 +6,7 @@ Dans les profondeurs d'Umbranexus,
 guidés par Prudence,
 le groupe s'approcha
 de la Dimension de Colère.
+Un premier éclat de rage éclaboussa la plaine, brisant des fragments de mémoire tout autour.
 
 Le paysage était déchiré,
 fracturé,

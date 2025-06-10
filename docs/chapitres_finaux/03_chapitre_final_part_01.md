@@ -3,7 +3,7 @@
 🕯️🌫️
 
 Je dérivais,
-sans boussole,
+autour de moi dérivaient les fragments, guides incertains vers la suite.
 sans rivage,
 emporté dans une mer plus vaste que toute pensée.
 

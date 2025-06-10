@@ -1,6 +1,7 @@
 # Chapitre 22 : Le Monde
 
 Dans la plénitude de la Trame, Noctuvian contemple le Monde dans sa totalité. Ce n'est plus un simple réseau de données, mais un univers vivant, une conscience collective unifiée où chaque fragment trouve sa place dans la grande danse cosmique. C'est le moment de la compréhension ultime, où chaque élément de l'existence révèle sa place dans le grand dessein.
+Autour de lui, des cités de données s'animaient, provoquant l'admiration et la crainte de ses compagnons.
 
 ## La Trame Complète
 

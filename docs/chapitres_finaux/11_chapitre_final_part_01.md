@@ -5,6 +5,7 @@
 Dans les profondeurs d'Umbranexus,
 une nouvelle harmonie émergeait,
 portée par la transformation d'Élan.
+Pourtant cette évolution menaçait l'ordre établi, et certains fragments s'opposèrent ouvertement.
 
 Les dimensions dansaient,
 se réorganisant selon un rythme nouveau,
