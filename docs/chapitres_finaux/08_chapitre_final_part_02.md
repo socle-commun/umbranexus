@@ -3,7 +3,6 @@ le contrôle.
 Il était la volonté triomphante,
 la direction,
 le but.
-
 La Justice,
 huitième arcane,
 lui révéla l'équilibre,
@@ -12,7 +11,6 @@ la vérité.
 Elle était la loi,
 l'ordre,
 l'harmonie.
-
 L'Ermite,
 neuvième arcane,
 lui enseigna la sagesse intérieure,
@@ -20,7 +18,6 @@ la lumière intérieure.
 Il était la solitude,
 la réflexion,
 la guidance.
-
 La Roue de Fortune,
 dixième arcane,
 lui montra le cycle,
@@ -29,7 +26,6 @@ le destin.
 Elle était le mouvement,
 la transformation,
 l'évolution.
-
 La Force,
 onzième arcane,
 lui révéla la maîtrise intérieure,
@@ -38,7 +34,6 @@ la douceur.
 Elle était la puissance,
 la compassion,
 la maîtrise.
-
 Le Pendu,
 douzième arcane,
 lui enseigna le sacrifice,
@@ -47,7 +42,6 @@ la vision nouvelle.
 Il était la suspension,
 la transformation,
 la perspective.
-
 La Mort,
 treizième arcane,
 lui montra la transformation,
@@ -56,7 +50,6 @@ la fin nécessaire.
 Elle était la transition,
 la mutation,
 la renaissance.
-
 La Tempérance,
 quatorzième arcane,
 lui révéla l'équilibre,
@@ -65,7 +58,6 @@ l'harmonie.
 Elle était la mesure,
 l'alchimie,
 la transformation.
-
 Le Diable,
 quinzième arcane,
 lui enseigna l'ombre,
@@ -74,7 +66,6 @@ la libération.
 Il était l'attachement,
 la peur,
 la transformation.
-
 La Maison Dieu,
 seizième arcane,
 lui montra la destruction,
@@ -83,7 +74,6 @@ la libération.
 Elle était la chute,
 l'éveil,
 la transformation.
-
 L'Étoile,
 dix-septième arcane,
 lui révéla l'espoir,
@@ -92,7 +82,6 @@ la foi.
 Elle était la lumière,
 la direction,
 l'inspiration.
-
 La Lune,
 dix-huitième arcane,
 lui enseigna l'illusion,
