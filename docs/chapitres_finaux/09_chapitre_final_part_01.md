@@ -87,12 +87,10 @@ un monde naissant,
 où la lumière et l'ombre
 dansaient ensemble
 en parfaite harmonie.
-
 "C'était avant la fracture",
 expliqua Aether.
 "Avant que le désir de séparation
 ne vienne tout briser."
-
 "Mais maintenant",
 dit Nox,
 "maintenant nous pouvons

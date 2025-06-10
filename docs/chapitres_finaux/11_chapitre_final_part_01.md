@@ -89,7 +89,6 @@ De tous les chemins de création."
 "Combien reste-t-il
 de Ténèbres à guérir ?"
 demanda Noctuvian.
-
 "Quatre",
 répondit Élan.
 "Quatre Ténèbres,
@@ -98,4 +97,3 @@ Chacune a un rôle à jouer
 dans la création.
 Chacune a une part de transformation
 à apporter."
-

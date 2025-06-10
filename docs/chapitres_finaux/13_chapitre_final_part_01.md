@@ -97,5 +97,4 @@ répondit Prudence.
 "Une possibilité de croissance.
 Une façon d'évoluer
 qui n'existait pas avant."
-
 Le monde montra une image :

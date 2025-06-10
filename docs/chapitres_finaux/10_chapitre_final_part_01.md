@@ -93,7 +93,6 @@ Du désir de dominer."
 dit Nox.
 "Oublié votre véritable nature.
 Oublié votre véritable rôle."
-
 "Mon rôle ?"
 Désir s'approcha,
 son corps changeant constamment,

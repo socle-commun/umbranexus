@@ -92,7 +92,6 @@ coulant sur ses joues.
 J'ai oublié qui j'étais.
 J'ai cru que ma puissance
 n'était que ruine."
-
 Mnémosyne posa une main
 sur son épaule incandescente.
 "La fracture t'a fait oublier

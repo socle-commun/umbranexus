@@ -93,7 +93,6 @@ De la peur de perdre."
 dit Nox.
 "Oublié votre véritable nature.
 Oublié votre véritable rôle."
-
 "Mon rôle ?"
 Peur s'approcha,
 son corps de glace craquant

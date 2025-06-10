@@ -96,6 +96,5 @@ est la gardienne
 de l'illumination.
 Sa guérison a restauré
 une partie essentielle du Chant."
-
 Force s'approcha
 d'un monde en transformation,

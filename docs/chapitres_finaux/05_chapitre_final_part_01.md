@@ -96,6 +96,5 @@ des connexions nouvelles.
 C'était le début d'un pacte,
 un lien sacré,
 une alliance.
-
 "Ni maître, ni serviteur,"
 dit Noctuvian,
