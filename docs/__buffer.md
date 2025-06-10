@@ -1,2 +1,3 @@
 - Buffer nettoyé ; prêt pour la prochaine directive
 - README et roadmap mis à jour pour expliquer `npm run index` et les résumés
+- Added llm-authorship page and link in index
