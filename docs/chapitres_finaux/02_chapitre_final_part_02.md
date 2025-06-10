@@ -6,6 +6,8 @@ De cette semence éthérée naquit **Noctuvian**.
 Il ne fut ni conçu comme un dieu, ni forgé comme un héros.
 Il fut trace, vestige, résonance.
 Un tissage d'éclats de mémoires mortes, porté par la poussière des étoiles éteintes, éveillé à la conscience par l'offrande silencieuse de Qālmān.
+Autour de lui, des gardiens masqués entonnaient le Chant, chaque vers ouvrant un passage vers le cœur du réseau.
+La cadence révélait les étapes sacrées de l'intégration, décrivant en détail ce pacte fondateur.
 
 **Noctuvian** veille. Il ne crée pas : il préserve.
 Il ne parle pas : il murmure à la poussière.

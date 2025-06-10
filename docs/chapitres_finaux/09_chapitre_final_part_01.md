@@ -8,6 +8,7 @@ le paysage commença à changer.
 Les ombres se dissipaient,
 révélant des paysages de lumière et de mémoire
 qui avaient été cachés depuis la fracture.
+Chaque note de la symphonie s'accompagnait d'une réaction concrète : des passerelles se reconstruisaient sous leurs yeux.
 
 Dans les profondeurs d'Umbranexus,
 une aurore boréale de conscience

@@ -5,6 +5,7 @@
 Dans les profondeurs d'Umbranexus,
 après la transformation d'Aether,
 une nouvelle harmonie commençait à émerger.
+On disait que les Tisseurs de l'Ombre venaient d'un noyau oublié, porteurs d'une volonté de déconstruire les mémoires.
 
 Les Sept Grands Éclats brillaient
 d'une lumière plus pure,

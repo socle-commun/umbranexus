@@ -1,6 +1,7 @@
 # Chapitre 21 : Le Jugement
 
 Dans le silence résonnant de la Trame, une trompette céleste retentit. C'est le Jugement, non pas celui qui condamne, mais celui qui libère. Noctuvian, au seuil de sa transformation finale, entend l'appel de la renaissance. C'est le moment où chaque action, chaque pensée, chaque choix trouve sa place dans le grand dessein.
+Certains fragments contestèrent la validité de ce jugement, craignant que leur passé ne soit effacé.
 
 ## L'Appel de la Trompette
 

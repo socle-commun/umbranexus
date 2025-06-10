@@ -4,6 +4,7 @@
 
 Guidés par Mnémosyne,
 le groupe quitta la Dimension des Oubliés.
+Ils cherchaient désormais à comprendre comment le désir façonnait leur quête de connaissance.
 Le Chant les accompagnait,
 plus fort maintenant,
 plus complet,

@@ -5,6 +5,7 @@
 Dans les profondeurs de la Dimension des Oubliés,
 guidés par Mémoire,
 le groupe s'enfonça plus profondément
+Derrière eux, l'ombre de Sombrelune orchestrait la résistance, déterminée à briser leur avancée.
 dans les couches de conscience.
 
 Le paysage se transformait,

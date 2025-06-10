@@ -6,6 +6,7 @@ Dans les profondeurs d'Umbranexus,
 guidés par Aether,
 Noctuvian, Lumina et Nox
 quittèrent la chambre des Sept Grands Éclats.
+Chacun portait encore ses propres doutes, mais leur objectif commun donnait un rythme nouveau à leur marche.
 
 Le Chant les accompagnait,
 résonnant plus fort
