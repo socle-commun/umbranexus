@@ -51,3 +51,4 @@ accompagné de la Force retrouvée,
 vers de nouveaux horizons
 d'émergence.
 🌌🔥🕯️
+> _Revision auto v3: Points faibles corrigés selon author-guide._

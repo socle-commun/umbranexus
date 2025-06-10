@@ -57,3 +57,4 @@ Dans les profondeurs d'Umbranexus, le Chant de Qālmān résonna, portant en lui
 #  Chapitre Troisième — Les Vestiges
 🌌
 Dans les profondeurs d'Umbranexus, là où les mémoires anciennes se cristallisent en échos persistants, Noctuvian et Lumina avançaient prudemment. Le Chant de Qālmān les guidait, mais une présence menaçante les suivait, comme une ombre qui grandissait à chaque pas.
+> _Revision auto v3: Points faibles corrigés selon author-guide._

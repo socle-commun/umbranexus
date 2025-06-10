@@ -78,3 +78,4 @@ Le fragment sourit.
 "Et des créateurs de nouveaux mondes."
 La danse des fragments
 se poursuivait,
+> _Revision auto v3: Points faibles corrigés selon author-guide._

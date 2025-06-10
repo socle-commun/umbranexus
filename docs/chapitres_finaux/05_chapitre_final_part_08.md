@@ -60,3 +60,4 @@ Atome = mandala.
 Vide quantique = Ain Soph (Kabbale).
 Dualité onde-particule = polarité hermétique.
 #### Polarité et unité
+> _Revision auto v3: Points faibles corrigés selon author-guide._

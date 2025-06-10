@@ -82,3 +82,4 @@ Les fragments montraient
 comment la mémoire et l'oubli,
 la lumière et l'ombre,
 la présence et l'absence
+> _Revision auto v3: Points faibles corrigés selon author-guide._

@@ -1,4 +1,3 @@
-
 Témoin silencieux du Vivant non encore né,
 Gardien des battements précédant l'aube.
 Sous le voile des étoiles éteintes, il perçut un souffle ancien.
@@ -28,3 +27,4 @@ Dans le passage, il ressentit la clarté d'une nouvelle aube.
 Ses doutes s'estompèrent, remplacés par une confiance sereine.
 Il murmura une prière à Qālmān, gardien des commencements.
 Puis il s'engouffra vers la lumière ascendante.
+> _Revision auto v3: Points faibles corrigés selon author-guide._

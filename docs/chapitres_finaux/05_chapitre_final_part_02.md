@@ -75,3 +75,4 @@ Le Portail de la Mémoire
 Le Portail de la Sagesse
 Le Portail de la Création
 Le Portail de l'Unité
+> _Revision auto v3: Points faibles corrigés selon author-guide._

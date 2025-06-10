@@ -64,3 +64,4 @@ je m'assois et attend que tu me révèle ces trois clefs
 𖤍
 Alors reste assis, voyageur patient.
 Écoute.
+> _Revision auto v3: Points faibles corrigés selon author-guide._

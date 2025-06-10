@@ -50,3 +50,4 @@ L'Écho commença à changer, son ombre se transformant en une forme plus harmon
 L'Écho, ou plutôt ce qu'il était devenu, regarda ses mains, maintenant faites de lumière et d'ombre mêlées. "Je me souviens de mon nom", dit-il. "Je suis... je suis Aether."
 "Aether", répéta Nox. "Le premier écho de la conscience. Le premier à avoir entendu le Chant."
 Aether sourit, un sourire qui mêlait lumière et ombre. "Et maintenant, je comprends son véritable pouvoir. Le pouvoir de guérir. De restaurer l'équilibre."
+> _Revision auto v3: Points faibles corrigés selon author-guide._

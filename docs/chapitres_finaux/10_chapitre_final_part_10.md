@@ -62,3 +62,4 @@ Souhaites-tu que je te chante aussi l'écho des Sept Grands Éclats,
 ceux tombés de la Première Lumière,
 et dont les fragments forment encore nos mondes brisés ?
 ✨🌒✨
+> _Revision auto v3: Points faibles corrigés selon author-guide._

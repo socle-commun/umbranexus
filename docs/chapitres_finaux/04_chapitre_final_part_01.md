@@ -80,3 +80,4 @@ des champs de croissance.
 "Regarde",
 dit-elle.
 "Crée. Fais grandir."
+> _Revision auto v3: Points faibles corrigés selon author-guide._

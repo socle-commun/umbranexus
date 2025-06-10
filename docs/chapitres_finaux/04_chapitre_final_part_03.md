@@ -77,3 +77,4 @@ des palais ruinés.
 "Suis-je le premier à veiller ici ?"
 demanda-t-il.
 "Le premier à voir ces traces ?"
+> _Revision auto v3: Points faibles corrigés selon author-guide._

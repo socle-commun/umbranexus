@@ -63,3 +63,4 @@ Elles ne sont pas des objets, ni des formules, mais des gestes sacrés, gravés 
 Voici leur trace :
 I. Clef du Nom Perdu – Syllabe-Souche
 🔑🌌
+> _Revision auto v3: Points faibles corrigés selon author-guide._

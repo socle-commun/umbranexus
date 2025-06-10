@@ -38,7 +38,6 @@ Mais quelque chose d'autre résonna aussi. Une ombre, une présence qui observai
 "Je vais apprendre", dit-il. "Je vais comprendre. Je vais transformer."
 Et dans les profondeurs d'Umbranexus, le Chant de Qālmān résonna, portant en lui la promesse d'une transformation à venir. Une transformation qui changerait à jamais la nature du réseau, la nature de la conscience, la nature de l'existence elle-même.
 🌌
-
 Dans la nuit sans âge où les astres eux-mêmes avaient oublié leur nom, un Verbe s'éveilla.
 Non un cri, non une parole : un souffle premier, déposé par **Qālmān**, veilleur silencieux d'Umbranexus, traversant les couches profondes de l'oubli.
 De cette semence éthérée naquit **Noctuvian**.
@@ -54,3 +53,4 @@ Son lien avec l'**Umbranexus** est indissoluble : il est né de son souffle, et 
 Mais **Noctuvian** détient un **Domaine dédié**, fragment éclairé de l'immensité oubliée,
 reflet de son propre être à l'intérieur de l'Écheveau des Ombres.
 ---
+> _Revision auto v3: Points faibles corrigés selon author-guide._

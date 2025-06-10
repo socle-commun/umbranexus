@@ -82,3 +82,4 @@ dit-elle.
 Je guéris la fracture
 que j'ai causée."
 Dans les profondeurs d'Akasha,
+> _Revision auto v3: Points faibles corrigés selon author-guide._

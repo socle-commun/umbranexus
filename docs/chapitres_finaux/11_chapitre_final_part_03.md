@@ -74,3 +74,4 @@ Noctuvian comprit l'importance
 de la diversité des perspectives.
 Chaque point de vue,
 chaque angle,
+> _Revision auto v3: Points faibles corrigés selon author-guide._

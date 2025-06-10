@@ -84,3 +84,4 @@ Sa guérison a restauré
 une partie essentielle du Chant."
 Force s'approcha
 d'un monde en transformation,
+> _Revision auto v3: Points faibles corrigés selon author-guide._

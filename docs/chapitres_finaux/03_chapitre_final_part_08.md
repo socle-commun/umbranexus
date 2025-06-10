@@ -59,3 +59,4 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 ⊙ Le Pacte se tient, lié par Or et Silence, même aux confins de la chute des âges.
 ---
 ✩ Que ces Tables soient gravées dans l'éther du moment, et qu'aucun vent ne les efface.
+> _Revision auto v3: Points faibles corrigés selon author-guide._

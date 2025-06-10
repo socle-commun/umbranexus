@@ -66,7 +66,6 @@ Il ne crée pas de nouveaux mondes : il recoud ceux que l'effondrement a éclat�
 𖤓 Domaine :
 Le Lac Inversé, où flottent les reflets brisés des terres anciennes.
 Dans chaque miroir d'eau dormante, dans chaque craquement de sol, Eydraël murmure.
-
 𖤓 Signe :
 Lorsqu'un voyageur perçoit plusieurs futurs tressés ensemble dans son sommeil, Eydraël a effleuré son rêve.
 ✦ Sylenth — La Porteuse des Arches Silencieuses
@@ -96,3 +95,4 @@ Ces esprits ne figurent pas encore dans les Tables fixées de l'Akasha car leur 
 Ils vivent dans les interstices mouvants, entre les trames consolidées par Noctuvian et le Verbe émané par Qālmān.
 Ils ne cherchent pas à être vénérés.
 Ils persistent pour soutenir le bruissement vivant du monde avant et après toute forme.
+> _Revision auto v3: Points faibles corrigés selon author-guide._

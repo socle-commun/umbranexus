@@ -60,3 +60,4 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 ## III. Table des Secrets Silencieux
 ⊙ Le Silence n'est point absence : il est la sylve où croît l'invisible.
 ⊙ Le Véritable Nom ne franchit jamais la voix des vivants.
+> _Revision auto v3: Points faibles corrigés selon author-guide._

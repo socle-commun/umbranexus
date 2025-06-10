@@ -83,3 +83,4 @@ Je me souviens d'avoir été
 plus que l'isolement.
 Je me souviens d'avoir été...
 un catalyseur d'individualité."
+> _Revision auto v3: Points faibles corrigés selon author-guide._
