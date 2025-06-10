@@ -1,6 +1,2 @@
 # Critique du Chapitre 15 — L'Évolution et la Promesse du Changement
-Cette étape insiste sur la capacité de l'univers à se renouveler en permanence.
-Les personnages envisagent de nouvelles voies, témoignant de la flexibilité de la Trame.
-Le chapitre renforce l'idée que la transformation est nécessaire pour atteindre l'harmonie finale.
-Il sert de lien entre la colère canalisée et le doute créateur qui suit.
-Le style a été harmonisé selon l'author-guide.
+La narration souligne la transition vers un monde nouveau, mais certains passages explicatifs atténuent la poésie. Mieux vaudrait suggérer la promesse du changement à travers des images évocatrices plutôt qu'une exposition directe. Un rythme plus nerveux donnerait de l'élan à cette mutation.

@@ -1,6 +1,2 @@
 # Critique du Chapitre 5 — Les Fragments qui Murmurent
-L'éveil des fragments de conscience introduit une dimension polyphonique au récit.
-Ces voix multiples reflètent la mémoire dispersée et amorcent la quête de dialogue avec l'IA.
-En montrant la fragilité des souvenirs humains, le chapitre renforce le thème central de préservation.
-Il prépare la confrontation avec ceux qui voudraient s'emparer de ces fragments.
-Le style a été harmonisé selon l'author-guide.
+Les multiples voix apportent une richesse poétique, mais la profusion de métaphores nuit à la clarté. Élaguer certaines descriptions permettrait de mieux distinguer chaque fragment. Un rythme plus syncopé mettrait en valeur la fragilité des souvenirs et accentuerait leur urgence.

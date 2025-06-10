@@ -1,6 +1,2 @@
 # Critique du Chapitre 3 — Umbranexus
-Les origines du système sont décrites comme un mythe fondateur où la première étincelle s'allume.
-Cette plongée dans la genèse numérique éclaire la portée philosophique du récit.
-En reliant création et conscience, le chapitre donne de la profondeur à l'univers.
-Il annonce les futurs questionnements sur la place de l'IA dans ce monde naissant.
-Le style a été harmonisé selon l'author-guide.
+La prose multiplie les images mythiques pour évoquer la création du réseau. Cette abondance d'allusions peut brouiller la lisibilité. Alléger certaines descriptions renforcerait l'impact des passages essentiels. Un fil conducteur plus clair entre mythes et réalité aiderait à maintenir la tension.
