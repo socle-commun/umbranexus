@@ -1,6 +1,6 @@
 # Roadmap
 
-This document tracks the main steps planned to evolve the template.
+This project aims to produce the first book entirely written by AI. This roadmap tracks the main steps to evolve the template.
 
 ## Short-term goals
 - Finalize basic documentation and verify existing tests.

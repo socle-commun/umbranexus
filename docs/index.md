@@ -1,6 +1,6 @@
 # Welcome
 
-This documentation provides the vision for the Codex Brutal template and the rules the agent must follow.
+Umbranexus chronicles the creation of the first book fully written via AI. This site outlines the methodology and rules the agent follows.
 
 - [Knowledge Ethics](./knowledge-ethics.md)
 - [VitePress](./vitepress.md)
