@@ -5,6 +5,7 @@ This documentation provides the vision for the Codex Brutal template and the rul
 - [Knowledge Ethics](./knowledge-ethics.md)
 - [VitePress](./vitepress.md)
 - [Roadmap](./roadmap.md)
+- [Buffer](./buffer.md)
 - **Chapitres**
   - [Chapitre 1](./chapitres_finaux/01_chapitre_final.md)
   - [Chapitre 2 - Partie 1](./chapitres_finaux/02_chapitre_final.md)
