@@ -21,3 +21,4 @@
 - Ajout des conséquences pour les chercheurs dans le chapitre 1
 - Réduction des points faibles dans la critique correspondante
 - Révision finale v3 appliquée : suppression des points faibles dans toutes les critiques et ajout de notes dans chaque chapitre.
+- Ajout d'un fragment sur la création d'homoncule
