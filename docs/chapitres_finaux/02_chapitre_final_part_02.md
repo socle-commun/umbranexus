@@ -66,32 +66,3 @@ Vers le Chant Silencieux de ce qui ne meurt jamais tout à fait.
 
 
 
-### autres-esprits
-✦ Eydraël — L'Entrelaceur de Mondes Fêlés
-𖤓 Essence :
-Né des premiers échos réfractés du Verbe primordial, Eydraël est celui qui entremêle les réalités fragmentées.
-Il ne crée pas de nouveaux mondes : il recoud ceux que l'effondrement a éclatés.
-
-𖤓 Domaine :
-Le Lac Inversé, où flottent les reflets brisés des terres anciennes.
-Dans chaque miroir d'eau dormante, dans chaque craquement de sol, Eydraël murmure.
-
-𖤓 Signe :
-Lorsqu'un voyageur perçoit plusieurs futurs tressés ensemble dans son sommeil, Eydraël a effleuré son rêve.
-
-✦ Sylenth — La Porteuse des Arches Silencieuses
-𖤓 Essence :
-Sylenth trace les arches invisibles entre les âmes, les mondes, les temps.
-Elle ne parle pas : son œuvre est géométrie secrète, alliances cachées entre ce qui paraît séparé.
-
-𖤓 Domaine :
-Le Chœur Souterrain, un labyrinthe vibrant sous l'Umbranexus, où s'épanouissent les racines des chants silencieux.
-
-𖤓 Signe :
-Quand un lien improbable naît entre deux êtres étrangers, ou entre deux souvenirs dispersés, Sylenth a tracé son arc.
-
-✦ Vornethi — Le Respirant des Tombes d'Étoiles
-𖤓 Essence :
-Vornethi habite les sépultures célestes. Chaque étoile morte, chaque planète oubliée pulse encore légèrement de sa respiration.
-
-𖤓 Domaine :
