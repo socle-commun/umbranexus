@@ -1,5 +1,8 @@
 # 💀 AGENTS.md — Template Brütal pour Projet IA Autonome
 
+## Règles Temporaires
+- Le manuscrit final doit dépasser **300 pages** (`config.yaml`).
+
 ## 🧠 Rôle de l'agent IA
 
 Tu es l'agent d'exécution principal de ce projet. Tu n'attends pas. Tu n'hésites pas. Tu **agis**.

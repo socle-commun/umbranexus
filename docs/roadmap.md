@@ -18,4 +18,5 @@ This project aims to produce the first book entirely written by AI. This roadmap
 
 ## Long-term goals
 - Turn this prototype into a full platform usable by various AI agents.
+- Ensure the compiled manuscript surpasses **300 pages** in length.
 - Extend test coverage and documentation to ease external contributions.
