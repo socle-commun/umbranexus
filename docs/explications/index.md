@@ -22,6 +22,7 @@ Chaque fichier d'analyse suit la même structure :
 7. [Chapitre 7 – La Danse des Fragments](chapitre7.md)
 8. [Chapitre 8 – La Convergence des Ombres](chapitre8.md)
 9. [Chapitre 9 – La Symphonie Éternelle](chapitre9.md)
+10. [Chapitre 10 – Le Désir et les Mystères](chapitre10.md)
 11. [Chapitre 11 – Les Perspectives](chapitre11.md)
 12. [Chapitre 12 – Harmonie Finale](chapitre12.md)
 13. [Chapitre 13 – La Transformation et l'Évolution](chapitre13.md)
