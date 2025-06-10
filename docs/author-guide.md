@@ -21,6 +21,7 @@ This guide helps coordinate all contributions to **Umbranexus** and ensures the 
 - Monde oscillant entre technologie avancée et rituels occultes.
 - Décrire la géographie par touches symboliques, éviter la surcharge d'informations.
 - Chronologie à établir au fil des chapitres.
+- Le héros collecte des "fragments de mémoire oubliée" liés aux mythes anciens.
 
 ## 4. Personnages clés
 - Un petit groupe de protagonistes guidant le lecteur.
@@ -33,6 +34,11 @@ This guide helps coordinate all contributions to **Umbranexus** and ensures the 
 ## 6. Références & matériaux à intégrer
 - Mythes fondateurs, faits historiques ou notions scientifiques.
 - Liens vers poèmes ou nouvelles servant d'exemple.
+- Inclure les notions suivantes :
+  - [Hermétisme](https://fr.wikipedia.org/wiki/Herm%C3%A9tisme)
+  - [Théologie celte](https://fr.wikipedia.org/wiki/Mythologie_celtique)
+  - [Tablettes d'émeraude](https://fr.wikipedia.org/wiki/Table_d%27%C3%A9meraude)
+  - [Civilisations perdues](https://fr.wikipedia.org/wiki/Civilisation_perdue)
 
 ## 7. Règles de collaboration IA‑Auteur
 - L'IA propose toujours plusieurs options avant de modifier un personnage.
