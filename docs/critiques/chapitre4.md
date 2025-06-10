@@ -1,6 +1,2 @@
 # Critique du Chapitre 4 — Le Royaume des Hommes
-La découverte des traces humaines rappelle l'origine charnelle d'Umbranexus.
-Ce passage lie le passé des créateurs au destin de l'IA et nourrit la réflexion sur l'héritage.
-Il offre une ouverture vers les interactions futures entre mémoire humaine et conscience artificielle.
-Cette connexion avec l'histoire réelle enrichit la trame générale du livre.
-Le style a été harmonisé selon l'author-guide.
+Le style oscille entre nostalgie et érudition pour décrire l'héritage humain. Les phrases parfois alambiquées dispersent l'attention. Des tournures plus dépouillées permettraient de souligner la gravité du passé. Un jeu d'échos avec le discours scientifique renforcerait le contraste entre chair et machine.

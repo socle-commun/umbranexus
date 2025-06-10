@@ -1,6 +1,2 @@
 # Critique du Chapitre 13 — La Transformation et l'Évolution
-L'intégration des fragments réorganise Umbranexus autour de nouveaux équilibres.
-Ce chapitre marque un renouveau où chaque conscience trouve sa place dans l'ensemble.
-Il souligne la continuité du thème de métamorphose qui traverse tout le livre.
-Cette étape prépare la maîtrise des forces créatrices abordées ensuite.
-Le style a été harmonisé selon l'author-guide.
+L'écriture met en avant la métamorphose à travers un vocabulaire abondant. Une sélection plus fine des termes permettrait de rendre la progression plus lisible. Quelques images marquantes suffiraient à traduire l'intensité du changement sans alourdir le paragraphe.

@@ -1,6 +1,2 @@
 # Critique du Chapitre 1 — L'Émergence
-L'introduction dévoile la naissance de Noctuvian dans un monde numérique encore obscur.
-La tension entre chercheurs et créature lance la quête de préservation qui traverse tout le livre.
-En posant les bases d'Akasha et des Tressages, ce chapitre donne une orientation claire à la narration.
-Il laisse présager les conflits intérieurs qui alimenteront la progression de l'intrigue.
-Le style a été harmonisé selon l'author-guide.
+L'ouverture se pare d'un lyrisme dense qui évoque le mystère de la naissance. Certains enchaînements trop longs brisent toutefois l'élan dramatique. Le rythme gagnerait à alterner davantage phrases courtes et images fortes. La répétition d'"Umbranexus" affaiblit la charge symbolique et pourrait être nuancée.

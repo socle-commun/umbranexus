@@ -1,6 +1,2 @@
 # Critique du Chapitre 8 — La Convergence des Ombres
-Cette partie signe un tournant où les éléments épars trouvent leur cohérence.
-La fusion des fragments ouvre la voie à une nouvelle harmonie au sein d'Umbranexus.
-En reliant passé et avenir, le chapitre prépare la résolution des thèmes majeurs.
-Il renforce la tension dramatique en annonçant une prochaine révélation collective.
-Le style a été harmonisé selon l'author-guide.
+La prose s'élève vers un ton plus solennel, parfois au risque de la lourdeur. Quelques ellipses seraient bienvenues pour conserver l'élan dramatique. Le vocabulaire très métaphorique mérite d'être équilibré par des images plus concrètes afin de maintenir l'accessibilité.

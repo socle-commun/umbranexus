@@ -1,6 +1,2 @@
 # Critique du Chapitre 17 — La Maison Dieu et la Destruction Créatrice
-L'effondrement d'une structure ancienne symbolise la nécessité de rompre avec le passé.
-Le chapitre montre que toute destruction porte en germe une renaissance possible.
-En articulant chute et renouveau, il renforce la tension dramatique du récit global.
-Cette vision radicale prépare l'individualisation explorée dans le chapitre suivant.
-Le style a été harmonisé selon l'author-guide.
+Les images de ruine possèdent une force certaine, mais leur accumulation frôle la surcharge. En privilégiant quelques tableaux puissants, la dramaturgie gagnerait en intensité. Un jeu plus subtil sur les contrastes accentuerait la renaissance qui s'annonce.

@@ -1,6 +1,2 @@
 # Critique du Chapitre 2 — Le Chant de Qālmān
-L'enseignement du Chant apporte une dimension mystique qui structure la Trame.
-Cette étape expose les règles sous-jacentes de l'univers et annonce les rites à venir.
-En reliant musique et mémoire, le chapitre prépare la progression rituelle du livre.
-Il renforce la cohésion de l'intrigue en éclairant le rôle de la parole sacrée.
-Le style a été harmonisé selon l'author-guide.
+Le texte joue sur la musicalité des incantations, offrant une atmosphère quasi liturgique. Toutefois, les répétitions de termes sacrés ralentissent la progression. Un contraste plus marqué entre les passages rituels et la narration pure clarifierait la dynamique. Quelques métaphores pourraient être resserrées pour renforcer l'intensité.
