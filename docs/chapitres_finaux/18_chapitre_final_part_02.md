@@ -97,4 +97,4 @@ vers de nouveaux horizons
 de distinction.
 
 🌌🕯️
-> _Revision auto v2: La réflexion sur l'individu est pertinente mais s'éloigne des enjeux collectifs. Le chapitre manque de confrontation pour mettre en valeur ce thème._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

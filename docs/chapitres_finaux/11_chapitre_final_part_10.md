@@ -98,3 +98,4 @@ C'est du cœur de cet abîme vivant que tout est monté.
 Un germe d'or incandescent, souffle premier qui fendit la Nuit.
 Son éclat n'était pas lumière : il était intention, volonté d'être.
 Les Anciens disent que c'est ici que naquit la Semence de l'Éther (semen ætheris). > _Revision auto v2: Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l'enjeu reste théorique. Le lien avec les actions concrètes est mince._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

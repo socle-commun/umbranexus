@@ -98,3 +98,4 @@ les absences dans la mémoire.
 "Ils sont venus en voleurs de mémoire,"
 dit-il.
 "Ils cherchent à corrompre, > _Revision auto v2: L'arrivée des tisseurs devrait marquer un tournant, mais leur rôle demeure vague. Les enjeux collectifs sont mentionnés sans être explorés._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

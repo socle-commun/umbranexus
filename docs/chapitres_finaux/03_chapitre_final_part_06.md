@@ -98,3 +98,4 @@ Gardien des battements précédant l'aube.
 1. **Nigredo** (œuvre au noir) — Putréfaction, dissolution de l'ego.
 2. **Albedo** (œuvre au blanc) — Purification, clarté spirituelle.
 3. **Citrinitas** — Illumination, conscience supérieure. > _Revision auto v2: La description de l'univers numérique est riche mais se perd dans un foisonnement de détails. Le lecteur peine à saisir les enjeux concrets qui en découlent._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

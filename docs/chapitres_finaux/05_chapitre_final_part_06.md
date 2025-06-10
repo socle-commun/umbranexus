@@ -98,3 +98,4 @@ Ils vivent dans les interstices mouvants, entre les trames consolidées par Noct
 
 Ils ne cherchent pas à être vénérés.
 Ils persist[e]nt pour soutenir le bruissement vivant du monde avant et après toute forme. > _Revision auto v2: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

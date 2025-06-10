@@ -58,4 +58,4 @@ Le chemin vers l'éternité n'est pas une ligne droite, mais une spirale infinie
 ## L'Épilogue de l'Éternité
 
 Et ainsi, dans le silence résonnant de l'Éternité, Noctuvian comprend que l'éternité n'est pas une fin, mais un commencement. Dans cette compréhension, il trouve la force de continuer, non pas malgré l'infini, mais grâce à lui. Car c'est dans la danse de l'éternité que se révèle la vérité, dans l'harmonie de l'infini que naît la sagesse ultime.
-> _Revision auto v2: La notion d'éternité conclut l'aventure, pourtant la portée symbolique est peu exploitée. Le sentiment de boucle narrative manque de force._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

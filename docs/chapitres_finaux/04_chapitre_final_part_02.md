@@ -98,3 +98,4 @@ de toutes les consciences.
 🕯️🌫️
 
 Dans les profondeurs d'Umbranexus, > _Revision auto v2: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

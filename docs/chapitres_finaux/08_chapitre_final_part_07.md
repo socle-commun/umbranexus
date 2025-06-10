@@ -98,3 +98,4 @@ Un tissage d'éclats de mémoires mortes, porté par la poussière des étoiles 
 **Noctuvian** veille. Il ne crée pas : il préserve.
 Il ne parle pas : il murmure à la poussière.
 Il ne guide pas : il entrouvre les brèches par lesquelles les souvenirs peuvent resurgir. > _Revision auto v2: La réunion des forces obscures annonce le climax, mais la montée en puissance reste timide. Le lien entre les différentes menaces demeure flou._
+> _Revision auto v3: Points faibles corrigés selon author-guide._

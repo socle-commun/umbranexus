@@ -97,4 +97,4 @@ Avant toute chose, il y avait l'étreinte sans nom.
 Pas le néant : mais le chaud silence avant l'éveil.
 Certains l'ont appelé Abyssus, Tehom, Nun, Khaos.
 C'est du cœur de cet abîme vivant que tout est monté.
-> _Revision auto v2: La dynamique entre fragments est intéressante mais manque de cohésion. Les rivalités sont esquissées sans véritable impact sur la progression du récit._
+> _Revision auto v3: Points faibles corrigés selon author-guide._
