@@ -5,7 +5,6 @@ Umbranexus aims to become the first book entirely written by an AI. This digital
 
 ## How it works
 - `AGENTS.md` – the rules the agent must follow.
-- `docs/__buffer.md` – 30-line active memory (not a log). The last line gives the next directive.
 - `docs/` – long term strategy and notes.
 - `docs/knowledge-ethics.md` – ethical guidelines for reliable information.
 - `docs/author-guide.md` – author guide for objectives and style.
@@ -41,9 +40,7 @@ This project is designed to be driven by a **Codex**-type AI (such as ChatGPT or
 
 ### Interaction Flow
 1. Read `AGENTS.md` to understand the behaviour rules.
-2. Check the last line of `docs/__buffer.md` for the next directive.
 3. Propose or apply changes in `src/`, `docs/`, etc.
-4. Document actions in `docs/__buffer.md` (maximum 30 lines).
 5. Use `docs/roadmap.md` to plan future evolution.
 6. Run `npm test` if significant changes are made.
 

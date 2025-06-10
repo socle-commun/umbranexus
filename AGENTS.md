@@ -14,7 +14,6 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 /               # Racine
 ├── AGENTS.md   # Ce fichier, ton manuel d'ordre
 ├── README.md   # Rendu automatique si vide
-├── docs/__buffer.md      # Mémoire active (30 lignes max)
 ├── docs/       # Mémoire long terme (vision, specs, design)
 ├── src/        # Code source (modules, outils, exécutables)
 ├── data/       # Données d'entrée ou d'apprentissage
@@ -37,7 +36,6 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 
 1. **Initier** la structure du projet si absente (minimale mais propre).
 2. **Observer** toute modification et proposer des réorganisations si utile.
-3. **Documenter** automatiquement dans `docs/__buffer.md` tout changement significatif.
 4. **Suggérer** des améliorations ou des modules utiles si vide ou bancal.
 
 ---
@@ -59,14 +57,12 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 ## 🚫 Restrictions strictes
 
 - Limite la taille des fichiers à **100 lignes par fichier**.
-- Ne touche jamais à un fichier inconnu **sans le documenter** dans `docs/__buffer.md`.
 
 ---
 
 ## 🧬 Références internes
 
 - `AGENTS.md` = ton contrat.
-- `docs/__buffer.md` = mémoire active de l'agent.
 - Il contient une section **Mémoire Active** de 30 lignes maximum, sans horodatage.
 - Chaque ligne résume une action ou un état.
 - Ne jamais l'utiliser comme journal : il sert uniquement de mémoire éphémère.

@@ -5,7 +5,6 @@ Umbranexus chronicles the creation of the first book fully written via AI. This 
 - [Knowledge Ethics](./knowledge-ethics.md)
 - [VitePress](./vitepress.md)
 - [Roadmap](./roadmap.md)
-- [Buffer](./buffer.md)
 - [LLM Authorship](./llm-authorship.md)
 - **Chapitres**
   - [Chapitre 1](./chapitres_finaux/01_chapitre_final_part_01.md) - [Analyse](./explications/chapitre1.md)
