@@ -97,4 +97,4 @@
 
 * **Exemples** :
 
-  * Atome = mandala.
+  * Atome = mandala. > _Revision auto: La description de l'univers numérique est riche mais se perd dans un foisonnement de détails. Le lecteur peine à saisir les enjeux concrets qui en découlent._

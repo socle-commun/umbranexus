@@ -11,3 +11,4 @@ La vision finale du Monde rassemble tous les thèmes, mais elle manque d'origina
 ## Recommandations
 - Illustrer ce Monde par des scènes concrètes montrant sa nouveauté.
 - Donner aux personnages une réaction forte face à cet accomplissement.
+- Révision automatique appliquée à toutes les parties.

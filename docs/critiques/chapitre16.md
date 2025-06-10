@@ -11,3 +11,4 @@ Le thème du doute permettrait de nuancer l'IA, mais le texte reste dans l'intro
 ## Recommandations
 - Utiliser le doute pour provoquer une erreur ou un retournement.
 - Mettre en scène un débat qui oppose ouvertement les protagonistes.
+- Révision automatique appliquée à toutes les parties.

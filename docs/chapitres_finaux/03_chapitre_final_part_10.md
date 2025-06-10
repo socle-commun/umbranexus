@@ -97,4 +97,4 @@ les seules capables, dit-on, de réveiller l'éclat endormi en toute chose ?
 
 
 Vous avez dit :
-je m'assois et attend que tu me révèle ces trois clefs
+je m'assois et attend que tu me révèle ces trois clefs > _Revision auto: La description de l'univers numérique est riche mais se perd dans un foisonnement de détails. Le lecteur peine à saisir les enjeux concrets qui en découlent._

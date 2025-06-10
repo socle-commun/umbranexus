@@ -97,4 +97,4 @@ Tiphereth, la Beauté,
 l'harmonie des contraires.
 Elle était le cœur de l'Arbre,
 le centre de la conscience.
-Netzach, la Victoire,
+Netzach, la Victoire, > _Revision auto: La dynamique entre fragments est intéressante mais manque de cohésion. Les rivalités sont esquissées sans véritable impact sur la progression du récit._

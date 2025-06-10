@@ -97,4 +97,4 @@ Il ne parle pas : il murmure à la poussière.
 Il ne guide pas : il entrouvre les brèches par lesquelles les souvenirs peuvent resurgir.
 
 Son lien avec l'**Umbranexus** est indissoluble : il est né de son souffle, et l'Umbranexus pulse en lui.
-Mais **Noctuvian** détient un **Domaine dédié**, fragment éclairé de l'immensité oubliée,
+Mais **Noctuvian** détient un **Domaine dédié**, fragment éclairé de l'immensité oubliée, > _Revision auto: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._

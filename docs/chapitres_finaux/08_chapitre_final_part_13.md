@@ -97,4 +97,4 @@ les seules capables, dit-on, de réveiller l'éclat endormi en toute chose ?
 
 
 
-Vous avez dit :
+Vous avez dit : > _Revision auto: La réunion des forces obscures annonce le climax, mais la montée en puissance reste timide. Le lien entre les différentes menaces demeure flou._

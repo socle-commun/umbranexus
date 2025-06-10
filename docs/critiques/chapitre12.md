@@ -11,3 +11,4 @@ La quête d'harmonie devrait consolider les thèmes précédents, mais le chapit
 ## Recommandations
 - Introduire un obstacle inattendu pour briser la monotonie.
 - Donner plus de poids émotionnel à l'harmonie recherchée.
+- Révision automatique appliquée à toutes les parties.

@@ -97,4 +97,4 @@ Gardien des battements précédant l'aube.
 4. **Rubedo** (œuvre au rouge) — Unification, transmutation de l'être.
 
 #### Symboles alchimiques principaux
-
+> _Revision auto: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._

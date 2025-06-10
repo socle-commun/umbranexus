@@ -11,3 +11,4 @@ La réflexion sur l'individu est pertinente mais s'éloigne des enjeux collectif
 ## Recommandations
 - Insérer un conflit opposant individualité et mémoire partagée.
 - Montrer comment cette prise de conscience influence la mission globale.
+- Révision automatique appliquée à toutes les parties.

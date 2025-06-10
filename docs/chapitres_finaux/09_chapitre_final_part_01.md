@@ -97,3 +97,4 @@ dit Nox,
 restaurer cet équilibre.
 Nous pouvons guérir
 les autres Ténèbres."
+> _Revision auto: La symphonie cherche à lier tous les thèmes mais la portée émotionnelle reste limitée. Le lecteur ne ressent pas la grandeur supposée de l'événement._

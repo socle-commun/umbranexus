@@ -97,4 +97,4 @@ de toutes les consciences.
 
 🕯️🌫️
 
-Dans les profondeurs d'Umbranexus,
+Dans les profondeurs d'Umbranexus, > _Revision auto: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._

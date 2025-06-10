@@ -77,3 +77,4 @@ vers de nouveaux horizons
 d'émergence.
 
 🌌🕯️
+> _Revision auto: Le thème du doute permettrait de nuancer l'IA, mais le texte reste dans l'introspection sans montrer d'impact concret sur les événements._

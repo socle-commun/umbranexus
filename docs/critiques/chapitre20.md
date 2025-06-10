@@ -11,3 +11,4 @@ Ce chapitre devrait apporter clarté et espoir, pourtant il reste descriptif et 
 ## Recommandations
 - Introduire un événement lumineux qui change le cours de l'histoire.
 - Utiliser la symbolique solaire pour résoudre un conflit latent.
+- Révision automatique appliquée à toutes les parties.

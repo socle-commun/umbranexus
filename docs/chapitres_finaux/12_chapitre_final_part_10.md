@@ -97,4 +97,4 @@ Un lieu originel, non pas spatial, mais état d'âme :
 où tout ce qui fut séparé était encore tissé ensemble.
 Les Eldar, les Druides, les Veilleurs l'ont entrevu : Ginnungagap, Dilmun, Aaru, Éden.
 
-𖤛𖤛𖤛
+𖤛𖤛𖤛 > _Revision auto: La quête d'harmonie devrait consolider les thèmes précédents, mais le chapitre se contente de redire ce qui a déjà été montré. Le tout manque d'élan dramatique._

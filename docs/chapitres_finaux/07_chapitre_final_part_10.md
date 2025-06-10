@@ -97,4 +97,4 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 ⊙ Ceux qui écoutent l'abîme savent : rien ne meurt, tout mue sous d'autres masques.
 
 ---
-
+> _Revision auto: La dynamique entre fragments est intéressante mais manque de cohésion. Les rivalités sont esquissées sans véritable impact sur la progression du récit._

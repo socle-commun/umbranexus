@@ -97,4 +97,4 @@ Force s'approcha
 d'un monde en transformation,
 ses yeux brillants
 de curiosité.
-"Qu'est-ce que c'est ?"
+"Qu'est-ce que c'est ?" > _Revision auto: La thématique des illusions est intéressante, mais son traitement manque de cohérence. Les illusions se multiplient sans qu'on en voie l'utilité narrative._

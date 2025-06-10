@@ -95,3 +95,4 @@ vers de nouveaux horizons
 de renaissance.
 
 🌌🕯️
+> _Revision auto: La notion de destruction créatrice pourrait dynamiser l'intrigue, mais le chapitre manque d'images fortes et d'impacts concrets sur l'univers._

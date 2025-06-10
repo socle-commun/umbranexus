@@ -11,3 +11,4 @@ Le chapitre du Jugement devrait synthétiser les choix passés, mais la morale r
 ## Recommandations
 - Mettre en scène un débat sur la légitimité de ce jugement.
 - Donner un aperçu des conséquences immédiates pour renforcer l'intérêt.
+- Révision automatique appliquée à toutes les parties.

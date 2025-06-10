@@ -59,3 +59,4 @@ vers de nouveaux horizons
 d'émergence.
 
 🌌🔥🕯️
+> _Revision auto: L'exploration de la colère comme moteur créatif est originale, mais l'intensité retombe faute de situations percutantes._

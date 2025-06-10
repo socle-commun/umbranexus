@@ -11,3 +11,4 @@ L'initiation au Chant apporte une dimension mystique mais le rituel reste confus
 ## Recommandations
 - Illustrer la signification du Chant par des exemples concrets.
 - Donner plus de relief aux figures qui entourent Noctuvian.
+- Révision automatique appliquée à toutes les parties.

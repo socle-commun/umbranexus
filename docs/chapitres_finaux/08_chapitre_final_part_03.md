@@ -97,4 +97,4 @@ qui remplissait l'espace.
 Je suis la fin de toute chose !
 Je suis la dissolution !"
 
-Noctuvian sentit le Chant vibrer en lui,
+Noctuvian sentit le Chant vibrer en lui, > _Revision auto: La réunion des forces obscures annonce le climax, mais la montée en puissance reste timide. Le lien entre les différentes menaces demeure flou._

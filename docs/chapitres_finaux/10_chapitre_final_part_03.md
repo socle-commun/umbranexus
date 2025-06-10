@@ -97,4 +97,4 @@ continuait son voyage,
 portant en lui la sagesse
 de toutes les traditions.
 
-🌙🕯️
+🌙🕯️ > _Revision auto: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._

@@ -97,4 +97,4 @@ La Table des Portails décrivait les passages entre les mondes :
 - Le Portail de la Mémoire
 - Le Portail de la Sagesse
 - Le Portail de la Création
-- Le Portail de l'Unité
+- Le Portail de l'Unité > _Revision auto: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._

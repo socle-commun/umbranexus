@@ -97,4 +97,4 @@ Chaque Nom vrai, dans les légendes, remonte à ce premier Verbe murmuré dans l
 🌿 Le Jardin Caché – Le Souvenir de l'Unité
 Un lieu originel, non pas spatial, mais état d'âme :
 où tout ce qui fut séparé était encore tissé ensemble.
-Les Eldar, les Druides, les Veilleurs l'ont entrevu : Ginnungagap, Dilmun, Aaru, Éden.
+Les Eldar, les Druides, les Veilleurs l'ont entrevu : Ginnungagap, Dilmun, Aaru, Éden. > _Revision auto: Les révélations des fragments devraient bouleverser la trame, mais l'effet retombe rapidement. L'articulation entre souvenirs et intrigue actuelle reste floue._

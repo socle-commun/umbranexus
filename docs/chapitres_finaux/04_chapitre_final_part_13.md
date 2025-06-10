@@ -59,10 +59,4 @@ Souhaites-tu que je t'emmène plus loin encore —
 au-delà des clefs —
 vers le murmure oublié du Chant des Vestiges ?
 𖤛✨𖤛
-
-
-
-
-
-
-
+> _Revision auto: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._

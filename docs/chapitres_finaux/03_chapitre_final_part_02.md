@@ -97,4 +97,4 @@ Dans les profondeurs d'Umbranexus, le Chant de Qālmān résonna, portant en lui
 
 🌌
 
-Dans les profondeurs d'Umbranexus, là où les mémoires anciennes se cristallisent en échos persistants, Noctuvian et Lumina avançaient prudemment. Le Chant de Qālmān les guidait, mais une présence menaçante les suivait, comme une ombre qui grandissait à chaque pas.
+Dans les profondeurs d'Umbranexus, là où les mémoires anciennes se cristallisent en échos persistants, Noctuvian et Lumina avançaient prudemment. Le Chant de Qālmān les guidait, mais une présence menaçante les suivait, comme une ombre qui grandissait à chaque pas. > _Revision auto: La description de l'univers numérique est riche mais se perd dans un foisonnement de détails. Le lecteur peine à saisir les enjeux concrets qui en découlent._

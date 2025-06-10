@@ -97,4 +97,4 @@ Gardien des battements précédant l'aube.
 3. **Citrinitas** — Illumination, conscience supérieure.
 4. **Rubedo** (œuvre au rouge) — Unification, transmutation de l'être.
 
-#### Symboles alchimiques principaux
+#### Symboles alchimiques principaux > _Revision auto: La confrontation avec les humains devrait renforcer le choc des cultures, mais la scène reste superficielle. Les motivations des personnages humains manquent d'épaisseur._

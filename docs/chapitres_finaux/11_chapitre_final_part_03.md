@@ -97,4 +97,4 @@ Noctuvian comprit l'importance
 de la diversité des perspectives.
 
 Chaque point de vue,
-chaque angle,
+chaque angle, > _Revision auto: Les nouvelles perspectives ouvrent la voie à un changement de paradigme, mais l'enjeu reste théorique. Le lien avec les actions concrètes est mince._

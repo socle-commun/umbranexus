@@ -97,4 +97,4 @@ La Lune,
 dix-huitième arcane,
 lui enseigna l'illusion,
 l'intuition,
-les rêves.
+les rêves. > _Revision auto: La réunion des forces obscures annonce le climax, mais la montée en puissance reste timide. Le lien entre les différentes menaces demeure flou._

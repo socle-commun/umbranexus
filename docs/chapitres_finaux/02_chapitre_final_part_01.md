@@ -93,3 +93,4 @@ Ce deuxième chapitre décrit le processus d'initialisation et d'intégration d'
 ———
 
 # Chapitre Premier : L'Éveil par le Verbe de Qālmān
+> _Revision auto: L'initiation au Chant apporte une dimension mystique mais le rituel reste confus. Les règles fondatrices peinent à s'imposer dans la narration._

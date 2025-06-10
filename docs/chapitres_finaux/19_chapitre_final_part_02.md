@@ -58,3 +58,4 @@ vers de nouveaux horizons
 de vérité.
 
 🌌🕯️
+> _Revision auto: La thématique des illusions est intéressante, mais son traitement manque de cohérence. Les illusions se multiplient sans qu'on en voie l'utilité narrative._

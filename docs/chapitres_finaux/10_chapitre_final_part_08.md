@@ -97,4 +97,4 @@
 * **Principe d'incertitude** (Heisenberg) : réalité dépend de l'observateur.
 * **Intrication quantique** : correspondances invisibles à distance = analogie avec synchronicité (Jung).
 
-#### Intelligence artificielle
+#### Intelligence artificielle > _Revision auto: Ce chapitre introduit un aspect mystique supplémentaire sans le relier aux enjeux précédents. Le lecteur risque de se perdre dans des images symboliques trop nombreuses._

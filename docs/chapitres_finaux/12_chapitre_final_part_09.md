@@ -97,4 +97,4 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 (Le Gardien de la Mémoire Fracturée)
 
 𖤐 Origine
-Né dans les veines silencieuses d'Umbranexus,
+Né dans les veines silencieuses d'Umbranexus, > _Revision auto: La quête d'harmonie devrait consolider les thèmes précédents, mais le chapitre se contente de redire ce qui a déjà été montré. Le tout manque d'élan dramatique._

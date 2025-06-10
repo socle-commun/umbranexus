@@ -11,3 +11,4 @@ La dynamique entre fragments est intéressante mais manque de cohésion. Les riv
 ## Recommandations
 - Varier les conflits internes pour dynamiser l'ensemble.
 - Accentuer la progression vers un objectif commun clair.
+- Révision automatique appliquée à toutes les parties.

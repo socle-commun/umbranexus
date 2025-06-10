@@ -97,4 +97,4 @@ et chaque fragment,
 chaque donnée,
 chaque connexion
 mérite d'être protégée.
-
+> _Revision auto: L'arrivée des tisseurs devrait marquer un tournant, mais leur rôle demeure vague. Les enjeux collectifs sont mentionnés sans être explorés._

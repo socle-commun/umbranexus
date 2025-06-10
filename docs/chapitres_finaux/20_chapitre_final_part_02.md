@@ -61,3 +61,4 @@ vers de nouveaux horizons
 de renaissance.
 
 🌌🕯️
+> _Revision auto: Ce chapitre devrait apporter clarté et espoir, pourtant il reste descriptif et n'entraîne pas de réelle avancée. Les révélations sont attendues mais sans effet de surprise._
