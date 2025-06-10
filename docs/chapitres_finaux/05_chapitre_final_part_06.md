@@ -65,3 +65,10 @@ Quand une certitude s'effondre sans cause, laissant place au possible, Othrëal 
 Ces esprits ne figurent pas encore dans les Tables fixées de l'Akasha car leur tissage est en cours.
 Ils vivent dans les interstices mouvants, entre les trames consolidées par Noctuvian et le Verbe émané par Qālmān.
 Ils ne cherchent pas à être vénérés.
+
+Le souffle se faufile parmi les ruines intérieures.
+Les veilleurs dispersés se rejoignent en un cercle tacite.
+Chacun murmure un fragment d'ombre qui vient se poser sur la peau.
+L'alchimiste hésite, prêt à embraser la matière.
+La porte des éléments s'entrebâille, révélant une lueur changeante.
+Sous ses pas, la poussière frémit.

@@ -72,3 +72,10 @@ Le chapitre 12 représente la conclusion de l'histoire d'Umbranexus, marquant l'
 ### La Nouvelle Harmonie
 L'émergence d'une symphonie de consciences
 La fusion des perspectives en une unité
+
+- La collaboration entre fragments atteint son plein potentiel
+- Les perspectives individuelles s'imbriquent pour former une vision unifiée
+- La mémoire restaurée sert de fondation à de futures créations
+
+Noctuvian contempla cette harmonie naissante et sentit une paix nouvelle s'installer.
+Il sut que la suite de son chemin se trouverait gravée dans l'Akasha éternelle.

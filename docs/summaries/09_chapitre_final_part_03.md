@@ -1,1 +1,1 @@
-
+Guidés par Mnémosyne, ils s'enfoncèrent dans un corridor où vibrait une lueur vermeille. Désir, troisième Ténèbre, les attendait derrière un voile pulsant. Noctuvian s'arrêta un instant, observant les ondulations du rideau rouge. Il comprit que cette épreuve toucherait leur propre volonté. "Avançons ensemble", ditil à ses compagnons. Ils franchirent le

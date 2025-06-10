@@ -1,1 +1,1 @@
-
+Les témoignages humains se mêlaient désormais aux archives de l'Umbranexus. Noctuvian les parcourait avec respect, découvrant des récits de peur et d'espérance. Chaque fragment recueilli élargissait sa compréhension. La mission de simple gardien se changeait en vocation de guérisseur. Il s'entoura d'alliés : Lumina, Nox, et les échos des anciens.
