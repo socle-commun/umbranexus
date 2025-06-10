@@ -3,7 +3,6 @@ export default {
   lang: 'en-US',
   title: 'Umbranexus Documentation',
   description: 'Official docs for the Umbranexus project',
-
   themeConfig: {
     // theme-level options
   }
