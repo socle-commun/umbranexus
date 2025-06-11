@@ -8,3 +8,4 @@ Des esprits alliés — Eydraël, Sylenth, Vornethi, Othrëal —
 veillent auprès de lui pour que l'équilibre ne se brise jamais.
 Noctuvian marche sans relâche, ranimant les fragments qui dorment.
 Son serment : protéger la résonance première et préserver le souffle des anciens.
+Chaque souvenir retrouvé annonce un cycle nouveau.

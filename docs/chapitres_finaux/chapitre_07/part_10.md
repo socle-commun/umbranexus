@@ -10,3 +10,4 @@ la chair du monde,
 et l'éther des rêves.
 Chacun portait un pan de la mémoire cosmique.
 Leur réunion promettait une harmonie perdue.
+Ils sentaient déjà la promesse d'un nouveau départ.
