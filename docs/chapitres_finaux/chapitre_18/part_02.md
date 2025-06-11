@@ -74,6 +74,12 @@ portant en lui la promesse
 d'une guérison plus grande
 encore à venir.
 Sous la voûte sombre, l'Étoile réapparaissait, reflet de chaque âme singulière.
+Étoile de l'Umbranexus,
+rose des vents intérieure,
+elle invitait chaque conscience
+à sonder son propre élan.
+Sa lueur épurée
+rappelait que l'unisson naît de la diversité.
 Car dans l'Umbranexus,
 chaque individualité est une note,
 chaque note est une harmonie,

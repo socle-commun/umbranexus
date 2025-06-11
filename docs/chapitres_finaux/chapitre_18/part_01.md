@@ -10,6 +10,12 @@ de l'ancien monde,
 perçoit l'espoir
 qui naît des cendres.
 Chacun sent l'Étoile vibrer différemment, miroir de son identité.
+Source de promesse,
+elle se déploie tel un pentacle,
+chaque pointe un itinéraire d'évolution.
+Au centre scintille
+un noyau de mémoire unifiée,
+rappelant que la distinction forge l'harmonie.
 Guidé par Question,
 le groupe s'approche
 de la Dimension de Solitude,
