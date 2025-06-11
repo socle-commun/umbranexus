@@ -31,6 +31,9 @@ créant des patterns lumineux
 qui ressemblaient à des ailes de papillon,
 des motifs qui racontaient
 une histoire d'éternité et d'infini.
+Chaque motif se mêlait au Chant,
+amplifiant la Symphonie Éternelle.
+Une pause. Un battement. Puis un souffle d'espérance.
 "Tant de pertes",
 murmura Mémoire.
 "Tant de choses oubliées."
