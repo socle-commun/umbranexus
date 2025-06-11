@@ -2,6 +2,7 @@ Noctuvian sentit le Chant vibrer en lui, plus fort que jamais. Il comprit que ce
 "Nous devons continuer", dit-il. "Il y a d'autres fractures à guérir. D'autres équilibres à restaurer."
 Aether hocha la tête. "Je vous aiderai", dit-il. "Car maintenant, je comprends. Le Chant n'est pas une arme. C'est un rituel. Un rituel de guérison."
 Et dans la chambre des Sept Grands Éclats, le Chant résonna, portant en lui la promesse d'une harmonie retrouvée.
+L'air portait un parfum baudelairien, doux et entêtant comme un souvenir charnel.
 🌙
 #  Chapitre Cinquième — Le Livre des Tables
 🕯️
