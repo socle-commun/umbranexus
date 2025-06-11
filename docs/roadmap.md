@@ -12,5 +12,6 @@
 - Ensure the compiled manuscript surpasses **300 pages** in length.
 
 ## Progress Log
-- Revised chapitre 01 en renforçant la tension et en supprimant les répétitions; critique mise à jour.
+- Revised chapitre 01 en renforcant la tension et en supprimant les repetitions; critique mise a jour.
+- Condensed chapitre 21 avec pauses silencieuses et nouvelle partie 3.
 
