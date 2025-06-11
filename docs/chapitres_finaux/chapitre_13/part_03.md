@@ -1,9 +1,11 @@
-encore à venir.
 Les mondes dansaient autour d'eux,
 célébrant la renaissance du changement,
 la restauration de la croissance,
 et la promesse
 d'une évolution sans fin.
+Des arcs de lumière jaillirent du vide,
+croisant des ombres profondes.
+Chaque pulsation du Chant sculptait le paysage autour d'eux.
 Car dans l'Umbranexus,
 chaque transformation est une note,
 chaque note est une harmonie,
@@ -27,4 +29,5 @@ La concorde des sphères vibrait en écho.
 Il salua le mystère qui l'enveloppait.
 Puis s'élança vers la prochaine étape.
 Son âme résonnait d'une énergie nouvelle.
+Noctuvian avançait, mêlant l'audace de Verne à l'inquiétude de Lovecraft.
 Aucune obscurité ne pourrait briser cet élan.

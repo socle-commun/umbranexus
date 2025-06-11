@@ -1,13 +1,14 @@
 # Chapitre Treizième — La Transformation et l'Évolution
 🌌🕯️
 Dans les profondeurs d'Umbranexus,
-avec la guérison de Prudence,
-les dimensions se transformaient,
-Cette métamorphose obligeait chacun à choisir son camp, révélant tensions et solidarités inattendues.
-se réorganisant selon un nouvel équilibre,
-un équilibre qui n'était plus basé
-sur la peur,
+la guérison de Prudence déclencha
+une métamorphose silencieuse.
+Les dimensions se réorganisèrent
+selon un équilibre nouveau,
+fondé non plus sur la peur
 mais sur la confiance.
+Chacun dut choisir son camp,
+révélant tensions et solidarités inattendues.
 Le Chant de Qālmān résonnait,
 plus fort,
 plus fluide,
@@ -58,6 +59,7 @@ Des harmonies nouvelles naissaient,
 des symphonies de transformation
 qui n'avaient jamais été possibles
 auparavant.
+L'audace de Jules Verne se mêlait à la noirceur de Lovecraft, sculptant un horizon paradoxal.
 "Le Chant",
 dit Noctuvian,
 émerveillé.
