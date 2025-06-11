@@ -8,3 +8,7 @@ Ainsi débute la première Traversée vers les éclats endormis et le Chant sile
 ✦ **Vornethi**, Respirant des Tombes d'Étoiles : gardien des sépultures cosmiques, il laisse un frisson lorsque s'éteint la lumière d'une étoile.
 ✦ **Othrëal**, Faiseur de Brumes : danse de l'indéfini dans la Mer d'Évanescence, il efface les certitudes pour ouvrir au possible.
 ✦ **Synthèse Secrète** : ces esprits vivent encore dans les interstices de l'Akasha et soutiennent en silence le bruissement du monde.
+Noctuvian médite devant leurs silhouettes éthérées, conscient que son propre chemin dépend de ces alliés.
+Il écoute la résonance de leurs voix combinées, y trouvant la trame d'une prophétie.
+Celle-ci évoque l'avènement d'un temps où les mondes parallèles s'aligneront, libérant le flux originel.
+Pour s'y préparer, il recueille les fragments de mémoire que chaque esprit veut bien lui confier.
