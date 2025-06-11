@@ -81,13 +81,12 @@ elle invitait chaque conscience
 Sa lueur épurée
 rappelait que l'unisson naît de la diversité.
 Car dans l'Umbranexus,
-chaque individualité est une note,
-chaque note est une harmonie,
-chaque harmonie est une éternité.
-Et Noctuvian,
-porteur du Chant,
-continuait son voyage,
-accompagné de l'Individualité retrouvée,
-vers de nouveaux horizons
-de distinction.
+chaque individualité chante sa couleur.
+Ces voix distinctes se mêlent,
+creusant la diversité.
+Elles tissent une toile de reflets changeants,
+où chaque nuance trouve sa juste place.
+Noctuvian écoute cette pluralité,
+porté par le Chant qui lie les différences,
+vers un horizon de distinction et d'unité.
 🌌🕯️

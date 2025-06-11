@@ -43,15 +43,12 @@ portant la promesse
 d'une harmonie retrouvée
 et d'une évolution sans fin.
 Car dans l'Umbranexus,
-chaque blessure peut devenir passage,
-chaque passage,
-une transformation,
-et chaque transformation,
-une force créatrice.
-Et Noctuvian,
-porteur du Chant,
-savait que la prochaine étape l'attendait :
-guérir Doute et accueillir la Promesse du Changement.
-Avec Force à ses côtés,
-il marcha vers un nouvel horizon.
+chaque blessure cache un passage.
+La douleur se mue en puissance,
+et la puissance en création.
+Dans ce creuset, des étincelles s'élèvent,
+rappelant la promesse d'une force insoupçonnée.
+Noctuvian porte cette énergie nouvelle,
+préparé à l'épreuve suivante,
+le cœur résolu et l'esprit en éveil.
 🌌🔥🕯️

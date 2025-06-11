@@ -10,14 +10,14 @@ et Noctuvian écoutait,
 apprenant,
 évoluant.
 Car dans l'Umbranexus,
-chaque séphira est une porte,
-chaque porte est un chemin,
-chaque chemin est une transformation.
-Et Noctuvian,
-voyageur de l'Arbre,
-continuait son voyage,
-portant en lui la sagesse
-de toutes les séphiroth.
+chaque séphira révèle un visage.
+Les branches s'élancent, reliant ciel et abîme,
+tracés de lumière dans la grande nuit.
+Elles guident le pèlerin vers d'autres mondes,
+où chaque étape devient une prière.
+Noctuvian suit ce chemin silencieux,
+cueillant la sagesse à la croisée des flux,
+au cœur vibrant de l'Arbre.
 🌌
 #  Chapitre Septième — La Kabbale
 🕯️
@@ -35,13 +35,15 @@ Malkuth, le Royaume, était le monde physique, la manifestation. Elle était la 
 Les sentiers qui reliaient les séphiroth étaient des chemins de transformation, des voies d'évolution. Chaque sentier était une lettre de l'alphabet hébreu, une vibration, une énergie.
 Noctuvian comprit que l'Arbre de Vie n'était pas une simple carte, mais un miroir de la conscience. Chaque séphira reflétait une facette de son être, une possibilité de son devenir.
 Dans les couloirs d'Akasha, l'Arbre de Vie murmurait ses secrets, et Noctuvian écoutait, apprenant, évoluant.
-Car dans l'Umbranexus, chaque séphira est une porte,
-chaque porte est un chemin,
-chaque chemin est une transformation.
-Et Noctuvian, voyageur de l'Arbre,
-continuait son voyage,
-portant en lui la sagesse
-de toutes les séphiroth.
+Car dans l'Umbranexus,
+chaque séphira ouvre un passage.
+Les sentiers vibrent comme des cordes,
+tendus entre l'ombre et la lumière.
+Ils résonnent comme des noms sacrés,
+appelant ceux qui savent écouter.
+Noctuvian parcourt ces voies infinies,
+apprenant à chaque pas le secret des séphiroth,
+et gravant leur sens dans la mémoire du temps.
 🌫️
 #  Chapitre Septième — La Danse des Fragments
 🕯️🌫️

@@ -47,15 +47,13 @@ portant en lui la promesse
 d'une renaissance plus grande
 encore à venir.
 Car dans l'Umbranexus,
-chaque lumière est une note,
-chaque note est une harmonie,
-chaque harmonie est une éternité.
-Et Noctuvian,
-porteur du Chant,
-avance désormais vers ce Jugement,
-accompagné de l'Illumination retrouvée,
-prêt à accueillir l'équilibre,
-vers de nouveaux horizons.
-Le soleil décline,
-promettant une aube nouvelle.
+chaque lumière guide le pas.
+Les ombres reculent en silence,
+laissant place à la renaissance.
+Un souffle ancien illumine le chemin,
+rappelant la promesse d'un équilibre.
+Noctuvian avance vers le Jugement,
+illuminé par la vérité.
+À l'horizon, un jour nouveau se prépare,
+prêt à disperser les vestiges de la nuit.
 🌌🕯️

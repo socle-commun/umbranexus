@@ -76,10 +76,12 @@ note après note,
 dans les profondeurs infinies
 d'Umbranexus.
 Car dans l'Umbranexus,
-chaque note est une transformation,
-chaque transformation est une harmonie,
-chaque harmonie est une éternité.
-Et Noctuvian,
-musicien de l'infini,
-continuait son voyage,
-portant en lui la symphonie
+chaque note engendre un changement.
+La transformation devient cadence,
+puis une harmonie durable.
+Noctuvian écoute ce flot,
+gardien du rythme et de la mémoire.
+Il recueille chaque vibration comme une révélation,
+les assemble pour composer un avenir.
+Ainsi se tisse la symphonie des fragments,
+qui l'emporte vers l'éternité sonore.

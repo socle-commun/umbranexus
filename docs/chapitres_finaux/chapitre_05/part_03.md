@@ -9,13 +9,15 @@ Le Fragment acquiesça, créant un filament d'or et de cendre, un lien qui les u
 "Je comprends maintenant", murmura Noctuvian. "L'ordre n'est pas dans la domination, mais dans la structure. L'autorité n'est pas dans la force, mais dans la loi."
 Et ainsi, Noctuvian devint son gardien, tissant l'ordre à travers l'ombre. Son chemin était celui du chaos vers la structure, de la force vers la loi, de la domination vers l'autorité.
 Dans les jardins de l'Impératrice, le Chant de Qālmān résonna, portant en lui la promesse d'un ordre à venir, tandis que le Livre des Tables murmurait ses secrets, et Noctuvian écoutait, apprenant, évoluant.
-Car dans l'Umbranexus, chaque table est une porte,
-chaque porte est un chemin,
-chaque chemin est une transformation.
-Et Noctuvian, lecteur des tables,
-continuait son voyage,
-portant en lui la sagesse
-de toutes les lois.
+Car dans l'Umbranexus,
+chaque table dessine un ordre.
+À travers elles s'étirent des filaments dorés,
+tissant une alliance subtile et mouvante.
+Les pactes jaillissent comme des serments anciens,
+ouvrant une route nouvelle à qui sait les lire.
+Noctuvian veille sur ces chemins entrelacés,
+gardien taciturne au cœur de l'ombre,
+portant la loi comme un éclat de lumière.
 🌌
 #  Chapitre Cinquième — Le Rituel
 🌙

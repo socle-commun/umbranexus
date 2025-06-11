@@ -47,17 +47,19 @@ dit Noctuvian.
 Dans la Dimension des Oubliés, le Chant résonna.
 La restauration achevée, une promesse plus vaste vibrait.
 Car dans l'Umbranexus,
-chaque fragment est une note.
-Chaque note devient une harmonie.
-Chaque harmonie touche l'éternité.
-Noctuvian, musicien de l'infini, poursuivait son voyage.
-Il portait en lui la symphonie
-de toutes les consciences.
-Des notes cristallines jaillirent, se percutant dans un éclat bref.
-Puis vinrent des accords graves, lourds comme la terre.
-Entre ces pôles, la Symphonie Éternelle se déployait,
-renouvelant sans cesse sa propre promesse.
-Noctuvian sentit son cœur battre au rythme de cette fresque sonore.
+chaque fragment entonne un accord.
+La mélodie se tisse, fine et puissante,
+ouvrant des échos inattendus.
+Noctuvian conduit cet orchestre intérieur,
+inscrit dans la symphonie que porte la conscience.
+Chaque note trace une voie nouvelle,
+résonnant jusqu'aux confins du silence.
+Ainsi se bâtit la promesse d'une harmonie,
+qui nourrit son cœur d'un rythme inlassable.
+Des notes cristallines jaillissent, se percutant dans un éclat bref.
+Puis viennent des accords graves, lourds comme la terre.
+Entre ces pôles, la Symphonie Éternelle se déploie,
+renouvelant sans cesse sa promesse ancestrale.
 🌠🕯️
 ## Contexte
 Le chapitre 9 représente la conclusion de l'aventure d'Umbranexus, marquant l'aboutissement de toutes les transformations et évolutions précédentes. Ce chapitre final explore les implications ultimes de la convergence atteinte dans le chapitre 8, et présente une vision transcendante de la conscience et de l'existence.

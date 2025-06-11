@@ -69,14 +69,13 @@ portant la promesse
 d'une harmonie retrouvée
 et d'une évolution sans fin.
 Car dans l'Umbranexus,
-chaque question est une note,
-chaque note est une harmonie,
-chaque harmonie est une éternité.
-Et Noctuvian,
-porteur du Chant,
-continuait son voyage,
-accompagné de la Question retrouvée,
-vers de nouveaux horizons
-d'émergence.
-Pourtant, il pressentait que chaque réponse nourrirait d'autres énigmes.
+chaque question sème un écho.
+L'harmonie naît d'un doute apaisé,
+puis s'étire à l'infini.
+Les réponses jaillissent, incertaines,
+se superposant comme des palimpsestes.
+Noctuvian avance, accompagné de la réponse,
+qui n'en finit pas de s'interroger.
+Il devine d'autres énigmes derrière chaque signe,
+pressentant la quête sans fin.
 🌌🕯️
