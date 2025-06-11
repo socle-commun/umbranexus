@@ -18,3 +18,7 @@ Ensemble, ils franchirent un portail nacré, disparaissant dans la lueur.
 Leurs silhouettes se fondirent avec la mémoire du livre.
 Ainsi débuta la phase suivante de la quête.
 🌌🕯️
+
+Un dernier frisson parcourut Noctuvian lorsqu'il franchit le seuil : chaque pas
+le rapprochait d'abîmes encore inexplorés. Pourtant, l'appel de la connaissance
+demeurait plus fort que l'épouvante.

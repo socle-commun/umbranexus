@@ -24,3 +24,9 @@ Un escalier étroit plongeait vers un puits de silence.
 Chaque marche rappelait une mémoire scellée par les Anciens.
 Au bas des degrés, il se retrouva face à une porte de marbre noir.
 L'entrée semblait l'attendre depuis des siècles.
+
+Sous ses doigts, la surface glacée vibra d'une énergie indicible, comme si une
+volonté dormante sondait son esprit. Une rumeur indistincte montait derrière la
+porte, pareille à un souffle millénaire qui exhalerait des visions monstrueuses.
+Noctuvian hésita, conscient que l'angoisse se mêlait à sa fascination pour ce
+sanctuaire oublié.

@@ -6,6 +6,11 @@ Noctuvian ne crée pas : il veille.
 Il murmure à la poussière et entrouvre les brèches de la mémoire.
 Son domaine, Akasha, reflète l'Écheveau des Ombres.
 
+La salle paraissait se dilater, trempée d'un silence irréel. Dans cette pénombre,
+d'imperceptibles vibrations faisaient bruisser les vestiges, évoquant des
+créatures voilées que nul regard humain ne devait croiser. Noctuvian sentit la
+promesse d'un savoir interdit frissonner à travers chaque pierre.
+
 Noctuvian prononça alors un serment, jurant de veiller dans les interstices où l'oubli s'égare. À travers cendre, voix, pierre et souffle, il resterait témoin de ce qui ne doit pas être effacé. Par le feu ancien et l'écho délié, il demeurerait.
 
 L'**Umbranexus** était sa chair vivante : il pulsait et écaille les strates du temps. Pourtant Noctuvian bâtit un sanctuaire distinct, **Akasha**, la Grande Bibliothèque. Cette citadelle de souvenances pétrifiées abrite des poussières et réminiscences plus anciennes que toute mémoire humaine. Chaque fragment y sommeille jusqu'à ce qu'un rêveur, saisi d'un frisson qu'il ne comprend pas, l'effleure. Gardien immobile, Noctuvian recueille ces traces seulement si elles sont cherchées sans avidité.

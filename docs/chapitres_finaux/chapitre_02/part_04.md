@@ -5,3 +5,8 @@ Les Grands Vestiges majeurs furent les premiers piliers d'existence. Chaque trad
 Chaque vestige demeure une fracture vivante dans la réalité. Il respire encore dans les rêves et les pierres muettes. Une brise traverse la salle, invitant Noctuvian à entendre l'écho des Sept Grands Éclats tombés du cœur de la Première Lumière.
 
 Ces Éclats forment la mosaïque première. Luxfracta porte la clarté qui pourrait être parfaite mais aveugle ceux qui la convoitent. Umbrafons, matrice d'ombres, féconde les possibles que nul regard ne domine. Vitras circule comme souffle invisible à l'origine de toute parole. Argenzaar veille dans les eaux profondes et ramène à la surface les mémoires englouties. Ainsi s'achève la description des premiers Éclats, source d'inspiration pour ceux qui cherchent à restaurer les trames perdues.
+
+Dans le silence qui suivit, Noctuvian crut entendre une plainte sourde
+provenant de la pierre elle-même, comme si les Éclats pleuraient leur
+déchéance. Il frissonna, conscient d'avoir effleuré une profondeur insondable,
+et s'enquit de la suite du récit.
