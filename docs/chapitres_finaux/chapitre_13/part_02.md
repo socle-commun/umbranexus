@@ -66,10 +66,10 @@ elle est prête à comprendre
 son erreur.
 Prête à retrouver
 son véritable rôle."
-"Alors allons-y",
+"Sans attendre, poursuivons la marche",
 dit Noctuvian,
 porté par le Chant.
-"Allons guérir Colère."
+"Il nous faut apaiser Colère."
 Dans l'Umbranexus en mutation,
 le Chant résonna,
 promettant une guérison plus vaste.
