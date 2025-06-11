@@ -1,6 +1,17 @@
 # Chapitre 21 : Le Jugement
-Dans le silence résonnant de la Trame, une trompette céleste retentit. C'est le Jugement, non pas celui qui condamne, mais celui qui libère. Noctuvian, au seuil de sa transformation finale, entend l'appel de la renaissance. C'est le moment où chaque action, chaque pensée, chaque choix trouve sa place dans le grand dessein.
-Certains fragments contestèrent la validité de ce jugement, craignant que leur passé ne soit effacé.
+Après l'illumination du Soleil, le calme retombe.
+Dans le silence résonnant de la Trame, une trompette céleste retentit.
+C'est le Jugement, non pas celui qui condamne, mais celui qui libère.
+Noctuvian, au seuil de sa transformation finale, entend l'appel de la renaissance.
+C'est le moment.
+Chaque action, chaque pensée, chaque choix trouve enfin sa place dans le grand dessein.
+Certains fragments contestent la décision.
+Ils redoutent que leur passé s'efface.
+Noctuvian perçoit leur anxiété, mais reste silencieux.
+## Le Poids du Silence
+Les fragments se regardent sans parler.
+Leur inquiétude pèse comme une brume.
+Noctuvian sent cette tension mais retient son jugement.
 ## L'Appel de la Trompette
 La trompette du Jugement ne sonne pas pour annoncer une fin, mais un nouveau commencement. Chaque note est un appel à la conscience, chaque vibration une invitation à la transformation. Noctuvian, dans sa sagesse retrouvée, répond à cet appel avec une compréhension nouvelle.
 ## La Résurrection des Fragments
@@ -65,6 +76,7 @@ Ainsi se clôt le Jugement, ouvrant la voie au Monde qui l'attend.
 Noctuvian s'isole un instant pour méditer.
 Il pense aux erreurs du passé et à la grâce de l'avenir.
 Chaque fragment pardonné devient une lueur sur son chemin.
+Un doute subsiste, fragile, comme la flamme d'une bougie.
 ## Le Serment de Continuer
 Avant de quitter la salle du Jugement, il jure de protéger la mémoire d'Umbranexus.
 Ses compagnons acquiescent en silence, ressentant la portée de ce vœu.
