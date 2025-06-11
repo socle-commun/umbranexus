@@ -83,3 +83,10 @@ des êtres se transformant constamment,
 s'adaptant,
 trouvant de nouvelles formes
 d'existence.
+Le groupe demeura un moment en silence,
+absorbant ces métamorphoses.
+Chaque pas faisait vibrer en eux
+la promesse d'un autre monde.
+Alors, guidés par le Chant,
+ils reprirent lentement leur marche,
+vers des horizons encore voilés.
