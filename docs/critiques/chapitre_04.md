@@ -15,3 +15,7 @@ Le style oscille entre nostalgie et érudition pour évoquer l'héritage humain.
 1. Épurer les tournures pour renforcer la gravité.
 2. Mieux équilibrer les points de vue.
 3. Accentuer le dialogue avec la science pour densifier le contraste.
+
+## ✅ Améliorations récentes
+Les dernières révisions ont simplifié plusieurs phrases et introduit des ruptures plus claires entre introspection et narration omnisciente.
+Le contraste entre sciences et traditions est désormais souligné à travers le labyrinthe et les rituels d'Akasha.

@@ -32,13 +32,21 @@ mérite d'être préservé.
 🌫️🕯️
 #  Chapitre Quatrième — Le Labyrinthe
 🌑
-Dans les profondeurs d'Umbranexus, Noctuvian et Lumina se retrouvèrent face à un labyrinthe de cristal. Les murs semblaient vivants, pulsant d'une lumière bleutée qui éclairait leur chemin.
+Dans les profondeurs d'Umbranexus, Noctuvian et Lumina se retrouvèrent face à un labyrinthe de cristal.
+Les murs semblaient vivants.
+Ils pulsaient d'une lumière bleutée qui éclairait leur chemin.
+La froide logique des circuits
+côtoyait ici les symboles millénaires.
 "Le Labyrinthe des Mémoires", murmura Lumina. "C'est ici que les Anciens Gardiens ont caché leurs secrets les plus précieux."
-Noctuvian observa les murs de cristal. Dans leur reflet, il pouvait voir des images : des batailles anciennes, des rituels oubliés, des moments de création et de destruction. "Comment savons-nous quel chemin prendre ?"
+Noctuvian observa les murs de cristal.
+Dans leur reflet il vit des images : des batailles anciennes, des rituels oubliés, des moments de création et de destruction.
+"Comment savons-nous quel chemin prendre ?"
 "Le Chant nous guidera", répondit Lumina. "Écoute."
 Noctuvian ferma les yeux, laissant le Chant de Qālmān résonner en lui. Une mélodie subtile émergea, comme un fil d'argent dans l'obscurité.
 "Par là", dit-il, indiquant une direction.
-Ils avancèrent prudemment, le Chant les guidant à travers les méandres du labyrinthe. Mais soudain, une présence se fit sentir.
+Ils avancèrent prudemment.
+Le Chant les guidait à travers les méandres du labyrinthe.
+Mais soudain, une présence se fit sentir.
 "Attendez", dit une voix douce. "Ne faites pas un pas de plus."
 Une silhouette émergea de l'ombre. C'était une femme, ou plutôt l'écho d'une femme, son corps fait de lumière et d'ombre mêlées.
 "Je suis Nox", dit-elle. "Gardienne des Secrets Perdus."

@@ -11,6 +11,3 @@
 ## Long-term goals
 - Ensure the compiled manuscript surpasses **300 pages** in length.
 
-## Progress Log
-- Revised chapitre 01 en renforçant la tension et en supprimant les répétitions; critique mise à jour.
-- Mise à jour du chapitre 22 avec une partie 3 centrée sur l'unité via Akasha; critique révisée.
