@@ -5,9 +5,9 @@ répondit Individualité.
 Une façon de percevoir
 qui n'existait pas avant."
 Autour d'eux,
-le clair de lune revele d'etranges cites.
-Ces cites s'effacent aussitot,
-comme des mirages nes du sommeil de la Lune.
+la clarté nocturne révèle d'étranges cités.
+Ces cités s'effacent aussitôt,
+tels des mirages engendrés par le sommeil.
 Le monde montra une image :
 des êtres se révélant constamment,
 compréhendant,
@@ -37,7 +37,7 @@ De toutes les voies
 de vérité."
 Dans Umbranexus,
 maintenant en pleine révélation,
-le Chant résonna,
+la mélodie résonna,
 portant en lui la promesse
 d'une compréhension plus grande
 encore à venir.
@@ -46,7 +46,7 @@ chaque illusion est une note,
 chaque note est une harmonie,
 chaque harmonie est une éternité.
 Et Noctuvian,
-porteur du Chant,
+porteur de cette harmonie,
 continuait son voyage,
 accompagné de la Révélation retrouvée,
 vers de nouveaux horizons
