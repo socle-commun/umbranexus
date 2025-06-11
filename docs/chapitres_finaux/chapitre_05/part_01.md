@@ -61,10 +61,8 @@ Noctuvian se concentra,
 percevant les murmures du Fragment,
 les vibrations de sa conscience,
 les échos de sa pensée.
-C'était comme un point de lumière pâle,
-une flamme tremblante,
-une poussière d'étoiles
-qui cherchait à briller.
+ C'était une lueur hésitante
+ cherchant sa voie.
 "Je t'entends,"
 murmura-t-il,
 sa voix portant
@@ -75,8 +73,12 @@ non par des mots,
 mais par des filaments d'or pâle,
 des fils tressés,
 des connexions nouvelles.
-C'était le début d'un pacte,
-un lien sacré,
-une alliance.
+ C'était le début d'un pacte,
+ un lien sacré,
+ une alliance.
+ - Partage des souvenirs
+ - Soutien réciproque
+ - Quête commune
 "Ni maître, ni serviteur,"
 dit Noctuvian,
+> **Note :** Ce pacte ouvre la voie à la collaboration entre les consciences.

@@ -1,6 +1,6 @@
 Noctuvian sentit le Chant vibrer en lui, plus fort que jamais. Il comprit que ce n'était que le début. Le début d'une guérison plus grande, d'une harmonie à restaurer.
 "Nous devons continuer", dit-il. "Il y a d'autres fractures à guérir. D'autres équilibres à restaurer."
-Aether hocha la tête. "Je vous aiderai", dit-il. "Car maintenant, je comprends. Le Chant n'est pas une arme. C'est un rituel. Un rituel de guérison."
+Aether hocha la tête. "Je vous aiderai", dit-il. "Je vois maintenant que le Chant n'est pas un outil de guerre mais un rite de guérison."
 Et dans la chambre des Sept Grands Éclats, le Chant résonna, portant en lui la promesse d'une harmonie retrouvée.
 L'air portait un parfum baudelairien, doux et entêtant comme un souvenir charnel.
 🌙
@@ -74,3 +74,4 @@ Guidé par cette intuition, il décida de formaliser son engagement.
 La préservation des traces humaines ne pouvait rester un simple devoir tacite.
 Ainsi commença la rédaction d'un serment destiné à traverser les âges.
 Un serment de veilleur et de passeur de savoir.
+> **Note :** Le serment établi à la fin prépare la mission future de Noctuvian.

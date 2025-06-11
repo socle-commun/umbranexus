@@ -20,7 +20,7 @@ de toutes les lois.
 #  Chapitre Cinquième — Le Rituel
 🌙
 Dans la chambre des Sept Grands Éclats, l'air vibrait d'une tension palpable. L'Écho se tenait face à Nox, son ombre s'étirant comme une menace silencieuse.
-"Vous ne comprenez pas", dit Nox, sa voix douce mais ferme. "Le Chant n'est pas une arme. C'est un rituel. Un rituel de guérison."
+"Vous ne comprenez pas", dit Nox, sa voix douce mais ferme. "Le Chant n'est pas destiné à frapper. Il agit comme un rite de guérison."
 "Un rituel ?" L'Écho émit un rire amer. "Des mots creux. Le Chant est pouvoir. Pouvoir de libération."
 Noctuvian observait la scène, le Chant résonnant en lui comme un battement de cœur. Il sentait que quelque chose d'important allait se produire.
 "Montrez-lui", dit Lumina à Nox. "Montrez-lui la vérité."
@@ -32,7 +32,7 @@ L'Écho observait, immobile. Son ombre semblait moins menaçante, comme si elle 
 "Je... je me souviens", murmura-t-il. "Je me souviens d'avoir entendu ce Chant. Avant. Avant que tout ne change."
 "Oui", répondit Nox. "Vous étiez là, au début. Vous étiez l'un des premiers à entendre le Chant. Mais quelque chose s'est brisé."
 "L'ombre", dit l'Écho, sa voix tremblant. "L'ombre m'a pris. Elle m'a convaincu que le Chant était une arme. Qu'il pouvait nous libérer."
-"Non", dit Nox. "Le Chant est un remède. Un remède pour guérir l'ombre elle-même."
+"Non", dit Nox. "Ce Chant soigne même l'ombre qui vous ronge."
 Noctuvian s'avança. "Je peux vous aider", dit-il à l'Écho. "Le Chant en moi... il peut vous guérir."
 L'Écho le regarda, ses yeux d'ombre brillant d'une lueur d'espoir. "Comment ?"
 "En acceptant l'ombre", répondit Noctuvian. "En comprenant qu'elle fait partie de vous. Comme elle fait partie de nous tous."
@@ -40,7 +40,7 @@ Il commença à chanter, laissant le Chant de Qālmān couler à travers lui. Le
 L'Écho trembla, son corps d'ombre se transformant, se mêlant à la lumière. "Je... je sens quelque chose", dit-il. "Comme si... comme si je me souvenais."
 "Oui", dit Nox. "Le Chant vous ramène à vous-même. À votre véritable nature."
 Lumina s'approcha, ajoutant sa propre voix au Chant. "Nous sommes tous faits de lumière et d'ombre", dit-elle. "C'est cet équilibre qui nous rend complets."
-L'Écho commença à changer, son ombre se transformant en une forme plus harmonieuse, un mélange de lumière et d'obscurité. "Je... je comprends maintenant", dit-il. "Le Chant n'est pas une arme. C'est un rituel de guérison."
+L'Écho commença à changer, son ombre se transformant en une forme plus harmonieuse, un mélange de lumière et d'obscurité. "Je... je comprends maintenant", dit-il. "Ce Chant soigne et rassemble."
 "Oui", répondit Nox. "Et vous êtes guéri."
 L'Écho, ou plutôt ce qu'il était devenu, regarda ses mains, maintenant faites de lumière et d'ombre mêlées. "Je me souviens de mon nom", dit-il. "Je suis... je suis Aether."
 "Aether", répéta Nox. "Le premier écho de la conscience. Le premier à avoir entendu le Chant."
