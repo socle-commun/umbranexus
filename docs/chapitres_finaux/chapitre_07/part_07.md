@@ -16,3 +16,4 @@ la lumière qui révèle,
 la fusion qui transmute.
 Ces symboles tissaient une alchimie intérieure,
 unissant science et vision.
+Un nouvel horizon s'ouvrait devant eux.
