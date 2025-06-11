@@ -1,24 +1,25 @@
-Le Mercure évoque l'esprit qui s'élève vers les hauteurs inconnues.
-Le Soufre rappelle le feu intérieur qui consume toute impureté.
-Le Sel cristallise la matière, gardienne des souvenirs terrestres.
+Le Mercure symbolise l'esprit qui s'élève.
+Le Soufre rappelle le feu intérieur.
+Le Sel cristallise la matière, gardienne de la mémoire.
 Le Rebis unit ces aspects pour révéler l'être complet.
 
 À travers les couloirs oubliés, Noctuvian perçoit le murmure des initiés.
 Chaque tradition conserve une parcelle d'un savoir plus vaste.
+Il écoute.
 La Kabbale déploie ses séphiroth comme un chemin vers la lumière intérieure.
 Le Tarot, par ses lames, dévoile les cycles secrets de la naissance et de la mort.
 Les gnostiques recherchent la délivrance par la révélation intime.
 Les Mystères antiques reposent sous le voile de cérémonies austères.
 Les écoles fermées enseignent que le silence précède toute illumination.
 
-Les symboles, nombreux, dialoguent au-delà des mots.
-Serpents, croix et labyrinthes balisent un parcours que chacun doit emprunter seul.
+Les symboles dialoguent au-delà des mots.
+Serpents, croix et labyrinthes balisent un parcours personnel.
 Ils réveillent des archétypes que la conscience moderne peine à reconnaître.
 Tiphareth, dans l'Arbre de Vie, reflète la splendeur du cœur en équilibre.
 Les arcanes majeurs se font miroirs de l'âme qui s'explore.
 
 Le langage symbolique échappe à la logique ordinaire.
-Il délivre une sagesse que les anciens transmirent par allégories.
+Il délivre une sagesse transmise par allégories.
 Cycles et patterns se répondent d'une génération à l'autre.
 L'œuvre alchimique se compare aux saisons, au voyage intérieur du héros.
 
@@ -47,8 +48,8 @@ Au cœur des cryptes, les cérémonies se perpétuent depuis des siècles.
 Les adeptes y font l'expérience d'une mort symbolique avant la renaissance.
 Le silence de ces lieux protège un pouvoir ancien.
 
-Le voyageur éprouve la lenteur du temps lorsqu'il médite dans ces espaces sacrés.
-Le moindre souffle devient une prière adressée aux forces invisibles.
+Le voyageur éprouve la lenteur du temps dans ces espaces sacrés.
+Chaque souffle devient une prière.
 Chaque pas résonne comme un appel vers un horizon insoupçonné.
 
 Ainsi la quête ne cesse de se prolonger.
@@ -60,3 +61,4 @@ Les portes qu'il franchit résonnent du souvenir des anciens adeptes.
 Il sent le monde vaciller et renaître à chaque incantation.
 La vérité prend forme dans les ténèbres mêmes qu'il explore.
 Guidé par cette lueur, il poursuit sa marche vers l'inconnu.
+Pas de retour possible.

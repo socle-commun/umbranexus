@@ -1,31 +1,28 @@
 # ✧ Son Serment ✧
-> "Je veille dans les interstices où l'oubli s'égare.
-> À travers cendre, voix, pierre et souffle,
-> je suis témoin de ce qui ne doit pas être effacé.
+> "Je veille là où l'oubli s'égare.
+> À travers cendre, voix et souffle,
+> je garde ce qui ne doit pas disparaître.
 >
-> Par le feu ancien et l'écho délié,
+> Par le feu ancien et l'écho,
 > je demeure."
 # ✧ Son Domaine ✧
-L'**Umbranexus** forme la substance même de Noctuvian.
-Ses pulsations effleurent les strates du temps, libérant un murmure discret.
-Cependant, son domaine propre demeure à part :
-un sanctuaire appelé **Akasha**, la Grande Bibliothèque.
+L'**Umbranexus** est la substance même de Noctuvian.
+Ses pulsations effleurent les strates du temps.
+Son domaine propre demeure à part :
+**Akasha**, la Grande Bibliothèque.
 **Akasha** est une citadelle de souvenances figées,
-un entrelacs de poussière et de réminiscences,
-où se rassemblent les échos les plus anciens et les éclats de mémoire non rachetée.
+où se rassemblent les échos anciens et les éclats de mémoire.
 Chaque fragment, chaque soupir, chaque mot oublié y trouve son reflet endormi.
 Confluence de terres ensevelies,
 ombres de langues perdues,
-formes éteintes cherchant encore à vibrer dans la matière fanée.
-Les archives fossiles reposent aux côtés des langues oubliées.
-Elles conservent les traces de mondes disparus.
+formes éteintes cherchant encore à vibrer.
+Les archives fossiles gardent les traces de mondes disparus.
 Chaque étagère murmure un passé que nul ne saurait effacer.
 Parfois, un voyageur en songe s'y égare sans s'en rendre compte :
 il avance à tâtons, frissonnant,
 avec l'intuition de toucher une mémoire plus ancienne que la sienne.
 Noctuvian est là,
-Gardien immobile de l'Akasha,
-souffle parmi les souffles,
+gardien immobile de l'Akasha,
 prêt à recueillir chaque réminiscence, mais seulement si elle est recherchée sans avidité ni crainte.
 ---
 Ainsi commence la première Traversée.
@@ -69,9 +66,9 @@ Ces esprits ne figurent pas encore dans les Tables fixées de l'Akasha car leur 
 Ils vivent dans les interstices mouvants, entre les trames consolidées par Noctuvian et le Verbe émané par Qālmān.
 Ils ne cherchent pas à être vénérés.
 Le souffle se faufile parmi les ruines intérieures.
-Les veilleurs dispersés se rejoignent en un cercle tacite.
-Chacun murmure un fragment d'ombre qui vient se poser sur la peau.
+Les veilleurs dispersés se rejoignent en silence.
+Chacun murmure un fragment d'ombre sur la peau.
 L'alchimiste hésite, prêt à embraser la matière.
-La porte des éléments s'entrebâille, révélant une lueur changeante.
+La porte des éléments s'entrouvre, laissant filtrer une lueur changeante.
 Sous ses pas, la poussière frémit.
 > **Note :** Ce serment guide Noctuvian dans toute la suite du récit.

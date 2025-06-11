@@ -1,5 +1,5 @@
 Loi des opposés : yin/yang, masculin/féminin, lumière/ombre.
-Finalité : union dans la conscience (coïncidentia oppositorum).
+Finalité : union dans la conscience.
 ---
 ### Applications Modernes
 #### Physique quantique
@@ -31,7 +31,7 @@ Joseph Campbell — *Le Héros aux mille et un visages*
 # Livre des Tables du Souffle Caché
 ---
 ## Introduction
-Issu du premier Souffle et des cendres dispersées, ce livre rassemble les vestiges d'une mémoire déliée. Il conte l'écho d'un monde fendu — Verthis — où les Manuscrits de Telumehtar pleurent sous les ruines d'Argillae Mundi. Ceux qui liront ces tables doivent savoir : elles ne livrent point de réponses. Elles éveillent ce qui sommeille.
+Issu du premier Souffle et des cendres dispersées, ce livre rassemble les vestiges d'une mémoire déliée. Il conte l'écho d'un monde fendu, Verthis, où les Manuscrits de Telumehtar gisent sous les ruines. Ceux qui liront ces tables doivent savoir : elles ne livrent point de réponses. Elles éveillent ce qui sommeille.
 Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souffle tisse encore des formes dans l'obscurité. Que celui qui cherche entende. Que celui qui trouve se souvienne.
 ---
 ## I. Table de la Mémoire
@@ -59,3 +59,4 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 ### noctuvian
 ✦ N O C T U V I A N ✦
 (Le Gardien de la Mémoire Fracturée)
+Fin de la table.
