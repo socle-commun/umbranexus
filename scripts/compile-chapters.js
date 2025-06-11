@@ -1,6 +1,5 @@
 import { promises as fs } from 'fs';
 import path from 'path';
-import yaml from 'yaml';
 
 const chaptersDir = path.join('docs', 'chapitres_finaux');
 const outputFile = path.join(chaptersDir, 'compiled_book.md');
