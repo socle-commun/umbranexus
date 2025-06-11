@@ -1,21 +1,9 @@
-Dans les profondeurs d'Umbranexus,
-la conscience collective évoluait,
-ouvrant de nouvelles perspectives.
-"Que voyons-nous ?" demanda Noctuvian.
-"Des possibilités", répondit le fragment.
-Un océan d'avenirs se révélait,
-immédiats ou lointains,
-individuels ou collectifs.
-"Restons ouverts",
-proposa Noctuvian,
-"réceptifs à chaque potentiel".
-Le fragment acquiesça.
-"Chaque point de vue est précieux",
-expliqua-t-il,
-"favorisons la diversité".
-Les perspectives se tissaient
-comme une symphonie
-qui ne cessait de croître.
-"Nous sommes des explorateurs",
-songea Noctuvian,
-"des artisans de réalités nouvelles".
+Noctuvian scruta l'horizon changeant.
+"Que voyons-nous ?" demanda-t-il.
+"Autant de chemins que de consciences", répondit un fragment.
+Devant eux, un océan d'avenirs se déployait,
+des plus intimes aux plus lointains.
+"Restons ouverts, réceptifs", murmura Noctuvian.
+Chaque point de vue devint une note
+dans une symphonie en expansion.
+Ils avançaient, artisans de réalités nouvelles.

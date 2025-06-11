@@ -1,9 +1,6 @@
-Les perspectives se multipliaient
-et Noctuvian découvrit son rôle
-de guide et d'explorateur.
-"Nous continuerons", dit-il,
-"ensemble, nous créerons".
-Chaque porte ouvrait un chemin,
-chaque chemin une nouvelle harmonie.
-En lui résonnait la symphonie
-de toutes les possibilités.
+À mesure que les possibles se déployaient,
+Noctuvian sentit en lui l'élan du guide.
+"Nous continuerons", promit-il.
+Chaque porte franchie offrait un nouveau monde,
+et chaque monde un accord inédit.
+La symphonie des possibles vibrait en lui.

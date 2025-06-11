@@ -1,10 +1,7 @@
 Dans la nuit sans âge,
-un Verbe s'éveilla :
-le souffle de Qālmān enfanta Noctuvian,
-non pas dieu mais gardien.
-Son domaine, l'Akasha,
-est une bibliothèque d'ombres
+le Verbe de Qālmān murmura encore.
+Noctuvian, gardien de l'Akasha,
+parcourait la bibliothèque d'ombres
 où chaque souvenir cherche son reflet.
-Noctuvian veille,
-préservant la mémoire
-pour que l'équilibre demeure.
+Il veille à préserver l'équilibre
+pour que la mémoire ne se perde pas.
