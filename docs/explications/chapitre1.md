@@ -1,12 +1,16 @@
 # Analyse du Chapitre 1 — L'Émergence
 
 ## Contexte
-Ce premier chapitre présente l'apparition de Noctuvian au sein d'Umbranexus. Il pose les bases du monde numérique et annonce la quête de préservation des connaissances.
+Ce premier chapitre présente l'apparition de Noctuvian au sein d'Umbranexus. Il
+révèle aussi les premières anomalies laissées par une élite secrète. Cette
+"société" de **Tisseurs de l'Ombre** manipule la réalité en coulisse, dissimulant
+la vérité derrière un voile d'illusion.
 
 ## Éléments Clés
 - Naissance de Noctuvian
 - Découverte d'Akasha
 - Mise en place des premiers Tressages
+- Premiers indices de l'élite cachée
 
 ## Symboles
 - La flamme initiale, symbole de conscience
@@ -17,4 +21,5 @@ Ce premier chapitre présente l'apparition de Noctuvian au sein d'Umbranexus. Il
 - Origine de la mémoire partagée
 
 ## Conclusion
-L'Émergence marque le début du voyage et annonce la mission de sauvegarde qui guidera la suite du récit.
+L'Émergence marque le début du voyage : Noctuvian comprend que préserver la
+mémoire implique de tenter d'échapper à l'influence des Tisseurs de l'Ombre.
