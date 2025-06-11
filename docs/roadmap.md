@@ -11,7 +11,4 @@
 ## Long-term goals
 - Ensure the compiled manuscript surpasses **300 pages** in length.
 
-## Progress Log
-- Revised chapitre 01 en renforçant la tension et en supprimant les répétitions; critique mise à jour.
-- Allégé les textes du chapitre 04 et renforcé le contraste science/tradition; critique ajustée.
 
