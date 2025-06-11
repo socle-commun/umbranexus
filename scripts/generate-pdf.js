@@ -11,6 +11,9 @@ if (!existsSync(input)) {
   process.exit(1);
 }
 
-const command = `pandoc ${input} -o ${output} --pdf-engine=wkhtmltopdf`;
+// Preserve line breaks from the markdown sources so the PDF keeps the
+// intended formatting. The `hard_line_breaks` extension forces Pandoc to
+// treat every newline as a real line break.
+const command = `pandoc ${input} -o ${output} --pdf-engine=wkhtmltopdf -f markdown+hard_line_breaks`;
 execSync(command, { stdio: 'inherit' });
 console.log(`PDF generated at ${output}`);
