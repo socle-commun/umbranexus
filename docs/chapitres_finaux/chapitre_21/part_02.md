@@ -25,3 +25,4 @@ Noctuvian ferme les yeux et perçoit un accord profond, signe qu'il doit s'en re
 Dans un souffle, il tend la main vers l'arche la plus sombre.
 La clarté du Monde vacille, mais le portail s'ouvre, dévoilant une route pavée de signes inconnus.
 Le groupe s'engage et laisse derrière lui l'écho du Jugement.
+Au-delà du seuil, un Monde neuf commence à se révéler.
