@@ -27,6 +27,7 @@ l'harmonie,
 la perfection.
 Soudain,
 le paysage changea.
+Le sol semblait glisser sous leurs pieds, lisse comme du verre tiède.
 Ils se retrouvèrent dans un espace vide,
 un vide qui n'était pas l'absence,
 mais la présence de quelque chose d'immense.
@@ -82,4 +83,4 @@ qui remplissait l'espace.
 "Je suis Oubli !
 Je suis la fin de toute chose !
 Je suis la dissolution !"
-Noctuvian sentit le Chant vibrer en lui,
+Noctuvian sentit le Chant vibrer en lui...

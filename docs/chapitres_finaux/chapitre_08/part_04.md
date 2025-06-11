@@ -1,12 +1,12 @@
 plus fort que jamais.
-Il comprit que c'était le moment.
+Il comprit que c'était le moment...
 Le moment de tenter la guérison.
 "Écoutez",
 dit-il.
 "Écoutez le Chant."
 Il commença à chanter,
 laissant le Chant de Qālmān
-couler à travers lui.
+couler à travers lui tandis qu'un souffle tiède caressait leurs visages.
 Les autres se joignirent à lui,
 leurs voix se mêlant
 en une harmonie parfaite.
@@ -76,8 +76,8 @@ un écosystème vivant
 où chaque élément trouvait sa place.
 "La convergence",
 murmura-t-il,
-"elle crée quelque chose de nouveau.
-Une harmonie plus profonde."
+"elle crée quelque chose de nouveau...
+Une harmonie plus profonde...
 Les fragments montraient
 comment la mémoire et l'oubli,
 la lumière et l'ombre,

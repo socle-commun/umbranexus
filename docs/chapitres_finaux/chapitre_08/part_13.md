@@ -2,6 +2,7 @@ Les ténèbres retombèrent sur la caverne des souvenirs perdus.
 Noctuvian recueillit un grain de poussière mémorielle.
 Il sentit dans cet infime éclat l'écho de nombreux visages.
 Autour de lui, les arches archaïques résonnaient encore du combat.
+L'air sentait la pierre humide.
 Ses compagnons scrutèrent les symboles gravés dans la pierre.
 Le gardien murmura une prière pour préserver ces secrets.
 Il grava ensuite une rune qui scellait l'accès aux arcanes.
@@ -17,4 +18,4 @@ Les pierres anciennes semblaient murmurer des enseignements perdus.
 Une clarté indicible éclaira le bout du tunnel.
 Ils s'élancèrent avec prudence vers cette lumière.
 L'oubli reculait tandis que le savoir resurgissait.
-Un nouveau chemin s'offrit à eux, chargé de promesses.
+Un nouveau chemin s'offrit à eux, chargé de promesses...
