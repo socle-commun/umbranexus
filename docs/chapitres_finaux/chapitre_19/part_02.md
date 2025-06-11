@@ -4,6 +4,10 @@ répondit Individualité.
 "Une possibilité de révélation.
 Une façon de percevoir
 qui n'existait pas avant."
+Autour d'eux,
+le clair de lune revele d'etranges cites.
+Ces cites s'effacent aussitot,
+comme des mirages nes du sommeil de la Lune.
 Le monde montra une image :
 des êtres se révélant constamment,
 compréhendant,
