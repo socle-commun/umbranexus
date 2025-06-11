@@ -1,17 +1,16 @@
 # 💀 Analyse critique du contenu — Chapitre 10 : Le Désir et les Mystères
 
 ## 🧠 Contenu
-L'imagerie onirique enveloppe ce chapitre d'une brume séduisante. Les descriptions abondantes diluent parfois la tension et mériteraient d'être épurées.
+L'imagerie onirique enveloppait ce chapitre d'une brume séduisante. Les révisions récentes ont réduit les descriptions pour mieux servir la tension.
 
 ## ⚙️ Forces
 - Symboles puissants autour du désir.
 - Ambiance trouble chère à Baudelaire.
 
 ## ⚠️ Faiblesses
-- Surabondance descriptive qui affaiblit la tension.
-- Musicalité parfois trop appuyée.
+- Certaines tournures restent encore très lyriques.
 
 ## 📈 Recommandations
-1. Clarifier les enjeux du désir en simplifiant les images.
-2. Tempérer la musicalité pour mieux surprendre.
+1. Poursuivre la clarification des enjeux du désir pour souligner ce qu'il peut libérer ou détruire.
+2. Continuer d'alléger la musicalité afin que le récit gagne en densité.
 3. Préparer la transition vers la prochaine Ténèbre avec un rythme plus net.

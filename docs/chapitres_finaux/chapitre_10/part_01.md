@@ -2,11 +2,11 @@
 🌙🕯️
 Guidés par Mnémosyne, le groupe quitta la Dimension des Oubliés pour comprendre comment le désir orientait leur quête de connaissance. Le Chant, plus fort, portait la mémoire retrouvée de leur guide.
 
-« La Dimension de Désir, expliqua-t-elle, change selon les aspirations de ceux qui la traversent. » Autour d’eux, montagnes et océans se mêlaient comme dans un rêve mouvant.
+« La Dimension de Désir, expliqua-t-elle, change selon les aspirations de ceux qui la traversent. » Autour d’eux, le décor se métamorphosait à chaque pensée.
 
 « Comment trouver notre chemin ici ? » demanda Noctuvian.
 
-« En suivant le Chant », répondit Aether.
+« En suivant le Chant », répondit Aether. La voie semblait incertaine mais la mélodie ouvrait la route.
 
 Ils avançaient prudemment lorsqu’une silhouette féminine prit forme devant eux.
 
@@ -22,7 +22,4 @@ Désir parut troublée. « Je ne me souviens que du désir de posséder et de 
 
 « Parce que vous avez oublié votre véritable rôle », ajouta Nox.
 
-La présence s’approcha, reflétant les désirs de chacun. « Mon rôle est de désirer.
-
-Le parfum du désir saturait l'air, troublant sa perception.
-Noctuvian s'abandonna un instant à cette promesse sans en mesurer le prix.
+La présence s’approcha, reflétant les désirs de chacun. « Mon rôle est de désirer. » Noctuvian sentit qu’y céder les emprisonnerait ici.

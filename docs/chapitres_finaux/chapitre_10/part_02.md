@@ -12,10 +12,10 @@ Désir baissa la tête. « J'ai voulu que la lumière domine et l'ombre serve. �
 
 Secouée, Désir sentit son essence changer. « Je me souviens de mon nom : Élan. »
 
-Elle sourit, un éclat mêlant ombre et lumière. « Mon pouvoir est de créer et de transformer, jamais de dominer. »
+Elle sourit, mêlant ombre et lumière. « Mon pouvoir est de créer et de transformer, jamais de dominer. »
 
 « Et maintenant ? » demanda Lumina.
 
 « Je restaure l'équilibre et je guéris la fracture que j'ai causée. »
 
-Dans les profondeurs d'Akasha,
+Dans les profondeurs d'Akasha, le groupe comprit que sans cette réconciliation, la quête s'éteindrait.

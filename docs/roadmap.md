@@ -13,4 +13,5 @@
 
 ## Progress Log
 - Revised chapitre 01 en renforçant la tension et en supprimant les répétitions; critique mise à jour.
+- Allégé les descriptions du chapitre 10, clarifié les enjeux du désir et ajusté la critique correspondante.
 
