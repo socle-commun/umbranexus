@@ -94,6 +94,6 @@ percevant que la clarté révèle aussi les zones obscures.
 Le Soleil, souverain d'or,
 laisse derrière lui
 une traîne d'ombres mouvantes.
-Force comprit alors
+Force comprit alors, le cœur serré par la dualité de la lumière
 que chaque aurore porte
 la promesse d'une nuit future.

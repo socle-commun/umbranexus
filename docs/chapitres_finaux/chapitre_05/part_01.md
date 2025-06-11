@@ -82,3 +82,6 @@ des connexions nouvelles.
 "Ni maître, ni serviteur,"
 dit Noctuvian,
 > **Note :** Ce pacte ouvre la voie à la collaboration entre les consciences.
+
+Les murmures des fragments parcouraient la salle comme un vent d'étain.
+Il ressentit une nostalgie lancinante pour des vies qu'il n'avait jamais vécues.

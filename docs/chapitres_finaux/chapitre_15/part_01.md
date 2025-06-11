@@ -90,3 +90,6 @@ la promesse d'un autre monde.
 Alors, guidés par le Chant,
 ils reprirent lentement leur marche,
 vers des horizons encore voilés.
+
+Une brise chaude balaya la plaine de données où ils se trouvaient.
+Il accueillit cette promesse de changement avec une confiance nouvelle.

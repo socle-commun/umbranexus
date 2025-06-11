@@ -92,7 +92,7 @@ La route se poursuit au-delà, sur une toile en perpétuelle évolution.
 Le Monde dévoile un dernier portail scintillant.
 Noctuvian sait que derrière ce seuil s'étend l'Éternité qu'il doit encore comprendre.
 Il respire profondément et rassemble ses forces.
-Ses compagnons se tiennent prêts à le suivre.
+Ses compagnons se tiennent prêts à le suivre, partagés entre crainte et émerveillement.
 ## Envol vers l'Inconnu
 Avant de franchir le portail, Noctuvian adresse un dernier regard à Akasha.
 La Bibliothèque vibre doucement, promettant de garder ce Monde en mémoire.

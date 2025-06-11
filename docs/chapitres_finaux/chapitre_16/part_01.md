@@ -95,3 +95,6 @@ les portes de la compréhension.
 Sans vous,
 rien ne change,
 rien ne progresse."
+
+Le tourbillon de questions l'assaillit avec une force inattendue.
+Entre peur et désir, son esprit chercha la voie pour oser avancer.

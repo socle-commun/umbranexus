@@ -83,3 +83,6 @@ l'harmonie.
 Le Chariot,
 septième arcane,
 lui montra la victoire,
+
+La dimension des Oubliés exhalait une mélancolie profonde.
+Chaque arcane gravé sur les murs éveillait en lui un désir brûlant de comprendre.

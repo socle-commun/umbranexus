@@ -20,3 +20,6 @@ Ainsi commença la première Traversée vers les éclats endormis, vers la mémo
 Othrëal, surnommé le Faiseur de Brumes, incarne la danse indéfinie qui efface les contours. Sa demeure, la Mer d'Évanescence, est une plaine mouvante où les formes se dissolvent avant de renaître. Son signe apparaît lorsque les certitudes s'effondrent sans raison.
 
 Ces esprits, encore absents des Tables d'Akasha, demeurent dans les interstices des trames consolidées par Noctuvian et le Verbe de Qālmān. Ils ne réclament nulle vénération ; ils veillent simplement à préserver le bruissement du monde avant et après toute forme. Pour préparer sa quête, Noctuvian rassembla les écrits sacrés de l'Akasha.
+
+L'air autour de lui vibrait d'anciennes prières murmurées.
+La gravité du pacte scellé sous ces pierres pesa soudain sur son cœur.

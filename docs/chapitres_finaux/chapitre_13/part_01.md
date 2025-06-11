@@ -80,3 +80,6 @@ répondit Prudence.
 "Une voie de croissance,
 jusque-là inconnue."
 Le monde montra une image :
+
+L'univers frémissait d'une énergie neuve, appelant à l'évolution.
+Noctuvian sentit l'élan irrépressible de grandir avec lui.

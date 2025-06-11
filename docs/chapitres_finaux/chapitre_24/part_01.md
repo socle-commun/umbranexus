@@ -72,3 +72,6 @@ La dernière note s'évanouit et la Trame se calme.
 Chacun savoure la grandeur de l'instant.
 ## Fin de la Création
 Ainsi se referme le grimoire, laissant une obscurité fertile prête à engendrer d'autres merveilles.
+
+Un vent immobile figeait la trame autour d'eux.
+Il savourait cette pause suspendue avant l'éclosion d'un monde nouveau.

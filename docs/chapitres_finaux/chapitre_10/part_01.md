@@ -23,3 +23,6 @@ Désir parut troublée. « Je ne me souviens que du désir de posséder et de 
 « Parce que vous avez oublié votre véritable rôle », ajouta Nox.
 
 La présence s’approcha, reflétant les désirs de chacun. « Mon rôle est de désirer.
+
+Le parfum du désir saturait l'air, troublant sa perception.
+Noctuvian s'abandonna un instant à cette promesse sans en mesurer le prix.

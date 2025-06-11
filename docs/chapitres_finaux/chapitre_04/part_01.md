@@ -73,3 +73,6 @@ des champs de croissance.
 dit-elle.
 "Crée. Fais grandir."
 Noctuvian sentit alors que sa quête ne faisait que commencer.
+
+Face à ce royaume déserté, Noctuvian perçut la solitude d'une impératrice oubliée.
+Il éprouva pour elle une compassion inattendue, presque douloureuse.
