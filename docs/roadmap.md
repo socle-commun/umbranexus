@@ -6,4 +6,3 @@
 
 ## Mid-term goals
 - Add modules to automate content generation.
-- Prepare a release candidate compiling all chapters.
