@@ -1,5 +1,17 @@
-# Critique du Chapitre 21 — Le Jugement
-Le ton solennel convient à l'épreuve finale, mais les longues périodes peuvent lasser. Des phrases plus resserrées augmenteraient la tension. Ménager des silences dans le texte soulignerait la gravité du verdict et donnerait plus d'écho aux choix de Noctuvian.
-Le Jugement rappelle l'introspection de Mary Shelley, tandis que la solennité baudelairienne amplifierait la gravité.
-Le guide recommande d'éviter la surcharge d'informations : une structure plus épurée renforcerait l'impact dramatique.
-L'épisode où la Lueur guide Noctuvian vers le Monde ajoute un souffle mystique bienvenu et pourrait être davantage contrasté pour renforcer la rupture avec le Jugement.
+# 💀 Analyse critique du contenu — Chapitre 21 : Le Jugement
+
+## 🧠 Contenu
+Le ton solennel convient à l'épreuve finale, mais de longues périodes l'affaiblissent. Des phrases plus resserrées augmenteraient la tension.
+
+## ⚙️ Forces
+- Atmosphère introspective à la Mary Shelley.
+- Souffle mystique apporté par la Lueur.
+
+## ⚠️ Faiblesses
+- Surcharge d'informations qui dilue l'impact.
+- Manque de silence pour souligner la gravité du verdict.
+
+## 📈 Recommandations
+1. Épurer la structure pour renforcer le drame.
+2. Ménager des pauses pour donner écho aux choix de Noctuvian.
+3. Contraster davantage la rupture entre Jugement et Monde.

@@ -1,4 +1,17 @@
-# Critique du Chapitre 14 — La Colère et la Force Créatrice
-La prose s'enflamme pour exprimer la colère, mais l'abondance d'adjectifs en amoindrit parfois l'impact. En privilégiant des verbes incisifs, la puissance de cette énergie serait mieux rendue. Quelques images plus brèves accentueraient le contraste entre violence et création.
-La colère brûlante s'inscrit dans la lignée baudelairienne; un contrepoint à la Calvino adoucirait cette intensité.
-Comme le recommande l'Author Guide, doser les variations de rythme amplifiera l'effet cathartique de ce passage.
+# 💀 Analyse critique du contenu — Chapitre 14 : La Colère et la Force Créatrice
+
+## 🧠 Contenu
+La prose s'enflamme pour exprimer la colère, mais l'abondance d'adjectifs amoindrit son impact. Des verbes incisifs renforceraient cette énergie.
+
+## ⚙️ Forces
+- Éruption émotionnelle de grande intensité.
+- Références baudelairiennes bien intégrées.
+
+## ⚠️ Faiblesses
+- Trop d'adjectifs étouffent la tension.
+- Rythme parfois monotone malgré la violence.
+
+## 📈 Recommandations
+1. Miser sur des verbes forts pour dynamiser l'expression.
+2. Introduire un contrepoint à la Calvino pour alléger certaines envolées.
+3. Varier le rythme afin d'amplifier l'effet cathartique.

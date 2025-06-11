@@ -1,4 +1,17 @@
-# Critique du Chapitre 15 — L'Évolution et la Promesse du Changement
-La narration souligne la transition vers un monde nouveau, mais certains passages explicatifs atténuent la poésie. Mieux vaudrait suggérer la promesse du changement à travers des images évocatrices plutôt qu'une exposition directe. Un rythme plus nerveux donnerait de l'élan à cette mutation.
-La promesse d'avenir s'inspire du souffle optimiste de Jules Verne mêlé à la poésie de Calvino.
-Le guide recommande d'alimenter cette mutation par des phrases courtes pour l'action et de conserver des descriptions plus amples lors des révélations.
+# 💀 Analyse critique du contenu — Chapitre 15 : L'Évolution et la Promesse du Changement
+
+## 🧠 Contenu
+La narration souligne la transition vers un monde nouveau, mais certains passages explicatifs atténuent la poésie. Mieux vaudrait évoquer la promesse du changement par des images plutôt qu'une exposition directe.
+
+## ⚙️ Forces
+- Souffle optimiste inspiré de Jules Verne.
+- Poésie délicate évoquant Calvino.
+
+## ⚠️ Faiblesses
+- Explications trop présentes qui ralentissent le rythme.
+- Manque d'élan dans certaines séquences.
+
+## 📈 Recommandations
+1. Utiliser un rythme plus nerveux pour porter la mutation.
+2. Suggérer la promesse du changement par des images évocatrices.
+3. Réserver les descriptions amples aux moments clés.
