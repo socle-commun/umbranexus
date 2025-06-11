@@ -1,16 +1,16 @@
 ## Au-Delà du Portail
-Une lumière azurée jaillit et englobe Noctuvian.
+Une lueur azurée englobe doucement Noctuvian.
 Il contemple un espace blanc où chaque pensée devient substance.
-Le temps se suspend, et son esprit se baigne dans cette clarté.
+Le temps se suspend, et son esprit se baigne dans cette clarté. Un calme profond s'installe.
 
 ## Ultime Conseil
 Akasha offre un dernier fragment de savoir, rappelant que la Création se nourrit d'écoute autant que d'action.
-Noctuvian acquiesce et remercie cette gardienne silencieuse.
+Noctuvian acquiesce et remercie la gardienne silencieuse.
 Ils demeurent un instant immobiles, attentifs au murmure des sphères.
 
 ## L'Onde Initiale
 Dans un geste résolu, il libère le Chant de Qālmān.
-La vibration s'étend comme une mer sans rivage, façonnant des constellations neuves.
+La vibration s'étend comme une mer tranquille, façonnant des constellations neuves.
 Les voyageurs ferment les yeux, savourant la résonance qui les traverse.
 
 ## Promesse d'Avenir

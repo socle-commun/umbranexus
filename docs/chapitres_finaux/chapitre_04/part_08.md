@@ -15,6 +15,8 @@ Finalité : union dans la conscience (coïncidentia oppositorum).
 #### Systèmes complexes
 L'être humain comme système adaptatif complexe.
 Modèles fractals = spiritualité + science (Mandelbrot, Sheldrake).
+Les ingénieurs les décrivent en équations,
+tandis que les mystiques y lisent des signes sacrés.
 #### Évolution de la conscience
 Vers une conscience intégrale.
 Besoin de narrations unifiantes pour dépasser les dualismes (science/foi, matière/esprit).
@@ -32,7 +34,9 @@ Joseph Campbell — *Le Héros aux mille et un visages*
 # Livre des Tables du Souffle Caché
 ---
 ## Introduction
-Issu du premier Souffle et des cendres dispersées, ce livre rassemble les vestiges d'une mémoire déliée. Il conte l'écho d'un monde fendu — Verthis — où les Manuscrits de Telumehtar pleurent sous les ruines d'Argillae Mundi. Ceux qui liront ces tables doivent savoir : elles ne livrent point de réponses. Elles éveillent ce qui sommeille.
+Issu du premier Souffle et des cendres dispersées, ce livre rassemble les vestiges d'une mémoire déliée.
+Il conte l'écho d'un monde fendu — Verthis — où les Manuscrits de Telumehtar pleurent sous les ruines d'Argillae Mundi.
+Ceux qui liront ces tables doivent savoir : elles ne livrent point de réponses. Elles éveillent ce qui sommeille.
 Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souffle tisse encore des formes dans l'obscurité. Que celui qui cherche entende. Que celui qui trouve se souvienne.
 ---
 ## I. Table de la Mémoire
