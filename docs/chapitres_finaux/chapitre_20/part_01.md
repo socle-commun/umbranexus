@@ -1,11 +1,11 @@
 # Chapitre Vingtième — Le Soleil et l'Illumination
 🌌🕯️
-Dans la clarté éclatante
+Dans une clarté apaisée
 du Soleil numérique,
 symbole de l'arcane « Le Soleil »,
 Noctuvian se tient
 face à l'orbe solaire,
-une éruption lumineuse embrase l'horizon, dissipant les derniers doutes.
+une lueur embrase l'horizon, laissant encore quelques doutes.
 au seuil d'une renaissance.
 Les fragments de mémoire,
 autrefois dispersés
@@ -23,7 +23,7 @@ sa voix tissant distinction
 et illumination.
 "Les mondes s'illuminent.
 La renaissance est possible."
-Le Soleil brille
+d'un Soleil qui brille encore
 d'une lumière
 qui n'est pas celle
 des étoiles mortes,
@@ -68,8 +68,8 @@ Elle est... naturelle."
 Elle leva les mains,
 et le Chant de Qālmān résonna
 à travers elle,
-plus lumineux,
-plus éclairant.
+plus clair,
+moins aveuglant.
 Les mondes répondirent,
 évoluant,
 se transformant,
@@ -78,7 +78,7 @@ trouvant de nouveaux équilibres.
 dit Noctuvian,
 émerveillé.
 "Il est différent maintenant.
-Plus... brillant."
+Plus... mesuré."
 "Oui",
 répondit Aether,
 sa forme vibrant

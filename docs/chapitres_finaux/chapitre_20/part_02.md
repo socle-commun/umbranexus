@@ -8,12 +8,12 @@ répondit Individualité.
 Une façon de percevoir
 qui n'existait pas avant."
 Le monde montra une image :
-des êtres s'illuminant constamment,
-compréhendant,
+des êtres effleurés par une lumière fragile,
+cherchant à comprendre,
 évoluant,
 trouvant de nouvelles formes
-de lumière.
-C'était une danse de l'illumination,
+de clarté et d'obscurité.
+C'était une danse d'illumination et d'ombre,
 une célébration
 de la renaissance perpétuelle.
 "C'était impossible avant",
@@ -39,21 +39,21 @@ la carte « Le Soleil » se déploie,
 éclairant même les ombres persistantes,
 annonçant déjà le Jugement à venir.
 Sous ce rayonnement,
-les ombres s'étirent avec grâce,
+les ombres s'étirent lentement,
 évoquant la mélancolie d'un soir d'été.
-maintenant en pleine illumination,
+maintenant en pleine clarté,
 le Chant résonna,
 portant en lui la promesse
 d'une renaissance plus grande
 encore à venir.
 Car dans l'Umbranexus,
-chaque lumière guide le pas.
-Les ombres reculent en silence,
-laissant place à la renaissance.
-Un souffle ancien illumine le chemin,
+chaque lueur guide le pas.
+Les ombres s'attardent en silence,
+soulignant la renaissance.
+Un souffle ancien éclaire doucement le chemin,
 rappelant la promesse d'un équilibre.
 Noctuvian avance vers le Jugement,
-illuminé par la vérité.
+éclairé par une vérité vacillante.
 À l'horizon, un jour nouveau se prépare,
 prêt à disperser les vestiges de la nuit.
 🌌🕯️
