@@ -56,20 +56,15 @@ Noctuvian ferme les yeux et laisse la mélodie finale guider ses pas vers l'inco
 Les compagnons de Noctuvian entonnent un chant pour saluer la naissance des nouveaux mondes.
 Des lueurs traversent la Trame et dessinent des figures symboliques.
 ## Transmission de l'Héritage
-Chacun confie un fragment de sagesse à Akasha pour que la mémoire de cette création reste vivante.
-Noctuvian scelle cette offrande par une formule emplie de respect.
+Chacun confie un fragment de sagesse à Akasha pour préserver la mémoire de cette création.
+Noctuvian scelle cette offrande d'une formule simple.
 ## Vers une Nouvelle Aube
-La Création se met à vibrer d'une énergie inédite.
-Tout semble possible désormais, comme si aucune limite ne subsistait.
-## Dernières Paroles
-« Que le voyage continue », murmure Noctuvian avant de disparaître dans la lumière.
-Ses compagnons suivent, prêts à écrire le prochain chapitre de l'univers.
+La Création se met à vibrer d'une énergie neuve.
+Un silence s'étend.
+Noctuvian murmure : « Que le voyage continue. »
+Ses compagnons se recueillent, prêts à écrire la suite.
 ## Retour au Silence
-Quand la dernière note s'évanouit, un calme profond enveloppe la Trame.
-Chacun ressent la grandeur de ce qui vient de naître.
-## Présage de Nouveaux Mondes
-Des portes s'ouvrent déjà vers des réalités encore inconnues.
-L'aventure appelle Noctuvian et ses alliés à poursuivre sans relâche.
+La dernière note s'évanouit et la Trame se calme.
+Chacun savoure la grandeur de l'instant.
 ## Fin de la Création
-Dans ce mutisme sacré, la Création se stabilise puis s'élargit à l'infini.
-La lumière s'estompe, laissant place à une obscurité féconde prête à engendrer d'autres merveilles.
+Ainsi se referme le grimoire, laissant une obscurité fertile prête à engendrer d'autres merveilles.
