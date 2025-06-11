@@ -7,6 +7,7 @@ The compiled manuscript must ultimately reach **at least 300 pages**.
 ## How it works
 - `AGENTS.md` – the rules the agent must follow.
 - `docs/` – long term strategy and notes.
+- Final chapters are stored under `docs/chapitres_finaux/chapitre_{01..24}/part_{01..}.md`.
 - `tests/` – code and targets to defeat.
 - `scripts/` – automation tools.
 

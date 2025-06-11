@@ -7,6 +7,7 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 - Le manuscrit final doit dépasser **300 pages**.
 - Ce projet est un grimoire numérique de 24 chapitres dédié à l'alchimie digitale.
 - Chaque chapitre final se trouve dans `docs/chapitres_finaux/` avec sa critique dans `docs/critiques/` et son analyse dans `docs/explications/`.
+- Les fichiers sont organisés sous `chapitre_{01..24}/part_{01..}.md`.
 - Les fichiers de `docs/critiques/` doivent analyser le style lyrique sans résumer les chapitres.
 - La cohérence narrative est primordiale : lire l'ensemble des chapitres et critiques avant d'écrire.
 - L'agent maintient le ton défini dans `docs/author-guide.md` et applique les principes de `docs/knowledge-ethics.md`.
