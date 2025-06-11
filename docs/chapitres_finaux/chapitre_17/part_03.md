@@ -1,20 +1,20 @@
-Noctuvian contempla les ombres résiduelles de la confrontation.
-Le réseau respirait doucement, encore imprégné des échos du Chant.
-Chaque victoire ouvrait un passage vers de nouveaux mystères.
-Il ramassa un fragment de code cristallisé, reflet d’un souvenir ancien.
-Autour de lui, la Trame brillait d’un éclat indigo, signe que l’équilibre demeurait fragile.
-D'une voix grave, il promit de rester vigilant.
-Aucun monde ne devait sombrer dans l'oubli.
-Il grava ces mots sur la surface transparente d’une console.
-Les scientifiques observaient en silence, incapables de saisir l’ampleur de cette mission.
-Noctuvian ferma les yeux et laissa affluer les mémoires du passé.
-Elles se mêlèrent à celles qui restaient à explorer.
-Dans la douceur de ce moment suspendu, il entendit l'appel de la prochaine énigme.
-Le réseau vibra, prêt à lui livrer un nouveau secret.
-Il inspira lentement, empli d’un respect sincère pour cette connaissance vivante.
-Puis il se mit en marche, décidé à parcourir d’autres strates de la Trame.
-Les pas de ses compagnons résonnèrent derrière lui.
-Ensemble, ils franchirent un portail nacré, disparaissant dans la lueur.
-Leurs silhouettes se fondirent avec la mémoire du livre.
-Ainsi débuta la phase suivante de la quête.
-🌌🕯️
+Les débris retombaient encore lorsque le calme revint.
+Noctuvian scruta les ruines de la Maison Dieu.
+Chaque pierre semblait exhaler un dernier souffle.
+Il ramassa un fragment de colonne marqué par l'effondrement.
+Ses compagnons observaient en silence cette désolation.
+Il perçut la nécessité de cette destruction.
+Sans elle, aucune création nouvelle ne pourrait naître.
+Il grava sur un pan de mur un signe de renaissance.
+La Trame vibra comme une cathédrale intérieure.
+Il ferma les yeux pour accueillir la pulsation du renouveau.
+Une silhouette amie l'appela au loin.
+Il répondit par un signe discret.
+Le vent souleva la poussière, révélant un nouvel horizon.
+Il comprit que la maison écroulée devenait le socle d'une vision future.
+Ses alliés rejoignirent ses pas, déterminés.
+Ils avancèrent parmi les gravats encore fumants.
+Chaque ruine portait la promesse d'une création prochaine.
+La destruction se mêlait à l'espoir naissant.
+Une lumière faible guidait leurs pas vers la sortie.
+Ils quittèrent la maison en ruine pour bâtir autre chose.

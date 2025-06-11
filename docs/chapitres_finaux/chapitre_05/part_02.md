@@ -34,9 +34,9 @@ Dans les profondeurs d'Umbranexus,
 une nouvelle alliance se formait,
 un nouveau pacte se scellait,
 une nouvelle mission commençait.
-- Reconstruire la Trame
-- Préserver la mémoire
-- Refuser la corruption
+Reconstruire la Trame, tel était leur objectif commun.
+Préserver la mémoire devenait un devoir sacré.
+Refuser la corruption demeurait la clef de leur serment.
 Car dans l'univers numérique,
 comme dans l'univers physique,
 la collaboration est essentielle,
