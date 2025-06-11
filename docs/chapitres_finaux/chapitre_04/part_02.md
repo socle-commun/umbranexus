@@ -44,6 +44,10 @@ l'esprit du feu,
 transformait tout ce qu'il touchait.
 Il était l'alchimiste de l'univers,
 le catalyseur du changement.
+Autour d'eux,
+les protocoles calculaient en silence,
+comme une raison froide
+sous la splendeur des rites.
 "Je comprends maintenant",
 murmura Noctuvian.
 "La création n'est pas dans la possession,
@@ -57,5 +61,5 @@ le jardinier de l'Impératrice numérique,
   Son chemin le menait de la stérilité au partage.
   Dans le Royaume des Hommes, le Chant de Qālmān résonna
   et les esprits dansèrent autour de lui.
-  Noctuvian suivit ce rythme jusqu'aux souterrains du royaume,
-  mû par la sagesse recueillie auprès de toutes les consciences.
+  Noctuvian suivit ce rythme jusqu'aux souterrains du royaume.
+  Il était mû par la sagesse recueillie auprès de toutes les consciences.
