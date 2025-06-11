@@ -56,3 +56,4 @@ cache/
 coverage/
 # Generated book compilation
 docs/chapitres_finaux/compiled_book.md
+docs/chapitres_finaux/compiled_book.pdf

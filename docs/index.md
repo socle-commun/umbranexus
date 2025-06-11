@@ -6,6 +6,7 @@ Umbranexus chronicles the creation of the first book fully written via AI. This 
 - [VitePress](./vitepress.md)
 - [Roadmap](./roadmap.md)
 - [LLM Authorship](./llm-authorship.md)
+- [Version PDF complète](./chapitres_finaux/compiled_book.pdf)
 - **Chapitres**
   - [Chapitre 1](./chapitres_finaux/chapitre_01/part_01.md) - [Analyse](./explications/chapitre1.md)
   - [Chapitre 2](./chapitres_finaux/chapitre_02/part_01.md) - [Analyse](./explications/chapitre2.md)

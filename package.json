@@ -8,6 +8,7 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "compile:chapters": "node scripts/compile-chapters.js",
+    "generate:pdf": "node scripts/generate-pdf.js",
     "test": "vitest --run --hookTimeout=20000",
     "test:ci": "vitest run --hookTimeout=20000 --reporter=verbose --coverage --run --testNamePattern='^((?!@skip).)*$'"
   },
