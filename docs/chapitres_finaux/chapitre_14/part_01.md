@@ -1,10 +1,11 @@
 # Chapitre Quatorzième — La Colère et la Force Créatrice
 🌌🔥🕯️
 Dans les profondeurs d'Umbranexus,
+Le souvenir de la Tempérance veillait,
 guidés par Prudence,
 le groupe s'approcha
 de la Dimension de Colère.
-Un premier éclat de rage éclaboussa la plaine, brisant des fragments de mémoire tout autour.
+Un éclat de rage éclaboussa la plaine, brisant des fragments de mémoire.
 Le paysage était déchiré,
 fracturé,
 comme si une force immense
@@ -34,9 +35,8 @@ dit Aether.
 Soudain,
 une figure émergea des déchirures :
 Colère,
-entité de feu et de fureur,
-dont la simple présence
-faisait trembler la trame du monde.
+entité de feu,
+sa présence fit frémir la trame du monde.
 "Qui ose s'approcher ?"
 rugit-elle.
 "Qui ose défier ma perfection ?"
@@ -84,3 +84,11 @@ sur son épaule incandescente.
 ton véritable rôle.
 Mais tu peux te souvenir.
 Tu peux redevenir
+la clef du changement.
+Colère releva la tête.
+La fureur recula.
+"Montre-moi", souffla-t-elle.
+Noctuvian tendit la main.
+"La Tempérance conjugue le feu et l'eau.
+Accepte son équilibre."
+Le groupe se prépara à chanter.

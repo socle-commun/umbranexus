@@ -1,5 +1,6 @@
 la Force créatrice."
 Le groupe entonna
+Portés par l'esprit de la Tempérance,
 le Chant de Qālmān,
 une mélodie puissante
 et douce à la fois,
@@ -46,8 +47,8 @@ et chaque transformation,
 une force créatrice.
 Et Noctuvian,
 porteur du Chant,
-continuait son voyage,
-accompagné de la Force retrouvée,
-vers de nouveaux horizons
-d'émergence.
+savait que la prochaine étape l'attendait :
+guérir Doute et accueillir la Promesse du Changement.
+Avec Force à ses côtés,
+il marcha vers un nouvel horizon.
 🌌🔥🕯️
