@@ -1,18 +1,18 @@
 # 💀 Nouvelle critique — Chapitre 7 : La Danse des Fragments
 
 ## 🧠 Écriture
-Le souffle de reconstruction domine, soutenu par des transitions plus nettes. Les envolées lyriques ont été modérées pour laisser place à des pauses efficaces.
+La reconstruction se déploie avec une respiration nouvelle. Les transitions se fluidifient et les envolées lyriques, plus contenues, laissent la place à des pauses efficaces.
 
 ## ⚙️ Points forts
-- Sensation de renouveau palpable.
-- Influences calviniennes bien intégrées.
-- Rythme désormais plus équilibré.
+- Sentiment de renouveau.
+- Influences calviniennes bien dosées.
+- Rythme équilibré.
 
 ## ⚠️ Points faibles
-- Quelques passages restent prévisibles.
-- Manque encore de contrastes marqués entre les mouvements.
+- Quelques segments prévisibles.
+- Contrastes entre mouvements encore timides.
 
 ## 📈 Pistes d'amélioration
-1. Varier davantage les alternances de rythme.
-2. Introduire des ruptures plus audacieuses pour surprendre le lecteur.
-3. Conserver la profondeur poétique tout en évitant la légèreté excessive.
+1. Intensifier les variations de rythme.
+2. Oser des ruptures plus nettes pour surprendre.
+3. Préserver la profondeur poétique sans trop d'allègement.

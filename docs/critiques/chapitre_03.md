@@ -1,18 +1,18 @@
 # 💀 Nouvelle critique — Chapitre 3 : Umbranexus
 
 ## 🧠 Écriture
-La révision finale clarifie le lien entre symboles anciens et enjeux présents. Les digressions ont été réduites et la confrontation avec l'Écho gagne en énergie.
+L'ensemble gagne en cohérence grâce à la réduction des digressions. Le dialogue avec l'Écho s'impose comme point d'orgue, reliant habilement symboles anciens et enjeux contemporains.
 
 ## ⚙️ Points forts
-- Symbolique riche mais mieux maîtrisée.
-- Vocabulaire archaïque bien dosé.
-- Rythme plus soutenu dans la partie centrale.
+- Symbolique maîtrisée.
+- Vocabulaire archaïque équilibré.
+- Rythme plus serré au centre.
 
 ## ⚠️ Points faibles
-- Certains passages demeurent hermétiques.
-- Transitions encore perfectibles.
+- Quelques segments restent obscurs.
+- Transitions parfois abruptes.
 
 ## 📈 Pistes d'amélioration
-1. Poursuivre l'épuration pour accentuer la tension.
-2. Mieux préciser le rôle des Sept Éclats.
-3. Varier davantage le tempo entre introspection et action.
+1. Clarifier la place des Sept Éclats.
+2. Accentuer la tension avant le duel avec l'Écho.
+3. Renforcer l'équilibre introspection/action.

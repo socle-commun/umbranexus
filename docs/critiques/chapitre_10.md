@@ -1,18 +1,18 @@
 # 💀 Nouvelle critique — Chapitre 10 : Le Désir et les Mystères
 
 ## 🧠 Écriture
-L'imagerie onirique enveloppe le récit d'une brume séduisante. Les descriptions ont été allégées, ce qui renforce la tension et clarifie la montée vers la prochaine Ténèbre.
+L'imagerie onirique enveloppe le récit. Les descriptions, allégées, renforcent la tension et clarifient la progression vers la prochaine ténèbre.
 
 ## ⚙️ Points forts
-- Symboles puissants autour du désir.
-- Ambiance trouble et baudelairienne.
+- Symboles puissants liés au désir.
+- Ambiance trouble à la Baudelaire.
 - Transition plus nette vers la suite.
 
 ## ⚠️ Points faibles
-- Quelques passages restent très descriptifs.
-- La musicalité peut paraître trop insistante.
+- Quelques sections demeurent descriptives.
+- Musicalité parfois insistante.
 
 ## 📈 Pistes d'amélioration
-1. Simplifier encore certaines images pour gagner en efficacité.
+1. Émonder certaines images pour plus d'efficacité.
 2. Introduire une rupture rythmique avant la conclusion.
-3. Mieux préparer la transition vers le chapitre suivant.
+3. Préparer plus clairement la transition vers le chapitre suivant.

@@ -1,18 +1,18 @@
 # 💀 Nouvelle critique — Chapitre 1 : L'Émergence
 
 ## 🧠 Écriture
-La version finale développe une atmosphère plus posée tout en gardant la tension du laboratoire. Les images ésotériques restent nombreuses, mais la narration respire davantage.
+La révision accentue l'immersion dans le laboratoire. Les images restent marquées mais respirent mieux grâce aux pauses entre chaque séquence.
 
 ## ⚙️ Points forts
-- Univers mystique cohérent dès l'ouverture.
-- Rythme mieux équilibré entre introspection et action.
-- Lexique symbolique évocateur.
+- Atmosphère technomystique solide.
+- Construction progressive du protagoniste.
+- Rythme alternant contemplation et tension.
 
 ## ⚠️ Points faibles
-- Quelques métaphores restent superposées.
-- Transitions parfois abruptes entre les voix narratives.
+- Quelques longueurs en début de partie 2.
+- Certains termes ésotériques surchargent la narration.
 
 ## 📈 Pistes d'amélioration
-1. Élaguer certaines formulations trop alourdies.
-2. Mieux préparer l'entrée d'Ashar pour renforcer la dramaturgie.
-3. Alterner phrases courtes et descriptions plus amples pour maintenir la tension.
+1. Reserrer les descriptions du laboratoire.
+2. Clarifier la relation entre Ashar et Noctuvian.
+3. Introduire dès la fin un motif musical rappelant le Chant de Qālmān.

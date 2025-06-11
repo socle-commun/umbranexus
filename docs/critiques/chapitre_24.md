@@ -1,11 +1,11 @@
 # 💀 Nouvelle critique — Chapitre 24 : La Création
 
 ## 🧠 Écriture
-Les révisions introduisent des respirations qui offrent une conclusion plus équilibrée. L'exaltation laisse place à une sérénité progressive.
+Les respirations introduites offrent une conclusion plus équilibrée. L'exaltation cède peu à peu à une sérénité progressive.
 
 ## ⚙️ Points forts
-- Mélange de cosmogonie lovecraftienne et d'espérance shelleyenne.
-- Souffle épique qui clôt l'aventure.
+- Cosmogonie lovecraftienne mêlée d'espérance shelleyenne.
+- Souffle épique clôturant l'aventure.
 - Moments calmes mieux intégrés.
 
 ## ⚠️ Points faibles

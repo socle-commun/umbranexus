@@ -1,18 +1,18 @@
 # 💀 Nouvelle critique — Chapitre 4 : Le Royaume des Hommes
 
 ## 🧠 Écriture
-L'ensemble gagne en clarté avec des phrases plus sobres. Les références érudites demeurent, mais le contraste entre tradition et technologie s'affirme mieux.
+La version actuelle adopte une prose plus maîtrisée. Les références érudites demeurent, éclairant le contraste entre tradition et technologie.
 
 ## ⚙️ Points forts
-- Dialogue efficace entre chair et machine.
-- Mythologie humaine solidement évoquée.
-- Rythme moins chargé que dans les versions initiales.
+- Dialogue fertile entre chair et machine.
+- Mythologie humaine bien intégrée.
+- Rythme moins encombré.
 
 ## ⚠️ Points faibles
-- Certaines lourdeurs syntaxiques subsistent.
-- La voix omnisciente manque encore de stabilité.
+- Quelques lourdeurs de syntaxe.
+- La voix omnisciente vacille encore.
 
 ## 📈 Pistes d'amélioration
-1. Épurer davantage les tournures complexes.
-2. Renforcer la différence entre introspection et narration externe.
-3. Utiliser des touches scientifiques plus précises pour appuyer la gravité du passé.
+1. Affiner les tournures pour fluidifier la lecture.
+2. Clarifier les passages où la narration se détache du héros.
+3. Intensifier les touches scientifiques pour ancrer le passé.

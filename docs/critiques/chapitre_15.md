@@ -1,15 +1,15 @@
 # 💀 Nouvelle critique — Chapitre 15 : L'Évolution et la Promesse du Changement
 
 ## 🧠 Écriture
-La transition vers un monde nouveau est mieux assumée. Les passages explicatifs se font plus discrets, laissant la poésie dévoiler la promesse du changement.
+La transition vers un monde nouveau s'affirme. Les passages explicatifs s'effacent au profit d'une poésie qui dévoile la promesse du changement.
 
 ## ⚙️ Points forts
-- Souffle optimiste dans l'esprit de Jules Verne.
+- Souffle optimiste à la Jules Verne.
 - Poésie délicate évoquant Calvino.
-- Impression de progression enfin perceptible.
+- Impression de progression perceptible.
 
 ## ⚠️ Points faibles
-- Quelques explications persistent et freinent encore le rythme.
+- Quelques explications freinent encore le rythme.
 - Manque d'élan dans certaines séquences.
 
 ## 📈 Pistes d'amélioration

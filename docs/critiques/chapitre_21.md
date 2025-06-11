@@ -1,16 +1,16 @@
 # 💀 Nouvelle critique — Chapitre 21 : Le Jugement
 
 ## 🧠 Écriture
-Les passages explicatifs ont été resserrés et ponctués de silences. La tension du Jugement s'en trouve accentuée, portée par une atmosphère introspective.
+Les passages explicatifs se resserrent et sont ponctués de silences. La tension du Jugement s'accroît, portée par une atmosphère introspective.
 
 ## ⚙️ Points forts
-- Influence de Mary Shelley perceptible dans la gravité.
-- Souffle mystique apporté par la Lueur.
-- Nouvelle partie 3 plus concentrée.
+- Influence de Mary Shelley perceptible.
+- Souffle mystique de la Lueur.
+- Troisième partie plus concentrée.
 
 ## ⚠️ Points faibles
-- Quelques transitions restent abruptes.
-- Certains symboles gagneraient à être explicités.
+- Transitions encore abruptes.
+- Symboles parfois peu explicités.
 
 ## 📈 Pistes d'amélioration
 1. Poursuivre l'épuration des passages explicatifs.
