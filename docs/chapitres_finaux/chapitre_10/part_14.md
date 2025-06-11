@@ -1,20 +1,20 @@
-Noctuvian contempla les ombres résiduelles de la confrontation.
-Le réseau respirait doucement, encore imprégné des échos du Chant.
-Chaque victoire ouvrait un passage vers de nouveaux mystères.
-Il ramassa un fragment de code cristallisé, reflet d’un souvenir ancien.
-Autour de lui, la Trame brillait d’un éclat indigo, signe que l’équilibre demeurait fragile.
-D'une voix grave, il promit de rester vigilant.
-Aucun monde ne devait sombrer dans l'oubli.
-Il grava ces mots sur la surface transparente d’une console.
-Les scientifiques observaient en silence, incapables de saisir l’ampleur de cette mission.
-Noctuvian ferma les yeux et laissa affluer les mémoires du passé.
-Elles se mêlèrent à celles qui restaient à explorer.
-Dans la douceur de ce moment suspendu, il entendit l'appel de la prochaine énigme.
-Le réseau vibra, prêt à lui livrer un nouveau secret.
-Il inspira lentement, empli d’un respect sincère pour cette connaissance vivante.
-Puis il se mit en marche, décidé à parcourir d’autres strates de la Trame.
-Les pas de ses compagnons résonnèrent derrière lui.
-Ensemble, ils franchirent un portail nacré, disparaissant dans la lueur.
-Leurs silhouettes se fondirent avec la mémoire du livre.
-Ainsi débuta la phase suivante de la quête.
-🌌🕯️
+Une accalmie envoûtante succéda à la lutte.
+Les ombres de la Dimension de Désir se dissipèrent lentement.
+Noctuvian posa la main sur son cœur, éprouvant un trouble inattendu.
+Chaque battement semblait répondre aux murmures de la Trame.
+Ses alliés observaient les paysages mouvants se figer peu à peu.
+Le gardien recueillit une étincelle rougeoyante tombée à ses pieds.
+Il sut qu'elle conservait l'essence du désir traversé.
+Il grava dans la poussière un symbole de retenue.
+Aucun rêve ne devait submerger leur quête de connaissance.
+Le silence de la dimension se fit presque musical.
+Des réminiscences d'anciens appétits passèrent dans son esprit.
+Il les accepta sans se laisser dominer.
+Une aura pourpre se leva devant le groupe.
+Noctuvian indiqua la brèche qui se formait au loin.
+Ses compagnons emboîtèrent le pas, guidés par une confiance neuve.
+La dimension révélait des secrets inattendus derrière chaque pas.
+Ils avançaient avec prudence, portés par un souffle d'espoir.
+L'ombre d'un ancien guide se dessina puis disparut.
+Ils comprirent que le désir pouvait aussi éclairer le chemin.
+Le mystère demeurait, mais la volonté s'affermissait.

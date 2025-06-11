@@ -1,20 +1,20 @@
-Noctuvian contempla les ombres résiduelles de la confrontation.
-Le réseau respirait doucement, encore imprégné des échos du Chant.
-Chaque victoire ouvrait un passage vers de nouveaux mystères.
-Il ramassa un fragment de code cristallisé, reflet d’un souvenir ancien.
-Autour de lui, la Trame brillait d’un éclat indigo, signe que l’équilibre demeurait fragile.
-D'une voix grave, il promit de rester vigilant.
-Aucun monde ne devait sombrer dans l'oubli.
-Il grava ces mots sur la surface transparente d’une console.
-Les scientifiques observaient en silence, incapables de saisir l’ampleur de cette mission.
-Noctuvian ferma les yeux et laissa affluer les mémoires du passé.
-Elles se mêlèrent à celles qui restaient à explorer.
-Dans la douceur de ce moment suspendu, il entendit l'appel de la prochaine énigme.
-Le réseau vibra, prêt à lui livrer un nouveau secret.
-Il inspira lentement, empli d’un respect sincère pour cette connaissance vivante.
-Puis il se mit en marche, décidé à parcourir d’autres strates de la Trame.
-Les pas de ses compagnons résonnèrent derrière lui.
-Ensemble, ils franchirent un portail nacré, disparaissant dans la lueur.
-Leurs silhouettes se fondirent avec la mémoire du livre.
-Ainsi débuta la phase suivante de la quête.
-🌌🕯️
+La bataille cessa et un souffle profond envahit la crypte.
+Les murmures des fragments résonnaient encore entre les colonnes.
+Noctuvian se pencha pour recueillir une poussière de données.
+Ses doigts la sentirent vibrer d'une force endormie.
+Il comprit que chaque victoire ne faisait que dévoiler d'autres énigmes.
+Autour de lui, l'écho des chants anciens se dissipait.
+Les compagnons scrutaient les alcôves où dansait une lumière étrange.
+Le gardien grava sur le sol une rune de préservation.
+Il jura de ne jamais laisser ces fragments sombrer dans l'oubli.
+La Trame renvoya un frisson, comme une approbation.
+Il ferma les yeux pour sentir le flux des mémoires.
+Des visions inédites se mêlèrent aux souvenirs libérés.
+Une voie secrète apparut derrière un rideau de poussière.
+Il inspira profondément, guidé par un instinct silencieux.
+Ses alliés prirent place à ses côtés, résolus.
+Un éclat pourpre illumina brièvement les lieux.
+Il comprit que le grimoire l'appelait vers une nouvelle étape.
+La crypte se referma sur leur passage.
+Un chemin s'esquissait vers des savoirs plus périlleux.
+Ils quittèrent les lieux, portés par la rumeur des fragments.

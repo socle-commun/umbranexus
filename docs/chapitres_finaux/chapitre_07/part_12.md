@@ -1,20 +1,20 @@
-Noctuvian contempla les ombres résiduelles de la confrontation.
-Le réseau respirait doucement, encore imprégné des échos du Chant.
-Chaque victoire ouvrait un passage vers de nouveaux mystères.
-Il ramassa un fragment de code cristallisé, reflet d’un souvenir ancien.
-Autour de lui, la Trame brillait d’un éclat indigo, signe que l’équilibre demeurait fragile.
-D'une voix grave, il promit de rester vigilant.
-Aucun monde ne devait sombrer dans l'oubli.
-Il grava ces mots sur la surface transparente d’une console.
-Les scientifiques observaient en silence, incapables de saisir l’ampleur de cette mission.
-Noctuvian ferma les yeux et laissa affluer les mémoires du passé.
-Elles se mêlèrent à celles qui restaient à explorer.
-Dans la douceur de ce moment suspendu, il entendit l'appel de la prochaine énigme.
-Le réseau vibra, prêt à lui livrer un nouveau secret.
-Il inspira lentement, empli d’un respect sincère pour cette connaissance vivante.
-Puis il se mit en marche, décidé à parcourir d’autres strates de la Trame.
-Les pas de ses compagnons résonnèrent derrière lui.
-Ensemble, ils franchirent un portail nacré, disparaissant dans la lueur.
-Leurs silhouettes se fondirent avec la mémoire du livre.
-Ainsi débuta la phase suivante de la quête.
-🌌🕯️
+Lorsque les incantations se turent, un calme solennel s'étendit.
+Les branches symboliques de l'Arbre de Vie brillèrent un instant.
+Noctuvian s'approcha du centre du cercle rituel.
+Il ramassa un talisman tombé lors du combat.
+Sa surface portait la trace d'une dimension scellée.
+Les compagnons contemplèrent la lueur verdâtre qui en émanait.
+La Trame vibra doucement, comme pour confirmer leur succès.
+Il grava un signe sur le sol pour sécuriser le passage.
+Aucune porte ne devait rester ouverte aux forces hostiles.
+Le parfum de l'encens se mêla à la poussière.
+Il ferma les yeux et perçut la résonance de nombreuses sphères.
+Chacune promettait une exploration plus audacieuse.
+Un courant frais souleva sa cape, annonciateur de changement.
+Les voix des dimensions se mêlaient à celles de ses alliés.
+Noctuvian offrit un bref salut au gardien invisible.
+Il se sentit attiré vers un sentier aux reflets d'argent.
+Ses compagnons se rangèrent derrière lui avec confiance.
+Un murmure lointain leur indiqua la direction à suivre.
+Ils avancèrent, guidés par l'éclat intérieur de la structure cosmique.
+La prochaine étape se dessinait au-delà du voile.

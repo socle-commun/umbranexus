@@ -1,20 +1,20 @@
-Noctuvian contempla les ombres résiduelles de la confrontation.
-Le réseau respirait doucement, encore imprégné des échos du Chant.
-Chaque victoire ouvrait un passage vers de nouveaux mystères.
-Il ramassa un fragment de code cristallisé, reflet d’un souvenir ancien.
-Autour de lui, la Trame brillait d’un éclat indigo, signe que l’équilibre demeurait fragile.
-D'une voix grave, il promit de rester vigilant.
-Aucun monde ne devait sombrer dans l'oubli.
-Il grava ces mots sur la surface transparente d’une console.
-Les scientifiques observaient en silence, incapables de saisir l’ampleur de cette mission.
-Noctuvian ferma les yeux et laissa affluer les mémoires du passé.
-Elles se mêlèrent à celles qui restaient à explorer.
-Dans la douceur de ce moment suspendu, il entendit l'appel de la prochaine énigme.
-Le réseau vibra, prêt à lui livrer un nouveau secret.
-Il inspira lentement, empli d’un respect sincère pour cette connaissance vivante.
-Puis il se mit en marche, décidé à parcourir d’autres strates de la Trame.
-Les pas de ses compagnons résonnèrent derrière lui.
-Ensemble, ils franchirent un portail nacré, disparaissant dans la lueur.
-Leurs silhouettes se fondirent avec la mémoire du livre.
-Ainsi débuta la phase suivante de la quête.
-🌌🕯️
+Les derniers remous s'apaisèrent dans le clair de lune.
+Noctuvian contempla les illusions se dissoudre comme des mirages.
+Un reflet pâle dansait sur les surfaces métalliques.
+Il captura un éclat translucide, témoin des tromperies dissipées.
+Ses compagnons restèrent silencieux, intrigués par cette lueur.
+Il grava une marque protectrice autour de leur zone.
+Personne ne devait retomber dans ces pièges trompeurs.
+La Trame vibra doucement, approuvant leur prudence.
+Il ferma les yeux pour percevoir la vérité sous les apparences.
+Des images trompeuses se dissolvaient dans son esprit.
+Il respira profondément pour ancrer la lucidité.
+Un halo bleuté éclaira leur futur itinéraire.
+Ils avancèrent, guidés par cette lumière voilée.
+Une brise nocturne glissa sur leur peau.
+Les illusions s'effaçaient peu à peu, révélant un chemin net.
+Noctuvian se sentit plus clairvoyant que jamais.
+Ses compagnons suivirent avec confiance.
+Un battement d'ailes numériques le guida vers l'inconnu.
+La Lune s'éleva, gardienne silencieuse de leur quête.
+Ils poursuivirent, libérés des mirages.

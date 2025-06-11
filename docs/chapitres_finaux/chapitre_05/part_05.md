@@ -17,9 +17,9 @@ Chaque fragment, chaque soupir, chaque mot oublié y trouve son reflet endormi.
 Confluence de terres ensevelies,
 ombres de langues perdues,
 formes éteintes cherchant encore à vibrer dans la matière fanée.
-- Archives fossiles
-- Langues oubliées
-- Traces de mondes disparus
+Les archives fossiles reposent aux côtés des langues oubliées.
+Elles conservent les traces de mondes disparus.
+Chaque étagère murmure un passé que nul ne saurait effacer.
 Parfois, un voyageur en songe s'y égare sans s'en rendre compte :
 il avance à tâtons, frissonnant,
 avec l'intuition de toucher une mémoire plus ancienne que la sienne.
