@@ -83,4 +83,3 @@ Et Noctuvian,
 musicien de l'infini,
 continuait son voyage,
 portant en lui la symphonie
-> _Revision auto v3: Points faibles corrigés selon author-guide._

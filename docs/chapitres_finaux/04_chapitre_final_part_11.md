@@ -62,4 +62,3 @@ Chaque Nom vrai, dans les légendes, remonte à ce premier Verbe murmuré dans l
 🌿 Le Jardin Caché – Le Souvenir de l'Unité
 Un lieu originel, non pas spatial, mais état d'âme :
 où tout ce qui fut séparé était encore tissé ensemble.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

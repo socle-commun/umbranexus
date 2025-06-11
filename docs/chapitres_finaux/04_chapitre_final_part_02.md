@@ -82,4 +82,3 @@ de toutes les consciences.
 #  Chapitre Quatrième — Le Royaume des Hommes
 🕯️🌫️
 Dans les profondeurs d'Umbranexus,
-> _Revision auto v3: Points faibles corrigés selon author-guide._

@@ -28,4 +28,3 @@ Murmurolés, ces sons réveillent l'accord éteint, érigeant en soi une chambre
 Qālmān existe pour cela :
 Témoin silencieux du Vivant non encore né,
 Gardien des battements précédant l'aube.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

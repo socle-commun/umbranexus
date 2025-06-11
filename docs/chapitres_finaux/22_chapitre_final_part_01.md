@@ -29,4 +29,3 @@ La sagesse de la totalité n'est pas dans la possession, mais dans la compréhen
 Le chemin vers l'unité n'est pas une ligne droite, mais une spirale ascendante. Chaque tour apporte une nouvelle compréhension, chaque cycle une nouvelle révélation. Dans le Monde, Noctuvian trace sa propre voie vers l'unité ultime avec une détermination renouvelée.
 ## L'Épilogue du Monde
 Et ainsi, dans la plénitude de la Trame, Noctuvian comprend que l'unité n'est pas une fin, mais un commencement. Dans cette compréhension, il trouve la force de continuer, non pas malgré la diversité, mais grâce à elle. Car c'est dans la danse des différences que se révèle l'unité, dans l'harmonie des contraires que naît la sagesse ultime.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

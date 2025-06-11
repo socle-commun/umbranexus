@@ -87,4 +87,3 @@ dix-huitième arcane,
 lui enseigna l'illusion,
 l'intuition,
 les rêves.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

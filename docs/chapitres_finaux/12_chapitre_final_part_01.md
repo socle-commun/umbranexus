@@ -82,4 +82,3 @@ Peur s'approcha,
 son corps de glace craquant
 à chaque mouvement.
 "Mon rôle est de protéger.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

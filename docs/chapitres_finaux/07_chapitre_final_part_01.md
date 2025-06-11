@@ -82,4 +82,3 @@ l'harmonie des contraires.
 Elle était le cœur de l'Arbre,
 le centre de la conscience.
 Netzach, la Victoire,
-> _Revision auto v3: Points faibles corrigés selon author-guide._

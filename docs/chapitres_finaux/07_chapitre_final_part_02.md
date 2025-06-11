@@ -83,4 +83,3 @@ se mêlant à la lumière.
 murmura-t-elle.
 "Je me souviens d'avoir été...
 d'avoir été..."
-> _Revision auto v3: Points faibles corrigés selon author-guide._

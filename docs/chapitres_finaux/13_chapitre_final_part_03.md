@@ -28,4 +28,3 @@ Il salua le mystère qui l'enveloppait.
 Puis s'élança vers la prochaine étape.
 Son âme résonnait d'une énergie nouvelle.
 Aucune obscurité ne pourrait briser cet élan.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

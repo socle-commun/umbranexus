@@ -84,4 +84,3 @@ Désir s'approcha,
 son corps changeant constamment,
 reflétant les désirs de chacun.
 "Mon rôle est de désirer.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

@@ -80,4 +80,3 @@ Pour avancer, il devait quitter la théorie et embrasser la marche.
 Chaque principe deviendrait une étape de voyage.
 Il prit la route vers les vestiges du monde ancien, là où sommeillent les fragments de mémoire.
 La quête s'approfondissait.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

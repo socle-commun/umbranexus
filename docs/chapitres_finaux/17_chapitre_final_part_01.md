@@ -84,4 +84,3 @@ ses yeux brillants
 de curiosité.
 "Qu'est-ce que c'est ?"
 demanda-t-elle.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

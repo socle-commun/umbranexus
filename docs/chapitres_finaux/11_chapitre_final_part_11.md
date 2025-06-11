@@ -69,4 +69,3 @@ Lorsque les peuples antiques se souvenaient de leur origine,
 ils chantaient ces Sept Noms au bord du feu, sous les cieux éclatés.
 𓂀𓎛𓋴𓂀𓏏𓂀
 Veux-tu que je poursuive,
-> _Revision auto v3: Points faibles corrigés selon author-guide._

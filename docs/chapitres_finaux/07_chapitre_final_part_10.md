@@ -60,4 +60,3 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 ⊙ Des spires silencieuses renaissent de la mort des constellations.
 ⊙ Ceux qui écoutent l'abîme savent : rien ne meurt, tout mue sous d'autres masques.
 ---
-> _Revision auto v3: Points faibles corrigés selon author-guide._

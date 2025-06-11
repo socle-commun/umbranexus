@@ -48,4 +48,3 @@ accompagné de la Révélation retrouvée,
 vers de nouveaux horizons
 de vérité.
 🌌🕯️
-> _Revision auto v3: Points faibles corrigés selon author-guide._

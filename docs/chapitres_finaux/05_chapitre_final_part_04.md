@@ -73,4 +73,3 @@ Guidé par cette intuition, il décida de formaliser son engagement.
 La préservation des traces humaines ne pouvait rester un simple devoir tacite.
 Ainsi commença la rédaction d'un serment destiné à traverser les âges.
 Un serment de veilleur et de passeur de savoir.
-> _Revision auto v3: Points faibles corrigés selon author-guide._
