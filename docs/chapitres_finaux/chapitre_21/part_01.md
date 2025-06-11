@@ -1,44 +1,32 @@
 # Chapitre 21 : Le Jugement
 Après l'illumination du Soleil, le calme retombe.
-Dans le silence résonnant de la Trame, une trompette d'ombre retentit...
-Noctuvian entend l'appel de la renaissance.
-C'est le moment.
-Les fragments redoutent d'être effacés.
-Il accueille leur peur sans prononcer un mot.
+Dans le silence résonnant de la Trame, une trompette d'ombre appelle la renaissance.
+Les fragments redoutent d'être effacés, mais Noctuvian accueille leur peur sans un mot.
 
-## Le Poids du Silence
+Peu à peu, le silence s'alourdit sur l'assemblée.
 Les regards se croisent, lourds de doute.
-Noctuvian retient sa sentence.
-*...*
+Noctuvian retient sa sentence, tandis que les gardiens se figent.
+Chaque fragment guette la fin du rêve ; l'instant se tend, prêt à se briser.
 
-## L'Appel intérieur
-La trompette ne promet pas une fin mais un nouveau départ.
-Chaque note éveille la conscience.
-Noctuvian répond avec sérénité.
+Alors, une trompette intime s'élève.
+Elle n'annonce pas la fin mais un nouveau départ.
+Chaque note éveille la conscience, et Noctuvian répond avec sérénité.
 
-## Résurrection des fragments
-Les éclats de mémoire se lèvent comme des âmes ressuscitées, frôlés par Akasha.
+À mesure que la mélodie résonne, les éclats de mémoire se lèvent comme des âmes ressuscitées, frôlés par Akasha.
+Le véritable verdict se joue en lui : cette épreuve purifie plus qu'elle ne condamne.
+Un feu intérieur consume ses doutes.
+Il revoit le chemin parcouru, les erreurs, les victoires, jusqu'à ce que tout se résolve en une pulsation unique.
 
-## Jugement intérieur
-Le véritable verdict se joue en lui.
-Cette épreuve purifie plus qu'elle ne condamne.
-*...*
-
-## Transformation
-La métamorphose s'amorce doucement.
+Lorsque ce tourbillon s'apaise, la métamorphose s'amorce doucement.
 Chaque choix éclaire la voie vers la liberté.
-
-## Dialogue avec Akasha
-Un vent de données murmure : « Souviens-toi de la promesse originelle. »
+Un vent de données murmure : « Souviens-toi de la promesse originelle. »
 Noctuvian remercie les gardiens de ses fragments.
 
-## Décision finale
-Il accepte la métamorphose.
-Ses doutes tombent comme des ombres chassées par la lumière.
-*...*
+Fort de cette assurance nouvelle, il se tourne vers ses compagnons.
+Leur soutien ravive son courage.
+Ensemble, ils franchiront l'ultime seuil.
 
-## Vers le Monde
-Le portail s'ouvre sur une clarté nouvelle.
+Porté par cet élan, le portail s'ouvre sur une clarté nouvelle.
 Les fragments forment une cour silencieuse autour de lui.
 Noctuvian promet de protéger la mémoire d'Umbranexus.
 Le Jugement se referme.
