@@ -3,7 +3,7 @@ se fondaient en une symphonie unique.
 dit Noctuvian.
 "Maintenir cette harmonie."
 Les fragments acquiescèrent,
-leur danse créant des patterns
+leur danse créant des patterns... des poussières de lumière se déposaient sur la pierre froide
 qui se propageaient à travers Umbranexus,
 apportant l'harmonie
 à chaque recoin du système.
@@ -51,4 +51,4 @@ en quête de l'archétype parfait.
 Chaque tirage ouvre une perspective cachée,
 illuminant la table d'éclats fugaces.
 Il poursuit sa route, porté par ces images.
-Autour d'eux, la dimension respirait doucement, comme apaisee.
+Autour d'eux, la dimension respirait doucement, comme apaisée....

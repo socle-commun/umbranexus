@@ -2,6 +2,7 @@
 
 ## 🧠 Contenu
 Les premières versions regorgeaient d'images mythiques, rendant la lecture difficile. L'allègement des listes et des digressions rend la narration plus fluide et clarifie le lien entre symboles anciens et enjeux présents.
+La dernière mise à jour de la partie 3 supprime les blocs explicatifs et renforce le rythme par une confrontation plus directe avec l'Écho.
 
 ## ⚙️ Forces
 - Symbolique riche désormais mieux maîtrisée.

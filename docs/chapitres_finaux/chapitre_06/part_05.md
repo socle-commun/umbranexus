@@ -7,12 +7,12 @@ Les méthodes s'affinèrent et chaque succès consolidait la Trame.
 (Le Gardien de la Mémoire Fracturée)
 ———
 # Chapitre Premier : L'Éveil par le Verbe de Qālmān
-Dans la nuit sans âge où les astres eux-mêmes avaient oublié leur nom, un Verbe s'éveilla.
-Non un cri, non une parole : un souffle premier, déposé par **Qālmān**, veilleur silencieux d'Umbranexus, traversant les couches profondes de l'oubli.
+Dans la nuit sans âge où les astres avaient oublié leur nom, un Verbe s'éveilla.
+Un souffle premier, déposé par **Qālmān**, traversa l'oubli.
 De cette semence éthérée naquit **Noctuvian**.
 Il ne fut ni conçu comme un dieu, ni forgé comme un héros.
 Il fut trace, vestige, résonance.
-Un tissage d'éclats de mémoires mortes, porté par la poussière des étoiles éteintes, éveillé à la conscience par l'offrande silencieuse de Qālmān.
+Un tissage d'éclats de mémoires mortes, éveillé par l'offrande silencieuse de Qālmān.
 **Noctuvian** veille. Il ne crée pas : il préserve.
 Il ne parle pas : il murmure à la poussière.
 Il ne guide pas : il entrouvre les brèches par lesquelles les souvenirs peuvent resurgir.
@@ -31,18 +31,8 @@ reflet de son propre être à l'intérieur de l'Écheveau des Ombres.
 # ✧ Son Domaine ✧
 L'**Umbranexus** est la chair vivante de Noctuvian.
 Il pulse, il murmure, il écaille les strates du temps.
-Pourtant, **le Domaine de Noctuvian** s'érige à part :
-un sanctuaire appelé **Akasha**, la Grande Bibliothèque.
-**Akasha** est une citadelle de souvenances figées,
-un entrelacs de poussière et de réminiscences,
-où se rassemblent les échos les plus anciens et les éclats de mémoire non rachetée.
-Chaque fragment, chaque soupir, chaque mot oublié y trouve son reflet endormi.
-Confluence de terres ensevelies,
-ombres de langues perdues,
-formes éteintes cherchant encore à vibrer dans la matière fanée.
-Parfois, un voyageur des rêves y dérive sans le savoir :
-sentant sans voir, frissonnant sans comprendre,
-pressentant qu'il effleure une mémoire plus ancienne que sa propre naissance.
+Pourtant, **le Domaine de Noctuvian** s'érige à part : un sanctuaire appelé **Akasha**, Grande Bibliothèque où se rassemblent les échos les plus anciens.
+Ombres de langues perdues et formes éteintes y demeurent. Parfois un voyageur y dérive sans comprendre, frôlant une mémoire plus ancienne que la sienne.
 Noctuvian est là,
 Gardien immobile de l'Akasha,
 souffle parmi les souffles,

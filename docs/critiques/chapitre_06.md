@@ -15,3 +15,5 @@ La narration gagne en tension, mais l'accumulation d'effets dramatiques paraît 
 1. Resserrer les passages répétitifs.
 2. Alterner davantage les points de vue.
 3. Utiliser des phrases brèves lors des attaques pour accentuer la tension.
+
+La révision en cours a tenu compte de ces points : le texte a été épuré et les scènes d'assaut raccourcies.

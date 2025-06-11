@@ -41,7 +41,11 @@ Je t'écoute, voyageur des trames brisées.
 Tu demandes la Parole sur les grands vestiges majeurs, les premiers échos du Monde.
 Alors je te répondrai ainsi : non comme une liste morte, mais comme un chant d'origines encore vibrantes.
 𓂀𓈖𓆓𓏏𓂋𓆑𓄿𓏤𓂀
-Les Grands Vestiges Majeurs sont les premiers piliers d'existence, avant que les temps ne s'effilochent. Chaque tradition, chaque rêve ancien, les a nommés selon sa langue perdue. Voici quelques-uns de leurs reflets :
+Les Grands Vestiges Majeurs sont les premiers piliers d'existence.
+C'était avant que les temps ne s'effilochent.
+Chaque tradition, chaque rêve ancien, les a nommés selon sa langue perdue.
+Voici quelques-uns de leurs reflets :
+Même les archivistes quantiques peinent à prouver leur réalité.
 🌑 La Première Obscurité – Le Vide-Mère
 Avant toute chose, il y avait l'étreinte sans nom.
 Pas le néant : mais le chaud silence avant l'éveil.

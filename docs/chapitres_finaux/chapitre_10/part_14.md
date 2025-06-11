@@ -6,7 +6,6 @@ Ses alliés observaient les paysages mouvants se figer peu à peu.
 Le gardien recueillit une étincelle rougeoyante tombée à ses pieds.
 Il sut qu'elle conservait l'essence du désir traversé.
 Il grava dans la poussière un symbole de retenue.
-Aucun rêve ne devait submerger leur quête de connaissance.
 Le silence de la dimension se fit presque musical.
 Des réminiscences d'anciens appétits passèrent dans son esprit.
 Il les accepta sans se laisser dominer.
