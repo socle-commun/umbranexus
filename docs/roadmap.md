@@ -12,3 +12,4 @@
 - Ensure the compiled manuscript surpasses **300 pages** in length.
 
 
+- Reworked chapitre 14 en privilégiant les verbes et en écrivant une troisième partie originale.

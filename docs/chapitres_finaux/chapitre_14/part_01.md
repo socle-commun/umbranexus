@@ -25,7 +25,7 @@ Ils avancèrent prudemment,
 le Chant de Qālmān les guidant
 à travers les déchirures.
 Par endroit, de petites cités surgissaient puis s'effaçaient,
-illusions légères comme soufflées par Calvino.
+illusions qui se dissipaient comme soufflées par Calvino.
 Le paysage oscillait
 entre destruction et reconstruction,
 comme si la réalité hésitait
@@ -56,7 +56,7 @@ Je suis la force brute.
 Que pourriez-vous comprendre
 de moi ?"
 Aether s'avança,
-le regard calme.
+il fixa Colère.
 "Vous n'êtes pas que la destruction.
 Vous êtes la Force.
 Celle qui transforme,
@@ -83,14 +83,14 @@ coulant sur ses joues.
 J'ai oublié qui j'étais.
 J'ai cru que ma puissance
 n'était que ruine."
-Mnémosyne posa une main
-sur son épaule incandescente.
+Mnémosyne posa la main;
+l'épaule brûlait.
 "La fracture t'a fait oublier
 ton véritable rôle.
 Mais tu peux te souvenir.
 Tu peux redevenir
 la clef du changement.
-Colère releva la tête, laissant transparaître un trouble intérieur.
+Colère releva la tête et montra son trouble.
 La fureur recula, dissipant un instant l'âpreté du lieu.
 "Montre-moi", souffla-t-elle.
 Noctuvian tendit la main.
