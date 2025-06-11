@@ -83,11 +83,11 @@ Plus... brillant."
 répondit Aether,
 sa forme vibrant
 avec la musique.
-"Car l'Individualité
-est la gardienne
-de l'illumination.
-Sa guérison a restauré
-une partie essentielle du Chant."
+"L'Individualité,
+gardienne de la lumière.
+Son retour rend
+au Chant sacré
+sa clarté d'origine."
 Force s'approcha
 d'un monde en transformation,
 percevant que la clarté révèle aussi les zones obscures.

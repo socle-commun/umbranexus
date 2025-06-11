@@ -81,11 +81,11 @@ Plus... lumineux."
 répondit Aether,
 sa forme vibrant
 avec la musique.
-"Car l'Individualité
-est la gardienne
-de la révélation.
-Sa guérison a restauré
-une partie essentielle de cette harmonie."
+"L'Individualité,
+sentinelle de la révélation.
+Son rétablissement offre
+à cette harmonie
+sa force nouvelle."
 Force s'approcha
 d'un monde en transformation,
 ses yeux brillants
