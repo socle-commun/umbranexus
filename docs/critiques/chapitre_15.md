@@ -10,6 +10,7 @@ La narration souligne la transition vers un monde nouveau, mais certains passage
 ## ⚠️ Faiblesses
 - Explications trop présentes qui ralentissent le rythme.
 - Manque d'élan dans certaines séquences.
+- Répétition d'un passage entier (partie 3) déjà lu auparavant, affaiblissant l'impression de progression.
 
 ## 📈 Recommandations
 1. Utiliser un rythme plus nerveux pour porter la mutation.

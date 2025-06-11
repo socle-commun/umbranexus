@@ -10,6 +10,7 @@ La tonalité nocturne apporte une ambiance envoûtante. Certaines images se rép
 ## ⚠️ Faiblesses
 - Répétition de métaphores lunaires.
 - Clarté insuffisante entre faits et hypothèses.
+- Partie 3 identique à celles de chapitres voisins, ce qui brouille la montée vers l'illumination.
 
 ## 📈 Recommandations
 1. Concentrer les métaphores sur quelques symboles forts.

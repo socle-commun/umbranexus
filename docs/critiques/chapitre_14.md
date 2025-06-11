@@ -10,6 +10,7 @@ La prose s'enflamme pour exprimer la colère, mais l'abondance d'adjectifs amoin
 ## ⚠️ Faiblesses
 - Trop d'adjectifs étouffent la tension.
 - Rythme parfois monotone malgré la violence.
+- Passage copié : la troisième partie reprend mot à mot une séquence déjà lue dans les premiers chapitres, ce qui fragilise la montée narrative.
 
 ## 📈 Recommandations
 1. Miser sur des verbes forts pour dynamiser l'expression.

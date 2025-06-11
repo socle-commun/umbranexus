@@ -10,6 +10,7 @@ Les images de ruine ont une force certaine, mais leur accumulation frôle la sur
 ## ⚠️ Faiblesses
 - Surcharge d'images qui affaiblit l'impact.
 - Manque de subtilité dans les transitions.
+- Répétition : la troisième partie reprend une section déjà utilisée, ce qui amoindrit la sensation de destruction créatrice.
 
 ## 📈 Recommandations
 1. Sélectionner quelques visions marquantes pour renforcer l'intensité.

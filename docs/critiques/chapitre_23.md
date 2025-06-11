@@ -10,6 +10,7 @@ La prose adopte un ton méditatif qui invite à la contemplation. La répétitio
 ## ⚠️ Faiblesses
 - Images d'infini trop répétitives.
 - Bénédiction des Anciens un peu longue.
+- Passage de la partie 3 repris de chapitres précédents, ce qui brouille la montée vers la création ultime.
 
 ## 📈 Recommandations
 1. Varier les métaphores (spirales, mers sans rivage, miroirs nocturnes).

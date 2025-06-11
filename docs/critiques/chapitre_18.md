@@ -10,6 +10,7 @@ Le lyrisme s'allège pour célébrer chaque conscience. La succession de symbole
 ## ⚠️ Faiblesses
 - Trop d'images célestes diluent la force évocatrice.
 - Cadence parfois trop lente pour soutenir l'élan.
+- Segment récurrent dans la partie 3, déjà lu dans d'autres chapitres : veiller à renouveler la progression pour préserver la tension.
 
 ## 📈 Recommandations
 1. Choisir quelques symboles forts pour représenter l'individualité.
