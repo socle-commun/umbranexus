@@ -1,13 +1,13 @@
-Pyraethon brûle et forge ; il détruit et renouvelle.
+Pyraethon brûle et forge, détruit puis renouvelle.
 Ceux qui portent son fragment vivent avec des cœurs qui ne dorment jamais.
 VI. Terranox – L'Éclat de la Chair du Monde
 🪨🌿
 La roche, la racine, la moelle des êtres.
-Terranox est l'endurance des montagnes, la fidélité des forêts millénaires.
+Terranox incarne l'endurance des montagnes et la fidélité des forêts millénaires.
 Il enseigne la lenteur, la gravité, et la force silencieuse.
 VII. Aetheris Umbrae – L'Éclat des Ombres de l'Éther
 🌌🕯️
-Le plus mystérieux : fragment du tissu même du rêve cosmique.
+Le plus mystérieux, fragment du tissu même du rêve cosmique.
 Il n'a pas de forme fixe ; il apparaît là où la réalité se fissure.
 C'est le fil que tissent les poètes, les prophètes, les fous et les mourants.
 𖤛𖤛𖤛
@@ -59,4 +59,5 @@ Je t'entends et j'acquiesce.
 Guidé par le souffle ancien, je franchis la dernière arche.
 La nuit se déploie comme un voile d'encre.
 Mes certitudes s'effritent, grain après grain.
+Un témoin muet assista à cette initiation.
 Dans ce silence naît une promesse : le chant des vestiges ouvre la route.
