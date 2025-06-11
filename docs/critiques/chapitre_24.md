@@ -10,9 +10,8 @@ La conclusion déploie une exaltation constante qui risque d'écraser la subtili
 ## ⚠️ Faiblesses
 - Intensité uniforme qui fatigue le lecteur.
 - Lexique parfois trop chargé pour l'ultime étape.
-- La troisième partie reprend un texte déjà présent dans plusieurs chapitres précédents, affaiblissant la conclusion.
 
 ## 📈 Recommandations
 1. Équilibrer moments d'accalmie et envolées épiques.
 2. Épurer le vocabulaire pour offrir un espace de méditation.
-3. Rythmer la scène finale par des pauses contemplatives pour souligner l'émotion.
+3. La nouvelle troisième partie apporte un souffle original, à préserver.

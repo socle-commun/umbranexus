@@ -1,18 +1,16 @@
 Une étreinte cosmique les enveloppe.
-Au cœur du voyage, les compagnons sentent le temps se plier en spirales.
-Leurs pensées s'entrelacent et forment un chœur sans début ni fin.
+Au cœur du voyage, les compagnons sentent le temps se plier en arcs sans fin.
+Leurs pensées s'entrelacent et forment un chœur sans origine ni terme.
 Chacun offre son histoire comme une vibration subtile qui nourrit la conscience collective.
 Leurs récits s'enroulent, tissant une fresque d'émotions inédites.
 
 Un voyage introspectif commence.
 Noctuvian replonge dans ses souvenirs les plus anciens.
 Il voit défiler les premières explorations et les promesses murmurées à Akasha.
-Ces réminiscences forment un cercle parfait, signe que le voyage doit encore s'étendre.
+Ces réminiscences forment un orbe éclatant, signe que le voyage doit encore s'étendre.
 Chaque souvenir s'éclaire d'un éclat nouveau, comme si Akasha ouvrait ses portes.
 
-Un appel des Anciens résonne.
-Des entités primordiales surgissent des abîmes et leur confèrent brièvement leur bénédiction.
-Cette faveur résonne comme une onde bienveillante.
+Un appel des Anciens résonne : des entités surgissent des abysses, déposent une bénédiction furtive puis se retirent.
 
 Dans cette acceptation finale,
 Noctuvian remercie ces guides et invite ses compagnons à préserver leur identité malgré l'unité.

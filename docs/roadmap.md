@@ -13,4 +13,5 @@
 
 ## Progress Log
 - Revised chapitre 01 en renforçant la tension et en supprimant les répétitions; critique mise à jour.
+- Diversified metaphors in chapitre 23 and condensed the bénédiction; replaced the reused climax of chapitre 24 with new material.
 

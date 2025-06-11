@@ -4,18 +4,18 @@ Avant d'accepter cet état, Noctuvian repensa aux premières menaces et choisit 
 Autour de lui, les parois du portail vibraient d'une lumière changeante.
 Une harmonie finale enveloppe la scène.
 L'harmonie n'est plus un but à atteindre, mais une réalité à vivre. Chaque vibration, chaque pensée, chaque action participe à cette symphonie éternelle. Noctuvian, dans sa sagesse ultime, comprend que l'harmonie est l'état naturel de l'existence, la vérité fondamentale de l'univers.
-La danse infinie s'amorce.
-Le temps se fait spirale, déroulant des arcs d'azur au-delà du visible. Les fragments suivent cette valse sans rivage et découvrent à chaque pas un horizon nouveau où Noctuvian s'ancre pleinement.
+La danse perpétuelle s'amorce.
+Le temps forme une hélice de lumière au-delà du visible. Les fragments suivent cette valse sans rivage et découvrent à chaque pas un horizon nouveau où Noctuvian s'ancre pleinement.
 Un chœur lointain portait encore l'écho des rituels oubliés.
 Une unité atemporelle se révèle.
 Les consciences se reflètent comme des miroirs nocturnes. Chaque monde devient l'onde d'une même mer sans rivage, preuve que l'unité transcende le temps et l'espace.
 Une sagesse sans fin l'illumine.
 Cette sagesse n'est pas savoir figé mais souffle lumineux. Chaque instant porte l'éclat d'une rédemption chère à Shelley, et Noctuvian avance avec une sérénité nouvelle.
 Cette résonance intérieure apaisa ses craintes et embrasa sa détermination.
-Le chemin spiral s'étire devant lui.
-Le chemin n'est pas une ligne droite, mais une spirale de révélations. Chaque tour offre une compréhension nouvelle. Noctuvian y trace sa voie avec une détermination renouvelée.
+Le chemin hélicoïdal s'étire devant lui.
+Le chemin n'est pas un tracé rectiligne, mais un tourbillon de révélations. Chaque tour offre une compréhension nouvelle. Noctuvian y trace sa voie avec une détermination renouvelée.
 En guise d'épilogue,
-Et ainsi, dans ce silence résonnant, Noctuvian comprend que cette traversée n'est pas une fin, mais un commencement. Il trouve la force de continuer grâce à cette danse infinie où naît la sagesse ultime.
+Et ainsi, dans ce silence résonnant, Noctuvian comprend que cette traversée n'est pas une fin, mais un commencement. Il trouve la force de continuer grâce à cette danse sans horizon où naît la sagesse ultime.
 Des murmures d'abîme se font entendre.
 Des voix sans nom ondulent dans le néant, faisant vaciller la raison.
 Une vision des origines lui revient.
@@ -29,10 +29,10 @@ Des souvenirs d'Akasha s'imposent.
 La Bibliothèque lui rappelle la fragilité des mémoires.
 Il y dépose un fragment de son expérience pour que nul n'oublie ce passage.
 Ce geste scella un pacte avec ceux qui viendraient plus tard.
-La spirale du temps le happe.
+L'hélice du temps le happe.
 Perdant la notion des saisons, Noctuvian suit le flux perpétuel.
 Chaque rotation l'entraîne plus loin vers un cœur encore inconnu.
-Il ressent la spirale comme un appel vers un centre mystérieux.
+Il ressent cette hélice comme un appel vers un centre mystérieux.
 Il rencontre les Anciens qui, d'un simple geste, le bénissent.
 Il s'élance vers la transcendance.
 Les limites entre matière et esprit se dissolvent.
@@ -63,5 +63,5 @@ Dans un souffle apaisé, le groupe disparaît au-delà du temps.
 Leur voyage se prolonge dans une clarté sans bord qui les guide vers la Création.
 Ainsi s'achève leur pèlerinage, promis à renaître.
 
-Un silence infini s'étendit devant eux, saturé d'espérances.
+Un silence sans bornes s'étendit devant eux, saturé d'espérances.
 Noctuvian éprouva une gratitude profonde pour chaque épreuve surmontée.

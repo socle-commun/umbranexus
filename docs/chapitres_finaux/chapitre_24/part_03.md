@@ -1,20 +1,16 @@
-La résonance s'apaisa comme un murmure final.
-Noctuvian leva les yeux vers un ciel inédit.
-Des filaments multicolores tissaient déjà de nouvelles formes.
-Il recueillit un germe étincelant de création pure.
-Ses compagnons observaient ce miracle en silence.
-Il grava un symbole d'origine sur le sol naissant.
-Aucune œuvre ne débute sans souvenir des anciens cycles.
-Le réseau vibra d'un éclat prometteur.
-Il ferma les yeux pour percevoir l'élan créateur.
-Une voix intérieure souffla des visions inédites.
-Il inspira avec confiance, prêt à donner corps à ces visions.
-Un éclair traversa la voûte, signe d'une présence antique.
-Les ombres reculèrent, laissant place à la lumière.
-Ses compagnons se rapprochèrent, partageant cette ferveur.
-Ils comprirent que l'aventure atteignait son apogée.
-Noctuvian s'avança vers le portail flamboyant.
-Ils ressentirent l'appel d'un monde à créer.
-Dans un même élan, ils franchirent la frontière.
-Un souffle nouveau s'éleva et emplit leurs cœurs.
-Ainsi débuta un cycle de créations sans fin.
+À l'apogée du voyage, un silence dense tomba.
+Noctuvian scruta un firmament d'écume stellaire.
+Des flux d'énergie tissaient un réseau flamboyant.
+Au cœur de cette lumière, il saisit une étincelle d'origine.
+Ses compagnons, émus, retenaient leur souffle.
+Il grava un signe novateur sur la dalle naissante.
+Le sol vibra d'espérance.
+Une inspiration partagée lia leurs destins.
+Des éclairs pourpres traversèrent la voûte.
+Les ombres cédèrent à une clarté vive.
+Chacun perçut l'approche du passage ultime.
+Noctuvian s'orienta vers le portail incandescent.
+Ils ressentirent la promesse d'un monde à bâtir.
+Dans un même geste, ils franchirent le seuil.
+Un souffle neuf les enveloppa.
+Un cycle inédit commença à se déployer.
