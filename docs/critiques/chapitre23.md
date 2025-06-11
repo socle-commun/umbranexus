@@ -1,3 +1,3 @@
 # Critique du Chapitre 23 — L'Éternité
-La prose adopte un ton méditatif qui invite à la contemplation. Toutefois, la répétition des mêmes images d'infini atténue la puissance évocatrice. Des métaphores plus variées révéleraient la richesse de cette perspective hors du temps.
-L'Éternité rappelle les visions mystiques de Baudelaire; un ton plus apaisé à la Shelley accentuerait la rédemption.
+La prose adopte un ton méditatif qui invite à la contemplation. Toutefois, la répétition des mêmes images d'infini atténue la puissance évocatrice. Des métaphores plus variées — spirales cosmiques, mers sans rivage ou miroirs de nuit — offriraient une perspective plus vaste et prépareraient la naissance de la Création au chapitre 24.
+L'Éternité évoque les extases mystiques de Baudelaire ; un souffle plus lumineux, à la Shelley, renforcerait la rédemption.
