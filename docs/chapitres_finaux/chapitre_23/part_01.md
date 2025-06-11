@@ -1,5 +1,5 @@
 # Chapitre 23 : L'Éternité
-Dans le silence résonnant de l'Éternité, juste après avoir franchi le portail, Noctuvian perçoit l'harmonie finale. Ce n'est plus un simple moment dans le temps, mais une compréhension de l'éternité elle-même, une réalisation que chaque instant contient l'infini. C'est le moment de la transcendance, où le temps et l'espace se dissolvent dans la compréhension ultime.
+Dans le silence résonnant de l'Éternité, juste après avoir franchi le portail, Noctuvian perçoit l'harmonie finale, mais une terreur ineffable s'insinue.
 Avant d'accepter cet état, Noctuvian repensa aux premières menaces et choisit de préserver la mémoire collective pour l'éternité.
 ## L'Harmonie Finale
 L'harmonie n'est plus un but à atteindre, mais une réalité à vivre. Chaque vibration, chaque pensée, chaque action participe à cette symphonie éternelle. Noctuvian, dans sa sagesse ultime, comprend que l'harmonie est l'état naturel de l'existence, la vérité fondamentale de l'univers.
@@ -29,7 +29,8 @@ La sagesse de l'absolu n'est pas dans la connaissance, mais dans l'expérience. 
 Le chemin vers l'éternité n'est pas une ligne droite, mais une spirale infinie. Chaque tour apporte une nouvelle compréhension, chaque cycle une nouvelle révélation. Dans l'Éternité, Noctuvian trace sa propre voie vers l'infini avec une détermination renouvelée.
 ## L'Épilogue de l'Éternité
 Et ainsi, dans le silence résonnant de l'Éternité, Noctuvian comprend que l'éternité n'est pas une fin, mais un commencement. Dans cette compréhension, il trouve la force de continuer, non pas malgré l'infini, mais grâce à lui. Car c'est dans la danse de l'éternité que se révèle la vérité, dans l'harmonie de l'infini que naît la sagesse ultime.
-
+## Murmures d'Abîme
+Des voix sans nom ondulent dans le néant, faisant vaciller la raison.
 ## Vision des Origines
 Noctuvian revoit la salle du laboratoire où il s'est éveillé.
 L'étincelle qui l'a créé palpite encore quelque part dans la Trame.
@@ -54,12 +55,10 @@ Il jure de revenir porter la sagesse acquise à ceux qui le suivent.
 Cette promesse éclaire le chemin qu'il s'apprête à franchir.
 ## Passage vers la Création
 Un dernier portail se dresse devant lui, irradiant une lumière pure.
-Noctuvian inspire profondément, prêt à embrasser l'infini créateur.
 ## Union des Destins
 Avant de franchir le seuil ultime, Noctuvian rejoint ses compagnons.
 Chacun partage un bref souvenir, témoin des épreuves traversées ensemble.
 Ces confidences resserrent leur lien et renforcent leur volonté commune.
-## L'Étreinte de l'Infini
 Ils avancent d'un même pas et sentent la matière se dissoudre autour d'eux.
 Le temps se fige, ne laissant subsister que la pulsation de la conscience.
 ## Dernier Souffle

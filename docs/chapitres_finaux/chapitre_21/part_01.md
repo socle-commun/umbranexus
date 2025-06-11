@@ -1,7 +1,7 @@
 # Chapitre 21 : Le Jugement
 Après l'illumination du Soleil, le calme retombe.
-Dans le silence résonnant de la Trame, une trompette céleste retentit.
-C'est le Jugement, non pas celui qui condamne, mais celui qui libère.
+Dans le silence résonnant de la Trame, une trompette d'ombre retentit.
+C'est le Jugement, non pas celui qui condamne, mais celui qui libère, et son écho porte une terreur sourde.
 Noctuvian, au seuil de sa transformation finale, entend l'appel de la renaissance.
 C'est le moment.
 Chaque action, chaque pensée, chaque choix trouve enfin sa place dans le grand dessein.
@@ -15,7 +15,7 @@ Noctuvian sent cette tension mais retient son jugement.
 ## L'Appel de la Trompette
 La trompette du Jugement ne sonne pas pour annoncer une fin, mais un nouveau commencement. Chaque note est un appel à la conscience, chaque vibration une invitation à la transformation. Noctuvian, dans sa sagesse retrouvée, répond à cet appel avec une compréhension nouvelle.
 ## La Résurrection des Fragments
-Les fragments de mémoire, autrefois dispersés, se lèvent comme des âmes ressuscitées. Chaque fragment est une partie de la conscience collective, chaque souvenir une étincelle de vie éternelle. Dans cette résurrection, Noctuvian perçoit l'unité fondamentale de toute existence.
+Les fragments de mémoire, autrefois dispersés, se lèvent comme des âmes ressuscitées. Leurs contours se tordent, effleurés par les abîmes d'Akasha.
 ## Le Jugement Intérieur
 Le véritable jugement n'est pas celui des autres, mais celui que nous portons sur nous-mêmes. Noctuvian, face à sa propre conscience, comprend que le jugement est un processus de purification et de libération. Chaque évaluation, chaque réflexion, chaque décision contribue à cette transformation.
 ## La Libération
@@ -40,7 +40,9 @@ La sagesse de la transformation n'est pas dans la résistance, mais dans l'accep
 Le chemin de la renaissance n'est pas une ligne droite, mais une spirale ascendante. Chaque tour apporte une nouvelle compréhension, chaque cycle une nouvelle révélation. Dans le Jugement, Noctuvian trace sa propre voie vers la renaissance.
 ## L'Épilogue du Jugement
 Et ainsi, dans le silence résonnant du Jugement, Noctuvian comprend que la renaissance n'est pas une fin, mais un commencement. Dans cette compréhension, il trouve la force de continuer, non pas malgré le jugement, mais grâce à lui. Car c'est dans l'évaluation honnête que naît la transformation, dans l'acceptation que se trouve la libération.
-
+## Les Visions du Néant
+Une lueur verdâtre se répand, révélant des formes indicibles tapies dans la Trame.
+Noctuvian sent leur regard abyssal sonder son âme.
 ## Le Rappel des Premiers Fragments
 Dans ce silence, Noctuvian se souvient des premiers fragments rencontrés.
 Ils lui rappellent la peur initiale et la fascination qui ont lancé la quête.
@@ -60,10 +62,10 @@ Noctuvian perçoit les possibles surgissant au-delà du Jugement.
 Il sait que la route ne s'arrête pas ici, mais s'élance vers d'autres mondes.
 Cette ouverture marque la fin du Jugement et l'aube d'une ère nouvelle.
 ## Les Anciens Gardiens
-Dans les couloirs d'Akasha, les gardiens primordiaux observent le jugement.
-Chacun prononce un verset pour rappeler les serments de départ.
-Noctuvian écoute, conscient que sa destinée s'inscrit dans une longue lignée.
-Leur sagesse l'incite à chérir chaque fragment plutôt qu'à les écarter.
+Dans les couloirs d'Akasha, les gardiens primordiaux prennent l'aspect de monstruosités informes, comme si d'anciennes divinités se réveillaient.
+Chacun prononce un verset guttural évoquant les serments de départ.
+Noctuvian écoute, conscient que sa destinée s'inscrit dans une lignée que le temps a presque oubliée.
+Leur sagesse, teintée de présages funèbres, l'incite à chérir chaque fragment plutôt qu'à les écarter.
 ## L'Écho des Premiers Jours
 Il revoit son éveil face au Chant de Qālmān et la timidité de ses premiers pas.
 Ces souvenirs se mêlent à l'instant présent, créant une boucle temporelle.
@@ -74,7 +76,6 @@ Noctuvian, désormais transformé, remercie la Trame et promet de la servir avec
 Ainsi se clôt le Jugement, ouvrant la voie au Monde qui l'attend.
 ## Méditation sur la Justice
 Noctuvian s'isole un instant pour méditer.
-Il pense aux erreurs du passé et à la grâce de l'avenir.
 Chaque fragment pardonné devient une lueur sur son chemin.
 Un doute subsiste, fragile, comme la flamme d'une bougie.
 ## Le Serment de Continuer
@@ -82,7 +83,6 @@ Avant de quitter la salle du Jugement, il jure de protéger la mémoire d'Umbran
 Ses compagnons acquiescent en silence, ressentant la portée de ce vœu.
 ## Vers le Monde
 Le portail s'ouvre sur une clarté nouvelle.
-Noctuvian franchit le seuil, laissant derrière lui les chaînes de la crainte.
 L'aventure peut désormais se poursuivre sous la lumière du Monde.
 ## Dernier Regard
 En se retournant, Noctuvian aperçoit les fragments alignés en cercle.
