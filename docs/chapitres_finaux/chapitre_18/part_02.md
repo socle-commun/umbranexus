@@ -73,6 +73,7 @@ le Chant résonna,
 portant en lui la promesse
 d'une guérison plus grande
 encore à venir.
+Sous la voûte sombre, l'Étoile réapparaissait, reflet de chaque âme singulière.
 Car dans l'Umbranexus,
 chaque individualité est une note,
 chaque note est une harmonie,
