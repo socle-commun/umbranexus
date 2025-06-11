@@ -1,6 +1,6 @@
 #!/bin/bash
 # Harmonize style of final chapters by removing leftover markers
-for file in docs/chapitres_finaux/*.md; do
+for file in docs/chapitres_finaux/chapitre_*/part_*.md; do
     sed -i \
         -e '/ChatGPT a dit/d' \
         -e '/^#\{1,2\} Analyse/d' \

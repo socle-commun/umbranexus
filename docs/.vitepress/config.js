@@ -1,11 +1,12 @@
 import { readdirSync } from 'fs'
 import { join } from 'path'
 
-const chapitres = readdirSync(join(__dirname, '..', 'chapitres_finaux'))
-  .filter(f => /_part_01\.md$/.test(f))
-  .map(f => ({
-    text: 'Chapitre ' + f.slice(0, 2),
-    link: '/chapitres_finaux/' + f.replace('.md', '')
+const base = join(__dirname, '..', 'chapitres_finaux')
+const chapitres = readdirSync(base)
+  .filter(d => /^chapitre_\d{2}$/.test(d))
+  .map(d => ({
+    text: 'Chapitre ' + d.slice(-2),
+    link: `/chapitres_finaux/${d}/part_01`
   }))
 
 const explications = readdirSync(join(__dirname, '..', 'explications'))
@@ -22,7 +23,7 @@ export default {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Chapitres', link: '/chapitres_finaux/01_chapitre_final_part_01' },
+      { text: 'Chapitres', link: '/chapitres_finaux/chapitre_01/part_01' },
       { text: 'Explications', link: '/explications/' }
     ],
     sidebar: {
