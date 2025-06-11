@@ -11,4 +11,3 @@
 ## Long-term goals
 - Ensure the compiled manuscript surpasses **300 pages** in length.
 
-
