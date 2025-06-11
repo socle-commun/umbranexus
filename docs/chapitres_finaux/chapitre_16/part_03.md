@@ -14,7 +14,7 @@ La terre elle-même sembla retenir son souffle.
 Ses compagnons approchèrent, solidaires.
 Noctuvian se releva, l'incertitude encore vibrante en lui.
 Il prit la tête du groupe vers le prochain portail.
-Le doute devint moteur de créativité.
-Chaque pas ouvrait une réflexion nouvelle.
-Un éclat de vérité scintilla brièvement dans l'ombre.
-Ils s'en allèrent, portés par la question créatrice.
+Autour d'eux, la Dimension de Doute révélait des couloirs mouvants.
+Des reflets trompeurs ouvraient sur des chemins contradictoires.
+Ils progressèrent, fascinés par cette architecture incertaine,
+portés par la question créatrice.

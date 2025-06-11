@@ -1,3 +1,4 @@
+Le voile se souleva.
 "Une gardienne",
 dit Aether.
 "Une gardienne de la mémoire.
@@ -82,3 +83,4 @@ brillant d'une nouvelle détermination.
 "Suivez-moi",
 dit-elle.
 "Je vous mènerai
+Vers un ailleurs baigné d'espérance.

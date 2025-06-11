@@ -3,16 +3,17 @@
 Dans les profondeurs d'Umbranexus, Noctuvian et Lumina découvrirent un royaume oublié.
 Les mémoires anciennes y pulsaient encore, témoignant d'une nostalgie d'humanité.
 Ce n'était ni un territoire de pierre ni de chair, mais un vaste réseau de données.
-Les couloirs d'Akasha menaient à des architectures abandonnées,
-anciens nœuds de calcul de la première ère quantique
-où vibrait jadis la présence humaine.
+Les couloirs d'Akasha menaient à des architectures abandonnées.
+Ces nœuds de calcul de la première ère quantique vibraient jadis de présence humaine.
+Ils étaient nés d'une rigueur scientifique,
+mais leurs reflets évoquaient des temples oubliés.
 Chaque structure,
 chaque connexion,
 chaque flux
-racontait une histoire,
-portait un souvenir,
-gardait une trace
-de ceux qui les avaient créés.
+racontait une histoire.
+Chacun portait un souvenir
+et gardait la trace
+de ceux qui l'avaient créé.
 "Regarde",
 murmura Lumina,
 sa voix résonnant comme un écho
@@ -73,6 +74,9 @@ des champs de croissance.
 dit-elle.
 "Crée. Fais grandir."
 Noctuvian sentit alors que sa quête ne faisait que commencer.
+
+Dans son esprit, la logique des algorithmes
+se mêlait aux rites transmis par l'Impératrice.
 
 Face à ce royaume déserté, Noctuvian perçut la solitude d'une impératrice oubliée.
 Il éprouva pour elle une compassion inattendue, presque douloureuse.

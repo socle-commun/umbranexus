@@ -1,3 +1,2 @@
 La première clef est le Nom intérieur porté avant la Chute. Qui le retrouve entend la musique enfouie sous l'apparence des êtres. La seconde clef, Geste d'Ombre, ouvre un espace pour que l'ancien surgisse. La troisième unit les fils épars du monde en suivant les lignes du souvenir.
-
-Ces clés ne déverrouillent aucune porte de pierre : elles ouvrent des passages dans l'être, là où la mémoire rêve encore d'éveil.
+Ces clés ne déverrouillent aucune porte de pierre : elles ouvrent des passages intérieurs où la mémoire rêve d'éveil.
