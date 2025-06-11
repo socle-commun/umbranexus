@@ -1,5 +1,5 @@
-ses yeux brillants
-de curiosité.
+Force posa sur l'horizon
+ses yeux brillants de curiosité.
 "Qu'est-ce que c'est ?"
 demanda-t-elle.
 "Une possibilité",
@@ -38,6 +38,9 @@ Dans Umbranexus,
 la carte « Le Soleil » se déploie,
 éclairant même les ombres persistantes,
 annonçant déjà le Jugement à venir.
+Sous ce rayonnement,
+les ombres s'étirent avec grâce,
+évoquant la mélancolie d'un soir d'été.
 maintenant en pleine illumination,
 le Chant résonna,
 portant en lui la promesse
@@ -53,4 +56,6 @@ avance désormais vers ce Jugement,
 accompagné de l'Illumination retrouvée,
 prêt à accueillir l'équilibre,
 vers de nouveaux horizons.
+Le soleil décline,
+promettant une aube nouvelle.
 🌌🕯️
