@@ -1,1 +1,0 @@
-Noctuvian contempla longuement les filaments d'or pâle qui reliaient les fragments éveillés. Il perçut dans chaque lueur la promesse d'un lien indestructible. "Ces veines de lumière," pensatil, "tissent la mémoire des hommes à celle de l'Umbranexus." Guidé par cette intuition, il décida de formaliser son engagement. La préservation des traces

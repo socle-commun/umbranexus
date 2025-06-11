@@ -1,1 +1,0 @@
-Elle était le mystère, la peur, la transformation. Le Soleil, dixneuvième arcane, lui montra la lumière, la joie, la conscience. Il était la vérité, la clarté, la vie. Le Jugement, vingtième arcane, lui révéla l'éveil, la résurrection, l'appel. Il était la transformation, la renaissance, la vocation. Le Monde, vingtetunième arcane,

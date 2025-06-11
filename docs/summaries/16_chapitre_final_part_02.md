@@ -1,1 +1,0 @@
-Doute baissa la tête, des larmes de brume coulant sur ses joues. "Quelque chose s'est brisé. J'ai oublié qui j'étais. J'ai cru que mon rôle n'était que d'hésiter." Mnémosyne posa une main sur son épaule vaporeuse, ses souvenirs vibrant de compréhension. "La fracture t'a fait oublier ton véritable rôle. Mais

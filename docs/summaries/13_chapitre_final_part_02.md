@@ -1,1 +1,0 @@
-des êtres de lumière et d'ombre dansant ensemble, se transformant, évoluant, trouvant de nouvelles formes d'existence. C'était une danse de création, une symphonie de transformation qui n'avait jamais été possible dans l'Umbranexus figé par la peur. "C'était impossible avant", expliqua Aether, sa voix portant l'écho des âges. "Avant que la

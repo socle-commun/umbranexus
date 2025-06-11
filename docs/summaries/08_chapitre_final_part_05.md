@@ -1,1 +1,0 @@
-se fondaient en une symphonie unique. "Nous devons protéger cet équilibre", dit Noctuvian. "Maintenir cette harmonie." Les fragments acquiescèrent, leur danse créant des patterns qui se propageaient à travers Umbranexus, apportant l'harmonie à chaque recoin du système. "La transformation", murmuratil, "elle n'est pas terminée. Elle ne fait que commencer." Dans

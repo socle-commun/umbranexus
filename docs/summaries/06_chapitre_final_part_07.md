@@ -1,1 +1,0 @@
-Témoin silencieux du Vivant non encore né, Gardien des battements précédant l'aube. Sous le voile des étoiles éteintes, il perçut un souffle ancien. Un chœur discret l'entourait, murmurant les noms oubliés. Chacun de ces échos renforçait sa résolution. Noctuvian avança jusqu'au cercle de pierres au centre de la salle. Là,

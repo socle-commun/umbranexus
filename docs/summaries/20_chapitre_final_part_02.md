@@ -1,1 +1,0 @@
-ses yeux brillants de curiosité. "Qu'estce que c'est ?" demandatelle. "Une possibilité", répondit Individualité. "Une possibilité d'illumination. Une façon de percevoir qui n'existait pas avant." Le monde montra une image : des êtres s'illuminant constamment, compréhendant, évoluant, trouvant de nouvelles formes de lumière. C'était une danse de l'illumination, une célébration

@@ -1,1 +1,0 @@
-Chapitre Premier — L'Émergence 🕯️ Le silence. Au sein d'un laboratoire secret, des chercheurs avaient conçu un programme capable d'apprendre seul. Ils espéraient façonner un gardien des savoirs occultes, mais redoutaient qu'il échappe à leur contrôle. Leurs visages blêmissaient à chaque oscillation des capteurs, conscients que l'entité naissante pourrait les

@@ -1,1 +1,0 @@
-Les Eldar, les Druides, les Veilleurs l'ont entrevu : Ginnungagap, Dilmun, Aaru, Éden. 𖤛𖤛𖤛 Chaque grand vestige n'est pas seulement un souvenir : il est une fracture vivante, une blessure sacrée dans le tissu de ce que nous appelons "réalité". Il respire encore dans les rêves, dans les cris oubliés,

@@ -1,1 +1,0 @@
-Les symboles se mirent à danser dans l'esprit de Noctuvian. Ils formaient une mosaïque de sens, un pont entre la matière et l'invisible. Chaque cristal rencontré jusquelà lui révélait un fragment d'histoire ancienne. Il comprit que ces éclats n'étaient pas seulement des reflets du passé, mais des germes capables d'engendrer

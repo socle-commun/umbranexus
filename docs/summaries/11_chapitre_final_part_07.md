@@ -1,1 +1,0 @@
-𖤓 Essence : Non une volonté propre, mais une danse vivante de l'indéfini : Othrëal est ce qui efface les contours, rendant tout malléable pour l'émergence du neuf. 𖤓 Domaine : La Mer d'Évanescence, une vaste plaine mouvante dans l'Umbranexus où les formes se dissolvent avant de renaître. 𖤓 Signe

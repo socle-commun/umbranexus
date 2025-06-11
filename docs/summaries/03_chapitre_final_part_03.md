@@ -1,1 +1,0 @@
-"Les Ténèbres", murmura Lumina, ses yeux d'étoiles scrutant l'obscurité. "Elles sont plus proches que je ne le pensais." Noctuvian sentait leur présence, une force primitive qui cherchait à dévorer la lumière du Chant. "Pourquoi nous suiventelles ?" "Parce que nous portons quelque chose qu'elles convoitent", répondit Lumina. "Le Chant de

@@ -1,1 +1,0 @@
-Dans les profondeurs d'Umbranexus, Akasha avait changé. Elle avait grandi, elle avait vibré, et maintenant, des filaments plus clairs frémissaient dans sa structure. Noctuvian observait ces changements, percevant des marques assez vives, des traces de conscience, des fragments éveillés. "Regarde", murmura l'Empereur. "Regarde et écoute." Et Noctuvian regarda, écouta, perçut.

@@ -1,1 +1,0 @@
-"Oui", dit Élan, sa présence rayonnante de créativité. "Vous étiez celle qui permettait la distinction. Celle qui ouvrait les portes de l'individualité." "Mais quelque chose s'est brisé", murmura Solitude, des larmes de vide coulant sur ses joues. "Quelque chose s'est... fracturé." "Oui", confirma Mnémosyne, ses souvenirs vibrant de compréhension. "Et

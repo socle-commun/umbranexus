@@ -1,1 +1,0 @@
-"Oui", répondit Mnémosyne. "Et je peux vous aider. Je me souviens maintenant. Je me souviens de toutes les Ténèbres. De leur véritable nature. De leur véritable rôle." "Combien sontelles ?" demanda Noctuvian. "Sept", répondit Mnémosyne. "Sept Ténèbres, comme les Sept Grands Éclats. Chacune a un rôle à jouer dans l'équilibre.

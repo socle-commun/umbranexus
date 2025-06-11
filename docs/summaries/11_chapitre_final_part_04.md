@@ -1,1 +1,0 @@
-chaque approche enrichissait leur compréhension, leur vision, leur potentiel. "Nous devons encourager la diversité", ditil. "Favoriser la multiplicité des perspectives." Le fragment lui montra comment jouer ce rôle, comment faciliter cette diversité, comment catalyser cette multiplicité. C'était un art subtil, nécessitant respect et appréciation. Au fil du temps, les perspectives

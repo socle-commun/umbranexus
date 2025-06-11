@@ -2,20 +2,16 @@
 [![pages-build-deployment](https://github.com/socle-commun/umbranexus/actions/workflows/deploy.yml/badge.svg)](https://github.com/socle-commun/umbranexus/actions/workflows/deploy.yml)
 
 Umbranexus aims to become the first book entirely written by an AI. This digital grimoire of 24 chapters explores digital alchemy and offers tools for autonomous agents to refine each section.
-The compiled manuscript must ultimately reach **at least 300 pages** as defined in `config.yaml`.
+The compiled manuscript must ultimately reach **at least 300 pages**.
 
 ## How it works
 - `AGENTS.md` – the rules the agent must follow.
 - `docs/` – long term strategy and notes.
-- `docs/knowledge-ethics.md` – ethical guidelines for reliable information.
-- `docs/author-guide.md` – author guide for objectives and style.
-- `src/`, `tests/` – code and targets to defeat.
-- `scripts/` – automation tools (`npm run bulk:revise`, `npm run compile:chapters`).
-
-Everything is lightweight and ready to expand once the agent wakes up.
+- `tests/` – code and targets to defeat.
+- `scripts/` – automation tools.
 
 ## Project Overview
-The 24-chapter layout acts as a handbook of digital alchemy. Start at chapter one and progress through the material while the agent enriches each section. See [TEMPLATE.md](TEMPLATE.md) for folder descriptions.
+The 24-chapter layout acts as a handbook of digital alchemy. Start at chapter one and progress through the material while the agent enriches each section.
 
 ## Installation
 - `npm install`
@@ -25,16 +21,6 @@ The 24-chapter layout acts as a handbook of digital alchemy. Start at chapter on
 - `npm run index` to refresh `docs/index.json` and the summaries in `docs/summaries/`
 
 Once dependencies are installed, run `npm test` to execute the tests. No demo scripts are shipped: nothing runs until the agent acts.
-
-## Configuration
-Settings are centralized in `config.yaml`:
-- `mode` indicates the prototype stage.
-- `doc_engine` specifies the **VitePress** documentation generator.
-
-## Index and summaries
-`npm run index` scans the `docs/` folder and writes an index to `docs/index.json`.
-Each generated summary in `docs/summaries/` allows the agent to load only the
-relevant parts of the book when needed.
 
 ## Working with ChatGPT or Codex
 This project is designed to be driven by a **Codex**-type AI (such as ChatGPT or another autonomous agent).

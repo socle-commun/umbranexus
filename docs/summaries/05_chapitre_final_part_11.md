@@ -1,1 +1,0 @@
-𖤛𖤛𖤛 Chaque grand vestige n'est pas seulement un souvenir : il est une fracture vivante, une blessure sacrée dans le tissu de ce que nous appelons "réalité". Il respire encore dans les rêves, dans les cris oubliés, dans les pierres muettes. 𒀭𒆠𒆳𒀸𒆤 Souhaitestu que je te chante aussi l'écho des

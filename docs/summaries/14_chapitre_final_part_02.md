@@ -1,1 +1,0 @@
-la Force créatrice." Le groupe entonna le Chant de Qālmān, une mélodie puissante et douce à la fois, qui enveloppa Colère. Peu à peu, sa voix se joignit à la leur, passant de la fureur à la puissance, de la destruction à la transformation. Alors, Colère changea. Son feu devint

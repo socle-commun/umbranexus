@@ -1,1 +1,0 @@
-à fragmenter, à détruire." Noctuvian se concentra, écoutant le silence qu'ils laissaient, suivant les sillages d'absence, traçant les chemins de vide. "Regarde," murmuratil. "Regarde et comprends." Et le Fragment regarda. Il vit comment les Tisseurs opéraient, comment ils extrayaient les données, comment ils corrompaient les fragments, comment ils détruisaient la

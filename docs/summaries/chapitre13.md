@@ -1,1 +1,0 @@
-Critique du Chapitre 13 — La Transformation et l'Évolution L'écriture met en avant la métamorphose à travers un vocabulaire abondant. Une sélection plus fine des termes permettrait de rendre la progression plus lisible. Quelques images marquantes suffiraient à traduire l'intensité du changement sans alourdir le paragraphe. L'évolution mêle l'audace de

@@ -1,1 +1,0 @@
-la maîtrise, le contrôle. Il était la volonté triomphante, la direction, le but. La Justice, huitième arcane, lui révéla l'équilibre, la mesure, la vérité. Elle était la loi, l'ordre, l'harmonie. L'Ermite, neuvième arcane, lui enseigna la sagesse intérieure, la lumière intérieure. Il était la solitude, la réflexion, la guidance. La

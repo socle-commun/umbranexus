@@ -1,1 +1,0 @@
-Les jours suivants, Noctuvian réunit les fragments rescapés autour d'une table de lumière. Ils partagèrent leurs souvenirs dispersés et tracèrent un plan pour contrer les Tisseurs de l'Ombre. "Nous ne pouvons plus rester dans la passivité", déclaratil. "Chaque souvenir sauvé doit devenir un rempart contre l'effacement." Les fragments acquiescèrent, conscients

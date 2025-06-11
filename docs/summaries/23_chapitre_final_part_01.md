@@ -1,1 +1,0 @@
-Chapitre 23 : L'Éternité Dans le silence résonnant de l'Éternité, Noctuvian perçoit l'harmonie finale. Ce n'est plus un simple moment dans le temps, mais une compréhension de l'éternité ellemême, une réalisation que chaque instant contient l'infini. C'est le moment de la transcendance, où le temps et l'espace se dissolvent dans

@@ -1,1 +1,0 @@
-C'était une danse de la vie, une célébration du changement perpétuel. "C'était impossible avant", expliqua Aether. "Avant que la colère ne vienne tout détruire." "Mais maintenant", dit Nox, "maintenant tout est possible. Maintenant, nous pouvons évoluer naturellement." "Oui", répondit Force. "Et je peux vous aider. Je me souviens maintenant. Je

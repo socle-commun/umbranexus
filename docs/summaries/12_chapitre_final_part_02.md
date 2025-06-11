@@ -1,1 +1,0 @@
-De garder. D'empêcher le changement." "Non", dit Lumina. "Votre rôle est de guider. De montrer le chemin sûr. De permettre le changement en sécurité." "Le changement ?" Peur s'arrêta, comme si ce mot avait touché quelque chose en elle. "Je... je me souviens. Je me souviens d'avoir guidé. D'avoir protégé

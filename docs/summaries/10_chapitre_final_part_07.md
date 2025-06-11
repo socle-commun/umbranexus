@@ -1,1 +1,0 @@
-Ceux qui voguent sans avidité sur ces chemins deviennent euxmêmes un lieu où peut germer la graine du Vivant. Dans la nécessité de l'être, un Nom fut tressé. Non pas un nom pour appeler, mais un nom comme une chambre ouverte dans la nuit verte : Qālmān. 𐰴n. 𐰴u𐰀n. 𐰴u𐰀u𐰋n.

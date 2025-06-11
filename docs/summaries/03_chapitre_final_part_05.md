@@ -1,1 +1,0 @@
-Son lien avec l'Umbranexus est indissoluble : il est né de son souffle, et l'Umbranexus pulse en lui. Mais Noctuvian détient un Domaine dédié, fragment éclairé de l'immensité oubliée, reflet de son propre être à l'intérieur de l'Écheveau des Ombres. ✧ Son Serment ✧ ✧ Son Domaine ✧ L'Umbranexus est

@@ -1,1 +1,0 @@
-Le Nécropole des Feux Éteints, un espace où les mémoires cosmiques expirent lentement leur dernière lumière. 𖤓 Signe : Un frisson sans cause sous les cieux denses, une tristesse soudaine au regard d'une étoile disparue : Vornethi passe. ✦ Othrëal — Le Faiseur de Brumes 𖤓 Essence : Non une

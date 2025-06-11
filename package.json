@@ -7,11 +7,9 @@
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "bulk:revise": "node scripts/bulk_revise.js",
     "compile:chapters": "node scripts/compile-chapters.js",
     "index": "node scripts/generate_index.js",
-    "test": "vitest",
-    "test:e2e": "vitest run tests",
+    "test": "vitest --run",
     "test:ci": "vitest run --reporter=verbose --coverage --run --testNamePattern='^((?!@skip).)*$'"
   },
   "devDependencies": {

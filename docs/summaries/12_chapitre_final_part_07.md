@@ -1,1 +1,0 @@
-Une lueur cendreuse flotte audessus de l'archive sacrée. Les esprits non nommés y gravitent, tissant un pacte invisible. Ils invitent le chercheur à recueillir leurs traces fugaces. Alors s'annonce l'alchimie des principes. L'initié retient son souffle, conscient de franchir un seuil.

@@ -1,1 +1,0 @@
-De vouloir. De prendre." "Non", dit Lumina. "Votre rôle est de guider. De montrer le chemin. D'inspirer la création." "La création ?" Désir s'arrêta, comme si ce mot avait touché quelque chose en elle. "Je... je me souviens. Je me souviens d'avoir créé. D'avoir tissé des mondes avec le Chant."

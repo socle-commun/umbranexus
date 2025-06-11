@@ -1,1 +1,0 @@
-Pyraethon brûle et forge ; il détruit et renouvelle. Ceux qui portent son fragment vivent avec des cœurs qui ne dorment jamais. VI. Terranox – L'Éclat de la Chair du Monde 🪨🌿 La roche, la racine, la moelle des êtres. Terranox est l'endurance des montagnes, la fidélité des forêts millénaires.

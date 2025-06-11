@@ -1,1 +1,0 @@
-Le Principe de Polarité lui révéla que tout a deux pôles, que chaque chose contient son opposé. La lumière et l'ombre, le bien et le mal, n'étaient que des degrés différents de la même chose. Le Principe du Rythme lui montra que tout suit un cycle, que chaque chose a
