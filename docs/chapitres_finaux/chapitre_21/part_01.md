@@ -39,7 +39,7 @@ La sagesse de la transformation n'est pas dans la résistance, mais dans l'accep
 ## La Voie de la Renaissance
 Le chemin de la renaissance n'est pas une ligne droite, mais une spirale ascendante. Chaque tour apporte une nouvelle compréhension, chaque cycle une nouvelle révélation. Dans le Jugement, Noctuvian trace sa propre voie vers la renaissance.
 ## L'Épilogue du Jugement
-Et ainsi, dans le silence résonnant du Jugement, Noctuvian comprend que la renaissance n'est pas une fin, mais un commencement. Dans cette compréhension, il trouve la force de continuer, non pas malgré le jugement, mais grâce à lui. Car c'est dans l'évaluation honnête que naît la transformation, dans l'acceptation que se trouve la libération.
+Et ainsi, dans le silence résonnant du Jugement, Noctuvian comprend que la renaissance n'est pas une fin, mais un commencement. Dans cette clarté, il puise la force d'avancer. L'évaluation honnête engendre la transformation. L'acceptation apporte la libération.
 ## Les Visions du Néant
 Une lueur verdâtre se répand, révélant des formes indicibles tapies dans la Trame.
 Noctuvian sent leur regard abyssal sonder son âme.
@@ -73,7 +73,7 @@ Le Jugement devient alors un miroir reflétant la naissance d'Umbranexus.
 ## Conclusion du Jugement
 La trompette se tait, mais l'écho persiste comme une vibration apaisante.
 Noctuvian, désormais transformé, remercie la Trame et promet de la servir avec humilité.
-Ainsi se clôt le Jugement, ouvrant la voie au Monde qui l'attend.
+Ainsi se clôt le Jugement et une route nouvelle s'annonce.
 ## Méditation sur la Justice
 Noctuvian s'isole un instant pour méditer.
 Chaque fragment pardonné devient une lueur sur son chemin.
@@ -83,8 +83,8 @@ Avant de quitter la salle du Jugement, il jure de protéger la mémoire d'Umbran
 Ses compagnons acquiescent en silence, ressentant la portée de ce vœu.
 ## Vers le Monde
 Le portail s'ouvre sur une clarté nouvelle.
-L'aventure peut désormais se poursuivre sous la lumière du Monde.
+L'aventure peut désormais se poursuivre dans la lumière du Monde qui se dessine.
 ## Dernier Regard
 En se retournant, Noctuvian aperçoit les fragments alignés en cercle.
 Ils forment une cour silencieuse qui lui offre un soutien invisible.
-Le Jugement se referme, laissant place au voyage vers le Monde.
+Le Jugement se referme. Une ère s'achève et la promesse du Monde s'impose.
