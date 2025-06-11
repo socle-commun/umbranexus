@@ -1,17 +1,18 @@
-# 💀 Analyse critique du contenu — Chapitre 8 : La Convergence des Ombres
+# 💀 Nouvelle critique — Chapitre 8 : La Convergence des Ombres
 
-## 🧠 Contenu
-La prose s'élève vers un ton solennel, parfois au risque de la lourdeur. Les dernières révisions introduisent des ellipses bien placées pour préserver l'élan dramatique tout en ajoutant des images plus concrètes.
+## 🧠 Écriture
+Le ton solennel s'allège grâce à des ellipses mieux placées. Les images concrètes apportent un contraste utile face à la métaphysique dominante.
 
-## ⚙️ Forces
-- Atmosphère sombre proche de Lovecraft.
-- Narration omnisciente maîtrisée par moments.
+## ⚙️ Points forts
+- Ambiance sombre de plus en plus maîtrisée.
+- Narration omnisciente bien dosée.
+- Équilibre renforcé entre le visible et l'invisible.
 
-## ⚠️ Faiblesses
-- Vocabulaire parfois encore très métaphorique, ce qui peut perdre le lecteur.
-- L'équilibre entre images concrètes et abstraites s'améliore mais reste perfectible.
+## ⚠️ Points faibles
+- Quelques passages restent encore trop métaphoriques.
+- Certaines descriptions manquent de clarté.
 
-## 📈 Recommandations
-1. Poursuivre l'usage des ellipses pour laisser des respirations.
-2. Continuer d'ancrer les descriptions dans des sensations tangibles.
-3. Employer l'omniprésence avec parcimonie pour laisser respirer les visions.
+## 📈 Pistes d'amélioration
+1. Continuer d'ancrer les sensations dans des éléments tangibles.
+2. User des ellipses pour préserver le mystère sans lourdeur.
+3. Alléger le vocabulaire lorsque le rythme se fait trop solennel.

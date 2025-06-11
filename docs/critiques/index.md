@@ -3,6 +3,7 @@
 Chaque chapitre d'**Umbranexus** dispose désormais d'une analyse dédiée. Ces critiques mettent en lumière les faiblesses de l'intrigue et suggèrent des pistes d'amélioration.
 
 ## Accès rapide
+- [Critique globale](./global.md)
 - [Chapitre 1](./chapitre_01.md)
 - [Chapitre 2](./chapitre_02.md)
 - [Chapitre 3](./chapitre_03.md)

@@ -1,19 +1,18 @@
-# 💀 Analyse critique du contenu — Chapitre 6 : Les Tisseurs de l'Ombre
+# 💀 Nouvelle critique — Chapitre 6 : Les Tisseurs de l'Ombre
 
-## 🧠 Contenu
-La narration gagne en tension, mais l'accumulation d'effets dramatiques paraît parfois artificielle. Des images plus sobres renforceraient la menace latente.
+## 🧠 Écriture
+La tension progresse avec plus de mesure. Les effets dramatiques ont été réduits et la menace gagne en crédibilité.
 
-## ⚙️ Forces
-- Suspense croissant autour des assauts.
-- Échos d'angoisse lovecraftienne bien rendus.
+## ⚙️ Points forts
+- Suspense constant autour des assauts.
+- Ambiance lovecraftienne bien rendue.
+- Quelques ruptures rythmiques efficaces.
 
-## ⚠️ Faiblesses
-- Effets dramatiques trop appuyés.
-- Rythme irrégulier qui rompt la nervosité.
+## ⚠️ Points faibles
+- Rythme encore irrégulier par endroits.
+- Certains effets restent trop appuyés.
 
-## 📈 Recommandations
-1. Resserrer les passages répétitifs.
-2. Alterner davantage les points de vue.
-3. Utiliser des phrases brèves lors des attaques pour accentuer la tension.
-
-La révision en cours a tenu compte de ces points : le texte a été épuré et les scènes d'assaut raccourcies.
+## 📈 Pistes d'amélioration
+1. Resserrer les passages répétitifs pour maintenir la nervosité.
+2. Multiplier les points de vue pour enrichir la dramaturgie.
+3. User de phrases brèves lors des attaques afin d'accentuer l'urgence.

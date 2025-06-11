@@ -1,20 +1,18 @@
-# 💀 Analyse critique du contenu — Chapitre 11 : Les Perspectives
+# 💀 Nouvelle critique — Chapitre 11 : Les Perspectives
 
-## 🧠 Contenu
-Le ton devient contemplatif, apaisant le rythme. La langue gagnerait à être moins descriptive pour laisser place à la suggestion.
+## 🧠 Écriture
+Le ton contemplatif ralentit volontairement le récit. Les descriptions ont été allégées, laissant la suggestion guider la découverte des Clés de mémoire.
 
-## ⚙️ Forces
-- Horizon d'exploration à la Jules Verne.
+## ⚙️ Points forts
+- Horizon d'exploration inspiré de Jules Verne.
 - Sensibilité mélancolique proche de Shelley.
+- Dimension mythique renforcée par les Clés.
 
-- Les "Clés de mémoire" évoquées ajoutent une dimension mythique.
-## ⚠️ Faiblesses
-- Excès de descriptions qui alourdissent la lecture.
+## ⚠️ Points faibles
+- Encore quelques longueurs descriptives.
 - Peu de ruptures poétiques marquées.
-- Les "Clés de mémoire" restent sous-exploitées dans la narration.
 
-## 📈 Recommandations
-1. Préférer des images symboliques à des explications détaillées.
+## 📈 Pistes d'amélioration
+1. Privilégier les images symboliques aux explications directes.
 2. Introduire des transitions poétiques pour ouvrir l'horizon.
-3. Alléger la prose afin de maintenir le mystère.
-4. Mettre en avant la quête des Clés pour structurer la progression.
+3. Mettre davantage en avant la quête des Clés pour rythmer la progression.

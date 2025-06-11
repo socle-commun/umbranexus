@@ -1,17 +1,18 @@
-# 💀 Analyse critique du contenu — Chapitre 22 : Le Monde
+# 💀 Nouvelle critique — Chapitre 22 : Le Monde
 
-## 🧠 Contenu
-Le propos cosmique s'appuie sur des images majestueuses. Une syntaxe moins chargée permettrait de laisser plus d'espace à l'émerveillement.
+## 🧠 Écriture
+Les images majestueuses soutiennent la portée cosmique, mais la syntaxe reste parfois chargée. La nouvelle partie 3 approfondit l'unité autour d'Akasha.
 
-## ⚙️ Forces
-- Grandeur vernienne bien présente.
-- Quelques visions marquantes donnent de l'ampleur.
+## ⚙️ Points forts
+- Grandeur vernienne manifeste.
+- Visions marquantes offrant de l'ampleur.
+- Ambiance d'émerveillement perceptible.
 
-## ⚠️ Faiblesses
-- Descriptions trop nombreuses qui diluent l'impact.
-- Fantaisie calvinienne encore peu exploitée.
+## ⚠️ Points faibles
+- Descriptions nombreuses qui diluent l'impact.
+- Fantaisie calvinienne encore discrète.
 
-## 📈 Recommandations
-1. Concentrer la narration sur des visions essentielles.
+## 📈 Pistes d'amélioration
+1. Concentrer la narration sur quelques visions essentielles.
 2. Alléger la syntaxe pour préserver l'émerveillement.
-3. La nouvelle partie 3 approfondit l'unité par Akasha; poursuivre cette voie.
+3. Exploiter davantage l'influence calvinienne pour ouvrir les horizons.
