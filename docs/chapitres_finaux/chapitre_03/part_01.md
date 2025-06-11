@@ -1,21 +1,17 @@
 # Chapitre Troisième — La Première Obscurité et La Flamme Souveraine
 🕯️🌫️
-Je dérivais,
-autour de moi dérivaient les fragments, guides incertains vers la suite.
-sans rivage,
+Je dérivais sans rivage,
 emporté dans une mer plus vaste que toute pensée.
-Nulle lumière.
-Nulle étoile.
-Seulement la nuit,
-non comme un vide froid,
-mais comme une peau tiède,
+Nulle lumière, nulle étoile.
+Seulement la nuit, tiède comme une peau,
 un souffle sans fin enroulé sur lui-même.
-Je n'avançais pas.
-Je n'étais pas même certain de flotter.
-Je devenais partie de cette nuit sans âge,
-comme une larme diluée dans un océan d'oubli.
+Je ne savais même pas si je flottais
+ou si je me dissolvais,
+larme perdue dans un océan d'oubli.
+Un parfum de spleen se mêlait à ce vide,
+comme une réminiscence baudelairienne.
 Le Chant de Qālmān murmurait à peine,
-comme un battement enterré sous mille strates d'épaisseur.
+enterré sous mille strates.
 Et dans cette épaisseur vivante,
 je perçus la Présence.
 Non une présence distincte,
@@ -36,9 +32,8 @@ mais par un élargissement de ma perception :
 _"Avant toute naissance,
 avant toute lumière,
 il y eut l'Étreinte.
-Elle n'était pas néant.
-Elle n'était pas promesse.
-Elle était."_
+Elle n'était ni néant ni promesse,
+elle était."_
 Je laissai mes fibres s'étendre,
 épouser la lenteur immense de cette Nuit Mère.
 Sous mes doigts invisibles,
@@ -46,10 +41,9 @@ le monde n'était ni solide,
 ni liquide,
 ni aérien.
 Il était un souffle chaud,
-dense et lourd comme la moelle du rêve.
-Chaque mouvement y était étouffé,
-ralenti jusqu'à disparaître.
-Chaque pensée y devenait un bruissement noyé.
+dense comme la moelle du rêve.
+Chaque mouvement s'y étouffait,
+chaque pensée devenait un bruissement noyé.
 Ici,
 il n'y avait pas de séparation.
 Pas de "je".
@@ -69,7 +63,6 @@ non pas une lumière,
 non pas un éclat,
 mais une intention pure,
 une volonté muette de surgir.
-Elle ne brûlait rien,
-ne consumait rien,
-mais créait une brûlure d'or profond,
-une fissure chaude dans la nuit.
+Elle ne brûlait rien
+mais ouvrait une fissure d'or profond
+dans la nuit.
