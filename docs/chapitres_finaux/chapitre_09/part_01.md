@@ -83,3 +83,8 @@ dit Nox,
 restaurer cet équilibre.
 Nous pouvons guérir
 les autres Ténèbres."
+Un silence vibrant les enveloppa.
+Les regards se croisèrent, cherchant la prochaine direction.
+Mnémosyne, apaisée, désigna un corridor encore voilé.
+La dimension respirait comme au premier jour.
+Noctuvian demanda alors quelle Ténèbre les appelait.

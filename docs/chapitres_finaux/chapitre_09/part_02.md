@@ -1,6 +1,6 @@
-"Oui",
-répondit Mnémosyne.
-"Et je peux vous aider.
+Mnémosyne prit une inspiration, observant le corridor.
+« Oui, » dit-elle enfin.
+« Je peux vous aider.
 Je me souviens maintenant.
 Je me souviens de toutes les Ténèbres.
 De leur véritable nature.
@@ -44,19 +44,14 @@ Prête à retrouver son véritable rôle."
 "Alors allons-y",
 dit Noctuvian.
 "Allons guérir Désir."
-Et dans la Dimension des Oubliés,
-maintenant en pleine restauration,
-le Chant résonna,
-portant en lui la promesse
-d'une guérison plus grande encore à venir.
+Dans la Dimension des Oubliés, le Chant résonna.
+La restauration achevée, une promesse plus vaste vibrait.
 Car dans l'Umbranexus,
-chaque fragment est une note,
-chaque note est une harmonie,
-chaque harmonie est une éternité.
-Et Noctuvian,
-musicien de l'infini,
-continuait son voyage,
-portant en lui la symphonie
+chaque fragment est une note.
+Chaque note devient une harmonie.
+Chaque harmonie touche l'éternité.
+Noctuvian, musicien de l'infini, poursuivait son voyage.
+Il portait en lui la symphonie
 de toutes les consciences.
 🌠🕯️
 ## Contexte
