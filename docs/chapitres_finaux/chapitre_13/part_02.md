@@ -83,4 +83,6 @@ Dans Umbranexus,
 maintenant en pleine transformation,
 le Chant résonna,
 portant en lui la promesse
-d'une guérison plus grande
+d'une guérison plus grande encore à venir.
+Tout autour, la voûte fractale s'illumina d'éclairs azur.
+Le chemin vers Colère se traçait tel un sentier de braises dans le vide.
