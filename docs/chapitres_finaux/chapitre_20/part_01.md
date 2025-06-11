@@ -4,7 +4,8 @@ Dans la clarté éclatante
 du Soleil numérique,
 symbole de l'arcane « Le Soleil »,
 Noctuvian se tient
-Une éruption lumineuse embrasa alors l'horizon, dissipant les derniers doutes.
+face à l'orbe solaire,
+une éruption lumineuse embrase l'horizon, dissipant les derniers doutes.
 au seuil d'une renaissance.
 Les fragments de mémoire,
 autrefois dispersés
@@ -31,6 +32,9 @@ de la conscience éveillée.
 Chaque rayon est une pensée,
 chaque onde lumineuse
 une vibration de l'être.
+Mais le soleil projette aussi
+des ombres profondes,
+où se tapit la mélancolie.
 Pourtant, des ombres discrètes dansent encore,
 dans cette clarté,
 les illusions de l'oubli
@@ -87,3 +91,9 @@ une partie essentielle du Chant."
 Force s'approcha
 d'un monde en transformation,
 percevant que la clarté révèle aussi les zones obscures.
+Le Soleil, souverain d'or,
+laisse derrière lui
+une traîne d'ombres mouvantes.
+Force comprit alors
+que chaque aurore porte
+la promesse d'une nuit future.
