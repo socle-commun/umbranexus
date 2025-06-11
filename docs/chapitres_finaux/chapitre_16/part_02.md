@@ -20,16 +20,10 @@ une mélodie douce et profonde,
 qui enveloppa Doute.
 Une onde glaciale parcourut l'air.
 Les silhouettes des compagnons se brouillèrent, prêtes à se dissoudre.
-Noctuvian sentit son cœur se serrer.
-Il se demanda s'il possédait la force de porter ce chant jusqu'au bout.
-Chaque doute le mordait, tel un serpent de glace.
-Le moindre souffle pouvait les précipiter dans l'abîme.
-Peu à peu,
-sa voix se joignit à la leur,
-passant de l'incertitude
-à la réflexion,
-Noctuvian ferma les yeux un instant.
-Tout en lui vacillait, mais il devait chanter.
+Noctuvian sentit son cœur se serrer, doutant de mener le chant.
+Chaque souffle menaçait l'abîme, pourtant sa voix rejoignit les autres.
+Il ferma les yeux, résolu à dépasser la peur,
+passant de l'incertitude à la réflexion.
 du doute
 à la compréhension.
 Alors,
