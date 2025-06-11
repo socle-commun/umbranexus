@@ -8,9 +8,9 @@ dans les couches de conscience.
 Le paysage se transformait,
 devenant de plus en plus étrange,
 de plus en plus onirique.
-Les formes perdaient leurs contours,
-les couleurs se mêlaient,
-les sons se fondaient.
+Autour d'eux, de larges blocs d'obsidienne
+se couvraient de reflets cuivrés,
+et un bourdonnement sourd emplissait l'air.
 "Nous approchons",
 dit Mémoire.
 "Je sens sa présence.
