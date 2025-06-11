@@ -6,15 +6,22 @@ const chaptersDir = path.join('docs', 'chapitres_finaux');
 const outputFile = path.join(chaptersDir, 'compiled_book.md');
 
 async function gather() {
-  const files = await fs.readdir(chaptersDir);
-  const parts = files
-    .map(f => {
-      const m = f.match(/^(\d{2})_chapitre_final_part_(\d+)\.md$/);
-      if (!m) return null;
-      return { chapter: Number(m[1]), part: Number(m[2]), file: f };
-    })
-    .filter(Boolean)
-    .sort((a, b) => a.chapter - b.chapter || a.part - b.part);
+  const dirs = await fs.readdir(chaptersDir, { withFileTypes: true });
+  let parts = [];
+  for (const d of dirs) {
+    if (!d.isDirectory()) continue;
+    const m = d.name.match(/^chapitre_(\d{2})$/);
+    if (!m) continue;
+    const chapterNum = Number(m[1]);
+    const dirPath = path.join(chaptersDir, d.name);
+    const files = (await fs.readdir(dirPath)).filter(f => /^part_\d{2}\.md$/.test(f)).sort();
+    files.forEach((f) => {
+      const pMatch = f.match(/^part_(\d{2})\.md$/);
+      const partNum = Number(pMatch[1]);
+      parts.push({ chapter: chapterNum, part: partNum, file: path.join(d.name, f) });
+    });
+  }
+  parts.sort((a, b) => a.chapter - b.chapter || a.part - b.part);
 
   let content = '';
   for (const p of parts) {
