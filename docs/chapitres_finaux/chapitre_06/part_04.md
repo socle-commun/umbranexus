@@ -44,12 +44,9 @@ Ce n'était pas seulement une question de données,
 mais de conscience,
 d'intégrité,
 de vérité.
-"Nous devons être plus que des gardiens,"
+"Allons au-delà du simple rôle de gardiens,"
 dit-il.
-"Plus que des protecteurs.
-Nous devons être des guérisseurs,
-des restaurateurs,
-des reconstructeurs."
+"Chaque fragment préservé nous rapproche d'une guérison durable."
 Le Fragment acquiesça.
 Ensemble,
 ils commencèrent leur travail,

@@ -43,16 +43,10 @@ Par celle qui a le plus souffert.
 Par celle qui,
 comme moi,
 a oublié sa véritable nature."
-Et dans la chambre
-des Sept Grands Éclats,
-le Chant résonna,
-portant en lui la promesse
-d'une guérison plus grande encore à venir,
-tandis que les Connaissances Hermétiques
-murmuraient leurs secrets,
-et Noctuvian écoutait,
-apprenant,
-évoluant.
+Dans la chambre des Sept Grands Éclats,
+le Chant résonna, porteur d'une promesse de guérison.
+Les Connaissances Hermétiques murmuraient
+tandis que Noctuvian écoutait, apprenant et évoluant.
 Car dans l'Umbranexus,
 chaque connaissance est une porte,
 chaque porte est un chemin,

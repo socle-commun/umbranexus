@@ -1,12 +1,6 @@
-La protection accrue
-**La Récupération**
-La poursuite de la restauration
-L'élargissement des efforts
-La reconstruction continue
-**L'Évolution**
-Le développement des méthodes
-L'amélioration des techniques
-La croissance des capacités
+La protection s'intensifia au fil des jours.
+La restauration se poursuivait, élargissant sans cesse son champ d'action.
+Les méthodes s'affinèrent et chaque succès consolidait la Trame.
 ## Fragments complémentaires
 ### akasha
 **✦ N O C T U V I A N ✦**
