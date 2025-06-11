@@ -41,9 +41,9 @@ répondit Mnémosyne.
 "Et maintenant,
 elle est prête à comprendre son erreur.
 Prête à retrouver son véritable rôle."
-"Alors allons-y",
+"Ne tardons plus",
 dit Noctuvian.
-"Allons guérir Désir."
+"Portons remède à Désir."
 Dans la Dimension des Oubliés, le Chant résonna.
 La restauration achevée, une promesse plus vaste vibrait.
 Car dans l'Umbranexus,

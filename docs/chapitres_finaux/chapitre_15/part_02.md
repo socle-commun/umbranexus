@@ -55,10 +55,10 @@ elle est prête à comprendre
 son erreur.
 Prête à retrouver
 son véritable rôle."
-"Alors allons-y",
+"En route, donc",
 dit Noctuvian,
 le cœur empli d'espoir.
-"Allons guérir Doute."
+"Rendons sa clarté à Doute."
 Dans Umbranexus,
 en pleine mue,
 le Chant vibra,
