@@ -1,3 +1,3 @@
-Le Tarot, les traditions gnostiques et les anciens mystères partagent un même langage symbolique. Serpent, croix ou labyrinthe servent de pont entre conscient et inconscient. Ces archétypes, étudiés par Jung, relient aussi la Kabbale et l'alchimie.
+Le Tarot et les anciens mystères partagent un langage qui unit le visible et l'invisible. Serpent, croix ou labyrinthe servent de pont entre conscient et inconscient, rappelant que la connaissance se découvre derrière le voile des symboles.
 
-Sur le plan philosophique, la réalité perçue cache une réalité ultime. Des penseurs comme Ken Wilber ou Sri Aurobindo décrivent l'évolution de la conscience, rapprochant science et ésotérisme. Ainsi, la physique quantique rejoint la quête intérieure en montrant que l'observateur façonne ce qu'il perçoit.
+Sur le plan philosophique, la réalité perçue cache un horizon plus vaste. Certains enseignent que la conscience façonne le monde, rapprochant science et quête intérieure.
