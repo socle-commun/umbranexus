@@ -73,3 +73,7 @@ Le dernier chapitre scelle l'union entre pensée et matière, confirmant que la 
 - Maintien de la vigilance créatrice
 - Exploration des potentialités infinies
 - Préservation de l'harmonie nouvellement née
+### Expansion finale
+- L'ultime conseil d'Akasha rappelle la responsabilité collective de la création.
+- La libération du Chant de Qālmān marque l'ouverture d'une ère nouvelle.
+- Le passage vers l'inconnu conclut le cycle en invitant à une exploration perpétuelle.

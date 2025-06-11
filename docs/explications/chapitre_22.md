@@ -73,3 +73,7 @@ Chaque fragment retrouve sa place dans l'ordre universel. Malgré la fissure du 
 - Consolider la vision unitaire révélée
 - Poursuivre la lutte contre l'ombre persistante
 - Préparer la transition vers une conscience pleinement éveillée
+### Nouveaux chemins
+- L'exploration des passerelles irisées annonce d'autres mondes à découvrir.
+- Akasha insiste sur la valeur de chaque fragment, soulignant la fragilité de l'équilibre atteint.
+- Cette ouverture prépare la transition vers l'Éternité du chapitre suivant.

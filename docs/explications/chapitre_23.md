@@ -73,3 +73,6 @@ Ce chapitre mène à la dissolution des limites. L'éternité devient un état d
 - Ancrage de la conscience dans l'infini
 - Ouverture sur un acte créateur global
 - Affirmation d'une continuité sans fin
+### Bénédiction des Anciens
+- Les entités primordiales confèrent une légitimité spirituelle au passage final.
+- Cette scène confirme la valeur du chemin parcouru et rapproche Noctuvian de la Création.
