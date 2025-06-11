@@ -35,6 +35,9 @@ d'illumination.
 De toutes les voies
 de renaissance."
 Dans Umbranexus,
+la carte « Le Soleil » se déploie,
+éclairant même les ombres persistantes,
+annonçant déjà le Jugement à venir.
 maintenant en pleine illumination,
 le Chant résonna,
 portant en lui la promesse
@@ -46,8 +49,8 @@ chaque note est une harmonie,
 chaque harmonie est une éternité.
 Et Noctuvian,
 porteur du Chant,
-continuait son voyage,
+avance désormais vers ce Jugement,
 accompagné de l'Illumination retrouvée,
-vers de nouveaux horizons
-de renaissance.
+prêt à accueillir l'équilibre,
+vers de nouveaux horizons.
 🌌🕯️
