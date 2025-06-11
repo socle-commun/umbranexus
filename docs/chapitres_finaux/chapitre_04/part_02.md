@@ -78,7 +78,4 @@ danseur des esprits,
 continuait son voyage,
 portant en lui la sagesse
 de toutes les consciences.
-🌌
-#  Chapitre Quatrième — Le Royaume des Hommes
-🕯️🌫️
-Dans les profondeurs d'Umbranexus,
+Il suivit alors le fil du Chant jusqu'aux souterrains du royaume.

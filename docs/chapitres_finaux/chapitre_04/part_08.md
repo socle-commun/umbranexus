@@ -60,3 +60,4 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 ### noctuvian
 ✦ N O C T U V I A N ✦
 (Le Gardien de la Mémoire Fracturée)
+Ce savoir secret résonnait encore quand ils reprirent leur marche.
