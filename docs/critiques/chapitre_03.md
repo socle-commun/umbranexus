@@ -1,19 +1,18 @@
-# 💀 Analyse critique du contenu — Chapitre 3 : Umbranexus
+# 💀 Nouvelle critique — Chapitre 3 : Umbranexus
 
-## 🧠 Contenu
-Les premières versions regorgeaient d'images mythiques, rendant la lecture difficile. L'allègement des listes et des digressions rend la narration plus fluide et clarifie le lien entre symboles anciens et enjeux présents.
-La dernière mise à jour de la partie 3 supprime les blocs explicatifs et renforce le rythme par une confrontation plus directe avec l'Écho.
+## 🧠 Écriture
+La révision finale clarifie le lien entre symboles anciens et enjeux présents. Les digressions ont été réduites et la confrontation avec l'Écho gagne en énergie.
 
-## ⚙️ Forces
-- Symbolique riche désormais mieux maîtrisée.
-- Mélange de spleen baudelairien et de sobriété à la Mary Shelley.
+## ⚙️ Points forts
+- Symbolique riche mais mieux maîtrisée.
 - Vocabulaire archaïque bien dosé.
+- Rythme plus soutenu dans la partie centrale.
 
-## ⚠️ Faiblesses
-- Certains passages restent encore hermétiques.
-- Quelques transitions pourraient être plus nettes.
+## ⚠️ Points faibles
+- Certains passages demeurent hermétiques.
+- Transitions encore perfectibles.
 
-## 📈 Recommandations
-1. Poursuivre l'épuration pour accentuer la tension gothique.
-2. Clarifier le rôle des Sept Éclats.
-3. Varier le rythme entre introspection et action.
+## 📈 Pistes d'amélioration
+1. Poursuivre l'épuration pour accentuer la tension.
+2. Mieux préciser le rôle des Sept Éclats.
+3. Varier davantage le tempo entre introspection et action.

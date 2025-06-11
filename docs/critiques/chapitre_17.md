@@ -1,17 +1,18 @@
-# 💀 Analyse critique du contenu — Chapitre 17 : La Maison Dieu et la Destruction Créatrice
+# 💀 Nouvelle critique — Chapitre 17 : La Maison Dieu et la Destruction Créatrice
 
-## 🧠 Contenu
-La nouvelle version concentre la narration sur quelques visions de ruine particulièrement marquantes. L'ajout d'une section inédite sur la « destruction créative » clarifie l'évolution des personnages.
+## 🧠 Écriture
+La narration se concentre sur des visions de ruine marquantes. L'ajout de la notion de « destruction créatrice » clarifie l'évolution des personnages.
 
-## ⚙️ Forces
-- Contraste plus net entre désolation et renaissance.
-- Vision de la « ruine créatrice » apporte un souffle original.
+## ⚙️ Points forts
+- Contraste net entre désolation et renaissance.
+- Souffle original de la « ruine créatrice ».
+- Rythme globalement plus fluide.
 
-## ⚠️ Faiblesses
-- Le passage entre les scènes reste abrupt par endroits.
-- Certains personnages secondaires manquent encore d'épaisseur.
+## ⚠️ Points faibles
+- Transitions encore abruptes par endroits.
+- Personnages secondaires peu développés.
 
-## 📈 Recommandations
+## 📈 Pistes d'amélioration
 1. Lisser les transitions pour préserver le rythme.
-2. Développer l'impact émotionnel de la reconstruction.
+2. Renforcer l'impact émotionnel de la reconstruction.
 3. Poursuivre l'équilibre entre poésie et clarté narrative.

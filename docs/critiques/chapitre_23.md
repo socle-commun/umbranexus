@@ -1,18 +1,18 @@
-# 💀 Analyse critique du contenu — Chapitre 23 : L'Éternité
+# 💀 Nouvelle critique — Chapitre 23 : L'Éternité
 
-## 🧠 Contenu
-La prose adopte un ton méditatif qui invite à la contemplation. La répétition des mêmes images d'infini atténue toutefois la puissance évocatrice.
+## 🧠 Écriture
+Le ton méditatif invite à la contemplation. Les images d'infini ont été réduites, mais certaines répétitions subsistent et affaiblissent encore la puissance évocatrice.
 
-## ⚙️ Forces
+## ⚙️ Points forts
 - Extases mystiques rappelant Baudelaire.
 - Rythme ample propice à la conclusion.
+- Sentiment d'ouverture vers la Création.
 
-## ⚠️ Faiblesses
-- Images d'infini trop répétitives.
+## ⚠️ Points faibles
+- Images d'infini encore redondantes.
 - Bénédiction des Anciens un peu longue.
-- Passage de la partie 3 repris de chapitres précédents, ce qui brouille la montée vers la création ultime.
 
-## 📈 Recommandations
-1. Varier les métaphores (spirales, mers sans rivage, miroirs nocturnes).
-2. Condenser la scène de bénédiction pour laisser résonner la perspective de la Création.
+## 📈 Pistes d'amélioration
+1. Varier davantage les métaphores de l'infini.
+2. Condenser la bénédiction pour laisser résonner la perspective finale.
 3. Insuffler un souffle lumineux à la Shelley pour renforcer la rédemption.
