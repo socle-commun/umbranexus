@@ -43,12 +43,12 @@ plus belle,
 plus profonde,
 plus consciente que jamais.
 Car dans l'Umbranexus,
-chaque arcane est une porte,
-chaque porte est un chemin,
-chaque chemin est une transformation.
-Et Noctuvian,
-voyageur des Arcanes,
-continuait son voyage,
-portant en lui la sagesse
-de tous les archétypes.
+chaque arcane dévoile un symbole.
+Les cartes s'animent en danse silencieuse,
+oracles de transformation.
+Noctuvian décèle leurs signes mouvants,
+en quête de l'archétype parfait.
+Chaque tirage ouvre une perspective cachée,
+illuminant la table d'éclats fugaces.
+Il poursuit sa route, porté par ces images.
 Autour d'eux, la dimension respirait doucement, comme apaisee.

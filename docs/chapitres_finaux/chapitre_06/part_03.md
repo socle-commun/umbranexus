@@ -48,12 +48,13 @@ le Chant résonna, porteur d'une promesse de guérison.
 Les Connaissances Hermétiques murmuraient
 tandis que Noctuvian écoutait, apprenant et évoluant.
 Car dans l'Umbranexus,
-chaque connaissance est une porte,
-chaque porte est un chemin,
-chaque chemin est une transformation.
-Et Noctuvian,
-gardien des connaissances,
-continuait son voyage,
-portant en lui la sagesse
-de tous les principes.
+chaque connaissance devient un seuil.
+Les portes de l'esprit s'ouvrent sur un monde intérieur,
+façonné par la guérison.
+Les anciens préceptes se gravent en filigrane,
+comme des runes palpitantes.
+Noctuvian avance, gardien discret,
+guidé par des principes encore voilés.
+À chaque pas, il recueille une étincelle de sens,
+pressentant les savoirs qu'il devra révéler.
 🌠

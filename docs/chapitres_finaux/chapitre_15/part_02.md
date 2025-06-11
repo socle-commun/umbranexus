@@ -71,12 +71,13 @@ saluant la renaissance,
 et l'élan d'une croissance sans fin,
 d'une évolution inlassable.
 Car dans l'Umbranexus,
-chaque évolution est une note,
-chaque note est une harmonie,
-chaque harmonie est une éternité.
-Et Noctuvian,
-musicien de l'infini,
-continuait son voyage,
-portant en lui la symphonie
-de toutes les évolutions.
+chaque évolution lance un appel.
+Les notes du changement s'enchaînent,
+tissant la croissance.
+Elles composent une mélodie de renouveau,
+que Noctuvian accompagne pas à pas.
+À chaque accord, il sent l'horizon s'élargir,
+embrassant des possibilités inconnues.
+Il suit cette musique jusqu'au seuil du silence,
+porté par l'élan d'une ascension sans fin.
 🌌🕯️

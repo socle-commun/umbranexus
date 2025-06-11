@@ -42,13 +42,13 @@ portant en lui la promesse
 d'une compréhension plus grande
 encore à venir.
 Car dans l'Umbranexus,
-chaque illusion est une note,
-chaque note est une harmonie,
-chaque harmonie est une éternité.
-Et Noctuvian,
-porteur de cette harmonie,
-continuait son voyage,
-accompagné de la Révélation retrouvée,
-vers de nouveaux horizons
-de vérité.
+chaque illusion offre un éclat.
+Les mirages s'entrelacent, fragiles,
+ouvrant la voie à la vérité.
+Le réel se voile puis se dévoile,
+comme un théâtre de reflets.
+Noctuvian traverse ces images mouvantes,
+devenant porteur de clarté.
+À chaque pas, un seuil se dessine,
+l'invite à franchir d'autres horizons.
 🌌🕯️
