@@ -20,7 +20,7 @@ jobs:
       - run: npm run compile:chapters
       - run: npm run generate:pdf
       - name: Upload compiled PDF
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: compiled_book
           path: docs/chapitres_finaux/compiled_book.pdf
