@@ -13,8 +13,8 @@ Un éclair traversa la voûte, signe d'une présence antique.
 Les ombres reculèrent, laissant place à la lumière.
 Ses compagnons se rapprochèrent, partageant cette ferveur.
 Ils comprirent que l'aventure atteignait son apogée.
-Noctuvian s'avança vers le portail flamboyant.
+Noctuvian s'avança vers le portail lumineux.
 Ils ressentirent l'appel d'un monde à créer.
-Dans un même élan, ils franchirent la frontière.
+Dans un même élan, ils marquèrent une pause silencieuse, puis franchirent la frontière.
 Un souffle nouveau s'éleva et emplit leurs cœurs.
-Ainsi débuta un cycle de créations sans fin.
+Ainsi débuta un cycle de créations sans fin, apaisé mais déterminé.

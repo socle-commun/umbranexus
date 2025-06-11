@@ -1,3 +1,4 @@
+Ils respirèrent un instant.
 au cœur de l'Oubli.
 Au cœur de la fracture."
 Et dans les dimensions d'Umbranexus,
@@ -68,3 +69,4 @@ que seul le cœur pouvait comprendre.
 "Nous devons continuer,"
 dit Noctuvian.
 "Chercher les autres fragments."
+Chaque pas annonçait la renaissance.
