@@ -11,7 +11,3 @@
 ## Long-term goals
 - Ensure the compiled manuscript surpasses **300 pages** in length.
 
-## Progress Log
-- Revised chapitre 01 en renforçant la tension et en supprimant les répétitions; critique mise à jour.
-
-- Simplified chapitre 17 avec des scènes de destruction choisies et une part_03 inédite sur la ruine créatrice; critique mise à jour.
