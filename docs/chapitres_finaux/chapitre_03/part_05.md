@@ -1,22 +1,3 @@
-**Rubedo** (œuvre au rouge) — unifier et transmuter l'être.
-
-### Symboles alchimiques
-- **Mercure** : esprit volatil
-- **Soufre** : feu intérieur
-- **Sel** : matière stable
-- **Rebis** : union des contraires
-
-### Traditions ésotériques
-- **Kabbale** : Arbre de Vie et 22 sentiers
-- **Tarot** : voyage initiatique du Mat à la renaissance
-- **Gnose** : salut par la connaissance
-- **Mystères antiques** : mort et renaissance symboliques
-
-### Symbolisme
-- Serpent, croix et labyrinthe renvoient aux cycles de transformation
-- Les archétypes jungiens font écho à ces symboles
-- Tiphareth, cœur sacré et chakra du cœur convergent vers l'Unité
-
-### Philosophie
-- La conscience émerge de la complexité
-- Science et ésotérisme se répondent comme deux miroirs
+**Rubedo** (œuvre au rouge) marque l'unification de l'être. Mercure, Soufre, Sel et Rebis guident cette transmutation.
+Qu'ils proviennent de la Kabbale, du Tarot ou des Mystères antiques, les symboles renvoient toujours à un même chemin.
+Serpent, croix et labyrinthe évoquent la métamorphose, rappelant que science et ésotérisme se reflètent comme deux miroirs.
