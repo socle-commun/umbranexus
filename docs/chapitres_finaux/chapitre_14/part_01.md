@@ -90,8 +90,8 @@ ton véritable rôle.
 Mais tu peux te souvenir.
 Tu peux redevenir
 la clef du changement.
-Colère releva la tête.
-La fureur recula.
+Colère releva la tête, laissant transparaître un trouble intérieur.
+La fureur recula, dissipant un instant l'âpreté du lieu.
 "Montre-moi", souffla-t-elle.
 Noctuvian tendit la main.
 "La Tempérance conjugue le feu et l'eau.

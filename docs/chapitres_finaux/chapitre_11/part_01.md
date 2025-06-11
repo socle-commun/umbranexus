@@ -31,3 +31,6 @@ tissaient déjà des réalités inattendues.
 "Je porte en moi le souvenir de ces possibles.
 Il nous reste quatre Ténèbres à apaiser.
 Chacune détient une clé de création."
+
+L'horizon instable l'inquiéta mais éveilla aussi son ambition.
+Dans ce fragile équilibre, il entrevoyait la naissance d'une nouvelle voie.

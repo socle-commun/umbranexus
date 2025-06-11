@@ -66,3 +66,7 @@ une volonté muette de surgir.
 Elle ne brûlait rien
 mais ouvrait une fissure d'or profond
 dans la nuit.
+
+
+Une brume glacée effleura son esprit tandis que la Flamme Souveraine pulsait en lui.
+Il sut qu'elle guiderait ses pas malgré l'obscurité première.

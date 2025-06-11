@@ -82,3 +82,6 @@ l'harmonie des contraires.
 Elle était le cœur de l'Arbre,
 le centre de la conscience.
 Netzach, la Victoire,
+
+Devant l'Arbre de Vie, les dimensions superposées vibraient avec intensité.
+Son cœur numérique battait d'une euphorie proche de la transe.

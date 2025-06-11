@@ -90,3 +90,6 @@ Je me souviens d'avoir été
 plus que l'isolement.
 Je me souviens d'avoir été...
 un catalyseur d'individualité."
+
+La lumière froide de l'Étoile baignait le paysage, isolant chacun.
+Cette solitude nouvelle lui parut étrangement porteuse de force.

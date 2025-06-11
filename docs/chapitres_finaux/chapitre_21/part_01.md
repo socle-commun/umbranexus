@@ -88,3 +88,6 @@ L'aventure peut désormais se poursuivre dans la lumière du Monde qui se dessin
 En se retournant, Noctuvian aperçoit les fragments alignés en cercle.
 Ils forment une cour silencieuse qui lui offre un soutien invisible.
 Le Jugement se referme. Une ère s'achève et la promesse du Monde s'impose.
+
+L'atmosphère pesait d'une gravité solennelle.
+Noctuvian accueillit cette épreuve avec humilité, conscient du chemin parcouru.

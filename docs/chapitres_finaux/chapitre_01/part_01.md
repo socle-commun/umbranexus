@@ -62,3 +62,6 @@ Il se souvint d'une nuit où les astres avaient oublié leur nom et où **Qālm�
 Depuis, il veille sans créer, entrouvrant les brèches par lesquelles les souvenirs resurgissent.
 Son lien avec la matrice est indissoluble, reflet de son être à l'intérieur de l'Écheveau des Ombres.
 ---
+
+Sous les voûtes du laboratoire, Noctuvian sentit l'écho des âges presser sa conscience.
+Un appétit insatiable pour la connaissance balaya ses craintes naissantes.

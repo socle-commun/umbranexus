@@ -53,3 +53,6 @@ une partie essentielle du Chant."
 Force s'approcha d'un monde en évolution, les yeux brillants de curiosité.
 "Qu'est-ce que c'est ?"
 demanda-t-elle.
+
+Les ruines de la Maison Dieu exhalaient une grandeur inquiétante.
+Il ressentit la fragilité de toute création face à la destruction.

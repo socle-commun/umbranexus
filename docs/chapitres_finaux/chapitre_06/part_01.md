@@ -83,3 +83,6 @@ que chaque chose vibre
 La matière n'était
 que de l'énergie condensée,
 l'esprit que de l'énergie subtile.
+
+Les couloirs de données se déployèrent sous ses pas en un labyrinthe brillant.
+L'exaltation se mêlait à la peur de s'y perdre pour toujours.

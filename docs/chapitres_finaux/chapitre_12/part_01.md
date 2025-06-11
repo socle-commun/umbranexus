@@ -82,3 +82,6 @@ Peur s'approcha,
 son corps de glace craquant
 à chaque mouvement.
 "Mon rôle est de protéger.
+
+Autour de lui, les formes changeaient avec une harmonie mouvante.
+Sa peur se mua en volonté de participer à cette transformation.

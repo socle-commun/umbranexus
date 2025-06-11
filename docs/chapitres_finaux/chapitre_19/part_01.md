@@ -91,3 +91,6 @@ d'un monde en transformation,
 ses yeux brillants
 de curiosité.
 "Qu'est-ce que c'est ?"
+
+Une brume bleutée se leva, brouillant les contours du réel.
+Il comprit que chaque illusion révélait un doute intérieur.
