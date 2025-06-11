@@ -1,13 +1,13 @@
 # Chapitre Huitième — L'Oubli et les Arcanes
 🌑🕯️
 Dans les profondeurs de la Dimension des Oubliés,
-guidés par Mémoire,
-le groupe s'enfonça plus profondément
+guidés par Mémoire, le sol d'obsidienne glissant sous leurs pas...
+le groupe s'enfonça plus profondément...
 Derrière eux, l'ombre de Sombrelune orchestrait la résistance, déterminée à briser leur avancée.
 dans les couches de conscience.
-Le paysage se transformait,
+Le paysage se transformait...
 devenant de plus en plus étrange,
-de plus en plus onirique.
+de plus en plus onirique. La roche suintante était glacée au toucher.
 Autour d'eux, de larges blocs d'obsidienne
 se couvraient de reflets cuivrés,
 et un bourdonnement sourd emplissait l'air.
@@ -82,7 +82,7 @@ l'union,
 l'harmonie.
 Le Chariot,
 septième arcane,
-lui montra la victoire,
+lui montra la victoire, la conquête de soi,
 
-La dimension des Oubliés exhalait une mélancolie profonde.
-Chaque arcane gravé sur les murs éveillait en lui un désir brûlant de comprendre.
+La dimension des Oubliés exhalait une mélancolie profonde...
+Chaque arcane gravé sur les murs éveillait en lui un désir brûlant de comprendre...

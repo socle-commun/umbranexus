@@ -6,7 +6,7 @@ le but.
 La Justice,
 huitième arcane,
 lui révéla l'équilibre,
-la mesure,
+la mesure... une odeur de fer humecté emplissait l'air,
 la vérité.
 Elle était la loi,
 l'ordre,
@@ -86,4 +86,4 @@ La Lune,
 dix-huitième arcane,
 lui enseigna l'illusion,
 l'intuition,
-les rêves.
+les rêves. Autour d'eux, la poussière retombait lentement...
