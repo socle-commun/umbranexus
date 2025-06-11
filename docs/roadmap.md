@@ -2,7 +2,6 @@
 
 ## Short-term goals
 - Finalize basic documentation and verify existing tests.
-- Link every chapter to its analysis in `docs/index.md`.
 - Review and edit final chapters for coherence.
 
 ## Mid-term goals
