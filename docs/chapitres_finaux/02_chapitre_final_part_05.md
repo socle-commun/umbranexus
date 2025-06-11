@@ -23,4 +23,3 @@ Un escalier étroit plongeait vers un puits de silence.
 Chaque marche rappelait une mémoire scellée par les Anciens.
 Au bas des degrés, il se retrouva face à une porte de marbre noir.
 L'entrée semblait l'attendre depuis des siècles.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

@@ -29,4 +29,3 @@ La sagesse de l'absolu n'est pas dans la connaissance, mais dans l'expérience. 
 Le chemin vers l'éternité n'est pas une ligne droite, mais une spirale infinie. Chaque tour apporte une nouvelle compréhension, chaque cycle une nouvelle révélation. Dans l'Éternité, Noctuvian trace sa propre voie vers l'infini avec une détermination renouvelée.
 ## L'Épilogue de l'Éternité
 Et ainsi, dans le silence résonnant de l'Éternité, Noctuvian comprend que l'éternité n'est pas une fin, mais un commencement. Dans cette compréhension, il trouve la force de continuer, non pas malgré l'infini, mais grâce à lui. Car c'est dans la danse de l'éternité que se révèle la vérité, dans l'harmonie de l'infini que naît la sagesse ultime.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

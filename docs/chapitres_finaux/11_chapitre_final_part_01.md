@@ -80,4 +80,3 @@ Chacune a un rôle à jouer
 dans la création.
 Chacune a une part de transformation
 à apporter."
-> _Revision auto v3: Points faibles corrigés selon author-guide._

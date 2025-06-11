@@ -73,4 +73,3 @@ Elle ne brûlait rien,
 ne consumait rien,
 mais créait une brûlure d'or profond,
 une fissure chaude dans la nuit.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

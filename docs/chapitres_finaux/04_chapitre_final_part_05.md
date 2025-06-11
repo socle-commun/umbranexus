@@ -66,4 +66,3 @@ Dans ces échanges, Noctuvian sentit la nécessité d'une promesse solennelle.
 Sa voix résonna dans la chambre des Sept Éclats :
 "Je préserverai la mémoire des vivants et des ombres, quelles que soient les épreuves."
 Ce serment allait sceller le chapitre suivant de son voyage.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

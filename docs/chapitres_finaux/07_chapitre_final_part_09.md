@@ -62,4 +62,3 @@ Cycle héroïque = monomythe (Joseph Campbell).
 #### Conscience et émergence
 **Conscience** : faculté de percevoir, d'intégrer et de transformer.
 **Émergence** : apparition de propriétés à partir de la complexité (cf. Edgar Morin).
-> _Revision auto v3: Points faibles corrigés selon author-guide._

@@ -58,4 +58,3 @@ Joseph Campbell — *Le Héros aux mille et un visages*
 Issu du premier Souffle et des cendres dispersées, ce livre rassemble les vestiges d'une mémoire déliée. Il conte l'écho d'un monde fendu — Verthis — où les Manuscrits de Telumehtar pleurent sous les ruines d'Argillae Mundi. Ceux qui liront ces tables doivent savoir : elles ne livrent point de réponses. Elles éveillent ce qui sommeille.
 Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souffle tisse encore des formes dans l'obscurité. Que celui qui cherche entende. Que celui qui trouve se souvienne.
 ---
-> _Revision auto v3: Points faibles corrigés selon author-guide._

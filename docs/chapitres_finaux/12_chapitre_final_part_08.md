@@ -59,4 +59,3 @@ Vide quantique = Ain Soph (Kabbale).
 Dualité onde-particule = polarité hermétique.
 #### Polarité et unité
 Loi des opposés : yin/yang, masculin/féminin, lumière/ombre.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

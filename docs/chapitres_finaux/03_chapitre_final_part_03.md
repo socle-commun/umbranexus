@@ -68,4 +68,3 @@ Un lieu pour préserver ce qui risquait d'être dissous par l'oubli.
 Il décida de lui donner un nom : **Akasha**.
 Avant de bâtir cette bibliothèque des ombres, il devait formuler un serment.
 Car garder le souvenir exigeait plus qu'une volonté : cela réclamait un engagement total.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

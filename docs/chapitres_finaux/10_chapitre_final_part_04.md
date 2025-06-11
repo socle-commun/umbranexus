@@ -76,4 +76,3 @@ comprit que son rôle
 était plus important que jamais.
 Il était un unificateur,
 un catalyseur,
-> _Revision auto v3: Points faibles corrigés selon author-guide._

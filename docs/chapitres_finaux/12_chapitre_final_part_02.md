@@ -83,4 +83,3 @@ d'une nouvelle compréhension.
 dit-elle.
 "Je restaure le mouvement.
 Je guéris la fracture
-> _Revision auto v3: Points faibles corrigés selon author-guide._

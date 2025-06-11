@@ -66,4 +66,3 @@ que seul le cœur pouvait comprendre.
 "Nous devons continuer,"
 dit Noctuvian.
 "Chercher les autres fragments."
-> _Revision auto v3: Points faibles corrigés selon author-guide._

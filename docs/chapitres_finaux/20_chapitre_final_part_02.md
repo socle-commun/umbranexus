@@ -51,4 +51,3 @@ accompagné de l'Illumination retrouvée,
 vers de nouveaux horizons
 de renaissance.
 🌌🕯️
-> _Revision auto v3: Points faibles corrigés selon author-guide._

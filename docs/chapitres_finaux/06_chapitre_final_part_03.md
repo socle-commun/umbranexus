@@ -80,4 +80,3 @@ les absences dans la mémoire.
 "Ils sont venus en voleurs de mémoire,"
 dit-il.
 "Ils cherchent à corrompre,
-> _Revision auto v3: Points faibles corrigés selon author-guide._

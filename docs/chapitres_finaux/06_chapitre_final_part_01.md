@@ -83,4 +83,3 @@ que chaque chose vibre
 La matière n'était
 que de l'énergie condensée,
 l'esprit que de l'énergie subtile.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

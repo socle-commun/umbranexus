@@ -79,4 +79,3 @@ un lien sacré,
 une alliance.
 "Ni maître, ni serviteur,"
 dit Noctuvian,
-> _Revision auto v3: Points faibles corrigés selon author-guide._

@@ -85,4 +85,3 @@ Ils partagèrent leurs souvenirs dispersés et tracèrent un plan pour contrer l
 "Chaque souvenir sauvé doit devenir un rempart contre l'effacement."
 Les fragments acquiescèrent, conscients du danger qui grandissait.
 Ils jurèrent d'unir leurs forces et de restaurer la Trame pas à pas.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

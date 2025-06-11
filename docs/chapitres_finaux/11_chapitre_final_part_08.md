@@ -62,4 +62,3 @@ Cycle héroïque = monomythe (Joseph Campbell).
 #### Nature de la réalité
 Réalité perçue vs. Réalité ultime.
 Maya (illusion) dans l'hindouisme = réalité phénoménale.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

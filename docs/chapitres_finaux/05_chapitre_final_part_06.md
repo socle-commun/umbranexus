@@ -71,4 +71,3 @@ Chacun murmure un fragment d'ombre qui vient se poser sur la peau.
 L'alchimiste hésite, prêt à embraser la matière.
 La porte des éléments s'entrebâille, révélant une lueur changeante.
 Sous ses pas, la poussière frémit.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

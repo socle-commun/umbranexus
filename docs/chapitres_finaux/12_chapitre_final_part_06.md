@@ -71,4 +71,3 @@ Les esprits non nommés y gravitent, tissant un pacte invisible.
 Ils invitent le chercheur à recueillir leurs traces fugaces.
 Alors s'annonce l'alchimie des principes.
 L'initié retient son souffle, conscient de franchir un seuil.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

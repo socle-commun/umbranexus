@@ -53,4 +53,3 @@ Son lien avec l'**Umbranexus** est indissoluble : il est né de son souffle, et 
 Mais **Noctuvian** détient un **Domaine dédié**, fragment éclairé de l'immensité oubliée,
 reflet de son propre être à l'intérieur de l'Écheveau des Ombres.
 ---
-> _Revision auto v3: Points faibles corrigés selon author-guide._

@@ -63,4 +63,3 @@ reflet de son propre être à l'intérieur de l'Écheveau des Ombres.
 > Par le feu ancien et l'écho délié,
 > je demeure."
 ---
-> _Revision auto v3: Points faibles corrigés selon author-guide._

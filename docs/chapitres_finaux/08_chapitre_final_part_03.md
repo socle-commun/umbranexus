@@ -83,4 +83,3 @@ qui remplissait l'espace.
 Je suis la fin de toute chose !
 Je suis la dissolution !"
 Noctuvian sentit le Chant vibrer en lui,
-> _Revision auto v3: Points faibles corrigés selon author-guide._

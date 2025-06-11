@@ -86,4 +86,3 @@ continuait son voyage,
 portant en lui la sagesse
 de toutes les traditions.
 🌙🕯️
-> _Revision auto v3: Points faibles corrigés selon author-guide._

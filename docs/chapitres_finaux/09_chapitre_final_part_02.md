@@ -82,4 +82,3 @@ Il comprit que cette épreuve toucherait leur propre volonté.
 "Avançons ensemble", dit-il à ses compagnons.
 Ils franchirent le voile et s'abîmèrent dans une douce chaleur.
 La quête des sept équilibres continuait, portée par la force du Chant.
-> _Revision auto v3: Points faibles corrigés selon author-guide._

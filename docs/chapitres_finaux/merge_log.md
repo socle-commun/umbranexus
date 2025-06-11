@@ -50,4 +50,3 @@ Fragments liés : akasha.md, autres-esprits.md, chant-de-qalman.md, connaissance
 Fichier de sortie : 12_chapitre_final.md
 > __
 > __
-> _Revision auto v3: Points faibles corrigés selon author-guide._
