@@ -1,23 +1,16 @@
-C'était une danse de la vie,
-une célébration
-du changement perpétuel.
-"C'était impossible avant",
-expliqua Aether.
-"Avant que la colère
-ne vienne tout détruire."
-"Mais maintenant",
-dit Nox,
-"maintenant tout est possible.
-Maintenant,
-nous pouvons évoluer
-naturellement."
+Une danse de la vie,
+célébrait
+le changement perpétuel.
+"Autrefois", murmura Aether,
+"la colère ravageait tout."
+Nox sourit.
+"Désormais, tout est possible,
+l'évolution coule de source."
 "Oui",
 répondit Force.
-"Et je peux vous aider.
-Je me souviens maintenant.
-Je me souviens de tous les chemins
-de transformation.
-De toutes les voies d'évolution."
+"Je vous guiderai.
+Les chemins de transformation me reviennent,
+toutes les voies d'évolution s'ouvrent."
 "Combien reste-t-il
 de Ténèbres à guérir ?"
 demanda Noctuvian,
@@ -68,16 +61,14 @@ dit Noctuvian,
 le cœur empli d'espoir.
 "Allons guérir Doute."
 Dans Umbranexus,
-maintenant en pleine évolution,
-le Chant résonna,
-portant en lui la promesse
-d'une guérison plus grande
-encore à venir.
+en pleine mue,
+le Chant vibra,
+porteur d'une promesse de guérison
+plus vaste encore.
 Les mondes dansaient autour d'eux,
-célébrant la renaissance du changement,
-la restauration de la croissance,
-et la promesse
-d'une évolution sans fin.
+saluant la renaissance,
+et l'élan d'une croissance sans fin,
+d'une évolution inlassable.
 Car dans l'Umbranexus,
 chaque évolution est une note,
 chaque note est une harmonie,

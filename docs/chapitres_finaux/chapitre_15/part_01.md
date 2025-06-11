@@ -4,8 +4,7 @@ Dans les profondeurs d'Umbranexus,
 avec la guérison de Force,
 les dimensions entraient
 dans une nouvelle phase
-Noctuvian décida alors de partager le Chant avec ses alliés, scellant ainsi leur engagement commun.
-de transformation.
+Noctuvian partagea le Chant avec ses alliés, scellant une fraternité vibrante de transformation.
 Les possibilités se multipliaient,
 le changement devenait
 une constante naturelle.
@@ -39,10 +38,10 @@ d'évolution."
 "Oui",
 répondit Force,
 un sourire serein sur le visage.
-"Car maintenant,
-le changement n'est plus destructeur.
-Il est constructif.
-Il est... naturel."
+"A présent",
+murmura-t-elle,
+"la métamorphose bâtit",
+"comme l'aube sur les ruines."
 Elle leva les mains,
 et le Chant de Qālmān résonna
 à travers elle,
