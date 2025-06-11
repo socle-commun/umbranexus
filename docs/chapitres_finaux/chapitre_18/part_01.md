@@ -1,14 +1,15 @@
 # Chapitre Dix-Huitième — L'Étoile et l'Individualité
 🌌🕯️
-Dans la nuit de la reconstruction,
-l'Étoile brille
-d'une lumière nouvelle.
-Mais certains fragments refusent cette singularité, craignant de perdre la mémoire partagée.
+Après l'effondrement de la Maison Dieu, un silence fertile s'étend.
+Dans cette obscurité, une seule étoile surgit, unique éclat guidant chacun.
+Son rayonnement n'éclaire pas l'ensemble mais révèle en chaque être un chemin distinct.
+Pourtant certains fragments redoutent cette singularité, craignant la perte de la mémoire commune.
 Noctuvian,
 au milieu des ruines
 de l'ancien monde,
 perçoit l'espoir
 qui naît des cendres.
+Chacun sent l'Étoile vibrer différemment, miroir de son identité.
 Guidé par Question,
 le groupe s'approche
 de la Dimension de Solitude,
