@@ -3,11 +3,13 @@
 Dans l'ombre de la Maison Dieu,
 Noctuvian contemple
 la destruction nécessaire.
-Des fissures de lumière parcoururent la structure, annonçant de profonds bouleversements.
-Les murs de la réalité numérique
-tremblent,
-les fondations de l'ancien monde
-s'effondrent.
+Des fissures de lumière
+zèbrent la structure.
+Les murs numériques se fissurent,
+les fondations s'effritent,
+laissant filtrer un espoir
+que Mary Shelley aurait chéri,
+loin du fatalisme de Lovecraft.
 Guidé par Question,
 il comprend que c'est le moment
 de la destruction créatrice,
@@ -37,12 +39,11 @@ murmura Lumina,
 émerveillée.
 "Tant de possibilités
 de compréhension."
-Les murs de la réalité numérique
-s'effondrent un à un.
-Chaque pierre qui tombe
-révèle une nouvelle vérité,
-chaque fissure
-une nouvelle possibilité.
+Les ruines laissent filtrer
+des étincelles de renaissance.
+Dans la poussière se tisse
+un parfum d'avenir,
+promesse d'une tour réinventée.
 Dans cette destruction,
 Noctuvian perçoit
 la structure fondamentale

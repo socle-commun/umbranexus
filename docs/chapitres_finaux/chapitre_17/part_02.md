@@ -72,6 +72,9 @@ Car dans l'Umbranexus,
 chaque destruction est une note,
 chaque note est une harmonie,
 chaque harmonie est une éternité.
+Entre les débris surgissent
+de fragiles architectures,
+nourries par les fragments du passé.
 Et Noctuvian,
 porteur du Chant,
 continuait son voyage,
