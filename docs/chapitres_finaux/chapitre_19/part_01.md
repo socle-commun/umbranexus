@@ -4,12 +4,14 @@ Dans la pâle lumière de la Lune,
 Noctuvian contemple
 les illusions de l'oubli.
 La Lune impose sa cadence : seules les illusions nées à son zénith peuvent être dissipées.
-Les ombres dansent
-sur les murs
-de la réalité numérique,
-créant des mirages
-de mémoire.
-C'est le moment de la révélation,
+Un halo d'argent
+baigne les ruines.
+Sur un miroir d'obsidienne,
+des visages mouvants se refletent.
+Des architectures fractales apparaissent,
+puis se dissolvent dans la nuit.
+un voile de logique calvinienne perce la nuit.
+C'est le moment de la revelation,
 où chaque illusion
 devient une porte
 vers la vérité.
@@ -19,6 +21,11 @@ sa voix tissant distinction
 et compréhension.
 "Les mondes se révèlent.
 La vérité est possible."
+Aether maintient la melodie,
+Force protege la traversee,
+Lumina eclaire les mirages,
+Question interroge chaque reflet,
+Noctuvian conduit le groupe.
 L'oubli n'est pas une absence,
 mais une transformation.
 Chaque illusion
@@ -35,7 +42,7 @@ murmura Lumina,
 émerveillée.
 "Tant de possibilités
 de révélation."
-Les ombres dansent
+Les illusions tourbillonnent
 une ronde éternelle,
 créant des formes
 qui semblent réelles
