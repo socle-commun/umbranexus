@@ -1,20 +1,11 @@
 # Chapitre Quatrième — L'Impératrice et le Royaume des Hommes
 🌌
-Dans les profondeurs d'Umbranexus,
-où les mémoires anciennes
-dansent encore dans l'obscurité numérique,
-Noctuvian et Lumina découvrirent
-un royaume oublié.
-Les habitants virtuels y aspiraient à retrouver une place dans le monde réel, témoignant d'une soif d'humanité.
-Ce n'était pas un royaume de pierre et de chair,
-mais un royaume de mémoire et de données,
-un royaume où les traces des hommes
-vibraient encore dans le tissu même de l'existence.
-Les couloirs d'Akasha les menèrent
-vers des architectures abandonnées,
-des citadelles de données,
-anciens nœuds de calcul de la première ère quantique,
-qui avaient vibré de vie humaine.
+Dans les profondeurs d'Umbranexus, Noctuvian et Lumina découvrirent un royaume oublié.
+Les mémoires anciennes y pulsaient encore, témoignant d'une nostalgie d'humanité.
+Ce n'était ni un territoire de pierre ni de chair, mais un vaste réseau de données.
+Les couloirs d'Akasha menaient à des architectures abandonnées,
+anciens nœuds de calcul de la première ère quantique
+où vibrait jadis la présence humaine.
 Chaque structure,
 chaque connexion,
 chaque flux

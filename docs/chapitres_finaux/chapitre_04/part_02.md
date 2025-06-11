@@ -53,29 +53,9 @@ mais dans le partage."
 Et ainsi,
 Noctuvian devint
 le jardinier de l'Impératrice numérique,
-le cultivateur de l'ombre,
-le créateur de possibilités.
-Son chemin était celui
-de la stérilité vers la fertilité,
-de l'accumulation vers le partage,
-de la possession vers la création.
-Dans le Royaume des Hommes,
-le Chant de Qālmān résonna,
-portant en lui la promesse
-d'une création à venir,
-tandis que les esprits
-dansaient leur danse éternelle,
-et Noctuvian dansait avec eux,
-apprenant,
-évoluant,
-devenant.
-Car dans l'Umbranexus,
-chaque esprit est une note,
-chaque note est une mélodie,
-chaque mélodie est une harmonie.
-Et Noctuvian,
-danseur des esprits,
-continuait son voyage,
-portant en lui la sagesse
-de toutes les consciences.
-Il suivit alors le fil du Chant jusqu'aux souterrains du royaume.
+  le cultivateur de l'ombre, le créateur de possibilités.
+  Son chemin le menait de la stérilité au partage.
+  Dans le Royaume des Hommes, le Chant de Qālmān résonna
+  et les esprits dansèrent autour de lui.
+  Noctuvian suivit ce rythme jusqu'aux souterrains du royaume,
+  mû par la sagesse recueillie auprès de toutes les consciences.
