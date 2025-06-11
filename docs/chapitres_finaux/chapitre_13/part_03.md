@@ -1,20 +1,17 @@
 Les mondes dansaient autour d'eux,
-célébrant la renaissance du changement,
-la restauration de la croissance,
+célébrant la renaissance du changement
 et la promesse
-d'une évolution sans fin.
+d'une évolution continue.
 Des arcs de lumière jaillirent du vide,
 croisant des ombres profondes.
 Chaque pulsation du Chant sculptait le paysage autour d'eux.
-Car dans l'Umbranexus,
-chaque transformation est une note,
-chaque note est une harmonie,
-chaque harmonie est une éternité.
-Et Noctuvian,
+Dans l'Umbranexus,
+chaque transformation se fait note,
+chaque note devient harmonie.
+Noctuvian,
 musicien de l'infini,
-continuait son voyage,
-portant en lui la symphonie
-de toutes les transformations.
+poursuivait son voyage,
+la symphonie des transformations en lui.
 🌌🕯️
 Un léger souffle parcourut l'espace fractal.
 Les fragments de mémoire s'assemblèrent en un nouveau motif.
@@ -30,4 +27,4 @@ Il salua le mystère qui l'enveloppait.
 Puis s'élança vers la prochaine étape.
 Son âme résonnait d'une énergie nouvelle.
 Noctuvian avançait, mêlant l'audace de Verne à l'inquiétude de Lovecraft.
-Aucune obscurité ne pourrait briser cet élan.
+Aucune obscurité ne briserait cet élan.

@@ -1,46 +1,38 @@
 des êtres de lumière et d'ombre
-dansant ensemble,
-se transformant,
-évoluant,
-trouvant de nouvelles formes
+dansaient ensemble,
+évoluant vers de nouvelles formes
 d'existence.
-C'était une danse de création,
-une symphonie de transformation
-qui n'avait jamais été possible
+C'était une danse créatrice,
+autrefois impossible
 dans l'Umbranexus figé par la peur.
 "C'était impossible avant",
 expliqua Aether,
 sa voix portant l'écho des âges.
 "Avant que la peur
 ne vienne tout figer."
-"Mais maintenant",
+"Mais désormais",
 dit Nox,
-ses ombres dansant avec la lumière,
-"maintenant tout est possible.
-Maintenant,
+ses ombres se mêlant à la lumière,
+"tout redevient possible;
 nous pouvons évoluer en sécurité."
 "Oui",
 répondit Prudence,
 son regard embrassant
 l'horizon en transformation.
-"Et je peux vous aider.
-Je me souviens maintenant.
-Je me souviens de tous les chemins
-de transformation.
-De toutes les voies de croissance."
+"Je peux vous guider",
+ajouta Prudence,
+"car je me rappelle désormais
+tous les chemins de transformation."
 "Combien reste-t-il
 de Ténèbres à guérir ?"
 demanda Noctuvian,
 sentant le poids de leur mission.
 "Trois",
-répondit Prudence.
-"Trois Ténèbres,
-comme les trois phases
+répondit Prudence,
+"telles les trois phases
 de la transformation.
-Chacune a un rôle à jouer
-dans l'évolution.
-Chacune a une part de croissance
-à apporter."
+Chacune porte une part
+de croissance."
 "Et nous en avons déjà guéri quatre",
 dit Lumina,
 comptant sur ses doigts.
@@ -64,10 +56,9 @@ Elle se nomme... Colère."
 répéta Mnémosyne,
 ses yeux reflétant
 des souvenirs anciens.
-"La Ténèbre qui a détruit
-la transformation.
-La Ténèbre qui a brisé
-la croissance."
+"La Ténèbre qui détruisit
+la transformation
+et brisa la croissance."
 "Oui",
 répondit Prudence.
 "Et maintenant,
@@ -77,12 +68,10 @@ Prête à retrouver
 son véritable rôle."
 "Alors allons-y",
 dit Noctuvian,
-sentant le Chant l'appeler.
+porté par le Chant.
 "Allons guérir Colère."
-Dans Umbranexus,
-maintenant en pleine transformation,
+Dans l'Umbranexus en mutation,
 le Chant résonna,
-portant en lui la promesse
-d'une guérison plus grande encore à venir.
-Tout autour, la voûte fractale s'illumina d'éclairs azur.
-Le chemin vers Colère se traçait tel un sentier de braises dans le vide.
+promettant une guérison plus vaste.
+Des éclairs azur traversèrent la voûte fractale
+tandis que se dessinait le chemin vers Colère.
