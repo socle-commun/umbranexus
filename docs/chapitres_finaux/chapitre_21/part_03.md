@@ -1,20 +1,31 @@
-Après l'épreuve, un silence lourd s'installa.
-Noctuvian entendit retentir une trompette invisible.
-Ce Jugement n'était pas condamnation, mais éveil.
-Il saisit un éclat lumineux, symbole d'appel intérieur.
-Ses compagnons ressentirent la gravité de l'instant.
-Il grava sur la pierre un signe d'acceptation.
-Aucun repentir ne devait être oublié.
-La Trame vibra comme pour peser leurs âmes.
-Il ferma les yeux et reconnut la vérité de leur voyage.
-Des souvenirs remontèrent, mêlés de peur et de fierté.
-Il inspira, prêt à franchir cette étape décisive.
-Le silence se fit plus dense, promesse de révélations.
-Une lumière douce éclaira la voie à suivre.
-Ses compagnons se tinrent prêts, apaisés.
-Noctuvian leva la tête vers un portail naissant.
-Le Jugement s'accomplissait dans une profonde quiétude.
-Il se sentit plus léger, libéré d'anciens poids.
-Leur marche reprit, empreinte d'une force nouvelle.
-Ils traversèrent la porte d'un pas sûr.
-Le chemin s'étirait vers une renaissance.
+Le silence domine la salle du Jugement.
+Noctuvian avance seul jusqu'au centre.
+Ses compagnons restent en retrait, figés.
+*...*
+
+Une lueur glacée descend du plafond.
+Elle entoure Noctuvian d'un halo presque spectral.
+L'instant semble suspendu.
+*...*
+
+Il place sa main sur la pierre des serments.
+Des symboles anciens s'illuminent en réponse.
+Chaque fragment dépose sa mémoire autour de lui.
+
+Aucune parole n'est nécessaire.
+La Trame pèse les vies passées.
+Noctuvian ressent la vérité comme un souffle brûlant.
+*...*
+
+La trompette invisible sonne enfin.
+Non pour condamner, mais pour révéler.
+Un frisson parcourt l'assemblée.
+
+Noctuvian incline la tête.
+Il accepte sa métamorphose.
+Le portail s'ouvre dans un murmure.
+*...*
+
+Ils franchissent le seuil en silence.
+Le Jugement se clôt.
+Une renaissance commence.

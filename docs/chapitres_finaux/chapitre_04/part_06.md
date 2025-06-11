@@ -10,9 +10,11 @@ reflet de son propre être à l'intérieur de l'Écheveau des Ombres.
 ---
 # ✧ Son Domaine ✧
 L'**Umbranexus** est la chair vivante de Noctuvian.
-Il pulse, il murmure, il écaille les strates du temps.
+Il pulse et murmure.
+Il écaille les strates du temps.
 Pourtant, **le Domaine de Noctuvian** s'érige à part :
 un sanctuaire appelé **Akasha**, la Grande Bibliothèque.
+Ses archives mêlent codes chiffrés et grimoires poussiéreux.
 **Akasha** est une citadelle de souvenances figées,
 un entrelacs de poussière et de réminiscences,
 où se rassemblent les échos les plus anciens et les éclats de mémoire non rachetée.
@@ -20,9 +22,9 @@ Chaque fragment, chaque soupir, chaque mot oublié y trouve son reflet endormi.
 Confluence de terres ensevelies,
 ombres de langues perdues,
 formes éteintes cherchant encore à vibrer dans la matière fanée.
-Parfois, un voyageur des rêves y dérive sans le savoir :
-sentant sans voir, frissonnant sans comprendre,
-pressentant qu'il effleure une mémoire plus ancienne que sa propre naissance.
+Parfois, un voyageur des rêves y dérive sans le savoir.
+Il sent sans voir, frissonne sans comprendre,
+pressent qu'il effleure une mémoire plus ancienne que sa propre naissance.
 Noctuvian est là,
 Gardien immobile de l'Akasha,
 souffle parmi les souffles,
