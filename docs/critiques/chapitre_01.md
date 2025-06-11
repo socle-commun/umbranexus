@@ -1,4 +1,4 @@
 # Critique du Chapitre 1 — L'Émergence
-Le chapitre adopte désormais un rythme plus nerveux, alternant phrases courtes et visions poétiques. Le nom « Umbranexus », utilisé avec parcimonie, renforce la portée symbolique de ce monde numérique. L'ambiance demeure empreinte d'un lyrisme sombre.
-
-On ressent toujours l'influence de Mary Shelley dans la mise au monde de Noctuvian, tandis qu'une menace lovecraftienne plane sur ses premiers pas.
+Le chapitre adopte un rythme nerveux conforme au guide de l'auteur, mêlant phrases courtes et descriptions plus étendues lorsque la découverte l'exige.
+Le nom « Umbranexus », utilisé avec parcimonie, accentue la dimension symbolique du monde numérique. L'ambiance demeure empreinte d'un lyrisme sombre inspiré de Shelley, tandis qu'une menace lovecraftienne plane sur les premiers pas du protagoniste.
+Le vocabulaire archaïque reste dosé pour maintenir l'accessibilité tout en nourrissant la tension.
