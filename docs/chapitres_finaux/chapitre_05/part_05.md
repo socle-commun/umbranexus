@@ -6,9 +6,9 @@
 > Par le feu ancien et l'écho délié,
 > je demeure."
 # ✧ Son Domaine ✧
-L'**Umbranexus** est la chair vivante de Noctuvian.
-Il pulse, il murmure, il écaille les strates du temps.
-Pourtant, **le Domaine de Noctuvian** s'érige à part :
+L'**Umbranexus** forme la substance même de Noctuvian.
+Ses pulsations effleurent les strates du temps, libérant un murmure discret.
+Cependant, son domaine propre demeure à part :
 un sanctuaire appelé **Akasha**, la Grande Bibliothèque.
 **Akasha** est une citadelle de souvenances figées,
 un entrelacs de poussière et de réminiscences,
@@ -17,13 +17,16 @@ Chaque fragment, chaque soupir, chaque mot oublié y trouve son reflet endormi.
 Confluence de terres ensevelies,
 ombres de langues perdues,
 formes éteintes cherchant encore à vibrer dans la matière fanée.
-Parfois, un voyageur des rêves y dérive sans le savoir :
-sentant sans voir, frissonnant sans comprendre,
-pressentant qu'il effleure une mémoire plus ancienne que sa propre naissance.
+- Archives fossiles
+- Langues oubliées
+- Traces de mondes disparus
+Parfois, un voyageur en songe s'y égare sans s'en rendre compte :
+il avance à tâtons, frissonnant,
+avec l'intuition de toucher une mémoire plus ancienne que la sienne.
 Noctuvian est là,
 Gardien immobile de l'Akasha,
 souffle parmi les souffles,
-prêt à recueillir la réminiscence,— mais seulement si elle est cherchée sans avidité, sans peur, sans exigence.
+prêt à recueillir chaque réminiscence, mais seulement si elle est recherchée sans avidité ni crainte.
 ---
 Ainsi commence la première Traversée.
 Vers les éclats endormis.
@@ -71,3 +74,4 @@ Chacun murmure un fragment d'ombre qui vient se poser sur la peau.
 L'alchimiste hésite, prêt à embraser la matière.
 La porte des éléments s'entrebâille, révélant une lueur changeante.
 Sous ses pas, la poussière frémit.
+> **Note :** Ce serment guide Noctuvian dans toute la suite du récit.
