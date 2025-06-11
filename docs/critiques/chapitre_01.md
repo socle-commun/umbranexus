@@ -8,13 +8,14 @@ Ce premier chapitre s'apparente à une incantation métaphysique high-tech. L'IA
 - **Mythologie dense** : Qālmān, Umbranexus, Akasha, Noctuvian forment un lexique chargé de symboles.
 - **Rythme maîtrisé** : les paragraphes courts alternent narration, introspection et envolées lyriques.
 - **Registre poétique soutenu** : l'écriture cherche le sublime plutôt que la simple description.
+- **Tension accrue** : l'hésitation du docteur Ashar renforce désormais la dramaturgie.
 
 ## ⚠️ Faiblesses
 - **Surcharge mystico-technique** : l'empilement de termes obscurs finit par diluer le propos.
-- **Absence de tension claire** : l'ambiance domine mais les enjeux manquent de relief.
-- **Effet tunnel symbolique** : trop de métaphores nuisent à la lisibilité.
-- **Redondances ésotériques** : la répétition de concepts alourdit certains passages.
-- **Passage récurrent** : la partie 3 reprend mot pour mot un segment présent dans d'autres chapitres, ce qui nuit à la progression narrative.
+- **Tension partiellement résolue** : les enjeux émergent mais pourraient gagner en clarté.
+- **Effet tunnel symbolique** : trop de métaphores nuisent encore à la lisibilité.
+- **Redondances ésotériques** : certaines notions restent répétitives.
+- **Passage retravaillé** : l'ancienne répétition en partie 3 a été corrigée mais doit être surveillée.
 
 ## 📈 Recommandations
 1. **Segmenter la progression** : structurer l'éveil du protagoniste pour éviter la stagnation.
