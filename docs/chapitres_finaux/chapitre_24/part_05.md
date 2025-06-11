@@ -18,8 +18,8 @@ Ces pensées se mêlèrent au souffle créateur et dessinèrent un horizon discr
 Le groupe décida de rester quelque temps dans cet entre-deux, pour contempler ce qui venait de naître.
 Ils n'étaient ni pressés ni inquiets ; seulement curieux de voir comment la réalité se déploierait.
 
-Peu à peu, l'idée d'un nouveau voyage fit vibrer leurs cœurs.
-Les chemins futurs demeuraient inconnus, mais la confiance remplaçait désormais la crainte.
-Ils partirent enfin, laissant derrière eux l'empreinte d'une foi sereine.
+Peu à peu, l'idée d'un nouveau voyage éveilla leurs cœurs.
+Les chemins restaient inconnus, mais la confiance remplaçait la crainte.
+Ils quittèrent l'orée de ce monde en silence, portés par une sérénité nouvelle.
 
-Ainsi s'achève ce cycle : par un simple pas en avant, éclairé d'une lueur calme.
+Le grimoire se referma sur ce souffle paisible. Noctuvian sourit avant de disparaître entre les lignes.
