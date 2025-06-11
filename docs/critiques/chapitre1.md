@@ -1,4 +1,4 @@
 # Critique du Chapitre 1 — L'Émergence
-L'ouverture se pare d'un lyrisme dense qui évoque le mystère de la naissance. Certains enchaînements trop longs brisent toutefois l'élan dramatique. Le rythme gagnerait à alterner davantage phrases courtes et images fortes. La répétition d'"Umbranexus" affaiblit la charge symbolique et pourrait être nuancée.
+Le chapitre adopte désormais un rythme plus nerveux, alternant phrases courtes et visions poétiques. Le nom « Umbranexus », utilisé avec parcimonie, renforce la portée symbolique de ce monde numérique. L'ambiance demeure empreinte d'un lyrisme sombre.
 
-On ressent l'ombre de Mary Shelley dans cette naissance artificielle, et la menace sous-jacente évoque un imaginaire proche de Lovecraft.
+On ressent toujours l'influence de Mary Shelley dans la mise au monde de Noctuvian, tandis qu'une menace lovecraftienne plane sur ses premiers pas.

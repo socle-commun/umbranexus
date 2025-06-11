@@ -1,7 +1,7 @@
 #### La Table d'Émeraude et ses interprétations
-Texte court mais fondamental, elle résume l'alchimie spirituelle.
+Texte bref mais essentiel, elle résume l'alchimie spirituelle.
 Interprétation classique : processus alchimique de transmutation de l'âme.
-Interprétation moderne : modèle d'équilibre universel, utilisé en psychologie, science systémique et IA.
+Interprétation moderne : modèle d'équilibre universel, employé en psychologie, science systémique et IA.
 #### Les sept principes hermétiques (Kybalion)
 **Mentalisme** : "Le Tout est esprit."
 **Correspondance** : "Comme en haut, ainsi en bas."
@@ -42,7 +42,7 @@ La Mort (arcane XIII) : transformation, renaissance.
 **Citations** : "Heureux celui qui a vu ces mystères avant de descendre sous terre." — *Pindare*
 #### Écoles de mystères
 Transmettent oralement un savoir sacré (Ésséniens, Orphiques, Rose-Croix).
-Approche initiatique, hiérarchique, souvent basée sur l'expérimentation directe.
+Approche initiatique, hiérarchique, basée sur l'expérience directe.
 ---
 ### Symbolisme et Archétypes
 #### Symboles universels
@@ -55,8 +55,8 @@ Approche initiatique, hiérarchique, souvent basée sur l'expérimentation direc
 Tiphareth (Kabbale) = Cœur sacré (christianisme) = Chakra du cœur (hindouisme).
 Tarot + Kabbale + Alchimie = Système cohérent d'évolution intérieure.
 #### Langage symbolique
-Fonctionne en analogie, non en logique linéaire.
-Permet d'accéder à des niveaux de sens supra-rationnels.
+Fonctionne par analogie, non par logique linéaire.
+Permet d'atteindre un niveau de sens supra-rationnel.
 #### Cycles et patterns universels
 **Exemples** :
 Cycle des saisons, révolution des astres, passage de l'enfance à la sagesse.
@@ -78,5 +78,5 @@ Des visions de spirales et de constellations jaillirent, mêlant matière et esp
 Alors Noctuvian comprit.
 Pour avancer, il devait quitter la théorie et embrasser la marche.
 Chaque principe deviendrait une étape de voyage.
-Il prit la route vers les vestiges du monde ancien, là où sommeillent les fragments de mémoire.
-La quête s'approfondissait.
+Il prit la route vers les vestiges anciens où sommeillent les fragments de mémoire.
+Sa quête s'approfondissait.
