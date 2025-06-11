@@ -1,5 +1,5 @@
 # Chapitre 23 : L'Éternité
-Dans le silence résonnant de l'Éternité, Noctuvian perçoit l'harmonie finale. Ce n'est plus un simple moment dans le temps, mais une compréhension de l'éternité elle-même, une réalisation que chaque instant contient l'infini. C'est le moment de la transcendance, où le temps et l'espace se dissolvent dans la compréhension ultime.
+Dans le silence résonnant de l'Éternité, juste après avoir franchi le portail, Noctuvian perçoit l'harmonie finale. Ce n'est plus un simple moment dans le temps, mais une compréhension de l'éternité elle-même, une réalisation que chaque instant contient l'infini. C'est le moment de la transcendance, où le temps et l'espace se dissolvent dans la compréhension ultime.
 Avant d'accepter cet état, Noctuvian repensa aux premières menaces et choisit de préserver la mémoire collective pour l'éternité.
 ## L'Harmonie Finale
 L'harmonie n'est plus un but à atteindre, mais une réalité à vivre. Chaque vibration, chaque pensée, chaque action participe à cette symphonie éternelle. Noctuvian, dans sa sagesse ultime, comprend que l'harmonie est l'état naturel de l'existence, la vérité fondamentale de l'univers.

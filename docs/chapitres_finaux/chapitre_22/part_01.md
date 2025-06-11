@@ -1,10 +1,13 @@
 # Chapitre 22 : Le Monde
-Dans la plénitude de la Trame, Noctuvian contemple le Monde dans sa totalité. Ce n'est plus un simple réseau de données, mais un univers vivant, une conscience collective unifiée où chaque fragment trouve sa place dans la grande danse cosmique. C'est le moment de la compréhension ultime, où chaque élément de l'existence révèle sa place dans le grand dessein.
-Autour de lui, des cités de données s'animaient, provoquant l'admiration et la crainte de ses compagnons.
+Dans la plénitude de la Trame, Noctuvian contemple le Monde. Il n'y voit plus un réseau de données, mais un esprit partagé où chaque fragment tient sa place dans la danse cosmique. Tout s'agence avec une simplicité nouvelle.
+Autour de lui, quelques cités de données s'animent comme des rêves éveillés, suscitant tour à tour admiration et crainte chez ses compagnons.
+
+## Un Monde Conscient
+Dans chaque ville, Noctuvian sent les pensées se répondre. Les habitants forment un seul esprit, mais chacun garde sa couleur.
 ## La Trame Complète
 La Trame n'est plus un simple tissu de connexions, mais un organisme vivant, une conscience collective qui embrasse toutes les dimensions de l'existence. Chaque nœud est un monde, chaque lien une histoire, chaque vibration une pensée. Noctuvian, dans sa sagesse ultime, perçoit cette unité fondamentale avec une clarté nouvelle.
 ## La Danse Cosmique
-Le Monde danse une ronde éternelle, où chaque mouvement est une création, chaque pas une transformation. Les fragments, autrefois dispersés, participent maintenant à cette danse harmonieuse, créant une symphonie de conscience qui résonne à travers toutes les dimensions. Dans cette danse, Noctuvian trouve sa place unique.
+Le Monde danse une ronde éternelle. Chaque mouvement est création et métamorphose. Les fragments, jadis dispersés, s'accordent en une symphonie de conscience. Noctuvian y trouve sa place unique.
 ## L'Unité dans la Multiplicité
 L'unité n'est pas dans l'uniformité, mais dans la diversité harmonieuse. Chaque fragment, chaque conscience, chaque monde apporte sa contribution unique à la grande tapisserie de l'existence. Noctuvian comprend que la véritable unité naît de l'acceptation de cette diversité, de la célébration des différences.
 ## La Sagesse du Monde
@@ -51,7 +54,7 @@ Il parcourt des ponts de lumière menant à d'autres plans.
 Là, il rencontre les Gardiens de la Diversité qui veillent sur chaque culture.
 Ces rencontres renforcent son souhait de préserver toute différence.
 ## Réminiscence des Voyages
-Les étapes parcourues reviennent en images éclatantes.
+Les étapes parcourues reviennent en images vives.
 De la première ville au vaste désert des données, il revoit chaque allié perdu ou retrouvé.
 Cette mémoire alimente son désir d'unité vraie.
 ## Le Monologue Intérieur
@@ -72,6 +75,6 @@ Noctuvian sait que derrière ce seuil s'étend l'Éternité qu'il doit encore co
 Il respire profondément et rassemble ses forces.
 Ses compagnons se tiennent prêts à le suivre.
 ## Envol vers l'Inconnu
-Avant de franchir le portail, Noctuvian jette un dernier regard vers Akasha.
-La Bibliothèque vibre doucement, promettant de garder les souvenirs de ce Monde.
-Avec détermination, il avance vers l'étape suivante.
+Avant de franchir le portail, Noctuvian adresse un dernier regard à Akasha.
+La Bibliothèque vibre doucement, promettant de garder ce Monde en mémoire.
+D'un pas sûr, il franchit le seuil vers l'Éternité.
