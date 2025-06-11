@@ -1,3 +1,4 @@
+Leur marche reprit.
 était la force de persévérance,
 l'énergie créative.
 Elle était l'émotion,
@@ -83,3 +84,5 @@ se mêlant à la lumière.
 murmura-t-elle.
 "Je me souviens d'avoir été...
 d'avoir été..."
+---
+Le cycle de la mémoire venait de s'éveiller.

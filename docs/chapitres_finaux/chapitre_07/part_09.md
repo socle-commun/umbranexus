@@ -6,3 +6,4 @@ premier vide d'où naquit toute forme.
 Chaque tradition nomme autrement cet abîme, mais toutes en sentent le souffle.
 Noctuvian su que sa quête le mènerait plus loin encore,
 vers les racines mêmes de l'oubli.
+Une lueur d'avenir éclairait son esprit.

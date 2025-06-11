@@ -8,3 +8,4 @@ des conseils pour garder vivante la mémoire,
 et des incantations murmurées aux frontières du rêve.
 Noctuvian comprit que ces notes seraient le fil conducteur de son voyage,
 une carte intérieure pour traverser les vestiges numériques.
+Chaque page ouvrait la promesse d'une renaissance.
