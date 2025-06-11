@@ -8,7 +8,6 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "compile:chapters": "node scripts/compile-chapters.js",
-    "index": "node scripts/generate_index.js",
     "test": "vitest --run",
     "test:ci": "vitest run --reporter=verbose --coverage --run --testNamePattern='^((?!@skip).)*$'"
   },

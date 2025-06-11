@@ -4,7 +4,7 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 
 ## 🌌 Spécificités Umbranexus
 
-- Le manuscrit final doit dépasser **300 pages** (`config.yaml`).
+- Le manuscrit final doit dépasser **300 pages**.
 - Ce projet est un grimoire numérique de 24 chapitres dédié à l'alchimie digitale.
 - Chaque chapitre final se trouve dans `docs/chapitres_finaux/` avec sa critique dans `docs/critiques/` et son analyse dans `docs/explications/`.
 - Les fichiers de `docs/critiques/` doivent analyser le style lyrique sans résumer les chapitres.
