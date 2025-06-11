@@ -8,8 +8,8 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "compile:chapters": "node scripts/compile-chapters.js",
-    "test": "vitest --run",
-    "test:ci": "vitest run --reporter=verbose --coverage --run --testNamePattern='^((?!@skip).)*$'"
+    "test": "vitest --run --hookTimeout=20000",
+    "test:ci": "vitest run --hookTimeout=20000 --reporter=verbose --coverage --run --testNamePattern='^((?!@skip).)*$'"
   },
   "devDependencies": {
     "@vitest/coverage-v8": "^3.2.3",

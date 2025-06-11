@@ -1,16 +1,28 @@
 import { readdirSync } from 'fs'
 import { join } from 'path'
 
-const base = join(__dirname, '..', 'chapitres_finaux')
-const chapitres = readdirSync(base)
+const chaptersDir = join(__dirname, '..', 'chapitres_finaux')
+
+function getParts (chapter) {
+  return readdirSync(join(chaptersDir, chapter))
+    .filter(f => /^part_\d+\.md$/.test(f))
+    .sort()
+    .map(f => ({
+      text: f.replace('.md', '').replace('_', ' '),
+      link: `/chapitres_finaux/${chapter}/${f.replace('.md', '')}`
+    }))
+}
+const chapitres = readdirSync(chaptersDir)
   .filter(d => /^chapitre_\d{2}$/.test(d))
-  .map(d => ({
-    text: 'Chapitre ' + d.slice(-2),
-    link: `/chapitres_finaux/${d}/part_01`
+  .sort()
+  .map(ch => ({
+    text: 'Chapitre ' + ch.slice(-2),
+    items: getParts(ch)
   }))
 
 const explications = readdirSync(join(__dirname, '..', 'explications'))
   .filter(f => f.endsWith('.md') && f !== 'README.md')
+  .sort()
   .map(f => ({
     text: f.replace('.md', ''),
     link: '/explications/' + f.replace('.md', '')
@@ -23,7 +35,7 @@ export default {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Chapitres', link: '/chapitres_finaux/chapitre_01/part_01' },
+      { text: 'Chapitres', items: chapitres },
       { text: 'Explications', link: '/explications/' }
     ],
     sidebar: {
