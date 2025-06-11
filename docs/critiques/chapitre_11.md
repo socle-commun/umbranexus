@@ -1,4 +1,17 @@
-# Critique du Chapitre 11 — Les Perspectives
-Le ton devient plus contemplatif, ce qui apaise le rythme. Néanmoins, la langue gagnerait à être moins descriptive pour laisser la place à la suggestion. Des ruptures poétiques plus marquées renforceraient l'impression d'horizon ouvert.
-Les perspectives rappellent les voyages de Jules Verne; un accent sur la fragilité à la Shelley enrichirait la réflexion.
-Le guide prône des descriptions symboliques plutôt que surchargées : suivre ce principe renforcerait la quête de mystère.
+# 💀 Analyse critique du contenu — Chapitre 11 : Les Perspectives
+
+## 🧠 Contenu
+Le ton devient contemplatif, apaisant le rythme. La langue gagnerait à être moins descriptive pour laisser place à la suggestion.
+
+## ⚙️ Forces
+- Horizon d'exploration à la Jules Verne.
+- Sensibilité mélancolique proche de Shelley.
+
+## ⚠️ Faiblesses
+- Excès de descriptions qui alourdissent la lecture.
+- Peu de ruptures poétiques marquées.
+
+## 📈 Recommandations
+1. Préférer des images symboliques à des explications détaillées.
+2. Introduire des transitions poétiques pour ouvrir l'horizon.
+3. Alléger la prose afin de maintenir le mystère.

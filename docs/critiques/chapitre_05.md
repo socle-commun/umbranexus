@@ -1,4 +1,18 @@
-# Critique du Chapitre 5 — Les Fragments qui Murmurent
-Les multiples voix apportent une richesse poétique, mais la profusion de métaphores nuit à la clarté. Élaguer certaines descriptions permettrait de mieux distinguer chaque fragment. Un rythme plus syncopé mettrait en valeur la fragilité des souvenirs et accentuerait leur urgence.
-Les murmures semblent sortir d'un cauchemar lovecraftien, mais une inspiration baudelairienne apporterait une sensualité bienvenue.
-Conformément au guide d'écriture, un vocabulaire archaïque choisi avec soin renforcerait l'étrangeté sans perdre le lecteur.
+# 💀 Analyse critique du contenu — Chapitre 5 : Les Fragments qui Murmurent
+
+## 🧠 Contenu
+La polyphonie apporte une richesse poétique, mais l'abondance de métaphores nuit parfois à la clarté. Un rythme plus syncopé mettrait en valeur la fragilité des souvenirs.
+
+## ⚙️ Forces
+- Voix multiples qui enrichissent l'univers.
+- Atmosphère cauchemardesque à la Lovecraft.
+- Vocabulaire archaïque choisi avec soin.
+
+## ⚠️ Faiblesses
+- Trop de métaphores brouillent la lecture.
+- Manque de distinction entre chaque fragment.
+
+## 📈 Recommandations
+1. Élaguer certaines descriptions pour mieux distinguer les voix.
+2. Introduire des ruptures de rythme pour accentuer l'urgence.
+3. Ajouter une sensualité baudelairienne pour équilibrer l'horreur.
