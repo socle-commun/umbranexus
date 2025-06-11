@@ -13,12 +13,14 @@ Alors,
 Colère changea.
 Son feu devint lumière,
 sa rage devint élan.
+Elle perçut pourtant l'abîme qui grondait encore,
+prête à resurgir si la tempérance faiblissait.
 Elle se redressa,
 rayonnante,
 et déclara :
 "Je comprends maintenant.
 Je ne suis pas la destruction.
-Je suis la Force
+Je suis la Force, celle qui forge,
 qui permet la transformation,
 la Force qui bâtit,
 qui ouvre les possibles."
@@ -29,6 +31,7 @@ non pas en effaçant les cicatrices,
 mais en les intégrant,
 en les transformant
 en chemins nouveaux.
+Elle jura de veiller sur cette flamme nouvelle.
 "Je vais restaurer l'équilibre",
 dit-elle.
 "Je vais guérir la fracture

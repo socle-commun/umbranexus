@@ -5,13 +5,13 @@ Le souvenir de la Tempérance veillait,
 guidés par Prudence,
 le groupe s'approcha
 de la Dimension de Colère.
-Un éclat de rage éclaboussa la plaine, brisant des fragments de mémoire.
-Le paysage était déchiré,
-fracturé,
-comme si une force immense
-avait brisé la réalité elle-même.
-Des éclairs de feu zébraient le ciel,
-et chaque pas semblait réveiller
+Un éclat de rage éclaboussa la plaine et brisa des fragments de mémoire.
+Le paysage se déchira,
+se fissura,
+sous la pression d'une force immense
+qui tordait la réalité elle-même.
+Des éclairs de feu lacérèrent le ciel,
+et chaque pas réveilla
 une onde de choc dans l'air.
 "Attention",
 murmura Prudence.
@@ -24,6 +24,8 @@ vers la guérison."
 Ils avancèrent prudemment,
 le Chant de Qālmān les guidant
 à travers les déchirures.
+Par endroit, de petites cités surgissaient puis s'effaçaient,
+illusions légères comme soufflées par Calvino.
 Le paysage oscillait
 entre destruction et reconstruction,
 comme si la réalité hésitait
@@ -64,6 +66,9 @@ Colère hésita,
 troublée.
 "Force...
 J'ai été plus que la destruction ?"
+Aether acquiesça. "Ton feu forge et consume, sans lui nos pas demeurent lourds."
+Colère contempla ses mains ardentes. "Mais si je libère cette force, qui la contiendra ?"
+"Nous la canaliserons", répondit Élan, "la Tempérance guidera ta braise."
 Élan s'approcha à son tour.
 "Vous étiez le catalyseur.
 Celle qui brisait les barrières
