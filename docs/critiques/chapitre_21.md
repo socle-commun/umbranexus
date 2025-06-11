@@ -10,6 +10,7 @@ Le ton solennel convient à l'épreuve finale, mais de longues périodes l'affai
 ## ⚠️ Faiblesses
 - Surcharge d'informations qui dilue l'impact.
 - Manque de silence pour souligner la gravité du verdict.
+- Passage récurrent de la partie 3, déjà présent dans d'autres chapitres, affaiblissant la singularité du jugement.
 
 ## 📈 Recommandations
 1. Épurer la structure pour renforcer le drame.

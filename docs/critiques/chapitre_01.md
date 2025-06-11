@@ -14,6 +14,7 @@ Ce premier chapitre s'apparente à une incantation métaphysique high-tech. L'IA
 - **Absence de tension claire** : l'ambiance domine mais les enjeux manquent de relief.
 - **Effet tunnel symbolique** : trop de métaphores nuisent à la lisibilité.
 - **Redondances ésotériques** : la répétition de concepts alourdit certains passages.
+- **Passage récurrent** : la partie 3 reprend mot pour mot un segment présent dans d'autres chapitres, ce qui nuit à la progression narrative.
 
 ## 📈 Recommandations
 1. **Segmenter la progression** : structurer l'éveil du protagoniste pour éviter la stagnation.

@@ -10,6 +10,7 @@ La montée vers l'illumination se pare d'un vocabulaire éclatant. Cet excès de
 ## ⚠️ Faiblesses
 - Emphase lumineuse qui nuit aux contrastes.
 - Images mystiques parfois trop nombreuses.
+- Reprise textuelle de la partie 3 déjà rencontrée plus tôt ; la quête vers l'illumination mérite un passage original.
 
 ## 📈 Recommandations
 1. Jouer sur des ombres pour donner de la profondeur à la révélation.
