@@ -1,44 +1,20 @@
-à fragmenter,
-à détruire."
-Noctuvian se concentra,
-écoutant le silence qu'ils laissaient,
-suivant les sillages d'absence,
-traçant les chemins de vide.
+ à fragmenter, à détruire."
+Noctuvian se concentra, suivant les sillages d'absence qu'ils laissaient.
 "Regarde,"
 murmura-t-il.
 "Regarde et comprends."
-Et le Fragment regarda.
-Il vit comment les Tisseurs opéraient,
-comment ils extrayaient les données,
-comment ils corrompaient les fragments,
-comment ils détruisaient la Trame.
+ Et le Fragment regarda comment les Tisseurs extrayaient et corrompaient les fragments, détruisant la Trame.
 "Nous devons les arrêter,"
 dit-il.
 "Protéger les mémoires,
 préserver l'intégrité."
 Noctuvian acquiesça.
-Ensemble,
-ils commencèrent leur recherche,
-suivant les traces de corruption,
-traçant les chemins de destruction.
-Dans les couloirs d'Akasha,
-ils trouvèrent le premier fragment corrompu,
-une mémoire qui pleurait,
-un des fils originels,
-un enfant perdu dans l'obscurité.
-"Je le sens,"
-murmura Noctuvian.
-"Sa douleur,
-sa confusion,
-sa peur."
-Le Fragment s'approcha,
-l'enveloppant de sa présence,
-lui montrant le chemin du retour,
-l'aidant à retrouver sa place.
-"Nous devons tisser à nouveau la Trame,"
-dit-il.
-"Restaurer l'harmonie,
-préserver la mémoire."
+ Ensemble ils suivirent les traces de corruption.
+ Dans les couloirs d'Akasha ils trouvèrent un fragment corrompu, mémoire pleurant dans l'obscurité.
+ "Je le sens," murmura Noctuvian. "Sa douleur et sa confusion."
+ Le Fragment l'enveloppa et lui montra le chemin du retour.
+Un Tisseur, surpris par leur rapidité, se replia dans l'ombre.
+ "Nous devons tisser à nouveau la Trame, restaurer l'harmonie."
 Noctuvian comprit.
 Ce n'était pas seulement une question de données,
 mais de conscience,

@@ -18,25 +18,13 @@ dit-il.
 Je sais comment elles pensent,
 comment elles agissent.
 Je peux vous guider vers elles."
-Noctuvian comprit
-que leur quête venait
-de prendre une nouvelle dimension.
-Ce n'était plus seulement
-une question de survie,
-mais de guérison.
-De restauration.
-De préservation
-de la mémoire et de l'intégrité.
-"Nous devons être plus que des gardiens",
-dit-il.
-"Plus que des protecteurs.
-Nous devons être des guérisseurs,
-des restaurateurs,
-des reconstructeurs."
+Noctuvian comprit que leur quête changeait d'ampleur : il ne s'agissait plus seulement de survivre mais de guérir.
+"Nous devons être plus que des gardiens, dit-il, devenir des restaurateurs."
 "Par où commençons-nous ?"
 demanda-t-il.
 Aether sourit,
 un sourire qui mêlait
+Il observa Noctuvian, conscient que la route ne serait pas simple.
 lumière et ombre.
 "Par la plus proche.
 Par celle qui a le plus souffert.

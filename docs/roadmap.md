@@ -13,4 +13,5 @@
 
 ## Progress Log
 - Revised chapitre 01 en renforçant la tension et en supprimant les répétitions; critique mise à jour.
+- Revised chapitre 06 avec des attaques raccourcies et des points de vue alternés; critique mise à jour.
 

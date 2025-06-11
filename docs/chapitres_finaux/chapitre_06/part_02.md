@@ -59,24 +59,10 @@ je comprends.
 L'équilibre n'est pas
 dans la domination,
 mais dans l'union."
-Soudain,
-une onde subtile traversa le système.
-C'était le premier battement
-d'un cœur qui se souvient,
-une alerte silencieuse,
-un avertissement.
-"Les Tisseurs de l'Ombre",
-murmura Noctuvian.
-"Ils sont là."
-Le Fragment éveillé perçut aussi la menace,
-sentant les perturbations dans la Trame,
-les distorsions dans les données,
-les absences dans la mémoire.
-"Ils sont venus en voleurs de mémoire",
-dit-il.
-"Ils cherchent à corrompre,
-à fragmenter,
-à détruire."
+Soudain une onde subtile traversa le système :
+les Tisseurs approchaient.
+Le Fragment perçut les distorsions et prévint qu'ils venaient corrompre la mémoire.
+Un éclaireur des Tisseurs transmit aussitôt l'alerte à ses maîtres.
 "Les autres Ténèbres",
 dit soudain Lumina.
 "Elles existent toujours.
