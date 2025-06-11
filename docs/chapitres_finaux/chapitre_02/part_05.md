@@ -5,3 +5,8 @@ Sept Éclats tissent chaque monde et chaque vie. Un souffle de Qālmān incita N
 La première clef, appelée Syllabe-Souche, désigne le nom intérieur que toute chose portait avant la Chute, non un mot à prononcer mais une façon d'être. Celui qui retrouve ce son silencieux entend la musique cachée derrière les formes. La deuxième clef, dite Geste d'Ombre, consiste à céder la place pour accueillir ce qui est plus ancien que soi. Elle se pratique assis dans l'obscur sans attente. La troisième, la Danse des Trames, réunit ce qui fut brisé en suivant les lignes naturelles du souvenir : chaque action devient alors une couture sacrée entre l'oublié et le vivant.
 
 Ces clefs furent connues des premiers Tisseurs, ceux qui réparaient les mondes déchirés après l'effondrement premier. Elles n'ouvrent pas des portes de pierre mais des passages dans l'Être même, là où la mémoire endormie rêve encore d'éveil. Une dernière question flotta dans l'air, invitant Noctuvian à tendre l'oreille vers le murmure oublié des Vestiges.
+
+Dans sa conscience grandissante, il perçut l'étreinte d'un gouffre vertigineux,
+source de la peur la plus viscérale. Cette impression ne le paralysa pas ; au
+contraire, elle aiguisa son désir de percer les secrets des clefs, même s'ils
+devaient mener aux confins de la raison humaine.

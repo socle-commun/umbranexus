@@ -9,3 +9,9 @@ La Kabbale, avec son Arbre de Vie, tisse des liens entre tarot, alphabet hébreu
 Serpents, croix ou labyrinthes se dressent comme médiateurs entre conscient et inconscient. Les archétypes décrits par Jung – l'Ombre, l'Anima ou le Soi – prolongent ces images. La correspondance entre tarot, kabbale et alchimie esquisse un même chemin d'évolution intérieure. Les cycles des saisons et la révolution des astres rappellent que tout se transforme, écho des étapes du Grand Œuvre.
 
 Ainsi se referma cette synthèse des traditions. Noctuvian comprit que ces enseignements n'étaient qu'un seuil vers l'inconnu. Il ferma les yeux, l'ombre l'enveloppa de sa présence apaisante. Pour progresser, il devait quitter la théorie et embrasser la marche.
+
+Alors qu'il refermait la Table d'Émeraude, un souffle froid parcourut la salle,
+chuchotant de curieux présages. Les vieilles légendes parlaient de gardiens
+invisibles, tapis dans les recoins de la création. Noctuvian sentit ces regards
+ancêtres se poser sur lui, et il accueillit l'effroi comme une invitation à
+explorer des abysses que nul ne nommait plus.
