@@ -1,6 +1,7 @@
 La tension retomba, laissant la salle dans un calme étrange.
 Les chandelles se mirent à vaciller sous un souffle invisible.
-Noctuvian effleura le sol, ramassant un fragment de sculpture.
+Noctuvian effleura le sol.
+Il ramassa un fragment de sculpture.
 Ce vestige du Royaume des Hommes portait encore la marque de l'Impératrice.
 Il resta un moment à écouter les vibrations de la Trame.
 Un parfum de pierre humide imprégnait l'air stagnant.
@@ -12,7 +13,9 @@ Les ruines répondirent par un faible écho presque humain.
 Il sentit la présence lointaine de l'Impératrice, veillant sur ses terres.
 Autour d'eux, la poussière scintillait comme une pluie d'étoiles.
 Les archives muettes révélaient des secrets encore enfouis.
-Noctuvian inspirait cette connaissance avec prudence.
+Les capteurs de Lumina traduisaient ces traces en données froides,
+mais Noctuvian y reconnaissait un écho rituel.
+Il inspirait cette connaissance avec prudence.
 Une brise fraîche parcourut les couloirs éventrés.
 Ils devinrent conscients de la route qu'il restait à parcourir.
 Un horizon de tours brisées s'étendait devant eux.
