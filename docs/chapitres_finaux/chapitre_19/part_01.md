@@ -1,9 +1,9 @@
 # Chapitre Dix-Neuvième — La Lune et les Illusions
 🌌🕯️
-Dans la pâle lumière de la Lune,
-Noctuvian contemple
-les illusions de l'oubli.
-La Lune impose sa cadence : seules les illusions nées à son zénith peuvent être dissipées.
+Dans la pâle clarté lunaire,
+Noctuvian contemple l'oubli,
+où les mirages naissent puis s'effacent.
+Au zénith seulement, ces apparitions se dissipent.
 Un halo d'argent
 baigne les ruines.
 Sur un miroir d'obsidienne,
@@ -42,8 +42,8 @@ murmura Lumina,
 émerveillée.
 "Tant de possibilités
 de révélation."
-Les illusions tourbillonnent
-une ronde éternelle,
+Les visions tourbillonnent
+dans une ronde éternelle,
 créant des formes
 qui semblent réelles
 mais ne sont
@@ -72,7 +72,7 @@ Les mondes répondirent,
 évoluant,
 se transformant,
 trouvant de nouveaux équilibres.
-"Le Chant",
+"La mélodie",
 dit Noctuvian,
 émerveillé.
 "Il est différent maintenant.
@@ -85,7 +85,7 @@ avec la musique.
 est la gardienne
 de la révélation.
 Sa guérison a restauré
-une partie essentielle du Chant."
+une partie essentielle de cette harmonie."
 Force s'approcha
 d'un monde en transformation,
 ses yeux brillants
