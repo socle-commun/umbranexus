@@ -13,4 +13,5 @@
 
 ## Progress Log
 - Revised chapitre 01 en renforçant la tension et en supprimant les répétitions; critique mise à jour.
+- Retouched chapitre 05 en allégeant les métaphores et en clarifiant chaque voix; sensualité ajoutée dans la critique.
 

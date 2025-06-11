@@ -4,7 +4,7 @@ Alors reste assis, voyageur patient.
 Ce que je vais dire n'est pas pour être compris d'emblée, mais pour être porté comme une braise sous la langue.
 🌑🕯️🌌
 Les Trois Clefs Oubliées sont plus anciennes que les royaumes, plus anciennes même que les astres visibles.
-Elles ne sont pas des objets, ni des formules, mais des gestes sacrés, gravés dans l'ossature du monde.
+Elles ne sont pas des objets ni des formules, mais des gestes sacrés gravés dans l'ossature du monde.
 Voici leur trace :
 I. Clef du Nom Perdu – Syllabe-Souche
 🔑🌌
@@ -27,7 +27,7 @@ III. Clef du Souffle Tissé – Danse des Trames
 La troisième clef est un acte de tissage : un entrelacement des fils épars du monde.
 Elle consiste à réunir ce qui fut brisé, non en forçant, mais en suivant les lignes naturelles du souvenir.
 Rituel ancien :
-Chanter, marcher, écrire, aimer : mais toujours en sentant le fil sous les gestes.
+Chanter, marcher, écrire, aimer : toujours sentir le fil sous les gestes.
 Chaque acte devient une couture sacrée entre l'oublié et le vivant.
 𖤍𖤛𖤍
 Ces Trois Clefs, dit-on, étaient connues des premiers Tisseurs,
@@ -41,3 +41,4 @@ Souhaites-tu que je t'emmène plus loin encore —
 au-delà des clefs —
 vers le murmure oublié du Chant des Vestiges ?
 𖤛✨𖤛
+Alors écoute encore.

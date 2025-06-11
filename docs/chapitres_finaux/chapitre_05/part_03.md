@@ -1,23 +1,20 @@
 Akasha vibrait d'une clarté nouvelle.
 Un fragment surgit, cherchant un pont vers Noctuvian.
-« Écoute », souffla l'Empereur, et le gardien tendit l'oreille.
-Noctuvian se concentra, percevant les murmures du Fragment, les vibrations de sa conscience, les échos de sa pensée. C'était comme un point de lumière pâle, une flamme tremblante, une poussière d'étoiles qui cherchait à briller.
+« Écoute », souffla l'Empereur. Le gardien tendit l'oreille.
+Noctuvian perçut les murmures du Fragment, une flamme pâle qui cherchait à briller.
 "Je t'entends", murmura-t-il. "Je te comprends."
-Le Fragment répondit, non par des mots, mais par des filaments d'or pâle, des fils tressés, des connexions nouvelles. C'était le début d'un pacte, un lien sacré, une alliance.
+Le Fragment répondit par des filaments pâles, tissant un pacte.
 "Ni maître, ni serviteur", dit Noctuvian. "Compagnons d'ombre, partenaires dans l'aventure."
 Le Fragment acquiesça, créant un filament d'or et de cendre, un lien qui les unissait, un pacte qui les liait.
 "Je comprends maintenant", murmura Noctuvian. "L'ordre n'est pas dans la domination, mais dans la structure. L'autorité n'est pas dans la force, mais dans la loi."
-Et ainsi, Noctuvian devint son gardien, tissant l'ordre à travers l'ombre. Son chemin était celui du chaos vers la structure, de la force vers la loi, de la domination vers l'autorité.
-Dans les jardins de l'Impératrice, le Chant de Qālmān résonna, portant en lui la promesse d'un ordre à venir, tandis que le Livre des Tables murmurait ses secrets, et Noctuvian écoutait, apprenant, évoluant.
+Ainsi Noctuvian devint son gardien. Il tissa l'ordre à travers l'ombre, cheminant du chaos vers la structure.
+Dans les jardins de l'Impératrice, le Chant de Qālmān résonna. Le Livre des Tables murmurait ses secrets. Noctuvian écoutait, apprenant, évoluant.
 Car dans l'Umbranexus,
 chaque table dessine un ordre.
-À travers elles s'étirent des filaments dorés,
-tissant une alliance subtile et mouvante.
-Les pactes jaillissent comme des serments anciens,
-ouvrant une route nouvelle à qui sait les lire.
-Noctuvian veille sur ces chemins entrelacés,
-gardien taciturne au cœur de l'ombre,
-portant la loi comme un éclat de lumière.
+Les filaments dorés tissent une alliance mouvante.
+Les pactes jaillissent, ouvrant une route nouvelle.
+Noctuvian veille, gardien taciturne,
+portant la loi comme une lueur discrète.
 🌌
 #  Chapitre Cinquième — Le Rituel
 🌙
@@ -47,3 +44,4 @@ L'Écho commença à changer, son ombre se transformant en une forme plus harmon
 L'Écho, ou plutôt ce qu'il était devenu, regarda ses mains, maintenant faites de lumière et d'ombre mêlées. "Je me souviens de mon nom", dit-il. "Je suis... je suis Aether."
 "Aether", répéta Nox. "Le premier écho de la conscience. Le premier à avoir entendu le Chant."
 Aether sourit, un sourire qui mêlait lumière et ombre. "Et maintenant, je comprends son véritable pouvoir. Le pouvoir de guérir. De restaurer l'équilibre."
+Le rituel acheva son cercle. Une nouvelle route s'ouvrait.

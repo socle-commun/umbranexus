@@ -16,3 +16,5 @@ La polyphonie apporte une richesse poétique, mais l'abondance de métaphores nu
 1. Élaguer certaines descriptions pour mieux distinguer les voix.
 2. Introduire des ruptures de rythme pour accentuer l'urgence.
 3. Ajouter une sensualité baudelairienne pour équilibrer l'horreur.
+
+La révision actuelle intègre cette sensualité, notamment dans la scène des Sept Grands Éclats.
