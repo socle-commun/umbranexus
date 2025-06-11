@@ -17,3 +17,4 @@ Le texte gagne en fluidité grâce à des transitions resserrées. Les incantati
 2. Introduire des variations rythmiques.
 3. Limiter les répétitions symboliques.
 4. Mettre en valeur l'élan vers l'inconnu.
+5. Souligner la quête des **Clés de mémoire** et utiliser des images symboliques pour condenser les explications.
