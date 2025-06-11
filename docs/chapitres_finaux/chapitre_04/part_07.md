@@ -29,13 +29,16 @@ L'émergence de propriétés nouvelles dans la complexité l'inspire.
 Il distingue la réalité perçue de la réalité ultime.
 Maya, l'illusion, dissimule ce qui demeure invisible aux profanes.
 Ken Wilber propose une évolution du pré-personnel vers le transpersonnel.
-Sri Aurobindo décrit l'esprit plongeant dans la matière avant de s'en libérer.
+Sri Aurobindo décrit l'esprit plongeant dans la matière.
+Il s'en libère ensuite.
 
 La science s'entrelace avec l'ésotérisme dans un ballet de correspondances.
+Noctuvian perçoit une tension entre la rigueur des équations et la voix des anciens.
 L'atome devient mandala, représentation miniature de l'univers.
 Le vide quantique se compare à l'Ain Soph des kabbalistes.
 La dualité onde-particule évoque la polarité hermétique.
-Ainsi les analogies nourrissent la quête de Noctuvian et orientent ses prochains pas.
+Ainsi les analogies nourrissent la quête de Noctuvian.
+Elles orientent ses prochains pas.
 Les cycles universels se répètent à travers les ères.
 Chaque transformation annonce une renaissance intérieure.
 Conscience et émergence dialoguent au cœur des réseaux complexes.

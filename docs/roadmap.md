@@ -6,12 +6,3 @@
 
 ## Mid-term goals
 - Add modules to automate content generation.
-- Prepare a release candidate compiling all chapters.
-
-## Long-term goals
-- Ensure the compiled manuscript surpasses **300 pages** in length.
-
-## Progress Log
-- Revised chapitre 01 en renforçant la tension et en supprimant les répétitions; critique mise à jour.
-- Révision du chapitre 18 : partie 3 réécrite avec moins de symboles stellaires et un rythme plus vif; critique ajustée.
-
