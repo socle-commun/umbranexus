@@ -59,3 +59,6 @@ Il dévoile Désir comme reflet à la fois séduisant et créateur.
 Toute quête de savoir s'alimente de passion et de prudence.
 La reconnaissance d'Élan rétablit l'équilibre perdu.
 Le groupe se prépare ainsi à affronter les épreuves suivantes avec une compréhension nouvelle de ses motivations intimes.
+### Transformation finale
+- La métamorphose de Désir en Élan confirme que la création peut équilibrer passion et sagesse.
+- Cette résolution ouvre la voie vers la réconciliation des Ténèbres restantes.

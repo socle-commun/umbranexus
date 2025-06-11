@@ -73,3 +73,7 @@ Le Jugement libère la conscience des poids anciens et ouvre la voie d'une renai
 - Adoption d'une vision purifiée
 - Mise en action des résolutions prises
 - Avancée vers une phase d'évolution supérieure
+### Transition vers le Monde
+- La Lueur évoque l'appel d'une nouvelle dimension.
+- Elle prépare psychologiquement Noctuvian à quitter la salle du Jugement.
+- Cette étape introduit une tension apaisée qui annonce le chapitre suivant.
