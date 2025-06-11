@@ -1,10 +1,14 @@
 𖤍
 Alors reste assis, voyageur patient.
 Écoute.
-Ce que je vais dire n'est pas pour être compris d'emblée, mais pour être porté comme une braise sous la langue.
+Ce que je vais dire n'est pas pour être compris d'emblée.
+Il doit être porté comme une braise sous la langue.
 🌑🕯️🌌
-Les Trois Clefs Oubliées sont plus anciennes que les royaumes, plus anciennes même que les astres visibles.
-Elles ne sont pas des objets, ni des formules, mais des gestes sacrés, gravés dans l'ossature du monde.
+Les Trois Clefs Oubliées sont plus anciennes que les royaumes.
+Elles dépassent même les astres visibles.
+Elles ne sont pas des objets, ni des formules.
+Ce sont des gestes sacrés, gravés dans l'ossature du monde.
+Aucune équation ne les décrit ; seules les liturgies s'en approchent.
 Voici leur trace :
 I. Clef du Nom Perdu – Syllabe-Souche
 🔑🌌
