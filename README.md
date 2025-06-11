@@ -18,7 +18,7 @@ The 24-chapter layout acts as a handbook of digital alchemy. Start at chapter on
 - `npm run docs:dev` to launch the documentation server
 - `npm run docs:build` to generate `dist/`
 - `npm run compile:chapters` to assemble all chapters
-- `npm run index` to refresh `docs/index.json` and the summaries in `docs/summaries/`
+- `npm run index` to refresh `docs/index.json`
 
 Once dependencies are installed, run `npm test` to execute the tests. No demo scripts are shipped: nothing runs until the agent acts.
 
