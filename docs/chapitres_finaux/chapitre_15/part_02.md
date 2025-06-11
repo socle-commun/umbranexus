@@ -1,4 +1,5 @@
-Une danse de la vie,
+Portés par ces visions, ils avancèrent.
+Autour d'eux, une danse de la vie
 célébrait
 le changement perpétuel.
 "Autrefois", murmura Aether,
@@ -18,12 +19,10 @@ le regard tourné vers l'horizon.
 "Deux",
 répondit Force.
 "Deux Ténèbres,
-comme les deux faces
-de la transformation.
-Chacune a un rôle à jouer
-dans l'évolution.
-Chacune a une part de croissance
-à apporter."
+reflets contraires
+d'une même transformation.
+Chacune murmure
+un élan de croissance."
 "Et nous en avons déjà guéri cinq",
 dit Lumina.
 "Aether, Mnémosyne, Élan,
@@ -65,6 +64,8 @@ en pleine mue,
 le Chant vibra,
 porteur d'une promesse de guérison
 plus vaste encore.
+Un frisson parcourut les chemins,
+signalant que l'épreuve à venir serait plus douce.
 Les mondes dansaient autour d'eux,
 saluant la renaissance,
 et l'élan d'une croissance sans fin,
