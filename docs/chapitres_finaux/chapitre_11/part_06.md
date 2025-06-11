@@ -1,8 +1,6 @@
 **Principes hermétiques**
-Tout vibre, tout est double,
-chaque cause engendre son effet.
-Le Grand Œuvre suit quatre étapes :
+Tout vibre, tout se reflète.
+Le Grand Œuvre suit quatre temps :
 Nigredo, Albedo, Citrinitas, Rubedo.
-Ces symboles rappellent
-que la transformation intérieure
-s'accorde au rythme du monde.
+Ces étapes rappellent que l'alchimie intérieure
+répond au rythme du monde.

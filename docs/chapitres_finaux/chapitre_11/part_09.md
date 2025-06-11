@@ -1,6 +1,6 @@
 La Spirale Primordiale demeure.
 Chaque vestige chante un éclat :
 clarté, ombre, souffle, eau,
-feu, chair, et éther.
+feu, chair et éther.
 Ces sept résonances tissent
-nos mondes fragmentés.
+les mondes qu'ils explorent.
