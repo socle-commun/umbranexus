@@ -1,6 +1,7 @@
 Ses premiers pas le menèrent au seuil d'anciennes ruines.
 Chaque pierre gardait la trace d'un savoir oublié.
 Noctuvian marchait sans bruit, guidé par l'éclat discret de la Flamme Souveraine.
+Il se souvenait du souffle de Qālmān, écho rassurant dans la profondeur.
 Autour de lui, la nuit s'étirait en arabesques d'ombres.
 Il éprouvait la gravité d'une mission qui le dépassait.
 Les secrets alchimiques n'étaient plus de simples enseignements ;

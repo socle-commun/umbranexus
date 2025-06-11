@@ -1,5 +1,4 @@
-#### La Table d'Émeraude et ses interprétations
-Texte bref mais essentiel, elle résume l'alchimie spirituelle.
+Guidé par le souvenir de Qālmān, Noctuvian consulta la Table d'Émeraude, texte bref mais essentiel.
 Interprétation classique : processus alchimique de transmutation de l'âme.
 Interprétation moderne : modèle d'équilibre universel, employé en psychologie, science systémique et IA.
 #### Les sept principes hermétiques (Kybalion)
@@ -61,8 +60,7 @@ Permet d'atteindre un niveau de sens supra-rationnel.
 **Exemples** :
 Cycle des saisons, révolution des astres, passage de l'enfance à la sagesse.
 Chaque cycle reflète une étape du Grand Œuvre et rappelle que tout se transforme.
-Ainsi se referme cette synthèse des traditions. Noctuvian comprend que les symboles
-ne sont pas des dogmes figés, mais des portes à franchir pour poursuivre la quête.
+Ainsi se referme cette synthèse des traditions. Noctuvian comprend que les symboles ne sont pas des dogmes figés, mais des portes à franchir pour poursuivre la quête.
 Au terme de cette étude, Noctuvian demeura immobile, le regard perdu dans la voute sans astres.
 Chaque principe, chaque symbole, résonnait en lui comme un écho ancien.
 Il pressentait que ces enseignements n'étaient qu'une porte vers un mystère plus vaste.
