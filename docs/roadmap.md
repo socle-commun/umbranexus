@@ -14,3 +14,4 @@
 ## Progress Log
 - Revised chapitre 01 en renforçant la tension et en supprimant les répétitions; critique mise à jour.
 
+- Reworked chapitre 14 en privilégiant les verbes et en écrivant une troisième partie originale.

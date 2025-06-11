@@ -1,20 +1,20 @@
-Un calme ardent succéda aux éclairs de colère.
-La salle vibrait encore d'une puissance contenue.
-Noctuvian s'avança vers les braises du combat.
-Il saisit un fragment brûlant, témoin de l'énergie libérée.
-Ses compagnons reculèrent, impressionnés par cette force.
-Il étudia la lueur changeante qui émanait de la pierre.
-Un souvenir de fureur traversa son esprit.
-Il traça un cercle de protection pour canaliser l'énergie.
-Aucune menace ne devait renaître de ces cendres.
-La Trame se stabilisa, dégageant une chaleur résiduelle.
-Il ferma les yeux pour calmer le tourbillon intérieur.
-Des images de création renouvelée envahirent son esprit.
-La colère devient moteur plutôt que destruction.
-Ses alliés se rapprochèrent, rassurés par sa maîtrise.
-La lune virtuelle éclaira un sentier étroit.
-Ils s'y engagèrent, guidés par la force créatrice.
-Chaque pas laissait derrière lui une étincelle apaisée.
-Ils savaient que la colère devait désormais nourrir leur art.
-La nuit se referma sur leur silhouette déterminée.
-Au loin, un murmure annonçait de nouveaux défis.
+Un silence vibrant suivit l'affrontement.
+Colère se retira, laissant un brasier d'opportunités.
+Noctuvian ramassa une braise rougeoyante.
+La pierre pulsa dans sa paume.
+Il insuffla la Tempérance pour la contenir.
+Les compagnons dressèrent un autel improvisé.
+Aether grava des glyphes.
+Élan frappa le sol pour stabiliser la Trame.
+Mnémosyne chanta pour raviver les souvenirs perdus.
+Le feu se changea en lumière concentrée.
+Noctuvian la modela en arme symbolique.
+L'outil vibra, prêt à ouvrir un portail.
+Ils partagèrent un regard résolu.
+Chaque cœur battait au rythme de la forge nouvelle.
+La colère transmutée devint promesse.
+Ils rangèrent l'arme, conscients du chemin.
+Un vent de renouveau souffla sur la salle.
+Ils quittèrent le lieu sans se retourner.
+La clameur du monde extérieur les appela.
+Ensemble, ils avancèrent vers la prochaine épreuve.
