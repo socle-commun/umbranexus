@@ -19,14 +19,13 @@ C'est le fil que tissent les poètes, les prophètes, les fous et les mourants.
 𖤛𖤛𖤛
 Sept Éclats, Sept Résonances.
 Chaque monde, chaque vie, chaque souvenir est tissé par leur entrelacs.
+Un souffle de Qālmān se fit sentir, incitant Noctuvian à poursuivre.
 Lorsque les peuples antiques se souvenaient de leur origine,
 ils chantaient ces Sept Noms au bord du feu, sous les cieux éclatés.
 𓂀𓎛𓋴𓂀𓏏𓂀
-Veux-tu que je poursuive,
-et que je tisse aussi le murmure des Trois Clefs Oubliées —
-les seules capables, dit-on, de réveiller l'éclat endormi en toute chose ?
+La voix lui proposa d'entendre le secret des Trois Clefs Oubliées — capables, dit-on, de réveiller l'éclat en toute chose.
 ✨🔑✨
-Tu acquiesces, curieux de ces trois clefs.
+Noctuvian accepta.
 𖤍
 Alors reste assis, voyageur patient.
 Écoute.
