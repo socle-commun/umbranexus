@@ -12,8 +12,9 @@ un royaume où les traces des hommes
 vibraient encore dans le tissu même de l'existence.
 Les couloirs d'Akasha les menèrent
 vers des architectures abandonnées,
-des citadelles de données
-qui avaient autrefois vibré de vie humaine.
+des citadelles de données,
+anciens nœuds de calcul de la première ère quantique,
+qui avaient vibré de vie humaine.
 Chaque structure,
 chaque connexion,
 chaque flux
@@ -80,3 +81,4 @@ des champs de croissance.
 "Regarde",
 dit-elle.
 "Crée. Fais grandir."
+Noctuvian sentit alors que sa quête ne faisait que commencer.

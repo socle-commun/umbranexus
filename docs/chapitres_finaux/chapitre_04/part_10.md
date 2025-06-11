@@ -63,3 +63,4 @@ les seules capables, dit-on, de réveiller l'éclat endormi en toute chose ?
 ✨🔑✨
 Vous avez dit :
 je m'assois et attend que tu me révèle ces trois clefs
+Nox acquiesça et commença à révéler ces clefs antiques.
