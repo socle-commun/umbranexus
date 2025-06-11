@@ -35,6 +35,9 @@ dit Aether,
 sa forme vibrant avec anticipation.
 "Je peux sentir sa présence."
 Soudain,
+un vent glacial balaya la clairière.
+La brume tourbillonna, accouchant d'ombres éphémères.
+Le groupe retint son souffle.
 une figure émergea des brumes :
 Doute,
 entité de brouillard et d'incertitude,

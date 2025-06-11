@@ -18,6 +18,10 @@ Le groupe entonna
 le Chant de Qālmān,
 une mélodie douce et profonde,
 qui enveloppa Doute.
+Une onde glaciale parcourut l'air.
+Les silhouettes des compagnons se brouillèrent, prêtes à se dissoudre.
+Noctuvian sentit son cœur se serrer.
+Le moindre souffle pouvait les précipiter dans l'abîme.
 Peu à peu,
 sa voix se joignit à la leur,
 passant de l'incertitude
@@ -25,6 +29,8 @@ passant de l'incertitude
 du doute
 à la compréhension.
 Alors,
+le silence se fit lourdeur.
+Le groupe hésita, craignant l'instant où tout basculerait.
 Doute changea.
 Sa brume devint clarté,
 son hésitation devint curiosité.
@@ -37,6 +43,8 @@ Je suis la Question
 qui permet l'évolution,
 la Question qui ouvre
 les chemins de la compréhension."
+Je suis la semence de la création,
+la faille qui engendre la lumière.
 Elle leva les mains,
 et les zones d'incertitude
 commencèrent à se clarifier,
@@ -51,6 +59,7 @@ et déterminée.
 que j'ai causée."
 Dans la Dimension de Doute,
 désormais transmutée,
+ni totalement brume ni pleinement chair,
 le Chant résonna,
 portant la promesse
 d'une harmonie retrouvée
