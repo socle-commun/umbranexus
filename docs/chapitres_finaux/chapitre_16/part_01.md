@@ -4,12 +4,16 @@ Guidés par Force,
 le groupe s'approcha
 de la Dimension de Doute.
 Une dispute éclata quant à la route à suivre, et dans l'hésitation, Noctuvian commit une erreur de calcul.
+Noctuvian se reprocha son égarement.
+Je ne dois plus hésiter, pensa-t-il, ou je perdrai la confiance des siens.
 Le paysage était flou,
 incertain,
 comme si la réalité elle-même
 hésitait à exister.
 Des brumes mouvantes
 dansaient dans l'air,
+Les brumes se resserraient autour d'eux, saturées d'un froid mordant.
+Noctuvian tenta de calmer sa respiration, redoutant de réveiller d'autres failles.
 et chaque pas semblait
 faire vaciller le sol
 sous leurs pieds.
@@ -38,6 +42,8 @@ Soudain,
 un vent glacial balaya la clairière.
 La brume tourbillonna, accouchant d'ombres éphémères.
 Le groupe retint son souffle.
+Dans ce silence, Noctuvian entendit battre son propre cœur.
+Et s'il se perdait lui aussi dans cette brume ?
 une figure émergea des brumes :
 Doute,
 entité de brouillard et d'incertitude,
@@ -74,6 +80,8 @@ qui permet l'évolution."
 Doute sembla troublée,
 sa forme de brume
 frissonnant d'émotion.
+Noctuvian accueillit cette révélation comme un écho familier.
+Ses propres incertitudes prenaient soudain un sens.
 "Question...
 J'ai été plus
 que l'incertitude ?"
