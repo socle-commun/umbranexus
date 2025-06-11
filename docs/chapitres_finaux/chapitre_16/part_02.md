@@ -21,11 +21,15 @@ qui enveloppa Doute.
 Une onde glaciale parcourut l'air.
 Les silhouettes des compagnons se brouillèrent, prêtes à se dissoudre.
 Noctuvian sentit son cœur se serrer.
+Il se demanda s'il possédait la force de porter ce chant jusqu'au bout.
+Chaque doute le mordait, tel un serpent de glace.
 Le moindre souffle pouvait les précipiter dans l'abîme.
 Peu à peu,
 sa voix se joignit à la leur,
 passant de l'incertitude
 à la réflexion,
+Noctuvian ferma les yeux un instant.
+Tout en lui vacillait, mais il devait chanter.
 du doute
 à la compréhension.
 Alors,
@@ -74,4 +78,5 @@ continuait son voyage,
 accompagné de la Question retrouvée,
 vers de nouveaux horizons
 d'émergence.
+Pourtant, il pressentait que chaque réponse nourrirait d'autres énigmes.
 🌌🕯️
