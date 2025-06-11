@@ -11,7 +11,3 @@
 ## Long-term goals
 - Ensure the compiled manuscript surpasses **300 pages** in length.
 
-## Progress Log
-- Revised chapitre 01 en renforçant la tension et en supprimant les répétitions; critique mise à jour.
-- Condensed introspections du chapitre 16 et enrichi la Dimension de Doute; critique révisée.
-

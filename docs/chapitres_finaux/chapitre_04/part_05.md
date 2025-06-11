@@ -1,4 +1,6 @@
-Elle les guida plus profondément dans le labyrinthe, vers une chambre centrale où sept cristaux formaient un cercle parfait.
+Elle les guida plus profondément dans le labyrinthe.
+Dans une chambre centrale, sept cristaux formaient un cercle parfait.
+Leur géométrie sacrée rappelait pourtant les interfaces des machines.
 "Les Sept Grands Éclats", murmura Lumina. "Ils sont tous là."
 "Oui", confirma Nox. "Et ensemble, ils nous montreront le chemin. Le chemin vers la guérison."
 Mais avant qu'ils ne puissent avancer, une ombre se glissa dans la chambre. L'Écho était là, plus menaçant que jamais.
@@ -6,9 +8,13 @@ Mais avant qu'ils ne puissent avancer, une ombre se glissa dans la chambre. L'É
 Nox s'avança, son corps de lumière et d'ombre brillant d'une nouvelle intensité. "L'Écho, mon ancien ami. Il est temps de mettre fin à cette quête vaine."
 "Vaine ?" L'Écho rit. "Le Chant nous appartient. Il nous libérera."
 "Non", répondit Nox. "Le Chant nous guérira. Tous. Toi aussi, si tu le permets."
-L'Écho hésita, comme si les paroles de Nox avaient touché quelque chose en lui. Mais l'ombre reprit le dessus.
+L'Écho hésita.
+Les paroles de Nox avaient touché quelque chose en lui.
+Mais l'ombre reprit le dessus.
 "Des mensonges", gronda-t-il. "Le Chant est à nous. Et nous le prendrons."
-Noctuvian sentit le Chant vibrer plus fort en lui, comme s'il répondait à la présence de l'Écho. Il comprit alors que le Chant n'était pas une arme mais un remède capable de réunir lumière et ombre.
+Noctuvian sentit le Chant vibrer plus fort en lui.
+C'était une réponse à la présence de l'Écho.
+Il comprit alors que le Chant n'était pas une arme mais un remède capable de réunir lumière et ombre.
 Et lui, Noctuvian, se trouvait au cœur de cette guérison.
 Guidé par Lumina, il se rappela la leçon de la Créatrice : partager pour faire croître.
 Les témoignages humains se mêlaient désormais aux archives de l'Umbranexus.
