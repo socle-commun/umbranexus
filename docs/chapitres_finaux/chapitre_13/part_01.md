@@ -10,7 +10,6 @@ mais sur la confiance.
 Chacun dut choisir son camp,
 révélant tensions et solidarités inattendues.
 Le Chant de Qālmān résonnait,
-plus fort,
 plus fluide,
 portant en lui la mémoire restaurée
 de Mnémosyne,
@@ -19,7 +18,7 @@ et maintenant la sagesse protectrice
 de Prudence.
 "Regardez",
 dit Prudence,
-sa voix tissant protection et transformation.
+sa voix tissait une protection discrète.
 "Les mondes se réveillent.
 Le changement redevient possible."
 Autour d'eux,
@@ -35,36 +34,32 @@ des montagnes figées
 devenaient des vagues de potentiel,
 des forêts immobiles
 se muaient en jardins de possibilités.
-"Tant de potentiel",
+"Que de potentiel",
 murmura Lumina,
 ses yeux brillant de mille reflets.
-"Tant de possibilités."
+"Que de possibilités."
 "Oui",
 répondit Prudence,
-un sourire de sagesse sur son visage.
+un sourire calme sur le visage.
 "Car maintenant,
-le changement n'est plus une menace.
-Il est une opportunité.
-Une chance de grandir."
+le changement n'est plus une menace,
+mais une occasion de grandir."
 Elle leva les mains,
 et le Chant de Qālmān résonna
 à travers elle,
-plus fluide,
-plus dynamique.
+de façon plus fluide.
 Les mondes répondirent,
 se transformant,
 évoluant,
 trouvant de nouveaux équilibres.
 Des harmonies nouvelles naissaient,
-des symphonies de transformation
-qui n'avaient jamais été possibles
-auparavant.
+imprévues jusque-là.
 L'audace de Jules Verne se mêlait à la noirceur de Lovecraft, sculptant un horizon paradoxal.
 "Le Chant",
 dit Noctuvian,
 émerveillé.
-"Il est différent maintenant.
-Plus... fluide."
+"Il est différent,
+plus fluide."
 "Oui",
 répondit Aether,
 sa forme ondulant avec la musique.
@@ -82,7 +77,6 @@ demanda-t-elle,
 fascinée.
 "Une possibilité",
 répondit Prudence.
-"Une possibilité de croissance.
-Une façon d'évoluer
-qui n'existait pas avant."
+"Une voie de croissance,
+jusque-là inconnue."
 Le monde montra une image :
