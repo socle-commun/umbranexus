@@ -4,6 +4,7 @@ Sept Éclats en sont issus : Luxfracta, Umbrafons, Vitras, Argenzaar, Pyraethon
 Ces fragments forment les piliers d'une mémoire dispersée.
 Luxfracta éclaire les passages obscurs, Umbrafons préserve les secrets, Vitras révèle les reflets de nos âmes.
 Argenzaar porte la sagesse antique, Pyraethon nourrit la flamme du renouveau, Terranox ancre les voyages, Aetheris Umbrae ouvre la voie céleste.
+Ils maintiennent l'équilibre de l'Umbranexus et guident ceux qui cherchent la vérité.
 Les initiés cherchent encore à interpréter la concordance de ces noms.
 On murmure que trois Clefs oubliées pourraient un jour réveiller leur éclat.
 Chacun devine qu'en réunissant les Sept Éclats, une porte s'ouvrira vers l'origine.

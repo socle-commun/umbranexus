@@ -13,4 +13,5 @@
 
 ## Progress Log
 - Revised chapitre 01 en renforçant la tension et en supprimant les répétitions; critique mise à jour.
+- Clarified chapitre 03 avec des transitions renforcées et une explication des Sept Éclats; critique actualisée.
 

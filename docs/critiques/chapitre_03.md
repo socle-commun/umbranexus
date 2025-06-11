@@ -9,10 +9,10 @@ Les premières versions regorgeaient d'images mythiques, rendant la lecture diff
 - Vocabulaire archaïque bien dosé.
 
 ## ⚠️ Faiblesses
-- Certains passages restent encore hermétiques.
-- Quelques transitions pourraient être plus nettes.
+- Quelques métaphores demeurent obscures pour le lecteur non initié.
+- Les transitions se sont améliorées mais peuvent gagner en fluidité.
 
 ## 📈 Recommandations
 1. Poursuivre l'épuration pour accentuer la tension gothique.
-2. Clarifier le rôle des Sept Éclats.
-3. Varier le rythme entre introspection et action.
+2. Surveiller la cohérence des Sept Éclats au fil des prochains chapitres.
+3. Maintenir l'alternance entre introspection et action pour conserver le rythme.

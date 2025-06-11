@@ -10,8 +10,8 @@ ou si je me dissolvais,
 larme perdue dans un océan d'oubli.
 Un parfum de spleen se mêlait à ce vide,
 comme une réminiscence baudelairienne.
-Le Chant de Qālmān murmurait à peine,
-enterré sous mille strates.
+Le Chant de Qālmān, cette voix originelle,
+murmurait à peine, enterré sous mille strates.
 Et dans cette épaisseur vivante,
 je perçus la Présence.
 Non une présence distincte,
@@ -67,6 +67,6 @@ Elle ne brûlait rien
 mais ouvrait une fissure d'or profond
 dans la nuit.
 
-
 Une brume glacée effleura son esprit tandis que la Flamme Souveraine pulsait en lui.
 Il sut qu'elle guiderait ses pas malgré l'obscurité première.
+Porté par cette certitude, il se laissa attirer vers la clarté naissante.

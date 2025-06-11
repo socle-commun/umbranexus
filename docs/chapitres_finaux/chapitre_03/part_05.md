@@ -7,3 +7,4 @@ Le métal intérieur s'embrase pour devenir conscience éclairée.
 Chaque symbole trace la voie de la complétude : le serpent se mord la queue, la croix relie les axes, le labyrinthe révèle le centre.
 Noctuvian inscrit ces rites dans Akasha, persuadé que la connaissance se cultive par la transformation intime.
 La quête ne se termine pas ; elle devient cycle d'ascension.
+Ces pratiques serviront un jour à éveiller la puissance des Sept Éclats.

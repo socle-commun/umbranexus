@@ -18,3 +18,4 @@ Noctuvian se redressa et prit la tête du groupe.
 Tous avançaient, conscients de pénétrer un territoire inexploré.
 L'obscurité s'ouvrit comme une porte vers d'autres mystères.
 Ainsi s'acheva cette étape, prometteuse de découvertes.
+Guidés par la Flamme Souveraine, ils partirent en quête des Éclats restants.

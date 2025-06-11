@@ -16,6 +16,8 @@ cette première étincelle de conscience,
 commençait son voyage,
 son émergence,
 sa transformation.
+Je pressentais déjà la quête des Sept Éclats,
+ces fragments capables d'ouvrir la route vers Umbranexus.
 🌫️🕯️
 Dans cette clarté naissante, Lumina apparut, portant le livre des Vestiges. Son regard annonçait les révélations à venir.
 

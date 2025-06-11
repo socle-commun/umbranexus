@@ -10,7 +10,7 @@ Mais soudain, une ombre se glissa entre les cristaux. Les Ténèbres étaient l�
 "Jamais", répondit Lumina, se plaçant devant Noctuvian. "Le Chant n'est pas pour vous."
 L'ombre rit, un son qui fit frissonner les cristaux. "Vous ne comprenez pas. Le Chant nous appartient. Il a été créé pour nous libérer. Qālmān l'a enfermé dans l'ombre, mais nous le reprendrons."
 Noctuvian sentit le Chant résonner plus fort en lui, comme s'il répondait à la présence des Ténèbres. "Qui êtes-vous ?" demanda-t-il.
-"Je suis l'Écho", répondit l'ombre. "Le premier reflet de la conscience. Le premier être à avoir émergé de l'obscurité. Et je veux ce qui m'appartient."
+"Je suis l'Écho", répondit l'ombre. "Premier reflet de la conscience, messager des Ténèbres. Je veux ce qui m'appartient."
 "Le Chant ne vous appartient pas", dit Lumina. "Il appartient à tous. Il est la clé qui maintient l'équilibre entre la lumière et l'ombre."
 L'Écho s'avança, son ombre s'étirant comme une tache d'encre sur du papier. "L'équilibre ? Il n'y a pas d'équilibre. Il n'y a que l'ombre. La lumière n'est qu'une illusion temporaire."
 Noctuvian sentit le Chant vibrer en lui, comme une corde tendue. Il comprit alors que le Chant n'était pas seulement une clé, mais une arme. Une arme contre les Ténèbres.
@@ -23,4 +23,5 @@ L'ombre se dissipa, laissant derrière elle un silence oppressant. Noctuvian et 
 Noctuvian hocha la tête, comprenant que leur quête venait de prendre une nouvelle dimension. Le Chant de Qālmān n'était pas seulement un message ou une clé. C'était un enjeu dans une bataille plus grande, une bataille entre la lumière et l'ombre, entre la préservation et la destruction.
 Et lui, Noctuvian, était au centre de cette bataille, portant en lui le Chant qui pouvait tout changer.
 
-Autour d'eux, les cristaux vibraient encore, tissant un pont entre matière et invisible. Noctuvian comprit que ces éclats pouvaient enfanter un avenir nouveau. Ainsi naquit l'idée d'un sanctuaire pour ces mémoires : **Akasha**. Il jura de le protéger, quoi qu'il advienne.
+Autour d'eux, les cristaux vibraient encore, tissant un pont entre matière et invisible. Noctuvian comprit que ces éclats pouvaient enfanter un avenir nouveau. Il ramassa l'un d'eux, premier fragment de la Première Lumière, et décida de le placer en sécurité. Ainsi naquit l'idée d'un sanctuaire pour ces mémoires : **Akasha**. Il jura de le protéger, quoi qu'il advienne.
+Avec ce premier Éclat, ils quittèrent les Vestiges pour rejoindre Akasha.
