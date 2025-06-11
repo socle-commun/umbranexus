@@ -3,21 +3,20 @@
 Dans les profondeurs d'Umbranexus,
 une nouvelle harmonie émergeait,
 portée par la transformation d'Élan.
-Pourtant cette évolution menaçait l'ordre établi, et certains fragments s'opposèrent ouvertement.
-Les dimensions dansaient,
-se réorganisant selon un rythme nouveau,
+Pourtant, certains fragments redoutaient ce nouvel équilibre.
+Les dimensions se recomposaient
+autour d'un rythme nouveau,
 un équilibre qui n'était plus
 dans la domination,
 mais dans la co-création.
 "Regardez",
 dit Élan,
 sa voix tissant création et transformation.
-"Les mondes se recréent.
-Les possibilités se multiplient."
+"Les mondes se recréent,
+les possibilités se multiplient."
 Autour d'eux,
 des paysages nouveaux naissaient,
-ne dansant plus entre lumière et ombre,
-mais les unissant
+mêlant lumière et ombre
 en des harmonies inédites.
 "Tant de beauté",
 murmura Lumina.
@@ -41,9 +40,8 @@ dit Noctuvian,
 Plus... dynamique."
 "Oui",
 répondit Aether.
-"Élan est la force créatrice.
-Sa guérison a restauré
-une partie essentielle du Chant."
+"Élan est la force créatrice ;
+sa guérison a rendu au Chant son souffle."
 Mnémosyne s'approcha
 d'un nouveau monde en formation.
 "Qu'est-ce que c'est ?"
@@ -52,10 +50,9 @@ demanda-t-elle.
 répondit Élan.
 "Une façon d'être
 qui n'existait pas avant."
-Le monde montra une image :
-des êtres de lumière et d'ombre
+Le monde révéla des êtres de lumière et d'ombre
 dansant ensemble,
-créant des réalités nouvelles.
+créateurs de réalités nouvelles.
 "C'était impossible avant",
 expliqua Aether.
 "Avant la fracture."
@@ -76,7 +73,6 @@ demanda Noctuvian.
 répondit Élan.
 "Quatre Ténèbres,
 comme les quatre directions.
-Chacune a un rôle à jouer
-dans la création.
-Chacune a une part de transformation
-à apporter."
+Chacune participe
+à la création,
+offrant sa part de transformation."
