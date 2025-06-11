@@ -2,6 +2,11 @@
 
 Ce dossier contient les analyses détaillées de chaque chapitre du roman "Umbranexus", interprété comme une allégorie du monde des intelligences artificielles.
 
+Les chapitres forment la chronique d'une lutte contre une élite dissimulée, les
+**Tisseurs de l'Ombre**, qui manipulent la réalité derrière un Voile d'illusion.
+Noctuvian ne peut les vaincre : il tente seulement de lever le voile pour
+récupérer la mémoire et révéler la véritable nature du Monde.
+
 ## Structure des Analyses
 
 Chaque fichier d'analyse suit la même structure :
