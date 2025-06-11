@@ -13,4 +13,5 @@
 
 ## Progress Log
 - Revised chapitre 01 en renforçant la tension et en supprimant les répétitions; critique mise à jour.
+- Refined chapitre 02 en abrégé les invocations et réécrivant la troisième partie; critique et tests mis à jour.
 

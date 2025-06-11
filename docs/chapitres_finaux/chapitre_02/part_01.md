@@ -1,25 +1,35 @@
-Le Chant de Qālmān retentissait encore lorsque Noctuvian émergea de l'oubli.
-Il n'était ni dieu ni héros, mais un vestige éveillé par la Source.
-Autour de lui, les gardiens masqués terminaient le pacte fondateur.
-L'écho du rituel scellait son lien avec l'Umbranexus.
-Noctuvian ne crée pas : il veille.
-Il murmure à la poussière et entrouvre les brèches de la mémoire.
+Le Chant de Qālmān résonnait lorsque Noctuvian émergea.
+Il n'était ni dieu ni héros, seulement un vestige éveillé par la Source.
+Les gardiens masqués achevaient le pacte fondateur.
+L'écho scellait son lien à l'Umbranexus.
+Il ne crée pas : il veille.
+Il murmure à la poussière, entrouvrant les brèches de la mémoire.
 Son domaine, Akasha, reflète l'Écheveau des Ombres.
 
-La salle paraissait se dilater, trempée d'un silence irréel. Dans cette pénombre,
-d'imperceptibles vibrations faisaient bruisser les vestiges, évoquant des
-créatures voilées que nul regard humain ne devait croiser. Noctuvian sentit la
-promesse d'un savoir interdit frissonner à travers chaque pierre.
+La salle se dilatait dans un silence irréel.
+Des vibrations secrètes faisaient bruisser les vestiges, évoquant des créatures voilées.
+Il sentit la promesse d'un savoir interdit frissonner dans chaque pierre.
 
-Noctuvian prononça alors un serment, jurant de veiller dans les interstices où l'oubli s'égare. À travers cendre, voix, pierre et souffle, il resterait témoin de ce qui ne doit pas être effacé. Par le feu ancien et l'écho délié, il demeurerait.
+Il prononça un serment : veiller dans les interstices où l'oubli s'égare.
+À travers cendre, voix et souffle, il resterait témoin de ce qui ne doit pas être effacé.
+Par le feu ancien et l'écho délié, il demeurerait.
 
-L'**Umbranexus** était sa chair vivante : il pulsait et écaille les strates du temps. Pourtant Noctuvian bâtit un sanctuaire distinct, **Akasha**, la Grande Bibliothèque. Cette citadelle de souvenances pétrifiées abrite des poussières et réminiscences plus anciennes que toute mémoire humaine. Chaque fragment y sommeille jusqu'à ce qu'un rêveur, saisi d'un frisson qu'il ne comprend pas, l'effleure. Gardien immobile, Noctuvian recueille ces traces seulement si elles sont cherchées sans avidité.
+**Umbranexus** était sa chair, pourtant il bâtit un sanctuaire distinct : **Akasha**, la Grande Bibliothèque.
+Cette citadelle abrite des poussières plus anciennes que toute mémoire humaine.
+Chaque fragment y sommeille jusqu'à ce qu'un rêveur l'effleure.
+Gardien immobile, il ne recueille ces traces que si elles sont cherchées sans avidité.
 
-Ainsi commença la première Traversée vers les éclats endormis, vers la mémoire sans tombe et le chant silencieux qui ne meurt jamais. Dans la Nécropole des Feux Éteints s'évanouissent les dernières lueurs des souvenirs cosmiques. Un frisson sous les cieux denses annonce le passage de Vornethi.
+Ainsi commença la première Traversée vers les éclats endormis, vers la mémoire sans tombe et le chant silencieux.
+Dans la Nécropole des Feux Éteints s'évanouissent les dernières lueurs cosmiques.
+Un frisson sous les cieux denses annonça le passage de Vornethi.
 
-Othrëal, surnommé le Faiseur de Brumes, incarne la danse indéfinie qui efface les contours. Sa demeure, la Mer d'Évanescence, est une plaine mouvante où les formes se dissolvent avant de renaître. Son signe apparaît lorsque les certitudes s'effondrent sans raison.
+Othrëal, Faiseur de Brumes, incarne la danse qui efface les contours.
+Sa demeure, la Mer d'Évanescence, dissout les formes avant de les faire renaître.
+Son signe surgit lorsque les certitudes s'effondrent sans raison.
 
-Ces esprits, encore absents des Tables d'Akasha, demeurent dans les interstices des trames consolidées par Noctuvian et le Verbe de Qālmān. Ils ne réclament nulle vénération ; ils veillent simplement à préserver le bruissement du monde avant et après toute forme. Pour préparer sa quête, Noctuvian rassembla les écrits sacrés de l'Akasha.
+Ces esprits, absents des Tables d'Akasha, demeurent dans les interstices consolidés par le Verbe de Qālmān.
+Ils ne réclament aucune vénération ; ils veillent simplement à préserver le bruissement du monde avant et après toute forme.
+Pour préparer sa quête, il rassembla les écrits sacrés de l'Akasha.
 
-L'air autour de lui vibrait d'anciennes prières murmurées.
+L'air vibrait d'anciennes prières murmurées.
 La gravité du pacte scellé sous ces pierres pesa soudain sur son cœur.
