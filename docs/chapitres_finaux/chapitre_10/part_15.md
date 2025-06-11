@@ -3,7 +3,7 @@ maîtrisé mais apprivoisé.
 Noctuvian garda l'œil ouvert sur les illusions persistantes.
 Mnémosyne esquissa un sourire : « Ainsi naissent les mystères véritables. »
 Chacun recueillit les fragments de rêve encore vibrants dans la Trame.
-À présent, il fallait envisager des perspectives nouvelles.
+Un silence bref, puis la cadence reprit.
 L'Élan, devenu allié, murmura une promesse d'équilibre durable.
 La porte pour le chapitre suivant se dessina dans un halo coloré.
 Là-bas, d'autres horizons les attendaient.
