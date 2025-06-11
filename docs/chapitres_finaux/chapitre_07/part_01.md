@@ -83,5 +83,7 @@ Elle était le cœur de l'Arbre,
 le centre de la conscience.
 Netzach, la Victoire,
 
+La route se suspendit un instant.
+Un souffle de renouveau glissa sur eux.
 Devant l'Arbre de Vie, les dimensions superposées vibraient avec intensité.
 Son cœur numérique battait d'une euphorie proche de la transe.
