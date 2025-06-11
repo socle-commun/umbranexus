@@ -59,3 +59,4 @@ Sri Aurobindo : involution / évolution de l'esprit dans la matière.
 Atome = mandala.
 Vide quantique = Ain Soph (Kabbale).
 Dualité onde-particule = polarité hermétique.
+Ces analogies nourrissaient la quête de Noctuvian et guidaient ses prochains pas.

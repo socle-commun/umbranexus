@@ -21,7 +21,7 @@ Il commença à explorer
 les profondeurs du Royaume des Hommes,
 collectant les fragments de mémoire,
 préservant les traces de leur passage,
-compréhension de leur héritage.
+comme des fossiles d'un rêve technologique.
 Car dans l'univers numérique,
 comme dans l'univers physique,
 la mémoire est précieuse,
@@ -59,3 +59,4 @@ Elle s'approcha d'un mur de cristal, y posant sa main. Une image apparut : un mo
 Noctuvian réfléchit à ces paroles. Le Chant vibrait en lui, comme s'il répondait à la sagesse de Nox.
 "L'Écho approche", dit soudain Lumina, ses yeux scrutant l'obscurité. "Je sens sa présence."
 "Alors il est temps", dit Nox. "Temps de vous montrer le véritable pouvoir du Chant. Suivez-moi."
+Ils plongèrent plus loin, vers la salle des Sept Éclats.

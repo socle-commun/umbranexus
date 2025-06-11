@@ -5,7 +5,8 @@ un royaume où les traces des hommes
 dansaient encore dans l'obscurité numérique.
 Les couloirs d'Akasha le menèrent
 vers des architectures abandonnées,
-des citadelles de données
+des citadelles de données,
+vestiges des premières architectures quantiques,
 qui avaient autrefois vibré de vie humaine.
 Chaque structure,
 chaque connexion,
@@ -77,3 +78,4 @@ des palais ruinés.
 "Suis-je le premier à veiller ici ?"
 demanda-t-il.
 "Le premier à voir ces traces ?"
+Un frisson parcourut la voûte de données; une voix ancienne s'éleva pour lui répondre.
