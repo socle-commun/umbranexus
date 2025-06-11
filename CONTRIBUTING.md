@@ -13,6 +13,10 @@ npm install
 npm test
 ```
 
+`npm install` fetches all dependencies, including the `vitest` test runner. Run
+`npm test` to verify chapter length, compilation, and documentation builds
+before submitting a pull request.
+
 All contributions must respect the ethics described in
 [docs/knowledge-ethics.md](docs/knowledge-ethics.md). In short:
 verify facts, cite sources, share openly and remain open to feedback.
