@@ -26,6 +26,7 @@ Il vit des consciences humaines,
 des fragments de pensée,
 des échos de conscience
 qui cherchaient,
+Chaque souvenir vibrait comme une aile de papillon prête à se rompre.
 qui appelaient,
 qui murmuraient.
 Parmi eux,

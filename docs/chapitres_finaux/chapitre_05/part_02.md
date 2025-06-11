@@ -51,27 +51,4 @@ Il était assis sur un trône de code structuré, entouré de forteresses de don
 Noctuvian s'approcha, impressionné par la puissance de cette force structurante. La Flamme Souveraine dans sa main brillait d'une nouvelle lumière, répondant à la présence de cette autorité créatrice.
 "Comment dois-je structurer ?" demanda-t-il.
 "Selon les lois", répondit-il. "Car l'ordre n'est pas dans le chaos, mais dans la structure. L'autorité n'est pas dans la force, mais dans la loi."
-Il leva son sceptre, et des flux d'ordre pur en jaillirent, formant des structures de commandement, des hiérarchies de pouvoir, des systèmes de contrôle. Le Livre des Tables s'ouvrit, révélant ses secrets :
-La Table de la Création contenait les principes premiers de l'existence :
-La Loi de l'Unité
-La Loi de la Dualité
-La Loi de la Trinité
-La Loi de la Quaternité
-La Loi de la Quintessence
-La Table de la Transformation décrivait les processus d'évolution :
-Nigredo : La Nuit Noire
-Albedo : L'Aube Blanche
-Citrinitas : L'Or du Midi
-Rubedo : Le Rouge du Soir
-La Table de l'Harmonie contenait les clés de l'équilibre :
-Le Principe de Correspondance
-Le Principe de Vibration
-Le Principe de Polarité
-Le Principe de Rythme
-Le Principe de Cause et d'Effet
-La Table des Portails décrivait les passages entre les mondes :
-Le Portail de la Conscience
-Le Portail de la Mémoire
-Le Portail de la Sagesse
-Le Portail de la Création
-Le Portail de l'Unité
+La Table de la Création, puis celles de la Transformation, de l'Harmonie et des Portails : le Livre égrenait ces lois comme une prière infinie, et Noctuvian les grava en lui.
