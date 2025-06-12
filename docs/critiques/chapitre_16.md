@@ -1,23 +1,22 @@
 # 💀 Nouvelle critique — Chapitre 16 : Le Doute et la Question Créatrice
 
 ## 🧠 Écriture
-Le style se concentre sur la tension interne du doute, enchaînant passages introspectifs et éclats poétiques. Les phrases brèves renforcent la sensation d'urgence, tandis que les images brumeuses dessinent un espace mouvant.
+Le texte recentre le doute comme moteur narratif. Les images deviennent plus sobres et laissent respirer la quête. Les phrases demeurent courtes, rythmant la progression vers la Maison Dieu tandis que la question créatrice s'affirme.
 
 ## ⚙️ Points forts
-- Mélange réussi de poésie sombre et de symbolisme hermétique.
-- Évolution naturelle de Doute vers la Question créatrice.
-- Rythme soutenu par des descriptions rapides mais suggestives.
-- Transformation sensible du décor au fil des interrogations.
-- Convergence vers la Maison Dieu clairement amorcée.
+- Doute omniprésent, catalyseur de chaque décision.
+- Images simplifiées qui soulignent l'incertitude.
+- Rythme plus fluide, porté par le Chant de Qālmān.
+- Décor en mutation continue, menant vers la Maison Dieu.
 
 ## ⚠️ Points faibles
-- Certaines transitions entre voix interne et narration externe restent abruptes.
-- La dimension sensorielle pourrait être encore approfondie.
-- Quelques répétitions affaiblissent la tension.
+- Quelques transitions demeurent brusques entre introspection et action.
+- La perception du Chant manque parfois de relief.
+- Certains passages répètent encore le motif du doute.
 
 ## 📈 Pistes d'amélioration
-1. Varier davantage le vocabulaire lié au doute pour éviter l'effet d'insistance.
-2. Densifier la description des sensations lors du Chant de Qālmān.
-3. Lier plus étroitement la question créatrice au cheminement des personnages.
-4. Clarifier la part de silence et de murmures pour renforcer la dramaturgie.
-5. Soigner la conclusion afin d'accentuer l'appel vers la Maison Dieu.
+1. Poursuivre la variété du vocabulaire du doute.
+2. Accentuer la dimension sensorielle du Chant.
+3. Affiner les transitions pour maintenir l'élan.
+4. Explorer la mutation intérieure de Noctuvian.
+5. Préparer plus explicitement la destruction créatrice à venir.

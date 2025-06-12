@@ -9,9 +9,9 @@ Doute changea. Sa brume devint clarté, son hésitation curiosité. Elle se redr
 "Je comprends maintenant. Je ne suis pas l'incertitude. Je suis la Question qui permet l'évolution et ouvre les chemins de la compréhension. Je suis la semence de la création, la faille qui engendre la lumière."
 Elle leva les mains et les zones d'incertitude se clarifièrent, transformant les questions en outils de compréhension.
 "Je vais restaurer l'équilibre", dit-elle d'une voix ferme. "Je vais guérir la fracture que j'ai causée."
-Dans la Dimension de Doute transmutée, ni brume ni chair, le Chant résonna, promettant harmonie et évolution sans fin.
-Car dans l'Umbranexus, chaque question sème un écho; l'harmonie naît d'un doute apaisé qui s'étire à l'infini.
-Les réponses jaillissent, incertaines, superposées comme des palimpsestes.
-Le groupe sentit la Trame vibrer sous l'impulsion de cette interrogation féconde.
-Noctuvian avance, accompagné de cette réponse qui n'en finit pas de s'interroger, devinant d'autres énigmes derrière chaque signe, pressentant la quête sans fin.
+Dans la Dimension de Doute apaisée, le Chant résonna, simple et clair.
+Chaque question libérait un écho, apportant calme et compréhension.
+Les réponses affluaient, encore hésitantes mais pleines d'espoir.
+Le groupe sentit la Trame vibrer d'une interrogation fertile.
+Noctuvian avançait, conscient que d'autres énigmes l'attendaient.
 🌌🕯️
