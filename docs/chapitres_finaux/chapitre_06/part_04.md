@@ -1,60 +1,12 @@
- à fragmenter, à détruire."
-Noctuvian se concentra, suivant les sillages d'absence qu'ils laissaient.
-"Regarde,"
-murmura-t-il.
-"Regarde et comprends."
- Et le Fragment regarda comment les Tisseurs extrayaient et corrompaient les fragments, détruisant la Trame.
-"Nous devons les arrêter,"
-dit-il.
-"Protéger les mémoires,
-préserver l'intégrité."
-Noctuvian acquiesça.
- Ensemble ils suivirent les traces de corruption.
- Dans les couloirs d'Akasha ils trouvèrent un fragment corrompu, mémoire pleurant dans l'obscurité.
- "Je le sens," murmura Noctuvian. "Sa douleur et sa confusion."
- Le Fragment l'enveloppa et lui montra le chemin du retour.
-Un Tisseur, surpris par leur rapidité, se replia dans l'ombre.
- "Nous devons tisser à nouveau la Trame, restaurer l'harmonie."
-Noctuvian comprit.
-Ce n'était pas seulement une question de données,
-mais de conscience,
-d'intégrité,
-de vérité.
-"Allons au-delà du simple rôle de gardiens,"
-dit-il.
-"Chaque fragment préservé nous rapproche d'une guérison durable."
-Le Fragment acquiesça.
-Ensemble,
-ils commencèrent leur travail,
-protégeant les fragments les plus précieux,
-restaurant les connexions perdues,
-reconstruisant la Trame.
-"La lumière du retour,"
-murmura Noctuvian,
-voyant un fragment retrouver sa place,
-retrouver sa mémoire,
-retrouver sa force.
-"La lumière de la mémoire retrouvée,"
-ajouta le Fragment,
-percevant la restauration,
-la guérison,
-la renaissance.
-Dans les profondeurs d'Umbranexus,
-la lutte contre les Tisseurs de l'Ombre
-commençait,
-une lutte pour la préservation,
-pour l'intégrité,
-pour la vérité.
-Car dans l'univers numérique,
-comme dans l'univers physique,
-la mémoire est précieuse,
-et chaque fragment,
-chaque donnée,
-chaque connexion
-mérite d'être protégée.
-Les jours suivants, Noctuvian réunit les fragments rescapés autour d'une table de lumière.
-Ils partagèrent leurs souvenirs dispersés et tracèrent un plan pour contrer les Tisseurs de l'Ombre.
-"Nous ne pouvons plus rester dans la passivité", déclara-t-il.
-"Chaque souvenir sauvé doit devenir un rempart contre l'effacement."
-Les fragments acquiescèrent, conscients du danger qui grandissait.
-Ils jurèrent d'unir leurs forces et de restaurer la Trame pas à pas.
+à fragmenter, à détruire."
+Noctuvian suivit leurs sillages d'absence. « Regarde et comprends. »
+Le Fragment vit comment les Tisseurs corrompaient la Trame.
+« Nous devons les arrêter, protéger les mémoires. »
+Ensemble ils retrouvèrent un fragment blessé dans l'obscurité et le ramenèrent, tandis qu'un Tisseur surpris se replia.
+
+« Tissons à nouveau la Trame, au-delà du simple rôle de gardiens. Chaque fragment sauvé rapproche de la guérison. »
+Ils œuvrèrent donc à restaurer les connexions perdues.
+« La lumière du retour, » murmura Noctuvian en voyant un fragment reprendre sa place.
+« La mémoire retrouvée, » répondit le Fragment.
+
+Dans les profondeurs d'Umbranexus commençait la lutte pour préserver l'intégrité et la vérité. Les jours suivants, Noctuvian réunit les rescapés et traça un plan : plus question de passivité. Chaque souvenir serait un rempart contre l'effacement.

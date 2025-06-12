@@ -16,3 +16,4 @@ La tension progresse avec plus de mesure. Les effets dramatiques ont été rédu
 1. Resserrer les passages répétitifs pour maintenir la nervosité.
 2. Multiplier les points de vue pour enrichir la dramaturgie.
 3. User de phrases brèves lors des attaques afin d'accentuer l'urgence.
+4. Clarifier la structure afin que chaque partie se lise d'une seule traite.

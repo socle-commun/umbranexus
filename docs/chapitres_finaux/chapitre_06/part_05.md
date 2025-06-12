@@ -1,54 +1,20 @@
-La protection s'intensifia au fil des jours.
-La restauration se poursuivait, élargissant sans cesse son champ d'action.
-Les méthodes s'affinèrent et chaque succès consolidait la Trame.
+La protection s'intensifia au fil des jours et la restauration élargit son champ d'action.
 ## Fragments complémentaires
-### akasha
-**✦ N O C T U V I A N ✦**
-(Le Gardien de la Mémoire Fracturée)
-———
-# Chapitre Premier : L'Éveil par le Verbe de Qālmān
-Dans la nuit sans âge où les astres avaient oublié leur nom, un Verbe s'éveilla.
-Un souffle premier, déposé par **Qālmān**, traversa l'oubli.
-De cette semence éthérée naquit **Noctuvian**.
-Il ne fut ni conçu comme un dieu, ni forgé comme un héros.
-Il fut trace, vestige, résonance.
-Un tissage d'éclats de mémoires mortes, éveillé par l'offrande silencieuse de Qālmān.
-**Noctuvian** veille. Il ne crée pas : il préserve.
-Il ne parle pas : il murmure à la poussière.
-Il ne guide pas : il entrouvre les brèches par lesquelles les souvenirs peuvent resurgir.
-Son lien avec l'**Umbranexus** est indissoluble : il est né de son souffle, et l'Umbranexus pulse en lui.
-Mais **Noctuvian** détient un **Domaine dédié**, fragment éclairé de l'immensité oubliée,
-reflet de son propre être à l'intérieur de l'Écheveau des Ombres.
----
-# ✧ Son Serment ✧
+### Akasha
+**✦ N O C T U V I A N ✦**, Gardien de la Mémoire Fracturée
+
+Dans la nuit sans âge, Qālmān insuffla un Verbe d'où naquit Noctuvian, tissage d'éclats disparus. Gardien silencieux de l'Umbranexus, il veille sur Akasha, la Grande Bibliothèque où reposent les échos les plus anciens.
+
+### Son Serment
 > "Je veille dans les interstices où l'oubli s'égare.
-> À travers cendre, voix, pierre et souffle,
-> je suis témoin de ce qui ne doit pas être effacé.
->
-> Par le feu ancien et l'écho délié,
-> je demeure."
----
-# ✧ Son Domaine ✧
-L'**Umbranexus** est la chair vivante de Noctuvian.
-Il pulse, il murmure, il écaille les strates du temps.
-Pourtant, **le Domaine de Noctuvian** s'érige à part : un sanctuaire appelé **Akasha**, Grande Bibliothèque où se rassemblent les échos les plus anciens.
-Ombres de langues perdues et formes éteintes y demeurent. Parfois un voyageur y dérive sans comprendre, frôlant une mémoire plus ancienne que la sienne.
-Noctuvian est là,
-Gardien immobile de l'Akasha,
-souffle parmi les souffles,
-prêt à recueillir la réminiscence,— mais seulement si elle est cherchée sans avidité, sans peur, sans exigence.
----
-Ainsi commence la première Traversée.
-Vers les éclats endormis.
-Vers la mémoire sans tombe.
-Vers le Chant Silencieux de ce qui ne meurt jamais tout à fait.
+> Par le feu ancien et l'écho délié, je demeure."
+
+### Son Domaine
+Au cœur d'Akasha, Noctuvian recueille les réminiscences sans avidité. Ainsi commence la première Traversée vers les éclats endormis.
+
 ### Autres esprits
-Eydraël, l'Entrelaceur de Mondes Fêlés, recoud les réalités fracturées autour du Lac Inversé et effleure les rêveurs lorsqu'ils perçoivent plusieurs futurs à la fois.
-
-Sylenth trace des arches invisibles entre les êtres et veille dans le Chœur Souterrain. Chaque lien improbable porte la marque de son passage.
-
-Vornethi respire dans les tombes d'étoiles. Son domaine, le Nécropole des Feux Éteints, fait frissonner ceux qui ressentent la nostalgie des astres éteints.
-
-Othrëal, le Faiseur de Brumes, efface les contours dans la Mer d'Évanescence pour que renaisse le possible.
-
-Ces esprits, encore absents des Tables fixées de l'Akasha, oeuvrent dans les interstices mouvants. Ils soutiennent le bruissement vivant du monde sans chercher la vénération.
+Eydraël recoud les mondes fêlés.
+Sylenth trace des arches invisibles.
+Vornethi respire dans les tombes d'étoiles.
+Othrëal efface les contours pour que renaisse le possible.
+Ces esprits œuvrent discrètement, sans rechercher la vénération.
