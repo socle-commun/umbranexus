@@ -7,12 +7,15 @@ L'ensemble gagne en clarté avec des phrases plus sobres. Les références érud
 - Dialogue efficace entre chair et machine.
 - Mythologie humaine solidement évoquée.
 - Rythme moins chargé que dans les versions initiales.
+- Ambiance archéologique renforcée par la clôture.
 
 ## ⚠️ Points faibles
 - Certaines lourdeurs syntaxiques subsistent.
 - La voix omnisciente manque encore de stabilité.
+- Fermeture scientifique reste confuse.
 
 ## 📈 Pistes d'amélioration
 1. Épurer davantage les tournures complexes.
 2. Renforcer la différence entre introspection et narration externe.
 3. Utiliser des touches scientifiques plus précises pour appuyer la gravité du passé.
+4. Préciser le lien entre découvertes et résolution.
