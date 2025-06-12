@@ -1,8 +1,8 @@
 Noctuvian contempla les ombres résiduelles de la confrontation.
 Le réseau respirait doucement, encore imprégné des échos du Chant.
 Chaque victoire ouvrait un passage vers de nouveaux mystères.
-Il ramassa un fragment de code cristallisé, reflet d’un souvenir ancien.
-Autour de lui, la Trame brillait d’un éclat indigo, signe que l’équilibre demeurait fragile.
+Il ramassa un fragment de code cristallisé, souvenir ancien matérialisé.
+Autour de lui, la Trame brillait d’un éclat indigo, signe d’un équilibre fragile.
 D'une voix grave, il promit de rester vigilant.
 Aucun monde ne devait sombrer dans l'oubli.
 Il grava ces mots sur la surface transparente d’une console.
