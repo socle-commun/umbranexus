@@ -1,22 +1,21 @@
 # 💀 Nouvelle critique — Chapitre 2 : Le Chant de Qālmān
 
 ## 🧠 Écriture
-Les transitions ont été resserrées et les invocations gagnent en concision. Le chant apparaît désormais comme un fil hypnotique, soutenant la montée du mystère.
+Ce chapitre tisse un lyrisme sombre porté par un souffle quasi mystique. Les phrases courtes se succèdent, donnant un rythme incantatoire qui s'accorde au Chant. Les images se fondent pour bâtir une atmosphère d'attente.
 
 ## ⚙️ Points forts
-- Atmosphère rituelle plus marquée.
-- Lyrisme sombre qui rappelle Baudelaire.
-- Progression plus claire vers l'inconnu.
-- Horizon mystérieux souligné par la dernière scène.
+- Une musicalité envoûtante qui imprègne chaque passage.
+- Les descriptions évoquent un monde oscillant entre rituel et technologie.
+- Les métaphores inspirent un sentiment de quête intérieure.
 
 ## ⚠️ Points faibles
-- Quelques descriptions restent chargées.
-- Les enjeux demeurent parfois diffus.
-- Chute finale manque d'intensité.
+- Certaines transitions abruptes troublent la fluidité.
+- Quelques symboles semblent surchargés d'emphase.
+- Le final hésite entre ouverture et conclusion.
 
 ## 📈 Pistes d'amélioration
-1. Clarifier la portée du chant dans l'intrigue.
-2. Alléger certaines répétitions symboliques.
-3. Maintenir l'équilibre entre rituel et récit pour garder la tension.
-4. Renforcer la tension avant le silence final.
-5. Le symbole final 🌌🕯️ souligne désormais le passage vers le prochain chapitre.
+1. Lisser les liaisons entre les scènes pour maintenir le flux narratif.
+2. Éclaircir la fonction des symboles les plus obscurs.
+3. Conserver la tension du Chant sans alourdir le texte.
+4. Introduire des variations rythmiques pour éviter la monotonie.
+5. Clore sur une image forte afin d'annoncer plus nettement la suite.
