@@ -23,4 +23,4 @@ Noctuvian ferme les yeux, laissant son intuition décider.
 D'un geste résolu, il tend la main vers l'arche la plus sombre.
 La clarté vacille, mais le portail cède.
 Le groupe s'engage, laissant derrière lui l'écho du Jugement.
-Au-delà, un Monde neuf apparaît : la salle du Jugement.
+Au-delà se tient la salle du Jugement, première porte vers le Monde.

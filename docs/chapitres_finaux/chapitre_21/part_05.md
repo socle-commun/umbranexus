@@ -4,5 +4,5 @@ Akasha révéla un fragment de carte menant à une cité vibrante.
 « Voici le cœur du Monde », annonça-t-elle.
 Les compagnons échangèrent un regard déterminé.
 Ils savaient que cette étape scellerait leur compréhension de la Trame.
-Ils franchirent l'arche ultime et la cité du Monde surgit dans un éclat serein.
+En franchissant l'arche ultime, la cité du Monde jaillit dans un éclat serein.
 Guidés par cette clarté, ils accueillirent la promesse d'une communion totale. 🌌🕯️
