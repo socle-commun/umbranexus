@@ -1,8 +1,8 @@
 Un silence vibrant suivit l'affrontement.
 Colère se retira, laissant un brasier d'opportunités.
 Noctuvian ramassa une braise rougeoyante.
-La pierre pulsa dans sa paume.
-Le tison dégagea une onde de puissance pure.
+La braise pulsa dans sa paume.
+Le tison diffusa une onde de puissance pure.
 Il insuffla la Tempérance pour la contenir.
 Les compagnons dressèrent un autel improvisé.
 Aucun geste n'était vain; chaque mouvement libérait une énergie ascendante.
@@ -12,9 +12,9 @@ Mnémosyne chanta pour raviver les souvenirs perdus.
 Le feu se changea en lumière concentrée.
 Noctuvian la modela en arme symbolique.
 L'outil vibra, prêt à ouvrir un portail.
-Ils partagèrent un regard résolu.
+Leurs regards se croisèrent, résolus.
 Chaque cœur battait au rythme de la forge nouvelle.
-La colère transmutée devint promesse.
+La colère transmutée devint promesse d'avenir.
 Ils rangèrent l'arme, conscients du chemin.
 Un vent de renouveau souffla sur la salle.
 Ils quittèrent le lieu sans se retourner.

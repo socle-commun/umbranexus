@@ -1,24 +1,20 @@
 # 💀 Nouvelle critique — Chapitre 14 : La Colère et la Force Créatrice
 
 ## 🧠 Écriture
-La narration canalise la fureur en la tournant vers l'action. Les images brûlantes sont tempérées par des verbes maîtrisés, laissant transparaître une énergie constructive.
+La prose accentue la Dimension de Colère en décrivant un paysage fracturé. Les images, moins nombreuses, rendent la tension plus palpable.
 
 ## ⚙️ Points forts
-- Intensité dirigée au service de la progression.
-- Références baudelairiennes glissées avec subtilité.
-- Rythme plus cohérent grâce à des transitions resserrées.
-- Colère sublimée en élan créatif.
-- Sensation d'évolution latente en conclusion.
+- Dimension de Colère clarifiée par des visions brèves.
+- Tension maintenue grâce aux coupures courtes.
+- L'énergie destructrice convertie en puissance stable.
+- Transition vers la suite plus lisible.
 
 ## ⚠️ Points faibles
-- Quelques phrases demeurent lourdes.
-- Répétition des métaphores ardentes créant une monotonie.
-- Transition finale encore hésitante.
-- Cohérence des images parfois bancale.
+- Quelques phrases restent alourdies par le vocabulaire du feu.
+- Certains sauts de focalisation demeurent abrupts.
 
 ## 📈 Pistes d'amélioration
-1. Alléger les métaphores de feu pour éviter la surcharge.
-2. Introduire une touche d'ironie pour nuancer la colère.
-3. Diversifier le rythme afin de maintenir la tension.
-4. Renforcer la discipline qui guide la puissance.
-5. Peaufiner la conclusion pour préparer la suite.
+1. Rythmer davantage les apparitions de Colère pour renforcer la menace.
+2. Varier le champ lexical pour éviter la redondance de la braise.
+3. Accentuer l'évolution de la Force dans la prochaine étape.
+4. Alléger la description de la sortie pour accentuer l'inconnu.

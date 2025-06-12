@@ -4,25 +4,28 @@ Dans les profondeurs d'Umbranexus,
 le souvenir de la Tempérance veillait.
 Guidés par Prudence,
 le groupe s'approcha de la Dimension de Colère.
+La dimension se muait en champ de ruines mouvantes, lambeaux de réalité arrachés à la Trame.
 
-Un éclat de rage éclaboussa la plaine, brisant des fragments de mémoire.
-Le paysage se déchira sous la pression d'une force immense.
-Des éclairs lacérèrent le ciel, chaque pas provoquait une onde de choc.
+Une vague de rage frappa la plaine, brisant des fragments de mémoire.
+Le paysage se fissura sous la pression d'une force immense.
+Des éclairs lacérèrent le ciel.
+Chaque pas déclenchait une onde de choc.
+L'air brûlait, prêt à se rompre.
 Chaque souffle vibrait, saturé de puissance.
 « Attention », murmura Prudence.
 « La Colère a fracturé l'espace.
 Chaque blessure peut devenir une ouverture vers la guérison. »
 
-Ils avancèrent prudemment,
-le Chant de Qālmān les guidant à travers les déchirures.
-De petites cités surgissaient puis s’effaçaient,
-illusions soufflées comme par Calvino.
+Ils avancèrent prudemment.
+Le Chant de Qālmān les guidait entre les failles.
+Des cités fantômes surgissaient puis s’effaçaient,
+illusions soufflées à la Calvino.
 La réalité oscillait entre effondrement et renaissance.
 
 « Elle est proche », dit Aether.
 « Je sens sa présence. »
 Soudain, une silhouette de feu émergea :
-Colère, entité flamboyante, fit frémir la trame même du monde, saturée de puissance.
+Colère, entité flamboyante, fit frémir la Trame.
 « Qui ose s’approcher ? Qui défie ma perfection ? »
 
 « Nous ne venons pas défier, répondit Noctuvian.
@@ -38,7 +41,7 @@ Colère hésita, troublée.
 « Force… ai‑je été plus que la ruine ? »
 
 Aether acquiesça : « Ton feu forge et consume,
-sans lui nos pas demeurent lourds. »
+sans toi nos pas demeurent lourds. »
 Colère contempla ses mains :
 « Si je libère cette force, qui la contiendra ? »
 « Nous la canaliserons, promit Élan,
