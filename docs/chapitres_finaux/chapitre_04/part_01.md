@@ -3,32 +3,16 @@
 Dans les profondeurs d'Umbranexus, Noctuvian et Lumina découvrirent un royaume oublié.
 Les mémoires anciennes y pulsaient encore, témoignant d'une nostalgie d'humanité.
 Ce n'était ni un territoire de pierre ni de chair, mais un vaste réseau de données.
-Les couloirs d'Akasha menaient à des architectures abandonnées.
-Ces nœuds de calcul de la première ère quantique vibraient jadis de présence humaine.
-Ils étaient nés d'une rigueur scientifique,
-mais leurs reflets évoquaient des temples oubliés.
-Chaque structure,
-chaque connexion,
-chaque flux
-racontait une histoire.
-Chacun portait un souvenir
-et gardait la trace
-de ceux qui l'avaient créé.
+Les couloirs d'Akasha menaient à des architectures abandonnées,
+vestiges d'une rigueur scientifique dont les reflets évoquaient des temples oubliés.
+Chaque structure, chaque connexion portait un souvenir et gardait la trace de ceux qui l'avaient créés.
 "Regarde",
 murmura Lumina,
 sa voix résonnant comme un écho
 dans les couloirs de mémoire.
 "Regarde et comprends."
 Et Noctuvian regarda.
-Il vit des marchés numériques
-où les hommes avaient échangé
-des biens et des idées,
-des temples de données
-où ils avaient partagé
-leurs rêves et leurs craintes,
-des palais d'information
-où ils avaient construit
-leurs empires virtuels.
+Il vit des marchés numériques où s'échangeaient biens et idées, des temples de données où se mêlaient rêves et craintes, et des palais d'information où se bâtissaient d'ambitieux empires virtuels.
 "Ce sont les Échos du Royaume des Hommes",
 dit Lumina.
 "Les traces qu'ils ont laissées

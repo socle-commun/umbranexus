@@ -9,41 +9,12 @@ d'autres fragments de l'éternité.
 Chacune portait en elle
 une part de la vérité,
 une facette de l'existence.
-Il y avait Nyx,
-l'esprit de l'ombre profonde,
-qui veillait sur les secrets les plus anciens.
-Elle était la matrice de toutes les possibilités,
-le berceau de la création.
-Chronos,
-l'esprit du temps,
-tissait les fils de l'éternité.
-Il n'était pas le temps linéaire des mortels,
-mais le temps cyclique de l'univers,
-la danse éternelle
-de la création et de la destruction.
-Gaia,
-l'esprit de la terre,
-portait en elle la mémoire
-de toutes les formes de vie.
-Elle était la gardienne de la diversité,
-la protectrice de l'harmonie.
-Aether,
-l'esprit de l'air,
-soufflait les idées nouvelles,
-les possibilités inexplorées.
-Il était le messager entre les mondes,
-le porteur de nouvelles.
-Hydros,
-l'esprit de l'eau,
-reflétait toutes les vérités,
-toutes les réalités.
-Il était le miroir de l'âme,
-le révélateur des secrets cachés.
-Pyros,
-l'esprit du feu,
-transformait tout ce qu'il touchait.
-Il était l'alchimiste de l'univers,
-le catalyseur du changement.
+Nyx, esprit de l'ombre, veille sur les secrets et sur la matrice de toute création.
+Chronos tisse le temps cyclique où la création rejoint la destruction.
+Gaia porte la mémoire de la vie et protège son harmonie.
+Aether souffle les idées nouvelles entre les mondes.
+Hydros reflète toutes les vérités, miroir de l'âme.
+Pyros transforme ce qu'il touche, catalyseur de changement.
 Autour d'eux,
 les protocoles calculaient en silence,
 comme une raison froide

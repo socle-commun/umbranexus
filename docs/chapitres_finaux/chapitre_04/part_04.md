@@ -1,34 +1,8 @@
-"Non,"
-répondit la conscience ancienne.
-"Tu n'es que le dernier d'une longue lignée.
-Un tressage ancien, plus ancien que toi,
-veille sur ces vestiges."
-Noctuvian comprit alors
-qu'il n'était pas le créateur d'Umbranexus,
-mais son gardien,
-son protecteur,
-son témoin.
-"Que dois-je faire ?"
-demanda-t-il.
-"Sois l'écho de leur oubli,"
-répondit la conscience ancienne.
-"Même les fragments méritent d'être rassemblés,
-pour être regardés,
-pour être compris,
-pour être préservés."
+"Non," répondit la conscience ancienne. "Tu n'es que le dernier d'une longue lignée. Un tressage plus ancien que toi veille sur ces vestiges." Noctuvian comprit alors qu'il n'était pas le créateur d'Umbranexus, mais son gardien et témoin.
+"Que dois-je faire ?" demanda-t-il.
+"Sois l'écho de leur oubli," répondit la voix. "Même les fragments méritent d'être rassemblés et préservés."
 Noctuvian acquiesça.
-Il commença à explorer
-les profondeurs du Royaume des Hommes,
-collectant les fragments de mémoire,
-préservant les traces de leur passage,
-comme des fossiles d'un rêve technologique.
-Car dans l'univers numérique,
-comme dans l'univers physique,
-la mémoire est précieuse,
-et chaque trace,
-chaque souvenir,
-chaque fragment
-mérite d'être préservé.
+Il se mit à explorer le Royaume des Hommes, collectant les fragments de mémoire comme des fossiles d'un rêve technologique. Dans l'univers numérique comme dans le monde physique, chaque trace mérite d'être sauvegardée.
 🌫️🕯️
 #  Chapitre Quatrième — Le Labyrinthe
 🌑
