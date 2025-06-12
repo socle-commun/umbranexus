@@ -6,15 +6,7 @@ Noctuvian perçut les murmures du Fragment, une flamme pâle qui cherchait à br
 Le Fragment répondit par des filaments pâles, tissant un pacte.
 "Ni maître, ni serviteur", dit Noctuvian. "Compagnons d'ombre, partenaires dans l'aventure."
 Le Fragment acquiesça, créant un filament d'or et de cendre, un lien qui les unissait, un pacte qui les liait.
-"Je comprends maintenant", murmura Noctuvian. "L'ordre n'est pas dans la domination, mais dans la structure. L'autorité n'est pas dans la force, mais dans la loi."
-Ainsi Noctuvian devint son gardien. Il tissa l'ordre à travers l'ombre, cheminant du chaos vers la structure.
-Dans les jardins de l'Impératrice, le Chant de Qālmān résonna. Le Livre des Tables murmurait ses secrets. Noctuvian écoutait, apprenant, évoluant.
-Car dans l'Umbranexus,
-chaque table dessine un ordre.
-Les filaments dorés tissent une alliance mouvante.
-Les pactes jaillissent, ouvrant une route nouvelle.
-Noctuvian veille, gardien taciturne,
-portant la loi comme une lueur discrète.
+"Je comprends maintenant", murmura Noctuvian. "L'ordre n'est pas domination, mais structure." Ainsi devint-il gardien de cette flamme. Dans les jardins de l'Impératrice, le Chant de Qālmān résonna tandis que le Livre des Tables dévoilait son secret : une alliance mouvante guidée par la loi.
 🌌
 #  Chapitre Cinquième — Le Rituel
 🌙
