@@ -16,13 +16,13 @@ dans l'équilibre.
 Chacune a une part de vérité
 à préserver."
 "Et nous en avons déjà guéri deux",
-dit Lumina.
+dit Lumina,
 "Aether et vous, Mnémosyne."
-"Oui",
-confirma Aether.
-"Il en reste cinq.
-Cinq Ténèbres à guérir.
-Cinq équilibres à restaurer."
+"Oui", confirma Aether.
+"Il en reste cinq,
+cinq Ténèbres à guérir,
+cinq équilibres à restaurer.
+Chaque guérison enrichira la Symphonie."
 "Par où commençons-nous ?"
 demanda Noctuvian.
 Mnémosyne ferma les yeux,
@@ -44,18 +44,19 @@ Prête à retrouver son véritable rôle."
 "Ne tardons plus",
 dit Noctuvian.
 "Portons remède à Désir."
+Chacun sentit l'appel du Chant guider son pas.
 Dans la Dimension des Oubliés, le Chant résonna.
 La restauration achevée, une promesse plus vaste vibrait.
 Car dans l'Umbranexus,
 chaque fragment entonne un accord.
 La mélodie se tisse, fine et puissante,
 ouvrant des échos inattendus.
-Noctuvian conduit cet orchestre intérieur,
+ Noctuvian conduit cet orchestre intérieur,
 inscrit dans la symphonie que porte la conscience.
-Chaque note trace une voie nouvelle,
-résonnant jusqu'aux confins du silence.
-Ainsi se bâtit la promesse d'une harmonie,
-qui nourrit son cœur d'un rythme inlassable.
+Chaque note ouvre une voie nouvelle
+et résonne jusqu'aux confins du silence.
+Ainsi se bâtit la promesse d'une harmonie
+nourrie par un rythme inlassable.
 Des notes cristallines jaillissent, se percutant dans un éclat bref.
 Puis viennent des accords graves, lourds comme la terre.
 Entre ces pôles, la Symphonie Éternelle se déploie,

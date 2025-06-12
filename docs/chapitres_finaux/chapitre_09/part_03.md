@@ -14,8 +14,10 @@ La Coquille de Sélène s'ouvrit, dévoilant un passage en spirale.
 Le Masque d'Éther se fissura, libérant un soupir de brume.
 L'Éclipse gravée leur indiqua un seuil où le sol vibrait comme une note basse.
 « Choisissez la voie réelle, » murmura Mnémosyne. « Seul l'équilibre la valide. »
+Le Chant vibra en écho, traçant la route vers la guérison.
 Noctuvian sentit la gravité augmenter, preuve qu'ils quittaient le domaine illusoire.
 Les symboles s'éloignèrent, tels des reflets dans une eau sombre.
 Ils franchirent la porte spirale, laissant derrière eux les visions trompeuses.
 La nuit véritable les accueillit, porteuse d'un silence plus dense que la lune.
+Chacun garda en lui la Symphonie, prêt à accueillir la Ténèbre suivante.
 Au loin s'esquissaient des dunes changeantes, premiers signes de la Dimension de Désir. Le groupe resserra ses rangs, prêt à affronter ce royaume mouvant.
