@@ -8,4 +8,5 @@ Les couloirs devinrent plus nets et révélèrent la silhouette lointaine d'une 
 Aether reconnut la Maison Dieu et pressa le pas.
 Leur détermination se renforça : la destruction créatrice les attendait.
 Ils se préparèrent à bâtir sur les cendres des anciens doutes.
+La Question, désormais compagne fidèle, illuminait leur marche vers la tour.
 🌌🕯️

@@ -18,3 +18,5 @@ Aether s'avança, regard profond. "Vous êtes la Question qui fait grandir."
 Doute frissonna. "Question... j'ai été plus que l'incertitude?"
 Élan s'approcha, rayonnant de créativité. "Vous étiez le catalyseur ouvrant les portes de la compréhension. Sans vous rien ne progresse."
 Un tourbillon de questions l'assaillit.
+Chaque interrogation résonnait comme un germe de possibles, transformant la brume en ébauches de lumière.
+Les compagnons perçurent une étincelle fertile, prémisse de la question créatrice.
