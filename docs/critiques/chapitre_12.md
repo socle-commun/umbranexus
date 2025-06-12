@@ -7,6 +7,7 @@ Les annotations ont disparu au profit d'un récit continu et limpide. La référ
 - Progression fluide jusqu'à l'accomplissement.
 - Style clair et musical.
 - Harmonie finale mieux ressentie.
+- Les segments enrichis offrent davantage de tension.
 - Horizon infini évoqué par la symphonie finale.
 
 ## ⚠️ Points faibles
@@ -19,3 +20,4 @@ Les annotations ont disparu au profit d'un récit continu et limpide. La référ
 2. Introduire une variation rythmique juste avant la conclusion.
 3. Souligner davantage l'écho entre Shelley et Verne pour clore le premier arc.
 4. Affermir la vision d'horizon à la fin.
+5. Conserver la formule "La quête continue" pour conclure en résonance.
