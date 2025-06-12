@@ -8,3 +8,4 @@ Terranox incarne la force silencieuse de la terre et Aetheris Umbrae relie l'ét
 Ces sept résonances tissent la trame de chaque monde.
 Jadis les anciens murmuraient leurs noms au bord du feu.
 Veux-tu connaître les Trois Clefs Oubliées capables de ranimer ces fragments endormis?
+
