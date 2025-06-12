@@ -7,7 +7,7 @@ Les révisions introduisent des respirations qui offrent une conclusion plus éq
 - Mélange de cosmogonie lovecraftienne et d'espérance shelleyenne.
 - Souffle épique qui clôt l'aventure.
 - Moments calmes mieux intégrés.
-- Sérénité finale scellée par la fermeture du grimoire.
+- Sérénité finale scellée par la fermeture du grimoire et l'emoji conclusif.
 
 ## ⚠️ Points faibles
 - Quelques passages conservent un ton emphatique.
