@@ -21,3 +21,4 @@ Les images majestueuses soutiennent la portée cosmique, mais la syntaxe reste p
 3. Exploiter davantage l'influence calvinienne pour ouvrir les horizons.
 4. Préciser la portée de la communion annoncée.
 5. Développer la préparation à l'Éternité pour souligner la richesse du Monde partagé.
+6. Veiller à ce que la conclusion révisée annonce clairement le Chapitre 23.

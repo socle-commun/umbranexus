@@ -6,4 +6,5 @@ Individualité indiqua un nouveau portail, plus vaste que les précédents.
 « C'est la route vers l'Éternité », souffla-t-elle.
 Tous acquiescèrent, prêts à franchir ce seuil décisif.
 Ils savourèrent une dernière fois la richesse de ce Monde avant d'avancer.
+Ils franchirent alors le portail, plongeant vers l'Éternité que dévoilera le chapitre suivant.
 🌌🕯️
