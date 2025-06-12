@@ -13,9 +13,11 @@ Le ton méditatif invite à la contemplation. Les images d'infini ont été réd
 - Images d'infini encore redondantes.
 - Bénédiction des Anciens un peu longue.
 - Clôture retarde l'éclat libérateur.
+- Passage vers le vortex manque d'intensité.
 
 ## 📈 Pistes d'amélioration
 1. Varier davantage les métaphores de l'infini.
 2. Condenser la bénédiction pour laisser résonner la perspective finale.
 3. Insuffler un souffle lumineux à la Shelley pour renforcer la rédemption.
 4. Simplifier le passage final pour accentuer la perspective.
+5. Renforcer la mémoire collective pour préparer l'accès au portail final.

@@ -73,3 +73,4 @@ En dévoilant les illusions, ce chapitre invite à une lucidité indispensable. 
 - Renforcement des outils de discernement
 - Abandon des voies illusoires
 - Poursuite de la quête avec clarté et détermination
+- La cinquième partie ouvre sur l'apparition du Soleil et conclut l'apprentissage des illusions.

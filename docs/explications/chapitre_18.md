@@ -73,3 +73,4 @@ Ce chapitre illustre que l'individualité enrichit la conscience commune. L'Éto
 - Encouragement à développer les talents singuliers
 - Maintien d'un dialogue respectueux entre toutes les voies
 - Consolidation d'une mosaïque collective harmonieuse
+- La cinquième partie relie l'Étoile aux illusions lunaires et prépare la confrontation avec celles-ci.

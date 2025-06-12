@@ -73,3 +73,4 @@ Le chapitre souligne que le doute est fertile lorsqu'il s'accompagne d'une quêt
 - Adoption d'une attitude introspective constructive
 - Innovation fondée sur l'expérimentation
 - Capacité à modifier le cours de la mission en fonction des révélations
+- La nouvelle partie scelle la guérison du doute et prépare l’entrée dans la Maison Dieu.

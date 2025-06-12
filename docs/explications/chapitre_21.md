@@ -77,3 +77,4 @@ Le Jugement libère la conscience des poids anciens et ouvre la voie d'une renai
 - La Lueur évoque l'appel d'une nouvelle dimension.
 - Elle prépare psychologiquement Noctuvian à quitter la salle du Jugement.
 - Cette étape introduit une tension apaisée qui annonce le chapitre suivant.
+- La cinquième partie confirme cette transition et met en lumière la carte révélée par Akasha.

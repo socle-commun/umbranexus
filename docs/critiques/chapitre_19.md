@@ -13,9 +13,11 @@ La tonalité nocturne enveloppe le chapitre d'une ambiance envoûtante. Les imag
 - Métaphores lunaires parfois redondantes.
 - Clarté inégale entre faits et hypothèses.
 - Lueur finale trop atténuée.
+- Transition vers le Soleil encore hâtive.
 
 ## 📈 Pistes d'amélioration
 1. Concentrer les métaphores sur quelques symboles forts.
 2. Introduire un éclairage calvinien pour varier la tonalité.
 3. Distinguer avec précision la réalité de l'illusion.
 4. Renforcer la cohérence entre lune et mirages dissipés.
+5. Travailler la liaison vers le Soleil pour rendre la dissipation des mirages plus marquante.

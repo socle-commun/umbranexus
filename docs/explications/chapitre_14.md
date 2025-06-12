@@ -73,3 +73,4 @@ Ce chapitre montre comment la colère sublimée devient une source puissante de 
 - Développement de techniques de transmutation émotionnelle
 - Consolidation de la cohésion par la passion partagée
 - Exploration de nouveaux possibles grâce à cette force émergente
+- La nouvelle partie oriente le groupe vers la prochaine dimension en soulignant la maîtrise de la colère.

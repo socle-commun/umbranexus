@@ -13,9 +13,11 @@ La montée vers l'illumination se nuance d'ombres bienvenues. Les images mystiqu
 - Emphase lumineuse encore présente par endroits.
 - Symboles mystiques parfois abondants.
 - Fin davantage commentée que vécue.
+- La nouvelle ouverture semble précipitée.
 
 ## 📈 Pistes d'amélioration
 1. Affiner l'équilibre entre lumière et ombre.
 2. Introduire une nuance baudelairienne pour complexifier l'émotion.
 3. Reserrer les images pour maintenir la cohérence.
 4. Placer le lecteur au cœur de l'éclat final.
+5. Travailler l'élan lumineux vers le Jugement pour fluidifier la montée vers l'illumination.

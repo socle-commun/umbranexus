@@ -73,3 +73,4 @@ Ce chapitre offre une vision éclairée de l'avenir, guidée par la transparence
 - Maintien d'une vision claire et durable
 - Mise en œuvre de la voie unifiée
 - Expansion du rayonnement bienveillant
+- La cinquième partie projette Noctuvian vers le Jugement tout en affirmant la fusion lumière-ombre.
