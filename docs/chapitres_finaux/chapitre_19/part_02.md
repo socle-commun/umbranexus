@@ -1,6 +1,6 @@
 demanda-t-elle.
 "Une possibilité", répondit Individualité, "une façon de percevoir qui n'existait pas avant."
-Autour d'eux, la clarté nocturne révèle des cités éphémères, comme des mirages de sommeil.
+Autour d'eux, la clarté nocturne révèle des cités éphémères sous la Lune immobile, comme des mirages de sommeil.
 Le monde montra des êtres se révélant sans cesse, évoluant vers de nouvelles formes de vérité, dans une danse perpétuelle.
 "C'était impossible avant", expliqua Aether, "avant que la solitude ne vienne tout isoler."
 "Mais maintenant", poursuivit Nox, "tout est possible : nous pouvons révéler naturellement."

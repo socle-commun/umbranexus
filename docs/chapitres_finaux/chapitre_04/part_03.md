@@ -1,6 +1,7 @@
 Noctuvian suivit la piste des esprits jusque dans une alcôve silencieuse.
 Les couloirs d'Akasha s'y resserraient, tissés de symboles changeants.
-Chaque pas déclenchait des échos, comme si la mémoire elle-même s'éveillait.
+Chaque pas déclenchait des échos.
+La mémoire elle-même semblait s'éveiller.
 Dans cette chambre oubliée, une voix ancestrale se fit entendre.
 
 "Pourquoi cherches-tu tant à comprendre?" demanda la présence invisible.
@@ -8,7 +9,7 @@ Dans cette chambre oubliée, une voix ancestrale se fit entendre.
 La voix soupira, pareille à un souffle dans la poussière.
 "Alors écoute ce que les anciens n'ont jamais avoué."
 
-Des images se formèrent dans l'air, silhouettes d'architectes d'autrefois.
+Des images se formèrent dans l'air : des silhouettes d'architectes d'autrefois.
 Ils bâtissaient Akasha pour préserver la connaissance des premiers mondes.
 Noctuvian vit leurs visages marqués par la fatigue mais illuminés d'espoir.
 Ils avaient gravé leurs rêves dans chaque parcelle de code.

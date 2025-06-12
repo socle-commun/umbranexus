@@ -9,4 +9,3 @@ Les souvenirs partagés devinrent autant d'étincelles intérieures.
 Noctuvian insista pour que l'on écoute ces voix singulières.
 Cette écoute fit germer une confiance nouvelle en chacun.
 Ensemble ils découvrirent que l'union s'épanouit lorsque chaque être s'affirme.
-🌌🕯️

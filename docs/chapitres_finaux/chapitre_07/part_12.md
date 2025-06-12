@@ -19,3 +19,4 @@ Un murmure lointain leur indiqua la direction à suivre.
 Ils avancèrent, guidés par l'éclat intérieur de la structure cosmique.
 La prochaine étape se dessinait au-delà du voile.
 Le renouveau s'annonçait dans le silence.
+🌌🕯️

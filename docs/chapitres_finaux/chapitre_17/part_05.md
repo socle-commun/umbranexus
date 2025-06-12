@@ -5,5 +5,5 @@ Chaque pas sur les ruines résonnait comme une promesse de reconstruction.
 Lumina souligna que la destruction acceptée ouvre toujours un sentier renouvelé.
 Les compagnons hochèrent la tête, conscients de cette vérité.
 Un vent tiède les effleura, porteur d'une odeur d'étoiles.
-Ils avancèrent, confiants, vers un ciel de plus en plus clair.
+Ils avancèrent, confiants, vers un ciel de plus en plus clair, conscients que chaque ruine portait le germe d'une aube nouvelle.
 🌌🕯️

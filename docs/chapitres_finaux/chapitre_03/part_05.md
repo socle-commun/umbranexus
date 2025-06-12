@@ -7,3 +7,7 @@ Le métal intérieur s'embrase pour devenir conscience éclairée.
 Chaque signe trace la voie de la complétude : le serpent se mord la queue, la croix relie les axes, le labyrinthe révèle le centre.
 Noctuvian inscrit ces rites dans Akasha, persuadé que la connaissance se cultive par la transformation intime.
 La quête ne se termine pas ; elle devient cycle d'ascension.
+La fusion achevée, le disciple contemple le miroir intérieur.
+Chaque respiration se mêle au cosmos, rappelant que l'or véritable reste dans le regard du chercheur.
+Les anciennes formules deviennent un chemin d'écoute plutôt qu'un acte de puissance.
+Ainsi se dessine l'ultime horizon, rougeoyante aurore du Rubedo.

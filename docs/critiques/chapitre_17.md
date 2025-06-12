@@ -7,7 +7,7 @@ La narration se concentre sur des visions de ruine marquantes. L'ajout de la not
 - Contraste net entre désolation et renaissance.
 - Souffle original de la « ruine créatrice ».
 - Rythme globalement plus fluide.
-- Ruine créatrice ouvrant sur un horizon obscur.
+- Conclusion retravaillée faisant jaillir une aube nouvelle des ruines.
 
 ## ⚠️ Points faibles
 - Transitions encore abruptes par endroits.
@@ -20,4 +20,4 @@ La narration se concentre sur des visions de ruine marquantes. L'ajout de la not
 2. Renforcer l'impact émotionnel de la reconstruction.
 3. Poursuivre l'équilibre entre poésie et clarté narrative.
 4. Raffermir l'idée de reconstruction totale.
-5. Mieux intégrer l'élan vers Solitude pour renforcer la continuité.
+5. Mieux intégrer la transition vers Solitude, désormais annoncée par une aube prometteuse.
