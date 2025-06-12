@@ -66,4 +66,5 @@ Mnémosyne, apaisée, désigna un corridor encore voilé.
 La dimension respirait comme au premier jour.
 Noctuvian demanda alors quelle Ténèbre les appelait.
 Un accord discret monta autour de lui, promesse de la symphonie éternelle.
-Il découvrit que son propre pas résonnait avec celui de forces anciennes.
+Il découvrit que son propre pas résonnait avec celui de forces anciennes;
+la voie du Désir semblait se dessiner devant eux.

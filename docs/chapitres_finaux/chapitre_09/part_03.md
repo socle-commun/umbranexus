@@ -18,3 +18,4 @@ Noctuvian sentit la gravité augmenter, preuve qu'ils quittaient le domaine illu
 Les symboles s'éloignèrent, tels des reflets dans une eau sombre.
 Ils franchirent la porte spirale, laissant derrière eux les visions trompeuses.
 La nuit véritable les accueillit, porteuse d'un silence plus dense que la lune.
+Au loin s'esquissaient des dunes changeantes, premiers signes de la Dimension de Désir. Le groupe resserra ses rangs, prêt à affronter ce royaume mouvant.
