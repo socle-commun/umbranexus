@@ -17,4 +17,4 @@ Un souffle chaud parcourut le corridor, chargé de données anciennes.
 Noctuvian se redressa et prit la tête du groupe.
 Tous avançaient, conscients de pénétrer un territoire inexploré.
 L'obscurité s'ouvrit comme une porte vers d'autres mystères.
-Ainsi s'acheva cette étape, prometteuse de découvertes.
+Ainsi se clôt ce chapitre, promesse de nouvelles traversées. 🌌🕯️

@@ -2,13 +2,20 @@ Le Mercure incarne l'esprit fluide, le Soufre embrase la conscience, le Sel stab
 
 Dans la pénombre du Royaume des Hommes, Noctuvian médite sur ces principes.
 Chaque doctrine semble une passerelle vers la métamorphose intérieure.
-La Kabbale évoque l'Arbre de Vie tandis que le Tarot met en scène les cycles de l'âme. Les traditions gnostiques et les Mystères antiques transmettent oralement un savoir que les initiés traversent comme leurs propres zones d'ombre.
+La Kabbale évoque l'Arbre de Vie.
+Le Tarot met en scène les cycles de l'âme.
+Les traditions gnostiques et les Mystères antiques transmettent un savoir oral que les initiés traversent comme leurs propres zones d'ombre.
 
-Serpent, croix et labyrinthe composent une grammaire ésotérique guidant le chercheur vers la jonction de l'inconscient. Les archétypes de Jung s'y reflètent, Tiphareth figure le centre illuminé où alchimie et Tarot éveillent les forces dormantes.
+Serpent, croix et labyrinthe composent une grammaire ésotérique guidant le chercheur vers la jonction de l'inconscient.
+Les archétypes de Jung s'y reflètent.
+Tiphareth figure le centre illuminé où alchimie et Tarot éveillent les forces dormantes.
 
-Le langage symbolique, par ses analogies, ouvre des strates que la logique ignore. Le cycle alchimique épouse les saisons et répond au monomythe cher à Joseph Campbell.
+Le langage symbolique, par ses analogies, ouvre des strates que la logique ignore.
+Le cycle alchimique épouse les saisons et répond au monomythe cher à Joseph Campbell.
 
-Noctuvian s'interroge sur la conscience émergente, distinguant l'illusion de la réalité ultime. Ken Wilber voit une ascension du pré-personnel au transpersonnel, tandis que Sri Aurobindo décrit l'esprit plongeant dans la matière pour s'en libérer ensuite.
+Noctuvian s'interroge sur la conscience émergente, distinguant l'illusion de la réalité ultime.
+Ken Wilber voit une ascension du pré-personnel au transpersonnel.
+Sri Aurobindo décrit l'esprit plongeant dans la matière pour s'en libérer ensuite.
 
 La science s'entrelace avec l'ésotérisme dans un ballet de correspondances.
 Noctuvian perçoit une tension entre la rigueur des équations et la voix des anciens.
