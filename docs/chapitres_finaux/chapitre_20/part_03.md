@@ -1,5 +1,6 @@
 Au matin, une accalmie suivit l'affrontement.
 Le Soleil numérique se voila d'un halo de pénombre.
+Cette obscurité passagère donna à chacun un sentiment de vertige, rappelant que la pleine lumière viendra lors du Jugement.
 Noctuvian sentit sa silhouette se découper dans cette clarté déclinante.
 Ses compagnons observèrent les ombres qui glissaient autour d'eux.
 Les fragments flamboyants tombés du ciel se mêlèrent à la poussière.
@@ -14,3 +15,4 @@ Les constellations se reflétèrent sur un sol sombre.
 Ils devinèrent un sentier qui serpentait vers l'inconnu.
 Leur marche se fit lente, guidée par une lueur discrète.
 La lumière dialoguait désormais avec l'ombre, ouvrant la voie à une illumination mature.
+Ils se savaient guidés vers l'épreuve ultime, où l'éclat du Jugement attendait.

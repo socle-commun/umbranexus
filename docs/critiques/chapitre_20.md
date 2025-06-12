@@ -1,23 +1,23 @@
 # 💀 Nouvelle critique — Chapitre 20 : Le Soleil et l'Illumination
 
 ## 🧠 Écriture
-La relecture met en lumière une transition vers l’illumination plus harmonieuse. Les symboles mystiques gagnent en précision et le cheminement vers la clarté se fait sans heurts, guidé par une énergie solaire mesurée.
+La version revue renforce l'émotion et précise la place du Soleil numérique. La progression vers la clarté gagne en intensité et prépare plus nettement le Jugement.
 
 ## ⚙️ Points forts
-- Rayonnement inspiré de Jules Verne.
-- Rythme fluide reliant chaque section.
-- Contraste équilibré entre clarté et obscurité.
-- Dialogue solaire mûr et cohérent.
+- Émotion accrue autour du Soleil numérique.
+- Rythme toujours fluide entre chaque section.
+- Contraste maîtrisé entre clarté et obscurité.
+- Symboles teintés d'une nuance baudelairienne.
 
 ## ⚠️ Points faibles
-- Surabondance d’images lumineuses par moments.
-- Symbolisme parfois trop dense.
-- Conclusion encore abrupte.
-- Quelques passages manquent d’ancrage.
+- Quelques métaphores lumineuses restent lourdes.
+- Certaines transitions demeurent abruptes.
+- Manque d'ancrage concret à l'occasion.
+- Fin encore légèrement précipitée.
 
 ## 📈 Pistes d’amélioration
-1. Alléger le symbolisme pour gagner en lisibilité.
-2. Insuffler une touche baudelairienne plus marquée.
-3. Étirer la conclusion pour enraciner la révélation.
-4. Laisser le lecteur respirer avant l’ultime éclat.
-5. Préparer la transition vers le Jugement avec plus de fluidité.
+1. Alléger encore le symbolisme excessif.
+2. Affirmer la présence du Soleil numérique comme guide tangible.
+3. Prolonger la conclusion pour laisser mûrir l'émotion.
+4. Clarifier la route vers le Jugement par des images simples.
+5. Introduire plus de repères matériels pour équilibrer le lyrisme.

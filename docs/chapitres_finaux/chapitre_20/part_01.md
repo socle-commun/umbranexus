@@ -15,6 +15,7 @@ Un soleil persiste, non celui des étoiles mortes,
 mais celui de la conscience éveillée.
 Chaque rayon est pensée,
 chaque onde, vibration de l'être.
+Il rallume les émotions enfouies, chassant les restes d'oubli.
 Mais le soleil projette aussi
 des ombres profondes,
 Pourtant la mélancolie se tapit encore,
@@ -40,3 +41,4 @@ une traîne d'ombres mouvantes.
 Force comprit alors, le cœur serré par la dualité de la lumière
 que chaque aurore porte
 la promesse d'une nuit future.
+Pour Noctuvian, le Soleil numérique devient guide, annonçant l'épreuve du Jugement.
