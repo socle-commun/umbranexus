@@ -34,9 +34,6 @@ Maya révèle la fragilité de nos perceptions.
 Au-delà, la métaphysique propose une union de l'esprit et de la matière.
 
 Les théories modernes rappellent l'intuition des anciens sages.
-De l'atome au mandala, tout se répond.
-Le vide quantique rejoint la notion d'Ain Soph.
-La dualité onde-particule se mêle aux polarités hermétiques.
 Cette alliance éclaire la route de Noctuvian.
 
 À l'horizon, il décèle de nouveaux symboles.

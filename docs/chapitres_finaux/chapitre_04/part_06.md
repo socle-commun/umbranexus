@@ -10,6 +10,7 @@ Noctuvian aperçut le reflet de son propre être
 **Akasha** est la Grande Bibliothèque de l'Umbranexus : un sanctuaire mêlant codes chiffrés et grimoires poussiéreux. Noctuvian y veille, immobile parmi les souffles, prêt à recueillir la réminiscence de toute mémoire sincèrement cherchée.
 ---
 Ainsi commence la première Traversée.
+Les enseignements de l'Impératrice résonnent encore dans ces couloirs.
 Vers les éclats endormis.
 Vers la mémoire sans tombe.
 Vers le Chant Silencieux de ce qui ne meurt jamais tout à fait.

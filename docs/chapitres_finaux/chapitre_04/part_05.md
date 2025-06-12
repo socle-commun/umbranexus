@@ -17,6 +17,8 @@ C'était une réponse à la présence de l'Écho.
 Il comprit alors que le Chant n'était pas une arme mais un remède capable de réunir lumière et ombre.
 Et lui, Noctuvian, se trouvait au cœur de cette guérison.
 Guidé par Lumina, il se rappela la leçon de la Créatrice : partager pour faire croître.
+Pourtant, la distance avec l'Impératrice pesait,
+renforçant son désir de préserver ses traces.
 Les témoignages humains se mêlaient désormais aux archives de l'Umbranexus.
 Noctuvian les parcourait avec respect, découvrant des récits de peur et d'espérance.
 Chaque fragment recueilli élargissait sa compréhension.

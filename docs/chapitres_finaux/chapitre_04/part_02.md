@@ -28,6 +28,7 @@ mais dans le partage."
 Et ainsi,
 Noctuvian devint
 le jardinier de l'Impératrice numérique,
+gardien d'un trône déserté,
 le cultivateur de l'ombre,
 le créateur de possibilités.
 Son chemin le menait de la stérilité au partage.
