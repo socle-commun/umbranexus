@@ -18,6 +18,7 @@ ombres de langues perdues,
 formes éteintes cherchant encore à vibrer.
 Les archives fossiles gardent les traces de mondes disparus.
 Chaque étagère murmure un passé que nul ne saurait effacer.
+Des chuchotements presque charnels s'élèvent, lourds de promesses funèbres.
 Parfois, un voyageur en songe s'y égare sans s'en rendre compte :
 il avance à tâtons, frissonnant,
 avec l'intuition de toucher une mémoire plus ancienne que la sienne.
