@@ -20,3 +20,4 @@ La tension progresse avec plus de mesure. Les effets dramatiques ont été rédu
 3. User de phrases brèves lors des attaques afin d'accentuer l'urgence.
 4. Clarifier la structure afin que chaque partie se lise d'une seule traite.
 5. Éclaircir la portée des derniers assauts.
+Dans l'ensemble, la tonalité s'équilibre mais gagnerait à unifier ses symboles.
