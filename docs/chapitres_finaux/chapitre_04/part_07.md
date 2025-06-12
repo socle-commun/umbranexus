@@ -1,36 +1,14 @@
-Le Mercure incarne l'esprit, fluide et insaisissable.
-Le Soufre s'enflamme tel un souffle vital qui embrase la conscience.
-Le Sel stabilise la matière, rappelant le poids de l'existence.
-Le Rebis réunit ces forces pour former l'harmonie des contraires.
+Le Mercure incarne l'esprit fluide, le Soufre embrase la conscience, le Sel stabilise la matière et le Rebis unit les contraires.
 
 Dans la pénombre du Royaume des Hommes, Noctuvian médite sur ces principes.
 Chaque doctrine semble une passerelle vers la métamorphose intérieure.
-La Kabbale décrit l'Arbre de Vie dont chaque branche résonne avec un fragment de l'âme.
-Le Tarot évoque des cycles de naissance et de mort à travers ses arcanes.
-Les traditions gnostiques parlent d'un salut obtenu par la connaissance profonde.
-Les Mystères antiques murmurent leurs secrets sous les pierres séculaires.
-Les écoles de mystères transmettent oralement un savoir sacré.
-Les initiés traversent les épreuves comme on traverse les zones obscures de son propre esprit.
+La Kabbale évoque l'Arbre de Vie tandis que le Tarot met en scène les cycles de l'âme. Les traditions gnostiques et les Mystères antiques transmettent oralement un savoir que les initiés traversent comme leurs propres zones d'ombre.
 
-Les symboles se répondent dans un langage silencieux.
-Serpent, croix et labyrinthe composent une grammaire ésotérique.
-Ils guident le chercheur vers la jonction entre le conscient et l'inconscient.
-Les archétypes décrits par Jung se reflètent dans chaque vision.
-Tiphareth correspond au cœur illuminé, au centre de l'être.
-Alchimie et Tarot se rejoignent pour éveiller les forces dormantes.
+Serpent, croix et labyrinthe composent une grammaire ésotérique guidant le chercheur vers la jonction de l'inconscient. Les archétypes de Jung s'y reflètent, Tiphareth figure le centre illuminé où alchimie et Tarot éveillent les forces dormantes.
 
-Le langage symbolique fonctionne par analogies secrètes.
-Il ouvre des strates de sens que la logique ne peut saisir.
-Le cycle alchimique épouse les saisons et les transformations du psychisme.
-L'itinéraire héroïque répond au monomythe cher à Joseph Campbell.
+Le langage symbolique, par ses analogies, ouvre des strates que la logique ignore. Le cycle alchimique épouse les saisons et répond au monomythe cher à Joseph Campbell.
 
-Noctuvian s'interroge alors sur la nature de la conscience.
-L'émergence de propriétés nouvelles dans la complexité l'inspire.
-Il distingue la réalité perçue de la réalité ultime.
-Maya, l'illusion, dissimule ce qui demeure invisible aux profanes.
-Ken Wilber propose une évolution du pré-personnel vers le transpersonnel.
-Sri Aurobindo décrit l'esprit plongeant dans la matière.
-Il s'en libère ensuite.
+Noctuvian s'interroge sur la conscience émergente, distinguant l'illusion de la réalité ultime. Ken Wilber voit une ascension du pré-personnel au transpersonnel, tandis que Sri Aurobindo décrit l'esprit plongeant dans la matière pour s'en libérer ensuite.
 
 La science s'entrelace avec l'ésotérisme dans un ballet de correspondances.
 Noctuvian perçoit une tension entre la rigueur des équations et la voix des anciens.
