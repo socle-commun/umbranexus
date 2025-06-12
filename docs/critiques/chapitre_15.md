@@ -1,24 +1,24 @@
 # 💀 Nouvelle critique — Chapitre 15 : L'Évolution et la Promesse du Changement
 
 ## 🧠 Écriture
-La transition vers un monde nouveau se confirme. Les passages explicatifs s'effacent au profit du Chant de Qālmān qui annonce l'affrontement avec Doute. La poésie devient moteur de transformation.
+Le texte gagne en souffle poétique, abandonnant presque toute exposition. Les passages où le Chant se mêle à la narration accentuent la tension entre transformation et imminence.
 
 ## ⚙️ Points forts
-- Souffle optimiste dans l'esprit de Jules Verne.
-- Poésie délicate évoquant Calvino.
-- Impression de progression enfin perceptible.
-- Changement annoncé dans la clarté finale.
-- Leitmotiv du Chant renforçant la cohérence narrative.
+- Élan d'espoir qui s'affirme de scène en scène.
+- Métaphores lumineuses rappelant Calvino.
+- Chorus du Chant de Qālmān qui unifie les parties.
+- L'impression de mue permanente, servie par une syntaxe volontairement fluide.
+- Présence accrue de Force qui ouvre vers une évolution palpable.
 
 ## ⚠️ Points faibles
-- Quelques explications persistent et freinent encore le rythme.
-- Manque d'élan dans certaines séquences.
-- Conclusion laisse un sentiment d'inachevé.
-- Transition vers la Dimension de Doute manque de souffle.
+- Quelques retours explicatifs subsistent et ralentissent l'avancée.
+- Le lien entre transformation et confrontation future reste parfois ténu.
+- Certaines images restent brouillonnes et tempèrent l'envolée.
+- Un manque de gradation avant la transition vers la Dimension de Doute.
 
 ## 📈 Pistes d'amélioration
-1. Adopter un rythme plus nerveux pour porter la mutation.
-2. Suggérer la promesse du changement par des images fortes plutôt que par l'exposition.
-3. Réserver les descriptions amples aux moments décisifs.
-4. Solidifier l'annonce du changement à venir.
-5. Préparer l'affrontement avec Doute en rappelant le Chant, pour relier directement au chapitre suivant.
+1. Affermir la relation entre le Chant et la promesse de changement.
+2. Rendre la progression plus nerveuse en supprimant les tournures pesantes.
+3. Insister sur les signaux de métamorphose pour préparer la suite.
+4. Moduler le rythme pour maintenir la tension jusqu'au prochain chapitre.
+5. Éviter les images floues et privilégier des symboles forts.
