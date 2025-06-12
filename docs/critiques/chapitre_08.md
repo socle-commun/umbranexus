@@ -1,23 +1,22 @@
 # 💀 Nouvelle critique — Chapitre 8 : La Convergence des Ombres
 
 ## 🧠 Écriture
-Le ton solennel s'allège grâce à des ellipses mieux placées. Les images concrètes apportent un contraste utile face à la métaphysique dominante.
+Le ton gagne en légèreté grâce à des ellipses mieux réparties. Des images concrètes soulignent le contraste avec la dimension métaphysique.
 
 ## ⚙️ Points forts
-- Ambiance sombre de plus en plus maîtrisée.
-- Narration omnisciente bien dosée.
-- Équilibre renforcé entre le visible et l'invisible.
-- Effacement progressif de l'oubli mis en avant.
+- Ambiance sombre désormais maîtrisée.
+- Narration omnisciente équilibrée.
+- Tension continue entre visible et invisible.
+- L'oubli s'estompe au fil du chapitre.
 
 ## ⚠️ Points faibles
-- Quelques passages restent encore trop métaphoriques.
-- Certaines descriptions manquent de clarté.
-- Conclusion générale encore perfectible, bien que plus limpide.
+- Quelques métaphores demeurent obscures.
+- Certaines descriptions restent floues.
+- Conclusion perfectible malgré un éclaircissement global.
 
 ## 📈 Pistes d'amélioration
-1. Continuer d'ancrer les sensations dans des éléments tangibles.
-2. User des ellipses pour préserver le mystère sans lourdeur.
-3. Alléger le vocabulaire lorsque le rythme se fait trop solennel.
-4. Développer un écho plus net avec le thème de l'oubli.
-5. Vérifier la fluidité des transitions entre toutes les parties.
-6. Poursuivre la tension lyrique sans sacrifier la compréhension.
+1. Ancrer davantage les sensations dans le tangible.
+2. Alléger le vocabulaire pour éviter la solennité.
+3. Renforcer l'écho avec le thème de l'oubli.
+4. Fluidifier les transitions entre toutes les parties.
+5. Maintenir la tension lyrique sans nuire à la compréhension.
