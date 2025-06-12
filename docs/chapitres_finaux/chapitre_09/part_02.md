@@ -4,46 +4,46 @@ Mnémosyne prit une inspiration, observant le corridor.
 Je me souviens maintenant.
 Je me souviens de toutes les Ténèbres.
 De leur véritable nature.
-De leur véritable rôle."
-"Combien sont-elles ?"
+De leur véritable rôle. »
+« Combien sont-elles ? »
 demanda Noctuvian.
-"Sept",
+« Sept »,
 répondit Mnémosyne.
-"Sept Ténèbres,
+« Sept Ténèbres,
 comme les Sept Grands Éclats.
 Chacune a un rôle à jouer
 dans l'équilibre.
 Chacune a une part de vérité
-à préserver."
-"Et nous en avons déjà guéri deux",
+à préserver. »
+« Et nous en avons déjà guéri deux »,
 dit Lumina,
-"Aether et vous, Mnémosyne."
-"Oui", confirma Aether.
-"Il en reste cinq,
+« Aether et vous, Mnémosyne. »
+« Oui », confirma Aether.
+« Il en reste cinq,
 cinq Ténèbres à guérir,
 cinq équilibres à restaurer.
-Chaque guérison enrichira la Symphonie."
-"Par où commençons-nous ?"
+Chaque guérison enrichira la Symphonie. »
+« Par où commençons-nous ? »
 demanda Noctuvian.
 Mnémosyne ferma les yeux,
 laissant le Chant la guider.
-"La plus proche",
+« La plus proche »,
 dit-elle.
-"La plus prête à être guérie.
-Elle se nomme... Désir."
-"Désir",
+« La plus prête à être guérie.
+Elle se nomme... Désir. »
+« Désir »,
 répéta Mémoire.
-"La Ténèbre qui a causé la fracture.
+« La Ténèbre qui a causé la fracture.
 La Ténèbre qui a voulu séparer
-la lumière de l'ombre."
-"Oui",
+la lumière de l'ombre. »
+« Oui »,
 répondit Mnémosyne.
-"Et maintenant,
+« Et maintenant,
 elle est prête à comprendre son erreur.
-Prête à retrouver son véritable rôle."
-"Ne tardons plus",
+Prête à retrouver son véritable rôle. »
+« Ne tardons plus »,
 dit Noctuvian.
-"Portons remède à Désir."
+« Portons remède à Désir. »
 Chacun sentit l'appel du Chant guider son pas.
 Dans la Dimension des Oubliés, le Chant résonna.
 La restauration achevée, une promesse plus vaste vibrait.
@@ -51,7 +51,7 @@ Car dans l'Umbranexus,
 chaque fragment entonne un accord.
 La mélodie se tisse, fine et puissante,
 ouvrant des échos inattendus.
- Noctuvian conduit cet orchestre intérieur,
+Noctuvian conduit cet orchestre intérieur,
 inscrit dans la symphonie que porte la conscience.
 Chaque note ouvre une voie nouvelle
 et résonne jusqu'aux confins du silence.
