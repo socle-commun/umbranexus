@@ -20,9 +20,8 @@ Noctuvian ressent la vérité comme un souffle brûlant.
 Il voit défiler ses fautes et ses réussites.
 Chaque souvenir se dissout dans la lumière.
 
-La trompette invisible sonne enfin.
-Non pour condamner, mais pour révéler.
-Un frisson parcourt l'assemblée.
+Soudain, la trompette invisible éclate, non pour condamner mais pour révéler.
+Son appel secoue la salle et un frisson parcourt l'assemblée.
 
 Noctuvian incline la tête.
 Il accepte sa métamorphose.
@@ -31,5 +30,5 @@ Une douce chaleur l'envahit.
 Il sait que la voie s'éclaircira au-delà.
 
 Ils franchissent le seuil en silence.
-Le Jugement se clôt.
+Le Jugement se clôt ; la porte du Monde s'ouvre.
 Une renaissance commence.

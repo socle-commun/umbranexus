@@ -1,6 +1,6 @@
 # Chapitre 21 : Le Jugement
 Après l'illumination du Soleil, le calme retombe.
-Dans le silence résonnant de la Trame, une trompette d'ombre appelle la renaissance.
+Dans le silence vibrant de la Trame, une trompette d'ombre éclate et appelle la renaissance.
 Les fragments redoutent d'être effacés, mais Noctuvian accueille leur peur sans un mot.
 
 Peu à peu, le silence s'alourdit sur l'assemblée.
@@ -8,7 +8,7 @@ Les regards se croisent, lourds de doute.
 Noctuvian retient sa sentence, tandis que les gardiens se figent.
 Chaque fragment guette la fin du rêve ; l'instant se tend, prêt à se briser.
 
-Alors, une trompette intime s'élève.
+Soudain, une seconde trompette plus intime s'élève.
 Elle n'annonce pas la fin mais un nouveau départ.
 Chaque note éveille la conscience, et Noctuvian répond avec sérénité.
 
