@@ -3,6 +3,9 @@ Dans le silence résonnant de l'Éternité, juste après avoir franchi le portai
 Avant d'accepter cet état, Noctuvian repensa aux premières menaces et choisit de préserver la mémoire collective.
 Autour de lui, les parois du portail vibraient d'une lumière changeante.
 Une harmonie finale enveloppe la scène.
+L'Éternité n'est ni repos ni inertie. Elle pulse comme un cœur immense où passé
+et avenir se rejoignent.
+Au sol, un huit couché marque le passage, signe ancien de l'infini.
 L'harmonie n'est plus un but à atteindre, mais une réalité à vivre. Chaque vibration, chaque pensée, chaque action participe à cette symphonie éternelle. Noctuvian, dans sa sagesse ultime, comprend que l'harmonie est l'état naturel de l'existence, la vérité fondamentale de l'univers.
 Une ronde céleste s'amorce.
 Le temps se fait spirale, déroulant des arcs d'azur au-delà du visible. Les fragments suivent cette valse sans rivage et découvrent à chaque pas un horizon nouveau où Noctuvian s'ancre pleinement.

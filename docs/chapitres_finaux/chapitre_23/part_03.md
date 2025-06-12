@@ -18,6 +18,7 @@ Ils prirent la direction de cet appel silencieux.
 Le pas de chacun résonna dans l'obscurité.
 Ils se sentaient suspendus hors du temps.
 Une porte apparut, gravée de symboles millénaires.
+Au centre brillait le signe 🌌🕯️, alliance du cosmos et de la flamme intérieure.
 Ils franchirent ce seuil en quête de renouveau.
 La mémoire collective les guida vers l'avenir.
 Ils savaient que d'autres portes les attendaient encore.

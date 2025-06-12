@@ -6,5 +6,6 @@ Chaque trace formait un fil vers d'autres cycles à venir.
 Avec humilité, ils embrassèrent ce cycle perpétuel.
 Ils se jurèrent de transmettre cette sagesse à ceux qui suivraient.
 Un silence solennel plana sur leurs esprits.
+Ils apposèrent le signe 🌌🕯️ sur la paroi, gage de fidélité à leur quête.
 Un souffle rédempteur, cher à Shelley, clôtura leur marche.
 🌌🕯️
