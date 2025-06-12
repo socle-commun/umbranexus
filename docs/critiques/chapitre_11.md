@@ -1,22 +1,22 @@
 # 💀 Nouvelle critique — Chapitre 11 : Les Perspectives
 
 ## 🧠 Écriture
-Le ton contemplatif ralentit volontairement le récit. Les descriptions ont été allégées, laissant la suggestion guider la découverte des Clés de mémoire.
+La narration se fait plus introspective et souligne l’union des contraires. Les images se développent avec lenteur pour évoquer l’équilibre recherché.
 
 ## ⚙️ Points forts
-- Horizon d'exploration inspiré de Jules Verne.
-- Sensibilité mélancolique proche de Shelley.
-- Dimension mythique renforcée par les Clés.
-- Quatre Ténèbres restantes entretiennent la tension.
+- Quête d’équilibre bien intégrée au fil des tableaux.
+- Musicalité discrète rappelant les influences poétiques.
+- Atmosphère élargie par l’usage de fragments alchimiques.
+- Dialogues sobres laissant place à la suggestion.
 
 ## ⚠️ Points faibles
-- Encore quelques longueurs descriptives.
-- Peu de ruptures poétiques marquées.
-- Dernier paragraphe manque la résonance poétique des chapitres précédents.
+- Quelques passages manquent de tension rythmique.
+- L’enchaînement final entre lumière et ombre reste ambigu.
+- L’équilibre évoqué s’effrite légèrement au milieu du chapitre.
 
-## 📈 Pistes d'amélioration
-1. Privilégier les images symboliques aux explications directes.
-2. Introduire des transitions poétiques pour ouvrir l'horizon.
-3. Mettre davantage en avant la quête des Clés pour rythmer la progression.
-4. Amplifier la tension vers les ténèbres restantes.
-5. Harmoniser la conclusion avec le ton contemplatif établi depuis le début.
+## 📈 Pistes d’amélioration
+1. Accentuer la progression vers l’harmonie pour clarifier la quête.
+2. Élaguer certaines métaphores répétitives.
+3. Introduire des contrastes plus nets pour dynamiser la lecture.
+4. Mieux souligner le rôle des Clés lors des transitions.
+5. Conclure sur une vision d’équilibre affirmée pour guider la suite.
