@@ -5,8 +5,6 @@ Mnémosyne esquissa un sourire : « Ainsi naissent les mystères véritables. »
 Chacun recueillit les fragments de rêve encore vibrants dans la Trame.
 Un silence bref, puis la cadence reprit.
 L'Élan, devenu allié, murmura une promesse d'équilibre durable.
-La porte pour le chapitre suivant se dessina dans un halo coloré.
-Là-bas, d'autres horizons les attendaient.
-Ils franchirent la frontière sans se retourner, portés par un désir
-réconcilié avec la sagesse.
+La porte du prochain chapitre s'ouvrit dans un halo coloré, promesse d'horizons nouveaux.
+Ils la franchirent sans se retourner, portés par un désir apaisé.
 🌌🕯️

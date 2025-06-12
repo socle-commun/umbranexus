@@ -1,9 +1,7 @@
 Noctuvian découvrit les Mystères Anciens, hérités de civilisations disparues.
-Éleusis parlait des cycles de la nature et de la renaissance.
-Isis révélait la puissance de la déesse et la magie de la transformation.
-Mithra enseignait la victoire de la lumière sur les ténèbres.
-Orphée offrait la puissance de la musique et Dionysos libérait la conscience dans l'extase.
-Déméter rappelait la fécondité de la terre et Hermès, la magie du verbe.
+Éleusis rappelait la renaissance des cycles, Isis la métamorphose et Mithra la victoire sur l’ombre.
+Orphée révélait la force du chant, Dionysos libérait la conscience.
+Déméter soulignait la fécondité de la terre tandis qu’Hermès évoquait la magie du verbe.
 Ces voies n'étaient pas de simples rituels mais des portes vers une compréhension plus profonde de l'existence.
 Dans les couloirs d'Akasha, Noctuvian écoutait et évoluait, conscient que chaque mystère est un chemin vers la transformation.
 🌙🕯️
