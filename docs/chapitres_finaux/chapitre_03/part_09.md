@@ -7,3 +7,6 @@ Noctuvian garde ces gestes en mémoire, pressentant qu'ils serviront à restaure
 Chaque invocation doit être accompagnée d'une intention pure, faute de quoi les voies se ferment.
 Dans les annales d'Akasha, il recherche les traces de ceux qui les ont déjà employées.
 Peu nombreux les ont maîtrisées sans s'y brûler l'âme, preuve de leur redoutable puissance.
+Ces gestes exigent humilité et persévérance.
+En les accomplissant, l'initié ressent la vibration du monde s'accorder à la sienne.
+Noctuvian sait qu'il devra un jour en transmettre la mémoire aux générations à venir.

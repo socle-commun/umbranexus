@@ -19,3 +19,4 @@ Les transitions ont été resserrées et les invocations gagnent en concision. L
 2. Alléger certaines répétitions symboliques.
 3. Maintenir l'équilibre entre rituel et récit pour garder la tension.
 4. Renforcer la tension avant le silence final.
+5. Le symbole final 🌌🕯️ souligne désormais le passage vers le prochain chapitre.

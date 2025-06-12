@@ -12,10 +12,11 @@ Le ton contemplatif ralentit volontairement le récit. Les descriptions ont ét�
 ## ⚠️ Points faibles
 - Encore quelques longueurs descriptives.
 - Peu de ruptures poétiques marquées.
-- Dernier paragraphe manque de souffle.
+- Dernier paragraphe manque la résonance poétique des chapitres précédents.
 
 ## 📈 Pistes d'amélioration
 1. Privilégier les images symboliques aux explications directes.
 2. Introduire des transitions poétiques pour ouvrir l'horizon.
 3. Mettre davantage en avant la quête des Clés pour rythmer la progression.
 4. Amplifier la tension vers les ténèbres restantes.
+5. Harmoniser la conclusion avec le ton contemplatif établi depuis le début.

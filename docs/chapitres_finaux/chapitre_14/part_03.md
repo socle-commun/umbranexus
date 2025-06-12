@@ -2,8 +2,10 @@ Un silence vibrant suivit l'affrontement.
 Colère se retira, laissant un brasier d'opportunités.
 Noctuvian ramassa une braise rougeoyante.
 La pierre pulsa dans sa paume.
+Le tison dégagea une onde de puissance pure.
 Il insuffla la Tempérance pour la contenir.
 Les compagnons dressèrent un autel improvisé.
+Aucun geste n'était vain; chaque mouvement libérait une énergie ascendante.
 Aether grava des glyphes.
 Élan frappa le sol pour stabiliser la Trame.
 Mnémosyne chanta pour raviver les souvenirs perdus.

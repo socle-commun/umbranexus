@@ -8,6 +8,7 @@ le groupe s'approcha de la Dimension de Colère.
 Un éclat de rage éclaboussa la plaine, brisant des fragments de mémoire.
 Le paysage se déchira sous la pression d'une force immense.
 Des éclairs lacérèrent le ciel, chaque pas provoquait une onde de choc.
+Chaque souffle vibrait, saturé de puissance.
 « Attention », murmura Prudence.
 « La Colère a fracturé l'espace.
 Chaque blessure peut devenir une ouverture vers la guérison. »
@@ -21,7 +22,7 @@ La réalité oscillait entre effondrement et renaissance.
 « Elle est proche », dit Aether.
 « Je sens sa présence. »
 Soudain, une silhouette de feu émergea :
-Colère, entité flamboyante, fit frémir la trame du monde.
+Colère, entité flamboyante, fit frémir la trame même du monde, saturée de puissance.
 « Qui ose s’approcher ? Qui défie ma perfection ? »
 
 « Nous ne venons pas défier, répondit Noctuvian.
