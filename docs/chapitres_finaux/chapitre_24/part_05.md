@@ -4,14 +4,14 @@ Noctuvian observa longuement cette étendue lumineuse où se mêlaient ses souve
 Il comprit que chaque pas les avait menés à cette simple évidence : l'œuvre ne se termine jamais.
 
 Autour d'eux, l'espace bruissait d'un silence chargé de promesses.
-Ils se tinrent immobiles, respirant la clarté comme un encens sacré.
+Ils se tinrent immobiles, respirant la clarté comme un encens discret.
 Aucune menace ne troublait ce temps suspendu, mais tous sentaient la fragilité de l'instant.
 
 « Nous sommes responsables de ce monde en devenir », murmura Mnémosyne.
 Aether hocha la tête, les yeux brillants.
 Lumina ajouta que la lumière n'existait que parce que l'ombre persistait quelque part.
 
-Noctuvian effleura la surface de la Trame et perçut les échos de leurs errances passées.
+Noctuvian effleura la surface de la Trame et perçut les échos de leurs pérégrinations passées.
 Il remercia intérieurement les forces qui les avaient guidés jusqu'ici.
 Ces pensées se mêlèrent au souffle créateur et dessinèrent un horizon discret.
 
