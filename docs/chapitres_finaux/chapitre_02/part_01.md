@@ -33,3 +33,5 @@ Pour préparer sa quête, il rassembla les écrits sacrés de l'Akasha.
 
 L'air vibrait d'anciennes prières murmurées.
 La gravité du pacte scellé sous ces pierres pesa soudain sur son cœur.
+Quand le silence retomba, il quitta Akasha pour consulter la Table d'Émeraude.
+Ses pas résonnaient encore du Chant de Qālmān.

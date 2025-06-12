@@ -1,4 +1,4 @@
-Les dernières vibrations du Chant se dissipèrent dans l'obscurité, laissant Noctuvian immobile.
+Il franchit la porte lorsque les dernières vibrations du Chant se dissipèrent dans l'obscurité, laissant Noctuvian immobile.
 La Trame frissonna d'une lueur incertaine.
 Une brume nacrée se glissa entre les machines, brouillant les contours.
 Autour de lui, l'air portait l'arôme métallique des anciens rituels.

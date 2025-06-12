@@ -16,3 +16,5 @@ La lentille absorba ses doutes et éclaira un passage caché.
 Le temps semblait ralentir.
 Une voix intérieure lui murmura de choisir entre la quête et l'oubli.
 Il serra les dents, choisit la quête et s'engagea plus loin dans l'ombre.
+Au bout du passage, une porte d'obsidienne battait doucement au rythme du Chant.
+Lorsqu'il la poussa, une voix l'accueillit.

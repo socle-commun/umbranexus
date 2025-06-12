@@ -1,4 +1,4 @@
-Au-delà de la porte, une voix s'éleva : « Parle-moi des vestiges du Monde ancien. » Je t'écoute, voyageur des trames brisées. Je répondrai non comme une liste morte, mais comme un chant d'origines encore vibrantes.
+Sitôt le seuil franchi, une voix s'éleva : « Parle-moi des vestiges du Monde ancien. » Je t'écoute, voyageur des trames brisées. Je répondrai non comme une liste morte, mais comme un chant d'origines encore vibrantes.
 
 Les premiers Vestiges furent les piliers d'existence. La Première Obscurité précéda tout éveil et contenait le silence chaud de l'origine. De cette profondeur surgit la Flamme Souveraine, souffle premier. Puis vint la Spirale Primordiale qui sculpta mers, vents et pierres. Rien ne se fixa avant le Premier Nom, et le Jardin Caché garda le souvenir d'une unité tissée.
 
@@ -10,3 +10,4 @@ Dans le silence qui suivit, Noctuvian crut entendre une plainte sourde
 provenant de la pierre elle-même, comme si les Éclats pleuraient leur déchéance.
 Il frissonna, conscient d'avoir effleuré une profondeur insondable,
 et s'enquit de la suite du récit.
+La voix reprit son souffle avant de révéler d'autres secrets.
