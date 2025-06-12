@@ -12,6 +12,7 @@ de la destruction à la transformation.
 Alors,
 Colère changea.
 Son feu devint lumière,
+sa flamme se concentra, irradiant une puissance sereine,
 sa rage devint élan.
 Elle perçut pourtant l'abîme qui grondait encore,
 prête à resurgir si la tempérance faiblissait.
@@ -23,6 +24,8 @@ Je suis la Force, celle qui forge,
 qui permet la transformation,
 la Force qui bâtit,
 qui ouvre les possibles."
+Un flux incandescent se propagea dans la salle,
+exaltant sa force retrouvée.
 Elle leva les mains,
 et les déchirures dans la réalité
 commencèrent à se refermer,
