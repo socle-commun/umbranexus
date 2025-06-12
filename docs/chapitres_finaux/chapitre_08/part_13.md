@@ -1,4 +1,4 @@
-Les ténèbres retombèrent sur la caverne des souvenirs perdus.
+Refermant le grimoire, les ténèbres retombèrent sur la caverne des souvenirs perdus.
 Noctuvian recueillit un grain de poussière mémorielle.
 Il sentit dans cet infime éclat l'écho de nombreux visages.
 Autour de lui, les arches archaïques résonnaient encore du combat.
