@@ -1,4 +1,5 @@
-La symphonie s'apaisa doucement autour d'eux...
+La symphonie s'apaisa doucement autour d'eux,
+comme si chaque note retenait un souvenir.
 Mnémosyne, lumineuse, posa son regard sur le groupe.
 Une brume tiède flottait encore, porteuse d'odeurs minérales.
 Les parois d'obsidienne reflétaient des lueurs cuivrées,
