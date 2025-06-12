@@ -1,5 +1,5 @@
 Le fracas se dissipa, laissant le ciel à nu.
-Une étoile solitaire clignota.
+Un astre discret clignota.
 Noctuvian saisit un fragment de poussière.
 Ses compagnons pressèrent le pas.
 Il traça une flèche vive sur la terre.
@@ -10,4 +10,4 @@ La poussière révéla d'autres signes.
 Ses alliés bougèrent d'un même élan.
 Chaque pas affirmait leur individualité.
 Un horizon clair s'ouvrit.
-Ils suivirent l'étoile intérieure.
+Ils suivirent la lumière intérieure.

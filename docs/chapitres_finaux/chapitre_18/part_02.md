@@ -10,8 +10,8 @@ Solitude devient Individualité, distinction unificatrice.
 Les zones de vide se remplissent, sources d'enrichissement.
 « Je vais restaurer l'équilibre et guérir la fracture. »
 La Dimension en mutation résonne d'une promesse de guérison.
-Sous la voûte sombre, l'Étoile reparaît, reflet de chaque âme.
-Étoile de l'Umbranexus, rose des vents intérieure, elle invite chacun à sonder son propre élan.
+Sous la voûte sombre, un astre reparaît, reflet de chaque âme.
+Rose des vents de l'Umbranexus, son éclat invite chacun à sonder son propre élan.
 Sa lueur rappelle que l'unisson naît de la diversité.
 Chaque individualité chante sa couleur, tissant une toile changeante.
 Noctuvian écoute cette pluralité unie par le Chant.
