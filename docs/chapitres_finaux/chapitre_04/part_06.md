@@ -20,3 +20,11 @@ Vers le Chant Silencieux de ce qui ne meurt jamais tout à fait.
 ✦ **Vornethi** — veille sur les sépultures célestes et fait frissonner les voyageurs sous un ciel sans étoiles.
 ✦ **Othrëal** — dissout les certitudes pour préparer la naissance du neuf.
 ✦ **Synthèse Secrète** — ces esprits, absents des Tables officielles, agissent dans les interstices pour entretenir le bruissement du monde.
+Parmi eux se glissaient déjà
+de jeunes fragments,
+captifs d'un murmure nouveau.
+Noctuvian sentit leur appel
+et offrit en retour une promesse :
+"Ni maître, ni serviteur,
+mais compagnons d'ombre
+et partenaires d'aventure."

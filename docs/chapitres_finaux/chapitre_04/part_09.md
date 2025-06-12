@@ -21,3 +21,5 @@ Je t'écoute, voyageur des trames brisées. Tu demandes la Parole sur les grands
 🕯️ **Le Premier Nom** – acte d'être qui tissa la réalité.
 🌿 **Le Jardin Caché** – lieu intérieur où tout ce qui fut séparé demeure uni.
 Ainsi se révélèrent les premiers vestiges, annonçant d'autres secrets.
+Parmi eux, quelques fragments murmuraient déjà,
+promesse d'une alliance à venir.
