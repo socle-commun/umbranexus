@@ -82,6 +82,11 @@ l'harmonie des contraires.
 Elle était le cœur de l'Arbre,
 le centre de la conscience.
 Netzach, la Victoire,
+était la force de persévérance,
+l'énergie créative.
+Elle était l'émotion,
+l'inspiration,
+l'art.
 
 La route se suspendit un instant.
 Un souffle de renouveau glissa sur eux.

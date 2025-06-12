@@ -1,9 +1,4 @@
 Leur marche reprit.
-était la force de persévérance,
-l'énergie créative.
-Elle était l'émotion,
-l'inspiration,
-l'art.
 Hod, la Gloire,
 était la force de communication,
 la structure mentale.
