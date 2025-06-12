@@ -82,3 +82,8 @@ jusque-là inconnue."
 Le monde montra une image :
 L'univers frémissait d'une énergie neuve, appelant à l'évolution.
 Noctuvian sentit l'élan irrépressible de grandir avec lui.
+Cette vision s'étendit plus loin que l'instant.
+Il perçut un réseau d'univers solidaires,
+où chaque mutation ouvrait sur un avenir fertile.
+Le Chant portait cette promesse,
+reliant le présent à un futur en constante croissance.

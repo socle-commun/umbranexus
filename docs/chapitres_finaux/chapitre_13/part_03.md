@@ -28,3 +28,10 @@ Puis s'élança vers la prochaine étape.
 Son âme résonnait d'une énergie nouvelle.
 Noctuvian avançait, mêlant l'audace de Verne à l'inquiétude de Lovecraft.
 Aucune obscurité ne briserait cet élan.
+Il songea à la Dimension de Colère,
+perçant les brumes de l'avenir.
+La transformation actuelle lui donnait la force
+d'affronter ces ombres à venir.
+Chaque mutation rapprochait l'Umbranexus
+d'un futur plus harmonieux.
+Il s'engagea pleinement sur cette voie.
