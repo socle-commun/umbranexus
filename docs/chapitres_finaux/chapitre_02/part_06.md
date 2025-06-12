@@ -21,3 +21,4 @@ L'aube naissante dessinait un passage vers le cœur de l'Umbranexus.
 Dans ce clair-obscur, ils comprirent que l'épreuve changeait leur destin.
 Un nouvel horizon se dévoila, prêt à livrer ses secrets.
 Ils avancèrent, muets devant l'étendue inconnue.
+🌌🕯️
