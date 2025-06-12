@@ -8,3 +8,5 @@ Une sensation de vertige accompagna cette ouverture du champ des possibles.
 Pourtant, un calme serein s'imposa lorsque la Trame vibra en accord.
 Ils avancèrent vers l'harmonie en devenir, confiants dans la suite du récit.
 🌌🕯️
+Ils savaient que quatre Ténèbres demeuraient à pacifier, gardiennes des Clés finales.
+Leurs pas résonnèrent dans la Trame, annonçant la suite de leur voyage.
