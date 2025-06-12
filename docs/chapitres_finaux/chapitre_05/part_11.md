@@ -18,4 +18,5 @@ Il comprit que le grimoire l'appelait vers une nouvelle étape.
 La crypte se referma sur leur passage.
 Un chemin s'esquissait vers des savoirs plus périlleux.
 Ils quittèrent les lieux, portés par la rumeur des fragments.
-La quête reprend.
+Leur quête se poursuivait dans le silence des couloirs.
+🌌🕯️
