@@ -14,3 +14,8 @@ jobs:
           cache: 'npm'
       - run: npm ci --ignore-scripts
       - run: npm run test:ci
+      - name: Enable PR auto-merge
+        uses: peter-evans/enable-pull-request-automerge@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          merge-method: squash
