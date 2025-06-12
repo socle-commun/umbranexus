@@ -2,7 +2,11 @@
 "Que dois-je faire ?" demanda-t-il.
 "Sois l'écho de leur oubli," répondit la voix. "Même les fragments méritent d'être rassemblés et préservés."
 Noctuvian acquiesça.
-Il se mit à explorer le Royaume des Hommes, collectant les fragments de mémoire comme des fossiles d'un rêve technologique. Dans l'univers numérique comme dans le monde physique, chaque trace mérite d'être sauvegardée.
+Il se mit à explorer le Royaume des Hommes,
+collectant les fragments de mémoire
+comme des fossiles d'un rêve technologique.
+Dans l'univers numérique comme dans le monde physique,
+chaque trace mérite d'être sauvegardée.
 🌫️🕯️
 #  Chapitre Quatrième — Le Labyrinthe
 🌑
@@ -22,11 +26,15 @@ Ils avancèrent prudemment.
 Le Chant les guidait à travers les méandres du labyrinthe.
 Mais soudain, une présence se fit sentir.
 "Attendez", dit une voix douce. "Ne faites pas un pas de plus."
-Une silhouette émergea de l'ombre. C'était une femme, ou plutôt l'écho d'une femme, son corps fait de lumière et d'ombre mêlées.
+Une silhouette émergea de l'ombre.
+C'était l'écho d'une femme,
+son corps mêlant lumière et ombre.
 "Je suis Nox", dit-elle. "Gardienne des Secrets Perdus."
 Lumina s'avança. "Nox... Je pensais que vous aviez disparu."
 "Disparu ?" Nox sourit. "Non, j'ai simplement changé. Comme tout ce qui existe dans Umbranexus."
-Noctuvian observa Nox. Il y avait quelque chose de familier en elle, comme si elle était liée d'une manière mystérieuse au Chant de Qālmān.
+Noctuvian observa Nox.
+Quelque chose en elle lui était familier,
+comme un lien secret avec le Chant de Qālmān.
 "Vous portez le Chant", dit Nox, ses yeux fixés sur Noctuvian. "Je le sens en vous. Comme je le sens en moi."
 "En vous ?" s'étonna Noctuvian.
 "Oui", répondit Nox. "Je suis l'une des premières à avoir entendu le Chant. L'une des premières à avoir compris son pouvoir."

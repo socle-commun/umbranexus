@@ -1,4 +1,5 @@
-reflet de son propre être à l'intérieur de l'Écheveau des Ombres.
+Noctuvian aperçut le reflet de son propre être
+à l'intérieur de l'Écheveau des Ombres.
 ---
 # ✧ Son Serment ✧
 > "Je veille dans les interstices où l'oubli s'égare,
