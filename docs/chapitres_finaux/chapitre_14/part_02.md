@@ -1,21 +1,17 @@
-la Force créatrice."
-Le groupe entonna
 Portés par l'esprit de la Tempérance,
-le Chant de Qālmān,
-mélodie qui les porta
+le groupe entonna le Chant de Qālmān.
+La mélodie les porta
 et apaisa leurs cœurs,
-enveloppa Colère.
+enveloppant Colère.
 Peu à peu,
 sa voix se joignit à la leur,
-passant de la fureur à la puissance,
-de la destruction à la transformation.
-Alors,
-Colère changea.
-Son feu devint lumière,
-sa flamme se concentra, irradiant une puissance sereine,
-sa rage devint élan.
+passant de la fureur à la puissance.
+Alors, Colère changea.
+Son feu devint lumière;
+sa flamme se concentra, irradiant une force sereine.
+Sa rage devint élan.
 Elle perçut pourtant l'abîme qui grondait encore,
-prête à resurgir si la tempérance faiblissait.
+prêt à resurgir si la Tempérance faiblissait.
 Elle se redressa,
 irradia et déclara :
 "Je comprends maintenant.
