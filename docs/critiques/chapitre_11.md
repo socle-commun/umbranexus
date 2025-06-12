@@ -1,7 +1,7 @@
 # 💀 Nouvelle critique — Chapitre 11 : Les Perspectives
 
 ## 🧠 Écriture
-La narration se fait plus introspective et souligne l’union des contraires. Les images se développent avec lenteur pour évoquer l’équilibre recherché.
+La narration demeure introspective et cherche l’union des contraires. Les images progressent parfois avec lenteur, ce qui atténue la tension vers l’équilibre.
 
 ## ⚙️ Points forts
 - Quête d’équilibre bien intégrée au fil des tableaux.
@@ -16,7 +16,7 @@ La narration se fait plus introspective et souligne l’union des contraires. Le
 
 ## 📈 Pistes d’amélioration
 1. Accentuer la progression vers l’harmonie pour clarifier la quête.
-2. Élaguer certaines métaphores répétitives.
-3. Introduire des contrastes plus nets pour dynamiser la lecture.
-4. Mieux souligner le rôle des Clés lors des transitions.
-5. Conclure sur une vision d’équilibre affirmée pour guider la suite.
+2. Élaguer certaines métaphores répétitives pour alléger la lecture.
+3. Introduire des contrastes plus nets afin de dynamiser le rythme.
+4. Renforcer la présence des Clés lors des transitions pour guider l’action.
+5. Conclure sur une vision d’équilibre affirmée pour annoncer la suite.

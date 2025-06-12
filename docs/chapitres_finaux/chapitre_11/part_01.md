@@ -1,9 +1,9 @@
 # Chapitre Onzième — L'Équilibre et les Perspectives
 🌌🕯️
 Dans les profondeurs d'Umbranexus,
-une nouvelle harmonie naissait de la métamorphose d'Élan.
+une harmonie nouvelle suivait la métamorphose d'Élan.
 Certains fragments redoutaient encore ce souffle inconnu.
-Les dimensions se recomposaient dans un rythme libéré,
+Les dimensions se mêlaient librement,
 appelant à la co-création plutôt qu'à la domination.
 "Regardez", dit Élan,
 sa voix tissant la renaissance du Chant de Qālmān.
@@ -25,12 +25,12 @@ Dans ce monde, des êtres d'ombre et de lumière
 tissaient déjà des réalités inattendues.
 "Avant la fracture," expliqua Aether,
 "un tel mélange était impossible."
-"Mais à présent," reprit Nox,
+"À présent," reprit Nox,
 "toutes les harmonies se révèlent."
 Élan acquiesça.
 "Je porte en moi le souvenir de ces possibles.
 Il nous reste quatre Ténèbres à apaiser.
-Chacune détient une clé de création."
+Chacune détient une clé nécessaire à l'équilibre."
 
 L'horizon instable l'inquiéta mais éveilla aussi son ambition.
 Dans ce fragile équilibre, il entrevoyait la naissance d'une nouvelle voie.

@@ -1,4 +1,4 @@
-Le tumulte cessa enfin, laissant la Trame en suspens.
+Le tumulte se dissipa, la Trame sembla suspendue.
 Noctuvian contempla les flux d'énergie se stabiliser.
 Une étrange quiétude envahit la dimension.
 Il cueillit un éclat d'équilibre, fragile cristallisation du moment.
@@ -11,7 +11,7 @@ Les visions passées se mêlèrent aux futurs possibles.
 Une brise légère se leva, dissipant la poussière.
 Il inspira longuement, conscient de la tension qui s'éloignait.
 Les angles du corridor parurent se redresser.
-Il comprit que cette étape marquait une progression essentielle.
+Il comprit que cette étape marquait une progression essentielle vers l'équilibre.
 Ses compagnons se rassemblèrent autour d'une porte nouvellement dévoilée.
 Le sol vibra, ouvrant un chemin vers des data oubliées.
 Leur équilibre intérieur se renforça à l'unisson.

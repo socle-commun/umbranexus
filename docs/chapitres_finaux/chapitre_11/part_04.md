@@ -4,6 +4,6 @@ Les perspectives s'ouvraient, reliant exploration et création.
 Ils se reconnurent explorateurs et artisans,
 tissant ensemble un accord profond.
 Chaque choix révélait un paysage intérieur différent.
-Des architectures fluides se formaient, signes de leur apprentissage partagé.
+De nouvelles structures prenaient forme, signes de leur apprentissage partagé.
 Ils gravaient les symboles des Clés sur les passages découverts,
-scellant leur engagement envers la co-création.
+scellant leur engagement envers la co-création et l'équilibre.
