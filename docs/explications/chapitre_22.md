@@ -77,3 +77,4 @@ Chaque fragment retrouve sa place dans l'ordre universel. Malgré la fissure du 
 - L'exploration des passerelles irisées annonce d'autres mondes à découvrir.
 - Akasha insiste sur la valeur de chaque fragment, soulignant la fragilité de l'équilibre atteint.
 - Cette ouverture prépare la transition vers l'Éternité du chapitre suivant.
+- La cinquième partie met l'accent sur le portail vers l'Éternité et conclut la célébration du Monde.

@@ -73,3 +73,4 @@ Ce chapitre affirme que l'évolution n'est pas une menace mais un vecteur d'oppo
 - Expansion des zones explorées
 - Création de nouveaux partenariats
 - Enrichissement constant de la conscience collective
+- La cinquième partie annonce la confrontation avec Doute et renforce la dynamique de transformation.

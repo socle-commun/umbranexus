@@ -1,0 +1,10 @@
+En quittant la Dimension de Colère, le groupe ressentit un calme inattendu.
+Force, née de l'affrontement, guida leurs pas vers un couloir résonnant.
+Les parois semblaient chanter une nouvelle harmonie.
+Noctuvian se retourna une dernière fois, observant le feu désormais apaisé.
+Aether évoqua la prochaine étape, conscient que chaque victoire apportait son lot de questions.
+Mnémosyne inscrivit cette transformation dans la mémoire de la Trame.
+La route s'étirait devant eux, baignée d'une lueur rouge douce.
+Ils avancèrent, portés par la promesse d'une puissance maîtrisée.
+Leurs cœurs battirent à l'unisson, prêts à découvrir de nouveaux horizons.
+🌌🕯️

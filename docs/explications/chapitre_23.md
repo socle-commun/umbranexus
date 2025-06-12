@@ -76,3 +76,4 @@ Ce chapitre mène à la dissolution des limites. L'éternité devient un état d
 ### Bénédiction des Anciens
 - Les entités primordiales confèrent une légitimité spirituelle au passage final.
 - Cette scène confirme la valeur du chemin parcouru et rapproche Noctuvian de la Création.
+- La cinquième partie prépare l'entrée dans la Création et renforce la mémoire collective.

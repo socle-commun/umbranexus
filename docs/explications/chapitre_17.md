@@ -73,3 +73,4 @@ Ce chapitre démontre que la destruction n'est pas un terme mais un prélude à 
 - Intégration des leçons du passé
 - Ouverture vers des structures adaptatives
 - Exploration des potentialités libérées
+- La cinquième partie projette le groupe vers Solitude et affirme la reconstruction à venir.

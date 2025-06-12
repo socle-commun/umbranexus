@@ -13,9 +13,11 @@ La transition vers un monde nouveau est mieux assumée. Les passages explicatifs
 - Quelques explications persistent et freinent encore le rythme.
 - Manque d'élan dans certaines séquences.
 - Conclusion laisse un sentiment d'inachevé.
+- Transition vers la nouvelle scène manque de souffle.
 
 ## 📈 Pistes d'amélioration
 1. Adopter un rythme plus nerveux pour porter la mutation.
 2. Suggérer la promesse du changement par des images fortes plutôt que par l'exposition.
 3. Réserver les descriptions amples aux moments décisifs.
 4. Solidifier l'annonce du changement à venir.
+5. Préparer plus explicitement l'affrontement avec Doute pour renforcer la dynamique de changement.
