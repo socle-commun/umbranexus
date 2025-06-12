@@ -1,22 +1,22 @@
 # 💀 Nouvelle critique — Chapitre 9 : La Symphonie Éternelle
 
 ## 🧠 Écriture
-La prose musicale affirme la progression vers la guérison.
-Les voix s'entrelacent avec plus de cohérence, portées par la Symphonie Éternelle.
+Le style s'appuie davantage sur la musicalité et tisse des voix en harmonie croissante. Cette symphonie conduit le récit vers la guérison tout en préparant la prochaine Ténèbre.
 
 ## ⚙️ Points forts
 - Transition douce depuis la restauration de Mnémosyne.
-- La Symphonie Éternelle unifie la perception de chaque scène.
-- Dialogues plus harmonieux avec la narration.
-- Progression claire vers la prochaine Ténèbre.
+- Unité sonore qui relie chaque scène.
+- Dialogues mieux intégrés à la narration.
+- Progression claire vers la Dimension de Désir.
 
 ## ⚠️ Points faibles
-- Quelques métaphores demeurent opaques.
-- Certains motifs musicaux se répètent encore.
-- Le passage vers la Dimension de Désir manque de tension.
+- Quelques métaphores restent opaques.
+- Répétition de certains motifs musicaux.
+- Tension parfois insuffisante avant la prochaine étape.
+- Passages contemplatifs un peu longs.
 
 ## 📈 Pistes d'amélioration
-1. Poursuivre la réduction des images redondantes.
-2. Affiner la description des symboles pour guider le lecteur.
-3. Accentuer la dynamique des échanges entre les personnages.
-4. Intensifier l'approche de la Dimension de Désir pour préparer la suite.
+1. Élaguer les images redondantes pour préserver la fluidité.
+2. Renforcer la dynamique des échanges.
+3. Accentuer l'approche de la Dimension de Désir.
+4. Clarifier les symboles musicaux pour guider le lecteur.

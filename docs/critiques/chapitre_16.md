@@ -1,22 +1,22 @@
 # 💀 Nouvelle critique — Chapitre 16 : Le Doute et la Question Créatrice
 
 ## 🧠 Écriture
-Le texte recentre le doute comme moteur narratif. Les images deviennent plus sobres et laissent respirer la quête. Les phrases demeurent courtes, rythmant la progression vers la Maison Dieu tandis que la question créatrice s'affirme.
+Le doute devient moteur narratif. Les images sobres laissent respirer la quête tandis que les phrases courtes rythment la progression vers la Maison Dieu.
 
 ## ⚙️ Points forts
-- Doute omniprésent, catalyseur de chaque décision.
-- Images simplifiées qui soulignent l'incertitude.
-- Rythme plus fluide, porté par le Chant de Qālmān.
-- Décor en mutation continue, menant vers la Maison Dieu.
+- Présence constante du doute catalysant chaque décision.
+- Images simplifiées soulignant l'incertitude.
+- Rythme fluide porté par le Chant de Qālmān.
+- Décor en mutation continue menant à la Maison Dieu.
 
 ## ⚠️ Points faibles
-- Quelques transitions demeurent brusques entre introspection et action.
-- La perception du Chant manque parfois de relief.
-- Certains passages répètent encore le motif du doute.
+- Transitions brusques entre introspection et action.
+- Perception du Chant parfois fade.
+- Répétition du motif du doute.
+- Absence de tension dans certaines scènes.
 
 ## 📈 Pistes d'amélioration
-1. Poursuivre la variété du vocabulaire du doute.
+1. Varier le vocabulaire lié au doute pour éviter la monotonie.
 2. Accentuer la dimension sensorielle du Chant.
-3. Affiner les transitions pour maintenir l'élan.
-4. Explorer la mutation intérieure de Noctuvian.
-5. Préparer plus explicitement la destruction créatrice à venir.
+3. Soigner les transitions pour maintenir l'élan.
+4. Explorer davantage la mutation intérieure de Noctuvian.

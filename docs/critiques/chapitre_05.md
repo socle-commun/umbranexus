@@ -1,7 +1,22 @@
-# Critique du Chapitre 5 — Les Fragments qui Murmurent
+# 💀 Nouvelle critique — Chapitre 5 : Les Fragments qui Murmurent
 
-Les voix mises en scène gagnent maintenant en intensité. La cadence serrée des murmures accompagne chaque révélation. La menace lovecraftienne demeure, mais elle n'étouffe plus la sensualité funèbre qui traverse le texte.
+## 🧠 Écriture
+Les murmures prennent de l'ampleur et rythment le récit. Le vocabulaire archaïque accentue la dimension funèbre tout en préservant une sensualité discrète. Le chapitre gagne ainsi en cohérence.
 
-Le vocabulaire archaïque souligne l'étrangeté recherchée. Autour du Livre des Tables, les images forment un réseau cohérent qui nourrit le motif de la mémoire collective.
+## ⚙️ Points forts
+- Cadence serrée qui accompagne chaque révélation.
+- Atmosphère lovecraftienne adoucie par un lyrisme sombre.
+- Réseau d'images autour de la mémoire collective bien construit.
+- Conclusion qui ouvre vers l'étape suivante sans dissiper le mystère.
 
-La conclusion clarifiée ouvre sur une nouvelle étape sans dissiper le mystère. L'équilibre entre ombre et volupté s'affirme, et les fragments se répondent avec davantage de précision, préparant la suite du grimoire.
+## ⚠️ Points faibles
+- Quelques références ésotériques demeurent obscures.
+- La menace lovecraftienne pourrait être mieux nuancée.
+- Certaines allitérations alourdissent la lecture.
+- Transition vers le chapitre suivant un peu abrupte.
+
+## 📈 Pistes d'amélioration
+1. Clarifier les références les plus hermétiques.
+2. Varier la texture des murmures pour éviter la redondance.
+3. Affiner l'équilibre entre ombre et volupté.
+4. Préparer plus nettement la suite du grimoire.

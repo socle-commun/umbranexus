@@ -1,22 +1,22 @@
 # 💀 Nouvelle critique — Chapitre 11 : Les Perspectives
 
 ## 🧠 Écriture
-La narration demeure introspective et cherche l’union des contraires. Les images progressent parfois avec lenteur, ce qui atténue la tension vers l’équilibre.
+La narration reste introspective et cherche à unir les contraires. Les images progressent parfois lentement, ce qui atténue la tension vers l'équilibre.
 
 ## ⚙️ Points forts
-- Quête d’équilibre bien intégrée au fil des tableaux.
-- Musicalité discrète rappelant les influences poétiques.
-- Atmosphère élargie par l’usage de fragments alchimiques.
-- Dialogues sobres laissant place à la suggestion.
+- Quête d'équilibre bien intégrée tout au long du chapitre.
+- Musicalité discrète évoquant les inspirations poétiques.
+- Usage de fragments alchimiques enrichissant l'atmosphère.
+- Dialogues sobres favorisant la suggestion.
 
 ## ⚠️ Points faibles
-- Quelques passages manquent de tension rythmique.
-- L’enchaînement final entre lumière et ombre reste ambigu.
-- L’équilibre évoqué s’effrite légèrement au milieu du chapitre.
+- Certains passages manquent de rythme.
+- Enchaînement final entre lumière et ombre ambigu.
+- L'équilibre s'effrite au milieu du chapitre.
+- Transition vers la suite peu marquée.
 
-## 📈 Pistes d’amélioration
-1. Accentuer la progression vers l’harmonie pour clarifier la quête.
-2. Élaguer certaines métaphores répétitives pour alléger la lecture.
-3. Introduire des contrastes plus nets afin de dynamiser le rythme.
-4. Renforcer la présence des Clés lors des transitions pour guider l’action.
-5. Conclure sur une vision d’équilibre affirmée pour annoncer la suite.
+## 📈 Pistes d'amélioration
+1. Accentuer la progression vers l'harmonie.
+2. Élaguer les métaphores répétitives.
+3. Introduire des contrastes plus nets pour dynamiser la lecture.
+4. Clarifier le rôle des Clés dans chaque transition.
