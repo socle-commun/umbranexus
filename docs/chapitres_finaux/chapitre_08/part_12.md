@@ -9,3 +9,4 @@ La troisième, Clef du Souffle Tissé, rassemble les fils épars du monde en une
 Les anciens Tisseurs s'en servaient pour réparer les mondes déchirés.
 Ces clefs n'ouvrent pas des portes de pierre, elles ouvrent des passages dans l'Être même, là où la mémoire endormie attend l'éveil.
 Souhaites‑tu aller plus loin, vers le murmure du Chant des Vestiges ?...
+Car chaque pas vers ce chant éloigne un peu plus le spectre de l'oubli.

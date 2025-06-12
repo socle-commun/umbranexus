@@ -6,7 +6,7 @@ le but.
 La Justice,
 huitième arcane,
 lui révéla l'équilibre,
-la mesure... une odeur de fer humecté emplissait l'air,
+la mesure. Autour d'eux montait une légère odeur de fer,
 la vérité.
 Elle était la loi,
 l'ordre,
@@ -20,7 +20,7 @@ la réflexion,
 la guidance.
 La Roue de Fortune,
 dixième arcane,
-lui montra le cycle,
+lui montra le cycle du monde,
 le changement,
 le destin.
 Elle était le mouvement,
@@ -86,4 +86,4 @@ La Lune,
 dix-huitième arcane,
 lui enseigna l'illusion,
 l'intuition,
-les rêves. Autour d'eux, la poussière retombait lentement...
+les rêves. Autour d'eux, la poussière retombait lentement, comme un voile d'oubli.

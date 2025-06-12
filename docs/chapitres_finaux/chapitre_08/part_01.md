@@ -1,15 +1,15 @@
 # Chapitre Huitième — L'Oubli et les Arcanes
 🌑🕯️
 Dans les profondeurs de la Dimension des Oubliés,
-guidés par Mémoire, le sol d'obsidienne glissant sous leurs pas...
-le groupe s'enfonça plus profondément...
-Derrière eux, l'ombre de Sombrelune orchestrait la résistance, déterminée à briser leur avancée.
-dans les couches de conscience.
-Le paysage se transformait...
-devenant de plus en plus étrange,
-de plus en plus onirique. La roche suintante était glacée au toucher.
-Autour d'eux, de larges blocs d'obsidienne
-se couvraient de reflets cuivrés,
+guidés par Mémoire, ils avançaient sur un sol d'obsidienne lisse.
+Le groupe descendit toujours plus loin,
+alors que Sombrelune tentait d'endiguer leur marche.
+Leur esprit semblait flotter entre les couches de conscience.
+Le paysage se modifiait peu à peu,
+devenant plus étrange,
+comme un rêve figé. La roche suintante leur glaçait les doigts.
+Autour d'eux, les blocs d'obsidienne
+se chargeaient de reflets cuivrés,
 et un bourdonnement sourd emplissait l'air.
 "Nous approchons",
 dit Mémoire.
@@ -19,7 +19,7 @@ En effet,
 l'air lui-même semblait chargé
 d'une présence diffuse,
 comme si l'Oubli imprégnait
-chaque particule de cette dimension.
+chaque grain d'air.
 Les fragments commencèrent à danser
 d'une manière nouvelle,
 créant une tapisserie vivante
@@ -34,7 +34,7 @@ avant.
 Avant la fracture."
 Dans les profondeurs d'Akasha,
 Noctuvian découvrit
-les vingt-deux Arcanes Majeurs,
+les vingt-deux Arcanes majeurs,
 chacun un miroir de la conscience :
 Le Bateleur,
 premier arcane,
@@ -82,7 +82,7 @@ l'union,
 l'harmonie.
 Le Chariot,
 septième arcane,
-lui montra la victoire, la conquête de soi,
+lui montra la victoire, la conquête de soi.
 
-La dimension des Oubliés exhalait une mélancolie profonde...
-Chaque arcane gravé sur les murs éveillait en lui un désir brûlant de comprendre...
+La dimension des Oubliés exhalait une mélancolie profonde.
+Chaque arcane gravé sur les murs réveillait son besoin de comprendre.

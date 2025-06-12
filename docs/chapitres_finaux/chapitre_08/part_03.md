@@ -29,6 +29,7 @@ Soudain,
 le paysage changea.
 Le sol semblait glisser sous leurs pieds, lisse comme du verre tiède.
 Ils se retrouvèrent dans un espace vide,
+où flottait une odeur d'argile mouillée,
 un vide qui n'était pas l'absence,
 mais la présence de quelque chose d'immense.
 "Je vous attendais",
@@ -83,4 +84,5 @@ qui remplissait l'espace.
 "Je suis Oubli !
 Je suis la fin de toute chose !
 Je suis la dissolution !"
-Noctuvian sentit le Chant vibrer en lui...
+Noctuvian sentit le Chant vibrer en lui,
+réveillant des souvenirs qu'il croyait dissipés...

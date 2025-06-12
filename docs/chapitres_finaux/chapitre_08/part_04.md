@@ -82,3 +82,4 @@ Les fragments montraient
 comment la mémoire et l'oubli,
 la lumière et l'ombre,
 la présence et l'absence
+pouvaient coexister sans se nier.
