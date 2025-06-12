@@ -1,7 +1,7 @@
 # Chapitre Dix-Huitième — L'Étoile et l'Individualité
 🌌🕯️
 La Maison Dieu s'est effondrée, laissant un silence fertile.
-Une étoile solitaire éclaire pour chacun un chemin intime.
+Une lueur solitaire éclaire pour chacun un chemin intime.
 Certains fragments craignent de perdre la mémoire commune.
 Au cœur des ruines, Noctuvian pressent l'espoir renaissant.
 Chacun ressent l'éclat différemment, pentacle de promesses.
