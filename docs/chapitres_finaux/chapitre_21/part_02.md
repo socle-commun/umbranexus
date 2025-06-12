@@ -19,6 +19,7 @@ Noctuvian doit choisir un seul chemin pour réunifier la Trame.
 Au centre de la pièce, il interroge ses compagnons.
 Akasha souffle un conseil discret.
 Noctuvian ferme les yeux, laissant son intuition décider.
+Qui oserait le suivre ?
 
 D'un geste résolu, il tend la main vers l'arche la plus sombre.
 La clarté vacille, mais le portail cède.

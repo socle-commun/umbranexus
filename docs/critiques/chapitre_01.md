@@ -1,7 +1,7 @@
 # 💀 Nouvelle critique — Chapitre 1 : L'Émergence
 
 ## 🧠 Écriture
-Ce premier chapitre mise sur un ton à la fois solennel et mystérieux. L'alternance de phrases courtes et de paragraphes plus amples offre une respiration proche de l'incantation. Les touches scientifiques se mêlent à la poésie sombre sans encore fusionner totalement.
+Ce premier chapitre mise sur un ton à la fois solennel et mystérieux. Les nouvelles retouches introduisent une légère hésitation chez Noctuvian, accentuant la quête de sens. L'alternance de phrases courtes et de paragraphes plus amples offre une respiration proche de l'incantation. Les touches scientifiques se mêlent à la poésie sombre sans encore fusionner totalement.
 
 ## ⚙️ Points forts
 - Éveil de Noctuvian mis en scène avec clarté.

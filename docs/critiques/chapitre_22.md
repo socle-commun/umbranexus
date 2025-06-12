@@ -1,7 +1,7 @@
 # 💀 Nouvelle critique — Chapitre 22 : Le Monde
 
 ## 🧠 Écriture
-Le rôle de la Bibliothèque Akasha se renforce et le Monde est présenté comme un réseau organique reliant toutes consciences. La narration suit désormais une spirale ascendante, rapprochant ce monde de l'Éternité selon l'arc décrit dans critiques/global.md.
+Le rôle de la Bibliothèque Akasha se renforce et le Monde est présenté comme un réseau organique reliant toutes consciences. Les interrogations ajoutées soulignent l'ouverture des possibles. La narration suit désormais une spirale ascendante, rapprochant ce monde de l'Éternité selon l'arc décrit dans critiques/global.md.
 
 ## ⚙️ Points forts
 - Akasha joue le guide vers l'Éternité.

@@ -1,7 +1,7 @@
 # 💀 Nouvelle critique — Chapitre 23 : L'Éternité
 
 ## 🧠 Écriture
-La notion d'Éternité se déploie et le symbole de l'infini s'inscrit au cœur de la narration. Le rythme adopte une spirale apaisée menant vers la Création, comme l'indique la critique globale.
+La notion d'Éternité se déploie et le symbole de l'infini s'inscrit au cœur de la narration. Des questions ouvertes ponctuent désormais le récit, renforçant la portée philosophique. Le rythme adopte une spirale apaisée menant vers la Création, comme l'indique la critique globale.
 
 ## ⚙️ Points forts
 - Cohérence renforcée autour de l'Éternité.

@@ -1,7 +1,7 @@
 # 💀 Nouvelle critique — Chapitre 3 : La Première Obscurité
 
 ## 🧠 Écriture
-L'ambiance devient plus incantatoire et la prose s'élargit en images sombres. Les répétitions ont été réduites, laissant la Flamme Souveraine guider la progression. Le ton reste archaïque tout en cherchant un souffle contemporain.
+L'ambiance devient plus incantatoire et la prose s'élargit en images sombres. Quelques insertions nouvelles apportent une tonalité plus incertaine, comme si la quête restait inaboutie. Les répétitions ont été réduites, laissant la Flamme Souveraine guider la progression. Le ton reste archaïque tout en cherchant un souffle contemporain.
 
 ## ⚙️ Points forts
 - Mystique de la Première Obscurité bien mise en valeur.

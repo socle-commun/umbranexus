@@ -7,6 +7,7 @@ La salle entière semble retenir son souffle.
 Une lueur glacée descend du plafond.
 Elle entoure Noctuvian d'un halo presque spectral.
 L'instant semble suspendu.
+Quel verdict l'attend vraiment ?
 Noctuvian perçoit chaque battement de son cœur.
 Un voile d'énergie se déploie autour de lui.
 
@@ -31,4 +32,5 @@ Il sait que la voie s'éclaircira au-delà.
 
 Ils franchissent le seuil en silence.
 Le Jugement se clôt ; la porte du Monde s'ouvre.
+Est-ce une délivrance ou une nouvelle épreuve ?
 Une renaissance commence.

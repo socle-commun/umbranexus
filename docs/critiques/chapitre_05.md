@@ -1,7 +1,7 @@
 # 💀 Critique actualisée — Chapitre 5 : Les Fragments qui Murmurent
 
 ## 🧠 Écriture
-L'écriture conserve un souffle ritualisé tout en fluidifiant la progression. Les images de filaments et de pacte renforcent la sensualité sombre, et la narration gagne en densité.
+L'écriture conserve un souffle ritualisé tout en fluidifiant la progression. Les images de filaments et de pacte renforcent la sensualité sombre, et la narration gagne en densité. Les phrases revues renforcent la décision de Noctuvian face au Fragment.
 
 ## ⚙️ Points forts
 - Collaboration entre Noctuvian et le Fragment clairement mise en avant.

@@ -8,7 +8,7 @@ La Kabbale, avec son Arbre de Vie, tisse des liens entre tarot, alphabet hébreu
 
 Serpents, croix ou labyrinthes servent de médiateurs entre conscient et inconscient. Les archétypes de Jung prolongent ces images. Tarot, kabbale et alchimie esquissent un même chemin intérieur, rythmé par les saisons et la révolution des astres.
 
-Il comprit que ces enseignements n'étaient qu'un seuil vers l'inconnu. L'ombre l'enveloppa. Pour progresser, il devait quitter la théorie et embrasser la marche.
+Il pressentit que ces enseignements n'étaient qu'un seuil vers l'inconnu. L'ombre l'enveloppa. Pour progresser, il devait quitter la théorie et embrasser la marche.
 
-En refermant la Table d'Émeraude, un souffle froid parcourut la salle, chuchotant de curieux présages. Les légendes parlaient de gardiens invisibles tapis dans la création. Il sentit ces regards anciens se poser sur lui et accueillit l'effroi comme une invitation à explorer des abysses que nul ne nommait plus.
-Portant ce savoir, il franchit les portes d'Akasha et marcha vers les ruines.
+En refermant la Table d'Émeraude, un souffle froid parcourut la salle, chuchotant de curieux présages. Les légendes parlaient de gardiens invisibles tapis dans la création. Il crut sentir ces regards anciens se poser sur lui et accueillit l'effroi comme une invitation à explorer des abysses que nul ne nommait plus.
+Indécis, il franchit les portes d'Akasha et marcha vers les ruines, portant ce savoir.

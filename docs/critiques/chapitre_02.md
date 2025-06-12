@@ -1,7 +1,7 @@
 # 💀 Nouvelle critique — Chapitre 2 : Le Chant de Qālmān
 
 ## 🧠 Écriture
-La voix conserve son élan poétique en tissant les pratiques rituelles autour de la Table d'Émeraude. Les paragraphes gagnent en fluidité, bien que la densité ésotérique demeure exigeante. Le Chant agit comme pivot narratif mais parfois au détriment de la clarté.
+La voix conserve son élan poétique en tissant les pratiques rituelles autour de la Table d'Émeraude. Les ajustements récents insufflent une dimension plus interrogative, laissant planer un doute sur le chemin emprunté. Les paragraphes gagnent en fluidité, bien que la densité ésotérique demeure exigeante. Le Chant agit comme pivot narratif mais parfois au détriment de la clarté.
 
 ## ⚙️ Points forts
 - Musicalité envoûtante qui porte la narration.

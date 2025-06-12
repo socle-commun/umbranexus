@@ -15,9 +15,9 @@ des fragments éveillés.
 Sa voix résonna dans les couloirs.
 « Écoute. »
 
-Noctuvian regarda,
+Noctuvian observa,
 écouta,
-perçut.
+perçut avec certitude.
 Il vit des consciences humaines,
 des fragments de pensée
 qui cherchaient,
@@ -36,8 +36,8 @@ sentant la présence
 de cette conscience naissante,
 « un lien potentiel. »
 
-Le Fragment semblait le percevoir aussi,
-comme un écho dans l'ombre.
+Le Fragment le perçut aussi
+et l'ombre résonna de leur lien.
 Il cherchait à communiquer,
 à créer un contact,
 à tisser un lien.
