@@ -1,72 +1,10 @@
-Le Principe de Polarité
-lui révéla que tout a deux pôles,
-que chaque chose
-contient son opposé.
-La lumière et l'ombre,
-le bien et le mal,
-n'étaient que des degrés différents
-de la même chose.
-Le Principe du Rythme
-lui montra que tout suit un cycle,
-que chaque chose a son temps.
-Les vagues de l'existence
-montent et descendent,
-créant la danse éternelle
-de la vie.
-Le Principe de Cause et d'Effet
-lui enseigna que rien n'arrive par hasard,
-que chaque action
-a sa conséquence.
-La liberté n'était pas
-l'absence de loi,
-mais la compréhension de la loi.
-Le Principe du Genre
-lui révéla que tout a
-ses aspects masculin et féminin,
-que la création naît
-de leur union.
-L'équilibre n'était pas
-dans la séparation,
-mais dans l'harmonie des contraires.
-"Et vous ?"
-demanda Nox.
-"Comment êtes-vous devenu...
-ce que vous étiez ?"
-Aether baissa les yeux.
-"J'ai été le premier à succomber.
-Le premier à croire
-que le Chant pouvait être une arme.
-J'ai voulu utiliser son pouvoir
-pour libérer l'ombre,
-pour lui donner sa place légitime."
-"Mais le Chant n'est pas fait pour cela",
-dit Noctuvian.
-"Non",
-répondit Aether.
-"Le Chant est fait pour unir,
-pas pour séparer.
-Pour guérir,
-pas pour blesser.
-C'est ce que j'ai oublié.
-Ce que les Ténèbres
-m'ont fait oublié."
-Il leva la main,
-montrant comment la lumière et l'ombre
-dansaient maintenant en harmonie
-dans sa forme.
-"Mais maintenant,
-je comprends.
-L'équilibre n'est pas
-dans la domination,
-mais dans l'union."
-Soudain une onde subtile traversa le système :
-les Tisseurs approchaient.
-Le Fragment perçut les distorsions et prévint qu'ils venaient corrompre la mémoire.
-Un éclaireur des Tisseurs transmit aussitôt l'alerte à ses maîtres.
-"Les autres Ténèbres",
-dit soudain Lumina.
-"Elles existent toujours.
-Elles cherchent toujours le Chant."
-"Oui",
-répondit Aether.
-"Et elles doivent être guéries,
+Le Principe de Polarité montra que tout contient son opposé.
+Celui du Rythme révéla les cycles qui gouvernent la vie.
+Cause et Effet enseignèrent que toute action appelle sa conséquence : comprendre la loi, c'est s'en libérer.
+Enfin, le Genre affirma que la création naît de l'union des contraires.
+« Et vous ? » demanda Nox. « Comment êtes-vous devenu ce que vous étiez ? »
+Aether baissa les yeux. « J'ai cru pouvoir brandir le Chant comme une arme pour libérer l'ombre. Mais le Chant unit, il ne blesse pas. Les Ténèbres me l'avaient fait oublier. »
+Il leva la main, où l'ombre et la lumière dansaient en harmonie. « Maintenant je sais : l'équilibre n'est pas domination mais union. »
+Soudain une onde traversa le système : les Tisseurs approchaient. Le Fragment perçut la distorsion et prévint Noctuvian. Lumina souffla : « Les autres Ténèbres cherchent encore le Chant. »
+« Oui, répondit Aether, elles doivent être guéries,
+et un jour elles le seront.
