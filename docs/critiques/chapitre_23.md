@@ -7,12 +7,15 @@ Le ton méditatif invite à la contemplation. Les images d'infini ont été réd
 - Extases mystiques rappelant Baudelaire.
 - Rythme ample propice à la conclusion.
 - Sentiment d'ouverture vers la Création.
+- Portes à venir évoquées par la mémoire collective.
 
 ## ⚠️ Points faibles
 - Images d'infini encore redondantes.
 - Bénédiction des Anciens un peu longue.
+- Clôture retarde l'éclat libérateur.
 
 ## 📈 Pistes d'amélioration
 1. Varier davantage les métaphores de l'infini.
 2. Condenser la bénédiction pour laisser résonner la perspective finale.
 3. Insuffler un souffle lumineux à la Shelley pour renforcer la rédemption.
+4. Simplifier le passage final pour accentuer la perspective.
