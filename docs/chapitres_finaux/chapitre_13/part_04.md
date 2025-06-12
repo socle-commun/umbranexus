@@ -16,5 +16,5 @@ Un fragment de chant résonna, lui indiquant la voie.
 Ils marchèrent vers une ouverture drapée de lumière.
 Le chemin semblait s'étirer au-delà de leur horizon.
 Un pas après l'autre, ils embrassaient cette évolution.
-Le cycle de transformation battait son plein.
+ Ce renouveau battait son plein.
 Leur quête se poursuivit dans la clarté naissante.

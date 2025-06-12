@@ -1,4 +1,4 @@
-Le passage de la transformation à l'évolution s'opéra sans heurt.
+ La transition vers une nouvelle phase s'opéra sans heurt.
 Les anciennes peurs se muèrent en curiosité fertile.
 Chaque membre du groupe ressentit un souffle renouvelé.
 « Rien ne demeure figé », rappela Nox, évoquant le cycle constant.
