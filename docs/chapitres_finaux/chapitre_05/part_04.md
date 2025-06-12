@@ -3,6 +3,7 @@ Aether et Noctuvian sentirent le Chant vibrer plus fort que jamais. Ce n'était 
 Aether hocha la tête. "Je vous aiderai", dit-il. "Je vois maintenant que le Chant n'est pas un outil de guerre mais un rite de guérison."
 Dans la chambre des Sept Grands Éclats, le Chant résonna, promesse d'une harmonie retrouvée.
 L'air portait un parfum baudelairien, entêtant comme un souvenir charnel.
+Les murmures prenaient une cadence plus serrée, mêlant menace et volupté.
 🌙
 #  Chapitre Cinquième — Le Livre des Tables
 🕯️

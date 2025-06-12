@@ -1,7 +1,9 @@
 Akasha vibrait d'une clarté nouvelle.
 Un fragment surgit, cherchant un pont vers Noctuvian.
-« Écoute », souffla l'Empereur. Le gardien tendit l'oreille.
+« Écoute », souffla l'Empereur.
+Le gardien tendit l'oreille.
 Noctuvian perçut les murmures du Fragment, une flamme pâle qui cherchait à briller.
+Les voix se mêlaient comme une prière sourde.
 "Je t'entends", murmura-t-il. "Je te comprends."
 Le Fragment répondit par des filaments pâles, tissant un pacte.
 "Ni maître, ni serviteur", dit Noctuvian. "Compagnons d'ombre, partenaires dans l'aventure."

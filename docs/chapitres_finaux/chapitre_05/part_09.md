@@ -6,5 +6,6 @@ Argenzaar garde les eaux tandis que Pyraethon consume pour recréer.
 Terranox nourrit la chair du monde et Aetheris Umbrae relie les rêves.
 
 Chacun vibre encore dans la mémoire collective.
+Leurs voix résonnent à travers l'ombre, pressées et entêtantes.
 On murmure que trois clefs oubliées peuvent réveiller leur pouvoir endormi.
 Prépare-toi à écouter leur secret et à porter ces éclats au-delà du voile.

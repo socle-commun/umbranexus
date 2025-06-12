@@ -17,6 +17,8 @@ Un éclat pourpre illumina brièvement les lieux.
 Il comprit que le grimoire l'appelait vers une nouvelle étape.
 La crypte se referma sur leur passage.
 Un chemin s'esquissait vers des savoirs plus périlleux.
-Ils quittèrent les lieux, portés par la rumeur des fragments.
-Leur quête se poursuivait dans le silence des couloirs.
+Les murmures se firent plus clairs, indiquant la direction à suivre.
+Ils quittèrent les lieux, portés par cette rumeur persistante.
+Leur quête se poursuivait dans le silence des couloirs,
+vers le cœur d'Umbranexus.
 🌌🕯️

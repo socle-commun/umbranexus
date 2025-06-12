@@ -1,6 +1,7 @@
 Le Mercure symbolise l'esprit en ascension, le Soufre le feu intérieur, le Sel la mémoire, et le Rebis leur union.
 
-À travers les couloirs oubliés, Noctuvian écoute les initiés. Kabbale, Tarot et Mystères antiques parlent chacun la langue du symbole. Serpents et labyrinthes balisent un chemin où l'âme se dévoile.
+Dans les cryptes, des voix éteintes pressent Noctuvian d'avancer.
+À travers les couloirs oubliés, il écoute les initiés. Kabbale, Tarot et Mystères antiques parlent chacun la langue du symbole. Serpents et labyrinthes balisent un chemin où l'âme se dévoile.
 
 Science et ésotérisme se reflètent comme deux faces d'un même miroir. L'atome devient mandala et le vide, Ain Soph. Ces correspondances poussent Noctuvian à poursuivre son voyage vers une connaissance réunifiée.
 
