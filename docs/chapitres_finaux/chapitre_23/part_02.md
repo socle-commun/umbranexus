@@ -1,5 +1,5 @@
 Une étreinte cosmique les enveloppe.
-Au cœur du voyage, les compagnons sentent le temps se plier en spirales.
+Au cœur du voyage, les compagnons sentent le temps se plier en arabesques.
 Leurs pensées s'entrelacent et forment un chœur sans début ni fin.
 Chacun offre son histoire comme une vibration subtile qui nourrit la conscience collective.
 Leurs récits s'enroulent, tissant une fresque d'émotions inédites.
@@ -11,8 +11,7 @@ Ces réminiscences forment un cercle parfait, signe que le voyage doit encore s'
 Chaque souvenir s'éclaire d'un éclat nouveau, comme si Akasha ouvrait ses portes.
 
 Un appel des Anciens résonne.
-Des entités primordiales surgissent des abîmes et leur confèrent brièvement leur bénédiction.
-Cette faveur résonne comme une onde bienveillante.
+Des entités primordiales surgissent des abîmes et leur accordent une bénédiction fugace, onde bienveillante rappelant la clarté chère à Shelley.
 
 Dans cette acceptation finale,
 Noctuvian remercie ces guides et invite ses compagnons à préserver leur identité malgré l'unité.
