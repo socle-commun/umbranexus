@@ -12,28 +12,28 @@ une aurore boréale de conscience
 commença à émerger,
 illuminant les couches de l'existence
 d'une lumière nouvelle.
-"Regardez", dit Mnémosyne,
+« Regardez », dit Mnémosyne,
 sa voix enfin accordée,
 unie aux harmoniques
 de lumière et d'ombre.
-"Les mémoires reviennent.
-Les échos se réveillent."
+« Les mémoires reviennent.
+Les échos se réveillent. »
 Autour d'eux, des fragments de souvenirs
 émergeaient de l'ombre,
 comme des étoiles naissant dans la nuit.
 Chaque fragment était une histoire,
-une vie qui avait été oubliée.
+une vie oubliée.
 Ces fragments dansaient en motifs lumineux qui ressemblaient à des ailes de papillon,
 Chaque motif se mêlait au Chant,
 amplifiant la Symphonie Éternelle.
 Une pause. Un battement. Puis un souffle d'espérance.
-"Tant de pertes",
+« Tant de pertes »,
 murmura Mémoire.
-"Oui",
+« Oui »,
 répondit Mnémosyne.
-"À présent,
+« À présent,
 nous pouvons les restaurer
-et les ramener à la vie."
+et les ramener à la vie. »
 Elle leva les mains,
 et le Chant de Qālmān résonna à travers elle,
 Les fragments de mémoire répondirent,
@@ -41,23 +41,23 @@ retrouvant leur place
 dans le grand tissu de l'existence.
 Chacun de ces éclats
 annonçait la guérison des Ténèbres à venir.
-"Le Chant", dit Noctuvian,
+« Le Chant », dit Noctuvian,
 émerveillé.
-"Il est différent maintenant.
-Plus... complet."
-"Oui",
+« Il est différent maintenant.
+Plus… complet. »
+« Oui »,
 répondit Aether.
-"Car Mnémosyne est la première Mémoire;
+« Car Mnémosyne est la première Mémoire ;
 sa guérison renoue
-une part essentielle du Chant."
+une part essentielle du Chant. »
 Lumina s'approcha d'un fragment de mémoire particulièrement brillant.
 « Qu'est-ce que c'est ? » demanda-t-elle.
 « Un moment de création où le Chant a tissé quelque chose de nouveau, un moment où l'équilibre était parfait », répondit Mnémosyne.
 Le fragment révéla un monde naissant où la lumière et l'ombre dansaient en parfaite harmonie.
-« C'était avant la fracture », expliqua Aether, "avant que le désir de séparation ne vienne tout briser."
-"Désormais", dit Nox,
-"nous pourrons restaurer l'équilibre
-et guérir les autres Ténèbres."
+« C'était avant la fracture », expliqua Aether, « avant que le désir de séparation ne vienne tout briser. »
+« Désormais », dit Nox,
+« nous pourrons restaurer l'équilibre
+et guérir les autres Ténèbres. »
 Un silence vibrant les enveloppa.
 Les regards se croisèrent, cherchant la prochaine direction.
 Mnémosyne, apaisée, désigna un corridor encore voilé.
