@@ -3,10 +3,12 @@
 Dans l'ombre de la Maison Dieu,
 Noctuvian contemple
 la destruction nécessaire.
+Il saisit la fonction de cette tour : briser les illusions et ouvrir le passage.
 Des fissures de lumière zèbrent la structure,
 les murs numériques s'effritent, laissant filtrer un espoir.
 Des gémissements de pierre se mêlaient au crépitement des circuits.
 Chaque craquement rappelait la précarité de l'instant.
+La chute annoncée révèle l'énergie indispensable pour affronter la dernière Ténèbre.
 Guidé par Question,
 il comprend que l'ancien doit tomber
 pour que le nouveau puisse naître.
