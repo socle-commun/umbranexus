@@ -1,83 +1,29 @@
 Portés par ces visions, ils avancèrent.
-Autour d'eux, une danse de la vie
-célébrait
-le changement perpétuel.
-"Autrefois", murmura Aether,
-"la colère ravageait tout."
-Nox sourit.
-"Désormais, tout est possible,
-l'évolution coule de source."
-"Oui",
-répondit Force.
-"Je vous guiderai.
-Les chemins de transformation me reviennent,
-toutes les voies d'évolution s'ouvrent."
-"Combien reste-t-il
-de Ténèbres à guérir ?"
-demanda Noctuvian,
-le regard tourné vers l'horizon.
-"Deux",
-répondit Force.
-"Deux Ténèbres,
-reflets contraires
-d'une même transformation.
-Chacune murmure
-un élan de croissance."
-"Et nous en avons déjà guéri cinq",
-dit Lumina.
-"Aether, Mnémosyne, Élan,
-Prudence et vous, Force."
-"Oui",
-confirma Aether.
-"Il en reste deux.
-Deux Ténèbres à guérir.
-Deux équilibres à restaurer."
-"Par où commençons-nous ?"
-demanda Noctuvian,
-sentant le Chant vibrer en lui.
-Force ferma les yeux,
-laissant le Chant la guider.
-"La plus proche",
-dit-elle.
-"La plus prête à être guérie.
-Elle se nomme... Doute."
-"Doute",
-répéta Mnémosyne,
-ses souvenirs frémissant.
-"La Ténèbre qui a empêché
-la transformation.
-La Ténèbre qui a bloqué
-l'évolution."
-"Oui",
-répondit Force.
-"Et maintenant,
-elle est prête à comprendre
-son erreur.
-Prête à retrouver
-son véritable rôle."
-"En route, donc",
-dit Noctuvian,
-le cœur empli d'espoir.
-"Rendons sa clarté à Doute."
-Dans Umbranexus,
-en pleine mue,
-le Chant vibra,
-porteur d'une promesse de guérison
-plus vaste encore.
-Un frisson parcourut les chemins,
-signalant que l'épreuve à venir serait plus douce.
-Les mondes dansaient autour d'eux,
-saluant la renaissance,
-et l'élan d'une croissance sans fin,
-d'une évolution inlassable.
-Car dans l'Umbranexus,
-chaque évolution lance un appel.
-Les notes du changement s'enchaînent,
-tissant la croissance.
-Elles composent une mélodie de renouveau,
-que Noctuvian accompagne pas à pas.
-À chaque accord, il sent l'horizon s'élargir,
-embrassant des possibilités inconnues.
-Il suit cette musique jusqu'au seuil du silence,
+Autour d'eux, la danse de la vie célébrait le changement.
+La résonance du Chant s'accélérait,
+poussant chacun à avancer sans hésitation.
+"Autrefois, la colère ravageait tout", murmura Aether.
+Nox sourit. "Désormais, tout est possible. L'évolution coule de source."
+Force acquiesça. "Je vous guiderai. Les chemins de transformation me reviennent."
+"Combien reste-t-il de Ténèbres à guérir?" demanda Noctuvian.
+"Deux", répondit Force. "Reflets contraires d'une même mutation."
+"Et nous en avons déjà guéri cinq", rappela Lumina.
+"Aether, Mnémosyne, Élan, Prudence et Force."
+"Il en reste donc deux", confirma Aether. "Deux équilibres à restaurer."
+Force ferma les yeux et laissa le Chant l'orienter.
+"La plus proche se nomme Doute", dit-elle.
+Mnémosyne répéta ce nom, ses souvenirs frémissant.
+Les souvenirs de Mnémosyne s'agitaient comme des pages qu'on tourne.
+"Cette Ténèbre bloquait la transformation", expliqua Force.
+"A présent elle est prête à comprendre son erreur et à reprendre son rôle."
+"En route", conclut Noctuvian, le cœur empli d'espoir.
+Dans Umbranexus en pleine mue, le Chant vibra encore,
+porteur d'une promesse de guérison plus vaste.
+Un frisson parcourut les chemins, signalant l'épreuve à venir.
+Autour d'eux, les couloirs se remodelaient au rythme de leur espoir.
+Les mondes dansaient, saluant la renaissance,
+tissant une mélodie de croissance que Noctuvian suivait pas à pas.
+À chaque accord, l'horizon s'élargissait, embrassant des possibles inconnus.
+Il suivit cette musique jusqu'au seuil du silence,
 porté par l'élan d'une ascension sans fin.
 🌌🕯️
