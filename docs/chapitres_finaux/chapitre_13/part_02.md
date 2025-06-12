@@ -1,7 +1,5 @@
-des êtres de lumière et d'ombre
-dansaient ensemble,
-évoluant vers de nouvelles formes
-d'existence.
+Des êtres de lumière et d'ombre dansaient ensemble.
+Ils évoluaient vers de nouvelles formes d'existence.
 C'était une danse créatrice,
 autrefois impossible
 dans l'Umbranexus figé par la peur.

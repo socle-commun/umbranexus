@@ -1,6 +1,6 @@
 Le vacarme se dissipa, laissant un souffle régulier derrière lui.
 Noctuvian observa les murs se métamorphoser lentement.
-Les symboles gravés prenaient une teinte changeante.
+Les symboles gravés prenaient une teinte changeante, semblables à un code lumineux.
 Il ramassa un morceau de pierre imprégné de l'énergie du lieu.
 Ses alliés scrutaient cette mutation avec étonnement.
 Chacun ressentait l'appel d'une évolution inexorable.
