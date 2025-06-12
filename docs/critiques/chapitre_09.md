@@ -7,15 +7,14 @@ La langue musicale sert au mieux la montée du désir. Les pauses récemment ajo
 - Passage réussi vers la Restauration.
 - Harmonies baudelairiennes assumées.
 - Troisième partie enrichie d'une scène inédite.
-- Silence nocturne enveloppant la fermeture du portail.
+- Transition explicite vers la Dimension de Désir.
 
 ## ⚠️ Points faibles
 - Certaines images demeurent complexes.
 - Quelques passages manquent encore de concision.
-- Clôture laisse des incertitudes sur la symbolique.
 
 ## 📈 Pistes d'amélioration
 1. Poursuivre l'équilibre entre rythmes lents et accélérations.
 2. Dynamiser certains moments à la manière de Calvino.
 3. Clarifier les images clés pour renforcer l'apothéose finale.
-4. Expliciter la signification de la fermeture du portail.
+4. Maintenir la tension lors de l'entrée dans la nouvelle dimension.
