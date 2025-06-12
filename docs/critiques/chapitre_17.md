@@ -1,22 +1,22 @@
 # 💀 Nouvelle critique — Chapitre 17 : La Maison Dieu et la Destruction Créatrice
 
 ## 🧠 Écriture
-Ce chapitre montre la destruction comme prélude à une renaissance. La Maison Dieu révèle sa fonction purificatrice en effaçant les illusions. L'effondrement nourrit la tension principale : guérir la dernière Ténèbre, Solitude. Le ton demeure lyrique tout en conservant clarté et progression.
+La destruction est présentée comme prélude à la renaissance. La Maison Dieu efface les illusions et nourrit la tension vers la guérison de la dernière Ténèbre.
 
 ## ⚙️ Points forts
-- Mise en scène explicite de la fonction de la Maison Dieu.
+- Fonction purificatrice de la Maison Dieu mise en valeur.
 - Sentiment d'urgence lié à l'épreuve finale.
-- Images évocatrices de ruines porteuses de renouveau.
+- Images évocatrices des ruines annonçant un renouveau.
 - Progression fluide vers la quête de Solitude.
 
 ## ⚠️ Points faibles
 - Enchaînements parfois abrupts entre les tableaux.
-- Voix secondaires encore peu développées.
-- Quelques répétitions de vocabulaire autour des ruines.
+- Voix secondaires peu développées.
+- Répétition du vocabulaire des ruines.
+- Brefs passages manquant de clarté.
 
 ## 📈 Pistes d'amélioration
-1. Renforcer la symbolique de la tour dès les premières lignes.
-2. Varier les descriptions de débris pour éviter les répétitions.
-3. Donner plus d'épaisseur aux réactions des compagnons.
-4. Accentuer la tension menant vers Solitude tout en préparant la renaissance.
-5. Veiller à équilibrer rythme poétique et lisibilité.
+1. Souligner la symbolique de la tour dès l'ouverture.
+2. Varier les descriptions de débris pour éviter la redondance.
+3. Donner plus d'épaisseur aux compagnons.
+4. Intensifier la tension vers Solitude tout en préparant la renaissance.

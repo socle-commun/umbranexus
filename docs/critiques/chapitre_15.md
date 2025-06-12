@@ -1,22 +1,22 @@
 # 💀 Nouvelle critique — Chapitre 15 : L'Évolution et la Promesse du Changement
 
 ## 🧠 Écriture
-Le texte abouti renforce la présence du Chant, désormais moteur de l'évolution. Les phrases ont été allégées, accentuant la dynamique de chaque scène.
+La présence du Chant devient moteur de l'évolution. Les phrases allégées accentuent la dynamique et préparent la transition vers la Dimension de Doute.
 
 ## ⚙️ Points forts
-- Lien clair entre le Chant et la promesse de changement.
-- Rythme plus nerveux, transitions plus fluides.
-- Images resserrées qui soulignent la métamorphose.
-- Présence appuyée de Force comme guide du groupe.
+- Lien clair entre Chant et promesse de changement.
+- Rythme nerveux avec transitions fluides.
+- Images resserrées soulignant la métamorphose.
+- Force affirmée comme guide du groupe.
 
 ## ⚠️ Points faibles
 - Quelques répétitions de motifs.
-- La tension pourrait encore monter avant d'aborder la Dimension de Doute.
-- Certaines descriptions demeurent abstraites.
+- Tension encore faible avant la prochaine Dimension.
+- Descriptions parfois abstraites.
+- Manque de pauses visuelles.
 
 ## 📈 Pistes d'amélioration
-1. Continuer à préciser les symboles du Chant pour qu'ils préfigurent la mutation.
-2. Éviter tout retour explicatif pour préserver la cadence.
-3. Graduer davantage l'approche de la Dimension de Doute.
-4. Aménager des respirations visuelles pour mettre en valeur les métamorphoses.
-5. Garder la cohérence des voix malgré la densité du texte.
+1. Préciser les symboles du Chant pour annoncer la mutation.
+2. Éviter les retours explicatifs qui freinent la cadence.
+3. Graduer l'approche de la Dimension de Doute.
+4. Ajouter des respirations visuelles pour valoriser les métamorphoses.

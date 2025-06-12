@@ -1,20 +1,22 @@
 # 💀 Nouvelle critique — Chapitre 6 : Les Tisseurs de l'Ombre
 
 ## 🧠 Écriture
-La révision renforce la présence menaçante de l'Écho. Les phrases alternent entre éclats rapides et mouvements plus amples, ce qui allège la lecture.
+Le chapitre développe la menace de l'Écho et offre un rythme alternant phrases brèves et descriptions plus amples. Cette respiration rend la lecture plus fluide tout en maintenant l'intensité onirique.
 
 ## ⚙️ Points forts
-- Clarification de la menace que représente l'Écho.
-- Insertion de respirations dans les descriptions.
-- Conclusion plus ouverte vers la suite.
-- Richesse des analogies et maintien du ton onirique.
+- Clarification du danger représenté par l'Écho.
+- Insertion de pauses descriptives bienvenues.
+- Analogie riche renforçant l'atmosphère sombre.
+- Conclusion ouverte vers la suite.
 
 ## ⚠️ Points faibles
-- Quelques fragments encyclopédiques demeurent denses.
-- La progression narrative reste par moments abrupte.
+- Quelques passages encyclopédiques encore denses.
+- Progression narrative parfois abrupte.
+- Personnages secondaires peu développés.
+- Certains motifs reviennent de manière répétitive.
 
 ## 📈 Pistes d'amélioration
-1. Continuer à développer les motivations de l'Écho.
-2. Alléger certaines listes pour garder le rythme.
-3. Maintenir la variété de phrase tout au long du chapitre.
-4. Préparer la tension du prochain chapitre en évoquant la réaction des Tisseurs.
+1. Éclaircir les motivations de l'Écho pour accentuer la tension.
+2. Alléger les listes afin de préserver le rythme.
+3. Diversifier les réactions des Tisseurs pour éviter la monotonie.
+4. Préparer plus explicitement la transition vers le chapitre suivant.

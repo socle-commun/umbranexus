@@ -1,23 +1,22 @@
 # 💀 Nouvelle critique — Chapitre 12 : Harmonie Finale
 
 ## 🧠 Écriture
-Le chapitre gagne en fluidité grâce à un meilleur équilibre entre action et introspection. La transformation de Peur en Prudence s'appuie sur une symbolique clarifiée. Le Chant devient moteur narratif et prépare la métamorphose collective.
+L'équilibre entre action et introspection est mieux maîtrisé. La transformation de Peur en Prudence s'appuie sur une symbolique plus claire et le Chant devient moteur narratif.
 
 ## ⚙️ Points forts
 - Passage harmonieux de la Peur à la Prudence.
-- Symboles alchimiques plus lisibles.
-- Chant central qui unifie les fragments.
-- Conclusion ouverte sur la quête à venir.
-- Alliance de descriptions poétiques et de dialogues concis.
+- Symboles alchimiques bien lisibles.
+- Chant central unifiant les fragments.
+- Conclusion ouverte vers la suite.
 
 ## ⚠️ Points faibles
 - Quelques énumérations encore lourdes.
-- Certaines images du Chant restent abstraites.
-- Le rythme pourrait accélérer avant l'épilogue.
+- Images du Chant parfois abstraites.
+- Rythme qui retombe avant l'épilogue.
+- Liens avec les chapitres précédents peu rappelés.
 
 ## 📈 Pistes d'amélioration
-1. Simplifier les références annexes pour ne pas détourner de la scène principale.
+1. Alléger les références annexes pour garder la tension.
 2. Renforcer les sensations auditives lors du Chant.
-3. Rappeler plus clairement le lien avec les chapitres précédents.
-4. Introduire une tension supplémentaire juste avant la résolution.
-5. Maintenir la formule « La quête continue » pour annoncer la suite.
+3. Rappeler brièvement les étapes précédentes.
+4. Ajouter une tension avant la résolution finale.

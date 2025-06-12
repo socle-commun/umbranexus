@@ -1,22 +1,22 @@
 # 💀 Nouvelle critique — Chapitre 19 : La Lune et les Illusions
 
 ## 🧠 Écriture
-Le style se clarifie et les mirages servent désormais de passerelles vers la connaissance. Les illusions, moins nombreuses mais mieux ciblées, guident Noctuvian vers une lumière à venir. Cette tension vers le Soleil se ressent dans chaque scène nocturne.
+Le style s'éclaircit et les mirages deviennent des passerelles vers la connaissance. Les illusions, moins nombreuses, guident Noctuvian vers une lumière à venir.
 
 ## ⚙️ Points forts
-- Articulation plus nette entre illusions et révélation.
-- Atmosphère nocturne toujours envoû­tante.
+- Articulation nette entre illusions et révélation.
+- Atmosphère nocturne envoûtante.
 - Progression fluide vers la clarté.
-- Dialogues concis qui renforcent la dynamique du groupe.
+- Dialogues concis renforçant la dynamique du groupe.
 
 ## ⚠️ Points faibles
-- Quelques images lunaires restent redondantes.
-- La transition finale vers l’aube manque encore de surprise.
-- Certains doutes intérieurs mériteraient plus de nuance.
+- Quelques images lunaires redondantes.
+- Transition finale vers l'aube peu surprenante.
+- Doutes intérieurs pas assez nuancés.
+- Sensations parfois répétitives.
 
 ## 📈 Pistes d'amélioration
-1. Introduire des illusions sensorielles variées pour éviter la monotonie.
-2. Ajouter de l’incertitude sur la nature exacte de la lumière à venir.
+1. Varier les illusions sensorielles pour éviter la monotonie.
+2. Entretenir l'incertitude quant à la lumière à venir.
 3. Approfondir les hésitations des protagonistes.
-4. Réduire la répétition des symboles lunaires.
-5. Clore sur une note de suspense ouverte au doute.
+4. Clore sur un suspense ouvert.
