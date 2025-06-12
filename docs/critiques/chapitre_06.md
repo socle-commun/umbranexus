@@ -1,23 +1,23 @@
 # 💀 Nouvelle critique — Chapitre 6 : Les Tisseurs de l'Ombre
 
 ## 🧠 Écriture
-La tension progresse avec plus de mesure. Les effets dramatiques ont été réduits et la menace gagne en crédibilité.
+La prose s'assombrit en suivant la traque de l'Écho. Les descriptions gagnent en précision et la menace étend son ombre.
 
 ## ⚙️ Points forts
-- Suspense constant autour des assauts.
-- Ambiance lovecraftienne bien rendue.
-- Quelques ruptures rythmiques efficaces.
-- Souffle de curiosité marqué par la dernière marche.
+- Présence de l'Écho rappelée avec constance.
+- Intensité progressive lors des attaques.
+- Rythmes plus serrés donnant de la nervosité.
+- Atmosphère onirique correctement dosée.
 
 ## ⚠️ Points faibles
-- Rythme encore irrégulier par endroits.
-- Certains effets restent trop appuyés.
-- Final énigmatique pouvant désorienter.
+- Répétitions de certaines images d'effroi.
+- L'Écho demeure un antagoniste abstrait.
+- Manque de respiration au cœur du chapitre.
+- Fin abrupte demandant à être lissée.
 
 ## 📈 Pistes d'amélioration
-1. Resserrer les passages répétitifs pour maintenir la nervosité.
-2. Multiplier les points de vue pour enrichir la dramaturgie.
-3. User de phrases brèves lors des attaques afin d'accentuer l'urgence.
-4. Clarifier la structure afin que chaque partie se lise d'une seule traite.
-5. Éclaircir la portée des derniers assauts.
-Dans l'ensemble, la tonalité s'équilibre mais gagnerait à unifier ses symboles.
+1. Mieux articuler le rôle de l'Écho pour guider la tension.
+2. Accorder davantage d'espace aux moments de doute.
+3. Varier la longueur des phrases pour maintenir le souffle.
+4. Lier plus étroitement la quête de savoir aux combats.
+5. Ouvrir la conclusion sur une transition claire vers la suite.
