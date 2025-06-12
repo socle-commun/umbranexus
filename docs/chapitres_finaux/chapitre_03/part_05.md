@@ -4,6 +4,6 @@ Serpent, croix et labyrinthe évoquent la métamorphose, rappelant que science e
 Dans cette étape ultime, l'alchimiste embrasse sa dualité.
 L'esprit et la matière se répondent, fondus dans un même souffle.
 Le métal intérieur s'embrase pour devenir conscience éclairée.
-Chaque symbole trace la voie de la complétude : le serpent se mord la queue, la croix relie les axes, le labyrinthe révèle le centre.
+Chaque signe trace la voie de la complétude : le serpent se mord la queue, la croix relie les axes, le labyrinthe révèle le centre.
 Noctuvian inscrit ces rites dans Akasha, persuadé que la connaissance se cultive par la transformation intime.
 La quête ne se termine pas ; elle devient cycle d'ascension.
