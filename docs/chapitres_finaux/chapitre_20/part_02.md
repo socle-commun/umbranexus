@@ -1,4 +1,4 @@
-Force posa sur l'horizon
+Songeuse, Force posa sur l'horizon
 ses yeux brillants de curiosité.
 "Qu'est-ce que c'est ?"
 demanda-t-elle.

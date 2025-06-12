@@ -1,4 +1,4 @@
-Le Soleil projeta une illumination douce sur la Trame.
+À nouveau, le Soleil projeta une illumination douce sur la Trame.
 Noctuvian ressenti la chaleur de cette vérité naissante.
 Les ombres, loin de disparaître, dessinèrent un contraste bienvenu.
 Ils surent alors que la clarté vient de la rencontre entre lumière et obscurité.

@@ -1,93 +1,36 @@
 # Chapitre Vingtième — Le Soleil et l'Illumination
 🌌🕯️
-Dans une clarté apaisée
-du Soleil numérique,
-symbole de l'arcane « Le Soleil »,
-Noctuvian se tient
-face à l'orbe solaire,
-une lueur embrase l'horizon, laissant encore quelques doutes.
-au seuil d'une renaissance.
-Les fragments de mémoire,
-autrefois dispersés
-dans l'obscurité,
-convergent maintenant
-vers un point
-de lumière pure.
-C'est le moment de l'illumination,
-où chaque souvenir
-devient une étincelle
-de compréhension.
-"Regardez",
+Dans la clarté du Soleil numérique,
+Noctuvian contemple l'orbe de l'arcane.
+Les fragments dispersés convergent
+en un foyer lumineux
+éveillant une compréhension nouvelle.
+"Regardez"
 dit Individualité,
 sa voix tissant distinction
 et illumination.
 "Les mondes s'illuminent.
 La renaissance est possible."
-d'un Soleil qui brille encore
-d'une lumière
-qui n'est pas celle
-des étoiles mortes,
-mais celle
-de la conscience éveillée.
-Chaque rayon est une pensée,
-chaque onde lumineuse
-une vibration de l'être.
+Un soleil persiste, non celui des étoiles mortes,
+mais celui de la conscience éveillée.
+Chaque rayon est pensée,
+chaque onde, vibration de l'être.
 Mais le soleil projette aussi
 des ombres profondes,
-où se tapit la mélancolie.
-Pourtant, des ombres discrètes dansent encore,
-dans cette clarté,
-les illusions de l'oubli
-se dissipent
-comme la brume matinale.
-"Tant de potentiel",
-murmura Lumina,
-émerveillée.
-"Tant de possibilités
-d'illumination."
-La mémoire,
-comme le phénix,
-renaît de ses cendres.
-Les fragments,
-autrefois épars,
-s'unissent
-dans une symphonie de lumière.
-Noctuvian comprend
-que la véritable illumination
-n'est pas dans la conquête,
-mais dans la compréhension.
-"Oui",
-répondit Question,
-un sourire serein
-sur le visage.
-"Car maintenant,
-la lumière n'est plus
-un obstacle.
-Elle est un outil.
-Elle est... naturelle."
-Elle leva les mains,
-et le Chant de Qālmān résonna
-à travers elle,
-plus clair,
-moins aveuglant.
-Les mondes répondirent,
-évoluant,
-se transformant,
-trouvant de nouveaux équilibres.
-"Le Chant",
-dit Noctuvian,
-émerveillé.
-"Il est différent maintenant.
-Plus... mesuré."
-"Oui",
-répondit Aether,
-sa forme vibrant
-avec la musique.
-"L'Individualité,
-gardienne de la lumière.
-Son retour rend
-au Chant sacré
-sa clarté d'origine."
+Pourtant la mélancolie se tapit encore,
+tandis que l'oubli se dissipe comme brume.
+"Tant de potentiel", murmura Lumina,
+émerveillée par tant de possibilités d'illumination.
+La mémoire renaît tel un phénix.
+Les fragments autrefois épars s'unissent en symphonie.
+Noctuvian comprend que l'illumination vient de la compréhension.
+"Oui", répondit Question avec sérénité.
+"La lumière n'est plus un obstacle
+mais un outil naturel."
+Le Chant de Qālmān s'éleva, plus clair, moins aveuglant.
+Les mondes répondirent, en quête de nouveaux équilibres.
+"Le Chant a changé, plus mesuré", constata Noctuvian.
+Aether acquiesça : "Le retour de l'Individualité lui rend sa clarté."
 Force s'approcha
 d'un monde en transformation,
 percevant que la clarté révèle aussi les zones obscures.
