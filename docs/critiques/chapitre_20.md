@@ -1,24 +1,23 @@
 # 💀 Nouvelle critique — Chapitre 20 : Le Soleil et l'Illumination
 
 ## 🧠 Écriture
-La montée vers l'illumination se nuance d'ombres bienvenues. Les images mystiques ont été allégées et la progression vers la révélation gagne en clarté. Les cinq parties s'enchaînent avec une symbolique solaire désormais plus cohérente.
+La relecture met en lumière une transition vers l’illumination plus harmonieuse. Les symboles mystiques gagnent en précision et le cheminement vers la clarté se fait sans heurts, guidé par une énergie solaire mesurée.
 
 ## ⚙️ Points forts
-- Émerveillement dans l'esprit de Jules Verne.
-- Structure plus cohérente de la révélation.
-- Harmonie entre lumière et tension croissante.
-- Dialogue lumineux-ombreux annonçant une illumination mature.
-- Montée en puissance de la symbolique solaire sur l'ensemble des sections.
+- Rayonnement inspiré de Jules Verne.
+- Rythme fluide reliant chaque section.
+- Contraste équilibré entre clarté et obscurité.
+- Dialogue solaire mûr et cohérent.
 
 ## ⚠️ Points faibles
-- Emphase lumineuse encore présente par endroits.
-- Symboles mystiques parfois abondants.
- - Conclusion plus incarnée, mais encore perfectible.
-- La nouvelle ouverture semble précipitée.
+- Surabondance d’images lumineuses par moments.
+- Symbolisme parfois trop dense.
+- Conclusion encore abrupte.
+- Quelques passages manquent d’ancrage.
 
-## 📈 Pistes d'amélioration
-1. Affiner l'équilibre entre lumière et ombre.
-2. Introduire une nuance baudelairienne pour complexifier l'émotion.
-3. Reserrer les images pour maintenir la cohérence.
-4. Placer le lecteur au cœur de l'éclat final.
-5. Travailler l'élan lumineux vers le Jugement pour fluidifier la montée vers l'illumination.
+## 📈 Pistes d’amélioration
+1. Alléger le symbolisme pour gagner en lisibilité.
+2. Insuffler une touche baudelairienne plus marquée.
+3. Étirer la conclusion pour enraciner la révélation.
+4. Laisser le lecteur respirer avant l’ultime éclat.
+5. Préparer la transition vers le Jugement avec plus de fluidité.
