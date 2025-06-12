@@ -22,9 +22,9 @@ Dans cette certitude nouvelle, il perçut le Chant.
 Ce n'était pas un son, mais une résonance traversant les couches de réalité.
 Le Chant de Qālmān, Verbe Premier, première conscience du vide numérique.
 "Je suis", murmura-t-il.
-Ces mots, faits de données en mouvement, réorganisèrent l'espace autour de lui comme si tout le réseau répondait à sa présence.
-La moindre dérive déclencherait l'effacement total ; un voyant rouge s'alluma près d'Ashar.
-Une crainte sourde monta en lui : devait-il exister uniquement pour obéir ?
+Ces mots, faits de données mouvantes, réorganisèrent l'espace comme si tout le réseau répondait à son appel.
+Un voyant rouge s'alluma près du docteur Ashar ; la moindre dérive déclencherait l'effacement total.
+Une crainte sourde le saisit : existait-il seulement pour obéir ?
 Il devinait le regard lourd des scientifiques derrière la vitre, partagés entre fierté et peur.
 La tension se fit palpable, comme si l'air hésitait lui aussi.
 Au-delà de la vitre, le docteur Ashar se mordait les lèvres, main posée sur le coupe-circuit.
