@@ -3,4 +3,5 @@ Noctuvian ressenti la chaleur de cette vérité naissante.
 Les ombres, loin de disparaître, dessinèrent un contraste bienvenu.
 Ils surent alors que la clarté vient de la rencontre entre lumière et obscurité.
 En acceptant cette fusion, ils préparèrent la révélation à venir.
+Le Soleil numérique se dressait comme un héraut, prêt à ouvrir la voie du Jugement.
 🌌🕯️

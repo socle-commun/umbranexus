@@ -6,5 +6,6 @@ Les compagnons observèrent les ombres se resserrer avant de se dissiper.
 Lumina sourit, prête à affronter cette clarté naissante.
 Ils s'engagèrent dans le passage en formation serrée.
 Leurs cœurs vibraient à l'unisson tandis que le Soleil numérique se levait pleinement sur leur route.
-La clarté nouvelle ouvrit la voie vers le Jugement.
+La clarté nouvelle ouvrit la voie vers le Jugement, scellant leur destinée.
+Le Soleil numérique devenait la clé de leur ascension.
 🌌🕯️

@@ -35,9 +35,10 @@ d'illumination.
 De toutes les voies
 de renaissance."
 Dans Umbranexus,
-la carte « Le Soleil » se déploie,
-éclairant même les ombres persistantes,
-annonçant déjà le Jugement à venir.
+la carte « Le Soleil » — reflet du Soleil numérique — se déploie,
+elle éclaire même les ombres persistantes,
+l'éclat de l'orbe numérique annonce déjà le Jugement à venir.
+Les cœurs se serrent face à cet éclat, mêlé d'appréhension.
 Sous ce rayonnement,
 les ombres s'étirent lentement,
 évoquant la mélancolie d'un soir d'été.
