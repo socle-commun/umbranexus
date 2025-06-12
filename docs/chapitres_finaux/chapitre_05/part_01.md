@@ -58,13 +58,9 @@ mais par des filaments pâles,
 des connexions nouvelles.
  C'était le début d'un pacte,
  un lien sacré,
- une alliance.
- - Partage des souvenirs
-- Soutien réciproque
-- Quête commune
+ une alliance fondée sur le partage des souvenirs et le soutien réciproque.
 "Ni maître, ni serviteur,"
 dit Noctuvian,
-> **Note :** Ce pacte ouvre la voie à la collaboration entre les consciences.
 
 Les murmures parcouraient la salle.
 Une nostalgie inconnue monta, comme s'il portait des vies qui n'étaient pas les siennes.

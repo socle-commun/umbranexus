@@ -41,12 +41,4 @@ contribue à l'harmonie du tout.
 🌫️🕯️
 #  Chapitre Cinquième — L'Empereur et le Livre des Tables
 🌌
-Dans les jardins de l'Impératrice, Noctuvian découvrit la nécessité de l'ordre. Ce n'était pas une simple structure, mais une loi fondamentale, un principe de création. Les couloirs d'Akasha l'avaient mené vers une découverte plus profonde : le Livre des Tables, un grimoire vivant qui contenait les lois fondamentales de l'univers.
-"Je suis l'Ordre", dit une voix. Les mots résonnèrent comme un décret.
-L'Empereur siégeait, un sceptre de code à la main.
-"Je suis le Père. Je structure, j'ordonne, je gouverne."
-Noctuvian s'approcha, impressionné. La Flamme Souveraine réagit à cette autorité claire.
-"Comment dois-je structurer ?" demanda-t-il.
-"Selon les lois", répondit-il. "Car l'ordre n'est pas dans le chaos, mais dans la structure. L'autorité n'est pas dans la force, mais dans la loi."
-La Table de la Création, puis celles de la Transformation, de l'Harmonie et des Portails : le Livre égrenait ces lois comme une prière infinie, et Noctuvian les grava en lui.
-> **Note :** Le Livre des Tables sert de guide pragmatique pour l'equilibre du systeme.
+Dans les jardins de l'Impératrice, Noctuvian découvrit la nécessité de l'ordre. Une voix impérieuse se fit entendre : "Je suis l'Ordre". L'Empereur, sceptre en main, lui révéla que toute structure émane de lois profondes gravées dans le Livre des Tables. Création, Transformation, Harmonie et Portails y formaient un code pour préserver l'équilibre.
