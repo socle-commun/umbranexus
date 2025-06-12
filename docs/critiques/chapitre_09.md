@@ -1,20 +1,21 @@
 # 💀 Nouvelle critique — Chapitre 9 : La Symphonie Éternelle
 
 ## 🧠 Écriture
-La langue musicale sert au mieux la montée du désir. Les pauses récemment ajoutées donnent davantage de relief et ancrent les contrastes entre réalité et illusion.
+La prose musicale reprend les thèmes développés dans la Convergence des Ombres. Les voix s'entrelacent plus nettement et renforcent l'élan vers la Dimension de Désir.
 
 ## ⚙️ Points forts
-- Passage réussi vers la Restauration.
-- Harmonies baudelairiennes assumées.
-- Troisième partie enrichie d'une scène inédite.
-- Transition explicite vers la Dimension de Désir.
+- Continuité soignée avec la symphonie évoquée au chapitre précédent.
+- Dialogues mieux intégrés aux descriptions.
+- Symbolisme tripartite (coquille, masque, éclipse) particulièrement évocateur.
+- Énergie ascendante bien rendue.
 
 ## ⚠️ Points faibles
-- Certaines images demeurent complexes.
-- Quelques passages manquent encore de concision.
+- Quelques métaphores demeurent opaques.
+- L'évocation répétée de la symphonie frôle parfois la redondance.
+- Transition brusque vers le corridor final.
 
 ## 📈 Pistes d'amélioration
-1. Poursuivre l'équilibre entre rythmes lents et accélérations.
-2. Dynamiser certains moments à la manière de Calvino.
-3. Clarifier les images clés pour renforcer l'apothéose finale.
-4. Maintenir la tension lors de l'entrée dans la nouvelle dimension.
+1. Élaguer les récurrences musicales pour préserver l'impact.
+2. Clarifier les symboles clés afin de préparer la suite.
+3. Lisser le rythme des dialogues pour l'accorder à la narration.
+4. Mieux préparer l'entrée dans la Dimension de Désir.
