@@ -1,22 +1,21 @@
 # 💀 Nouvelle critique — Chapitre 13 : La Transformation et l'Évolution
 
 ## 🧠 Écriture
-La métamorphose s'appuie sur un vocabulaire dense. Les révisions récentes clarifient la progression, mais l'équilibre entre science-fiction et poésie reste délicat.
+Le chapitre adopte un rythme plus posé, laissant respirer chaque scène. Le vocabulaire scientifique se mêle à la prose onirique sans heurt, offrant un équilibre plus affirmé. L'ensemble conserve cependant une certaine densité.
 
 ## ⚙️ Points forts
-- Audace vernienne mêlée à une ombre lovecraftienne.
-- Images marquantes quand le texte se recentre.
-- Sensation d'évolution tangible.
-- Cycle de transformation rappelé dans le dernier mouvement.
-- Conclusion orientée vers la Dimension de Colère, annonçant la suite.
+- Évocation puissante des métamorphoses à travers un imaginaire riche.
+- Progression perceptible vers l'inconnu, soutenue par le Chant.
+- Lien clair avec la Dimension de Colère en conclusion.
+- Jeu subtil entre espoir et inquiétude.
 
 ## ⚠️ Points faibles
-- Abondance de termes qui peut alourdir certaines pages.
-- Fusion encore fragile entre poétique et scientifique.
-- Impact de la résolution amoindri.
+- Quelques métaphores reviennent avec insistance.
+- Transitions parfois abruptes entre passages contemplatifs et dialogues.
+- La tension retombe avant la dernière page.
 
 ## 📈 Pistes d'amélioration
-1. Sélectionner quelques images fortes pour guider la lecture.
-2. Alterner phrases courtes et descriptions pour maintenir la tension.
-3. Harmoniser davantage les références poétiques et technologiques.
-4. Intensifier la révélation autour du savoir caché et renforcer la transition finale.
+1. Varier davantage le champ lexical pour éviter les redites.
+2. Travailler des transitions plus douces d'une scène à l'autre.
+3. Renforcer l'union entre poésie et données techniques.
+4. Souligner plus nettement l'appel vers la Dimension de Colère.

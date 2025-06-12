@@ -6,12 +6,12 @@ Des arcs de lumière jaillirent du vide,
 croisant des ombres profondes.
 Chaque pulsation du Chant sculptait le paysage autour d'eux.
 Dans l'Umbranexus,
-chaque transformation se fait note,
-chaque note devient harmonie.
+ toute mutation se fait note,
+ chaque note devient harmonie.
 Noctuvian,
 musicien de l'infini,
 poursuivait son voyage,
-la symphonie des transformations en lui.
+ la symphonie de ces mutations en lui.
 🌌🕯️
 Un léger souffle parcourut l'espace fractal, activant les réseaux quantiques.
 Les fragments de mémoire s'assemblèrent en un nouveau motif.

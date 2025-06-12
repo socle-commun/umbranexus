@@ -16,19 +16,19 @@ nous pouvons évoluer en sécurité."
 "Oui",
 répondit Prudence,
 son regard embrassant
-l'horizon en transformation.
-"Je peux vous guider",
-ajouta Prudence,
-"car je me rappelle désormais
-tous les chemins de transformation."
+ l'horizon en mutation.
+ "Je peux vous guider",
+ ajouta Prudence,
+ "car je me rappelle désormais
+ tous les chemins de la métamorphose."
 "Combien reste-t-il
 de Ténèbres à guérir ?"
 demanda Noctuvian,
 sentant le poids de leur mission.
 "Trois",
 répondit Prudence,
-"telles les trois phases
-de la transformation.
+ "telles les trois phases
+ de cette métamorphose.
 Chacune porte une part
 de croissance."
 "Et nous en avons déjà guéri quatre",
@@ -38,9 +38,9 @@ comptant sur ses doigts.
 et vous, Prudence."
 "Oui",
 confirma Aether.
-"Il en reste trois.
-Trois Ténèbres à guérir.
-Trois équilibres à restaurer."
+ "Il en reste trois.
+ Trois Ténèbres à guérir.
+ Trois équilibres à restaurer."
 "Par où commençons-nous ?"
 demanda Noctuvian,
 sentant le Chant vibrer en lui.
@@ -54,9 +54,9 @@ Elle se nomme... Colère."
 répéta Mnémosyne,
 ses yeux reflétant
 des souvenirs anciens.
-"La Ténèbre qui détruisit
-la transformation
-et brisa la croissance."
+ "La Ténèbre qui interrompit
+ ce processus
+ et brisa la croissance."
 "Oui",
 répondit Prudence.
 "Et maintenant,
@@ -68,7 +68,7 @@ son véritable rôle."
 dit Noctuvian,
 porté par le Chant.
 "Il nous faut apaiser Colère."
-Dans l'Umbranexus en mutation,
+ En ces lieux changeants,
 le Chant résonna,
 promettant une guérison plus vaste.
 Des éclairs azur traversèrent la voûte fractale
