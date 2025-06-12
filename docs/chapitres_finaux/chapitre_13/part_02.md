@@ -73,3 +73,8 @@ le Chant résonna,
 promettant une guérison plus vaste.
 Des éclairs azur traversèrent la voûte fractale
 tandis que se dessinait le chemin vers Colère.
+Chaque pas dans cette direction éclairait un avenir nouveau.
+Les visions entrevues dans la lumière montraient
+comment la colère apprivoisée deviendrait moteur de croissance.
+Tous saisirent que cette transformation
+préparait l'équilibre à venir.

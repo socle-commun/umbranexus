@@ -18,3 +18,8 @@ Le chemin semblait s'étirer au-delà de leur horizon.
 Un pas après l'autre, ils embrassaient cette évolution.
  Ce renouveau battait son plein.
 Leur quête se poursuivit dans la clarté naissante.
+Dans cette galerie, chacun pressentit
+la lueur d'une ère nouvelle.
+Les symboles changeants annonçaient des voies plus stables.
+Chaque pas ouvrait la porte d'un avenir d'équilibre.
+Ensemble, ils suivirent cette promesse.
