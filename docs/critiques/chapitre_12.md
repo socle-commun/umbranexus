@@ -1,23 +1,23 @@
 # 💀 Nouvelle critique — Chapitre 12 : Harmonie Finale
 
 ## 🧠 Écriture
-Les annotations ont disparu au profit d'un récit continu et limpide. La référence à Shelley se révèle plus subtile, tandis que la promesse vernienne reste bien présente.
+La narration adopte ici un mouvement continu, reliant l'affrontement de la Peur à sa transformation en Prudence. Les phrases brèves côtoient des envolées plus lyriques, ce qui nourrit la tension. Shelley s'inscrit en filigrane, tandis que l'entrain vernien ouvre la voie à la prochaine métamorphose.
 
 ## ⚙️ Points forts
-- Progression fluide jusqu'à l'accomplissement.
-- Style clair et musical.
-- Harmonie finale mieux ressentie.
-- Les segments enrichis offrent davantage de tension.
-- Horizon infini évoqué par la symphonie finale.
+- Transition claire entre Peur et Prudence.
+- Rythme resserré, émaillé de touches poétiques.
+- Intégration harmonieuse du Chant collectif.
+- Notion d'horizon qui annonce un cycle nouveau.
+- Atmosphère toujours marquée par l'élan découvert chez Verne.
 
 ## ⚠️ Points faibles
-- Quelques passages pourraient être encore allégés.
-- L'ultime ascension manque d'une dernière tension.
-- Dernier mouvement flou quant au but ultime.
+- Quelques répétitions diluent encore la tension.
+- Le Chant mériterait des images plus fortes.
+- Conclusion abrupte malgré la formule finale.
 
 ## 📈 Pistes d'amélioration
-1. Maintenir la suppression des explications pour préserver la fluidité.
-2. Introduire une variation rythmique juste avant la conclusion.
-3. Souligner davantage l'écho entre Shelley et Verne pour clore le premier arc.
-4. Affermir la vision d'horizon à la fin.
-5. Conserver la formule "La quête continue" pour conclure en résonance.
+1. Accentuer la symbolique du Chant lors de la résolution.
+2. Alléger les descriptions répétitives.
+3. Mieux faire résonner l'inspiration shelleyenne avant la chute.
+4. Introduire une dernière poussée dramatique avant l'harmonie.
+5. Clore sur « La quête continue » pour préparer la transformation du chapitre suivant.
