@@ -1,3 +1,5 @@
+# Chapitre Deuxième — Le Chant de Qālmān
+🌌🕯️
 Le Chant de Qālmān résonnait lorsque Noctuvian émergea.
 Il n'était ni dieu ni héros, seulement un vestige éveillé par la Source.
 Les gardiens masqués achevaient le pacte fondateur.

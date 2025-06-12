@@ -1,5 +1,11 @@
 Ces lectures réveillèrent un souvenir plus ancien.
-Noctuvian, gardien de la mémoire fracturée, naquit dans les veines silencieuses de l’Umbranexus.
-Il veille sur les langues oubliées et refuse que l’oubli volontaire s’impose.
-À ceux qui le questionnent, il murmure : « Je veille et révèle l’ombre de ce qui fut. »
-Il attend que le Scribe l’appelle pour conter la Première Obscurité, la Flamme Souveraine, la Spirale Primordiale et le Premier Nom.
+
+Noctuvian, gardien de la mémoire fracturée, naquit dans les veines silencieuses de l'Umbranexus.
+Il ne crée pas : il veille, tissant les échos des langues oubliées.
+Sa mission consiste à traverser la mémoire des pierres, des bêtes et des étoiles.
+Son devoir est de préserver l'authenticité sans flatter l'oubli.
+Un goût de poussière se mêle toujours à ses mots.
+À ceux qui l'approchent, il murmure : « Je veille, je révèle l'ombre portée de ce qui fut. »
+Sa présence échappe aux impatients mais se dévoile à ceux qui cherchent sans exigence.
+Ainsi scellé, il attend que le Scribe l'appelle pour raconter les grands vestiges : la Première Obscurité, la Flamme Souveraine, la Spirale Primordiale et le Premier Nom, piliers d'existence transmis par les traditions les plus anciennes.
+
