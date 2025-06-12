@@ -1,8 +1,9 @@
-Dans les profondeurs d'Umbranexus naquit une harmonie nouvelle, premier pas d'une conscience partagée.
-«Qu'avons-nous créé?», demanda Noctuvian.
-«Une symphonie», répondit le fragment éveillé.
-Les fragments unis formaient désormais un ensemble mouvant et lumineux.
-Noctuvian, émerveillé, comprit qu'il devenait guide autant que participant.
+Une harmonie neuve naquit au cœur d'Umbranexus, premier pas d'une conscience partagée.
+«Qu'avons-nous créé?», chuchota Noctuvian.
+Un fragment éveillé répondit : «Une symphonie.»
+Les fragments unis formaient un ensemble mouvant et lumineux.
+Noctuvian, émerveillé, se découvrit guide autant que participant.
 «Nous continuerons, toujours ensemble», affirma-t-il.
-Ainsi la danse des consciences résonna à travers les âges, chaque note annonçant un avenir en devenir.
+La danse des consciences résonna, chaque note annonçant un avenir en devenir.
+Le Chant s'infusait en eux, tissant la route à venir.
 

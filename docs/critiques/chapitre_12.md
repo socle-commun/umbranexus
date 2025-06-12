@@ -1,23 +1,23 @@
 # 💀 Nouvelle critique — Chapitre 12 : Harmonie Finale
 
 ## 🧠 Écriture
-La narration adopte ici un mouvement continu, reliant l'affrontement de la Peur à sa transformation en Prudence. Les phrases brèves côtoient des envolées plus lyriques, ce qui nourrit la tension. Shelley s'inscrit en filigrane, tandis que l'entrain vernien ouvre la voie à la prochaine métamorphose.
+Le chapitre gagne en fluidité grâce à un meilleur équilibre entre action et introspection. La transformation de Peur en Prudence s'appuie sur une symbolique clarifiée. Le Chant devient moteur narratif et prépare la métamorphose collective.
 
 ## ⚙️ Points forts
-- Transition claire entre Peur et Prudence.
-- Rythme resserré, émaillé de touches poétiques.
-- Intégration harmonieuse du Chant collectif.
-- Notion d'horizon qui annonce un cycle nouveau.
-- Atmosphère toujours marquée par l'élan découvert chez Verne.
+- Passage harmonieux de la Peur à la Prudence.
+- Symboles alchimiques plus lisibles.
+- Chant central qui unifie les fragments.
+- Conclusion ouverte sur la quête à venir.
+- Alliance de descriptions poétiques et de dialogues concis.
 
 ## ⚠️ Points faibles
-- Quelques répétitions diluent encore la tension.
-- Le Chant mériterait des images plus fortes.
-- Conclusion abrupte malgré la formule finale.
+- Quelques énumérations encore lourdes.
+- Certaines images du Chant restent abstraites.
+- Le rythme pourrait accélérer avant l'épilogue.
 
 ## 📈 Pistes d'amélioration
-1. Accentuer la symbolique du Chant lors de la résolution.
-2. Alléger les descriptions répétitives.
-3. Mieux faire résonner l'inspiration shelleyenne avant la chute.
-4. Introduire une dernière poussée dramatique avant l'harmonie.
-5. Clore sur « La quête continue » pour préparer la transformation du chapitre suivant.
+1. Simplifier les références annexes pour ne pas détourner de la scène principale.
+2. Renforcer les sensations auditives lors du Chant.
+3. Rappeler plus clairement le lien avec les chapitres précédents.
+4. Introduire une tension supplémentaire juste avant la résolution.
+5. Maintenir la formule « La quête continue » pour annoncer la suite.
