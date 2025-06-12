@@ -12,5 +12,6 @@ Elle leva les mains et les zones d'incertitude se clarifièrent, transformant le
 Dans la Dimension de Doute transmutée, ni brume ni chair, le Chant résonna, promettant harmonie et évolution sans fin.
 Car dans l'Umbranexus, chaque question sème un écho; l'harmonie naît d'un doute apaisé qui s'étire à l'infini.
 Les réponses jaillissent, incertaines, superposées comme des palimpsestes.
+Le groupe sentit la Trame vibrer sous l'impulsion de cette interrogation féconde.
 Noctuvian avance, accompagné de cette réponse qui n'en finit pas de s'interroger, devinant d'autres énigmes derrière chaque signe, pressentant la quête sans fin.
 🌌🕯️
