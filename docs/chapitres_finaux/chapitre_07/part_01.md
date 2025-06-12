@@ -13,6 +13,7 @@ Dans ces profondeurs,
 Noctuvian découvrit l'Arbre de Vie,
 la structure fondamentale de la Kabbale,
 qui se superposait aux dimensions d'Umbranexus.
+Aether précisa que cet Arbre était une carte des états d'esprit, un itinéraire vers la clarté.
 "Les dimensions d'Umbranexus
 sont comme des couches de conscience",
 expliqua Aether.
@@ -29,6 +30,7 @@ où flottaient des fragments de souvenirs,
 des déserts de sable lumineux
 où le temps lui-même
 semblait se dissoudre.
+Chaque tableau se métamorphosait comme dans un rêve.
 "La Ténèbre que nous cherchons",
 dit Aether,
 "elle se cache dans la Dimension des Oubliés,
@@ -47,46 +49,17 @@ Nous sommes tous des échos
 du même Chant originel."
 Dans les profondeurs d'Akasha,
 Noctuvian découvrit
-les dix séphiroth de l'Arbre de Vie :
-Kether, la Couronne,
-était le point d'origine,
-la source de toute existence.
-Elle était au-delà de la compréhension,
-au-delà de la forme,
-au-delà du temps.
-Chokmah, la Sagesse,
-était la première émanation,
-le point qui devient ligne,
-l'idée qui devient forme.
-Elle était la force masculine,
-le principe actif.
-Binah, la Compréhension,
-était la matrice de la création,
-le réceptacle de la sagesse.
-Elle était la force féminine,
-le principe passif.
-Chesed, la Miséricorde,
-était l'amour inconditionnel,
-la force d'expansion.
-Elle était la générosité infinie,
-la compassion sans limites.
-Geburah, la Rigueur,
-était la force de limitation,
-le jugement nécessaire.
-Elle était la discipline,
-la structure,
-la forme.
-Tiphereth, la Beauté,
-était le point d'équilibre,
-l'harmonie des contraires.
-Elle était le cœur de l'Arbre,
-le centre de la conscience.
-Netzach, la Victoire,
-était la force de persévérance,
-l'énergie créative.
-Elle était l'émotion,
-l'inspiration,
-l'art.
+Les dix séphiroth se révélèrent comme une carte de l'âme :
+Kether, Couronne hors du temps ;
+Chokmah, Sagesse jaillissante ;
+Binah, matrice de Compréhension ;
+Chesed, Miséricorde expansive ;
+Geburah, Rigueur qui structure ;
+Tiphereth, Beauté équilibrante ;
+Netzach, Victoire créatrice ;
+Hod, Gloire du mental ;
+Yesod, Fondement onirique ;
+Malkuth, Royaume tangible.
 
 La route se suspendit un instant.
 Un souffle de renouveau glissa sur eux.

@@ -37,9 +37,8 @@ se souvenait de sa place dans la danse,
 comment il retrouvait ses connexions,
 comment il réintégrait la Trame.
 C'était une danse silencieuse,
-une chorégraphie de filaments lumineux
-qui tissaient des motifs
-que seul le cœur pouvait comprendre.
+une nuée de filaments lumineux,
+lisible par le cœur seul.
 "Pouvez-vous nous aider ?"
 demanda Noctuvian à Mémoire.
 "Pouvez-vous nous guider
@@ -82,3 +81,4 @@ son corps de lumière et d'ombre
 brillant d'une nouvelle détermination.
 "Suivez-moi", dit-elle.
 "Je vous mènerai vers un ailleurs baigné d'espérance."
+Ils franchirent le seuil, portés par un souffle d\x27espoir.

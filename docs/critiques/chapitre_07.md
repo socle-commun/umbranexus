@@ -1,23 +1,19 @@
 # 💀 Nouvelle critique — Chapitre 7 : La Danse des Fragments
 
 ## 🧠 Écriture
-La reconstruction irrigue ce chapitre, portée par des transitions plus resserrées. Les élans lyriques s'effacent au profit de pauses réfléchies.
+Le texte gagne en fluidité grâce à une description plus claire de l'Arbre de Vie. Les métaphores allégées laissent place à des images oniriques mieux agencées.
 
 ## ⚙️ Points forts
-- Impression de renouveau dès l'ouverture.
-- Références calviniennes utilisées avec mesure.
-- Équilibre rythmique plus constant.
-- Présence de l'Arbre de Vie évoquée en filigrane.
-- Clôture qui suggère une phase nouvelle.
+- Clarification de la structure kabbalistique.
+- Atmosphère rêveuse renforcée dans les transitions.
+- Bonne cohésion d'ensemble.
+- Conclusion ouverte vers la suite.
 
 ## ⚠️ Points faibles
-- Certaines séquences paraissent attendues.
-- L'ensemble manque encore de ruptures marquantes.
-- Absence de véritable point culminant en conclusion.
-- Le symbole final 🌌🕯️ risque de désorienter.
+- Quelques passages restent prévisibles.
+- Le symbole final 🌌🕯️ peut encore surprendre.
 
 ## 📈 Pistes d'amélioration
-1. Varier davantage la dynamique pour surprendre.
-2. Introduire des ruptures fortes afin de maintenir la tension.
-3. Préserver la profondeur sans alourdir le texte.
-4. Renforcer l'écho de l'Arbre de Vie au moment du dénouement.
+1. Intensifier l'enjeu dramatique autour d'Oubli.
+2. Varier le rythme lors des explications ésotériques.
+3. Préparer la montée vers le prochain chapitre.

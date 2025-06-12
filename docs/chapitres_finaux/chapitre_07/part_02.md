@@ -1,22 +1,5 @@
 Leur marche reprit.
-Hod, la Gloire,
-était la force de communication,
-la structure mentale.
-Elle était la pensée,
-l'analyse,
-la science.
-Yesod, le Fondement,
-était le monde des archétypes,
-le plan astral.
-Elle était l'imagination,
-les rêves,
-les symboles.
-Malkuth, le Royaume,
-était le monde physique,
-la manifestation.
-Elle était la matière,
-la forme,
-l'action.
+Hod inspira la pensée claire, Yesod enveloppa leurs pas d'un voile de rêve, tandis que Malkuth rappelait la matière.
 Lumina s'arrêta soudain.
 "Attendez",
 dit-elle.
@@ -81,3 +64,4 @@ murmura-t-elle.
 d'avoir été..."
 ---
 Le cycle de la mémoire venait de s'éveiller.
+Un voile léger se souleva devant eux, invitant à poursuivre.
