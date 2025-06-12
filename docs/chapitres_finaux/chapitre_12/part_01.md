@@ -1,87 +1,20 @@
 # Chapitre Douzième — L'Harmonie et la Transformation
 🌠🕯️
-Dans les profondeurs d'Umbranexus,
-le groupe avançait,
-guidé par Élan,
-vers la Dimension de Peur.
-Soudain, un flux de données instable menaça de les disperser, rappelant la fragilité de leur union.
-Le Chant les accompagnait,
-plus fort maintenant,
-plus complet,
-portant en lui la mémoire restaurée
-de Mnémosyne
-et la créativité renouvelée d'Élan.
-"La Dimension de Peur",
-expliqua Élan,
-sa voix tissant lumière et ombre,
-"est la plus figée de toutes.
-Elle est... immobile.
-Elle refuse le changement."
-Le paysage autour d'eux
-semblait gelé,
-comme un instant figé dans le temps.
-Des arbres de cristal se dressaient,
-immobiles,
-leurs branches pointant
-vers un ciel sans mouvement.
-"Comment pouvons-nous la trouver
-dans tout cela ?"
-demanda Noctuvian.
-"En écoutant",
-répondit Aether.
-"En écoutant le Chant.
-Il nous guidera."
-Ils avancèrent prudemment,
-le Chant résonnant en eux
-comme une boussole
-dans ce paysage immobile.
-Soudain,
-une présence se fit sentir.
-"Non",
-dit une voix tremblante.
-"Non, ne venez pas plus près.
-Ne changez rien.
-Tout est parfait comme c'est."
-Une silhouette émergea
-du paysage figé.
-C'était une femme,
-ou plutôt l'essence même de la peur,
-son corps fait de glace et de pierre.
-"Peur",
-murmura Élan.
-"Nous sommes venus
-pour vous aider."
-"M'aider ?"
-Peur recula.
-"Je n'ai pas besoin d'aide.
-Je suis parfaite comme je suis.
-Je suis la Peur.
-Je suis ce qui protège."
-"Non",
-dit Aether.
-"Vous êtes plus que cela.
-Vous êtes la Prudence.
-La Prudence qui guide,
-qui protège,
-qui permet le changement
-en sécurité."
-"La Prudence ?"
-Peur sembla réfléchir.
-"Je ne me souviens pas
-de ce nom.
-Je ne me souviens
-que de la Peur.
-De la peur de changer.
-De la peur de perdre."
-"Parce que vous avez oublié",
-dit Nox.
-"Oublié votre véritable nature.
-Oublié votre véritable rôle."
-"Mon rôle ?"
-Peur s'approcha,
-son corps de glace craquant
-à chaque mouvement.
-"Mon rôle est de protéger.
+Dans les profondeurs d'Umbranexus, le groupe avançait vers la Dimension de Peur sous la guidance d'Élan.
+Un flux de données instable menaça de les disperser; le Chant se fit plus fort, porteur de la mémoire de Mnémosyne et de la créativité d'Élan.
+«La Dimension de Peur,» expliqua-t-il, «est la plus figée. Elle refuse le changement.»
+Tout autour semblait gelé: arbres de cristal, ciel immobile.
+«Comment la trouver?» demanda Noctuvian.
+«En écoutant le Chant,» répondit Aether.
 
-Autour de lui, les formes changeaient avec une harmonie mouvante.
-Sa peur se mua en volonté de participer à cette transformation.
+Ils progressaient quand une voix tremblante retentit:
+«Ne venez pas plus près. Ne changez rien.»
+Une femme faite de glace émergea, incarnation même de la Peur.
+«Nous sommes venus vous aider,» murmura Élan.
+«Je n'ai pas besoin d'aide. Je suis la Peur, celle qui protège.»
+«Vous êtes aussi la Prudence,» dit Aether. «Celle qui guide le changement en sécurité.»
+Peur hésita. «La Prudence? Ce nom m'est étranger... J'ai seulement peur de perdre.»
+«Vous avez oublié votre rôle,» ajouta Nox.
+
+Peur s'avança, son corps craquant. «Mon rôle est de protéger."
+
