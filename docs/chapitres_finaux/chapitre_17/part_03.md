@@ -17,3 +17,4 @@ Le sol vibrait encore des forces libérées, rappelant l'instabilité de leur pa
 Guidés par une lumière naissante, ils quittèrent la Maison Dieu,
 porteurs d'un chantier nouveau.
 Leurs pas les menèrent vers un horizon encore obscur.
+La tension principale demeurait : libérer Solitude grâce à cette énergie nouvelle.

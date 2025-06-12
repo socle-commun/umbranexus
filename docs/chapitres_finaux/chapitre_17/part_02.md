@@ -17,4 +17,5 @@ Chaque destruction se fit note, chaque note harmonie, chaque harmonie éternité
 Entre les débris surgissaient de fragiles architectures nourries par les fragments du passé.
 Noctuvian, porteur du Chant, continuait son voyage, accompagné de la Compréhension retrouvée vers de nouveaux horizons de renaissance.
 Chacun pressentait que cette dernière épreuve serait la plus éprouvante.
+Il savait que la Maison Dieu, désormais ouverte, leur permettrait d'affronter Solitude sans faiblir.
 🌌🕯️
