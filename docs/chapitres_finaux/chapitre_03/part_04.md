@@ -1,5 +1,6 @@
 Son lien avec l'**Umbranexus** demeure absolu, bien qu'il ait façonné un refuge à part : **Akasha**, miroir poussiéreux de l'Écheveau des Ombres.
 Il se rappelle simplement : « Je veille là où l'oubli tente de gagner. »
+La Première Obscurité demeure en filigrane, rappel de son origine.
 Dans ce sanctuaire, fragments et soupirs convergent. Noctuvian s'y tient, témoin silencieux des langues éteintes et des formes perdues.
 Ainsi débute la première Traversée vers les éclats endormis et le Chant silencieux qui persiste au-delà du temps.
 ### autres-esprits

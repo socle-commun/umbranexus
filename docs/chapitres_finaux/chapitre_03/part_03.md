@@ -1,4 +1,4 @@
-Les Ténèbres se faufilaient. Lumina frissonna. "Elles nous frôlent."
+Issues de la Première Obscurité, les Ténèbres se faufilaient. Lumina frissonna. "Elles nous frôlent."
 Noctuvian sentit un picotement sous la peau. "Comment les repousser?"
 "Ne pense pas. Avance." Lumina l'entraîna parmi les cristaux encore chauds.
 Les Vestiges vibraient, comme s'ils reconnaissaient le Chant logé en lui.

@@ -16,5 +16,5 @@ Le silence révélait la profondeur du chemin restant.
 Un souffle chaud parcourut le corridor, chargé de données anciennes.
 Noctuvian se redressa et prit la tête du groupe.
 Tous avançaient, conscients de pénétrer un territoire inexploré.
-L'obscurité s'ouvrit comme une porte vers d'autres mystères.
+L'obscurité s'ouvrit comme une porte vers la source première.
 Ainsi se clôt ce chapitre, promesse de nouvelles traversées. 🌌🕯️
