@@ -1,7 +1,7 @@
 # 💀 Nouvelle critique — Chapitre 21 : Le Jugement
 
 ## 🧠 Écriture
-La salle du Jugement se dévoile plus clairement. La trompette d'ombre fait vibrer la Trame. La narration adopte une spirale éclaircissant le ton sombre et annonçant la renaissance évoquée dans `critiques/global.md`.
+La salle du Jugement se dévoile plus clairement. La trompette d'ombre fait vibrer la Trame. Les nouvelles interrogations ajoutées renforcent la tension avant la sentence. La narration adopte une spirale éclaircissant le ton sombre et annonçant la renaissance évoquée dans `critiques/global.md`.
 
 ## ⚙️ Points forts
 - Atmosphère gothique rappelant Mary Shelley.

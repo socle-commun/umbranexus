@@ -61,10 +61,12 @@ Alors que la porte se referme, une lueur nouvelle apparaît.
 Noctuvian comprend que cet horizon ouvre sur une création inépuisable.
 Il se prépare à insuffler cette énergie dans le monde à venir.
 Il pressent que sa création portera la trace de tous ces serments.
+Que leur réserve la création qu'ils pressentent ?
 La fin du chapitre s'annonce.
 Dans un souffle apaisé, le groupe disparaît au-delà du temps.
 Leur voyage se prolonge dans une clarté sans contours qui les guide vers la Création.
 Ainsi s'achève leur pèlerinage, promis à renaître.
 
 Un silence sans limite s'étendit devant eux, saturé d'espérances.
+Doivent-ils s'y perdre ou l'habiter ?
 Noctuvian éprouva une gratitude profonde pour chaque épreuve surmontée.

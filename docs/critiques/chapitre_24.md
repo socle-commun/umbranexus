@@ -1,7 +1,7 @@
 # 💀 Nouvelle critique — Chapitre 24 : La Création
 
 ## 🧠 Écriture
-Le récit se conclut sur un ton apaisé. Les motifs récurrents soulignent la cyclicité. La spirale finale relie chaque étape et s'accorde avec l'arc général décrit dans critiques/global.md.
+Le récit se conclut sur un ton apaisé. Les motifs récurrents soulignent la cyclicité. Quelques questions finales invitent à prolonger l'exploration. La spirale finale relie chaque étape et s'accorde avec l'arc général décrit dans critiques/global.md.
 
 ## ⚙️ Points forts
 - Lexique allégé renforçant la lisibilité.

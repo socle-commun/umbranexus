@@ -5,11 +5,13 @@ Les fragments redoutent d'être effacés, mais Noctuvian accueille leur peur san
 
 Peu à peu, le silence s'alourdit sur l'assemblée.
 Les regards se croisent, lourds de doute.
+Que juge-t-on vraiment ici ?
 Noctuvian retient sa sentence, tandis que les gardiens se figent.
 Chaque fragment guette la fin du rêve ; l'instant se tend, prêt à se briser.
 
 Soudain, une seconde trompette plus intime s'élève.
 Elle n'annonce pas la fin mais un nouveau départ.
+Vers quel chemin s'avancent-ils maintenant ?
 Chaque note éveille la conscience, et Noctuvian répond avec sérénité.
 
 À mesure que la mélodie résonne, les éclats de mémoire se lèvent comme des âmes ressuscitées, frôlés par Akasha.

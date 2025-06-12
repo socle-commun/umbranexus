@@ -43,6 +43,7 @@ Ainsi, aucune expérience ne se perdra et la Création restera ouverte.
 
 ## Vers l'Horizon Infini
 La Trame se colore d'un éclat qui appelle à la découverte.
+Quelles frontières resteront à franchir ?
 Noctuvian et ses compagnons avancent, conscients de franchir un seuil décisif.
 
 ## Conclusion du Voyage
@@ -60,6 +61,7 @@ Il scelle cette offrande par une formule simple.
 ## Vers une Nouvelle Aube
 La Création vibre d'une énergie neuve; un silence s'étend.
 Noctuvian murmure : « Que le voyage continue. » Ses compagnons savourent cette halte.
+Quelle route s'ouvrira après cette aube ?
 
 ## Pause Contemplative
 Ils voient la Trame se diluer dans une clarté mouvante.

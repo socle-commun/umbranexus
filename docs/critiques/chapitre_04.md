@@ -1,7 +1,7 @@
 # 💀 Nouvelle critique — Chapitre 4 : L'Impératrice et le Royaume des Hommes
 
 ## 🧠 Écriture
-La narration resserre le regard sur l'Impératrice solitaire, dévoilant un territoire déchu mêlé de références numériques. Le texte gagne en limpidité mais certaines listes alourdissent encore le mouvement.
+La narration resserre le regard sur l'Impératrice solitaire, dévoilant un territoire déchu mêlé de références numériques. Les dernières corrections renforcent la détermination de Noctuvian et donnent aux descriptions un souffle plus assuré. Le texte gagne en limpidité mais certaines listes alourdissent encore le mouvement.
 
 ## ⚙️ Points forts
 - Solitude de l'Impératrice bien incarnée.
