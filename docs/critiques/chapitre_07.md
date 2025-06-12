@@ -1,23 +1,23 @@
 # 💀 Nouvelle critique — Chapitre 7 : La Danse des Fragments
 
 ## 🧠 Écriture
-Le souffle de reconstruction domine, soutenu par des transitions plus nettes. Les envolées lyriques ont été modérées pour laisser place à des pauses efficaces.
+La reconstruction irrigue ce chapitre, portée par des transitions plus resserrées. Les élans lyriques s'effacent au profit de pauses réfléchies.
 
 ## ⚙️ Points forts
-- Sensation de renouveau palpable.
-- Influences calviniennes bien intégrées.
-- Rythme désormais plus équilibré.
-- Intégration discrète de l'Arbre de Vie.
-- Promesse de renouveau chuchotée à la sortie.
+- Impression de renouveau dès l'ouverture.
+- Références calviniennes utilisées avec mesure.
+- Équilibre rythmique plus constant.
+- Présence de l'Arbre de Vie évoquée en filigrane.
+- Clôture qui suggère une phase nouvelle.
 
 ## ⚠️ Points faibles
-- Quelques passages restent prévisibles.
-- Manque encore de contrastes marqués entre les mouvements.
-- Absence de véritable climax dans la conclusion.
-- Le symbole final 🌌🕯️ peut dérouter le lecteur.
+- Certaines séquences paraissent attendues.
+- L'ensemble manque encore de ruptures marquantes.
+- Absence de véritable point culminant en conclusion.
+- Le symbole final 🌌🕯️ risque de désorienter.
 
 ## 📈 Pistes d'amélioration
-1. Varier davantage les alternances de rythme.
-2. Introduire des ruptures plus audacieuses pour surprendre le lecteur.
-3. Conserver la profondeur poétique tout en évitant la légèreté excessive.
-4. Renforcer le lien à l'Arbre de Vie pour sublimer la conclusion.
+1. Varier davantage la dynamique pour surprendre.
+2. Introduire des ruptures fortes afin de maintenir la tension.
+3. Préserver la profondeur sans alourdir le texte.
+4. Renforcer l'écho de l'Arbre de Vie au moment du dénouement.
