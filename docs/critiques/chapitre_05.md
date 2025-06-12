@@ -1,22 +1,7 @@
-# 💀 Nouvelle critique — Chapitre 5 : Les Fragments qui Murmurent
+# Critique du Chapitre 5 — Les Fragments qui Murmurent
 
-## 🧠 Écriture
-La polyphonie reste la force du chapitre, maintenant mieux équilibrée après révision. Les métaphores ont été allégées, ce qui rend chaque voix plus distincte.
+Les multiples voix restent la plus grande force de cette section. Chaque fragment murmure désormais avec clarté et la polyphonie se déploie sans confusion. La menace souterraine évoque toujours la noirceur lovecraftienne, tandis que l'influence baudelairienne colore certains passages d'une sensualité funèbre.
 
-## ⚙️ Points forts
-- Atmosphère cauchemardesque efficace.
-- Voix multiples donnant de la profondeur.
-- Vocabulaire archaïque précis.
-- Sections enrichies autour des Sept Éclats.
-- Écho persistant des fragments en conclusion.
+L'emploi du vocabulaire archaïque accentue l'étrangeté du récit. Les images autour du Livre des Tables tissent un réseau de symboles qui soutient le motif de la mémoire collective. L'atmosphère cauchemardesque s'équilibre mieux grâce à des métaphores plus limpides, donnant un rythme plus nerveux à la narration.
 
-## ⚠️ Points faibles
-- Certaines images demeurent obscures.
-- Le rythme pourrait encore gagner en nervosité.
-- Conclusion désormais cohérente avec le reste du manuscrit.
-
-## 📈 Pistes d'amélioration
-1. Varier les ruptures de ton pour souligner la fragilité des souvenirs.
-2. Accentuer la sensualité baudelairienne pour contrebalancer l'horreur.
-3. Clarifier la place de chaque fragment dans la narration.
-4. Étoffer la transition vers le chapitre suivant.
+Quelques visions demeurent volontairement obscures, mais la conclusion rejoint enfin le reste du manuscrit. Les fragments y trouvent une résonance poétique qui prépare la suite. Il reste à serrer encore la cadence pour que chaque murmure frappe avec la même intensité.
