@@ -11,7 +11,7 @@ Il ferma les yeux pour mieux saisir l'instant.
 Une brève accalmie leur permit de mesurer l'ampleur des révélations.
 Les réminiscences traversèrent les âges.
 Il inspira, conscient de la portée de leur quête.
-Le silence s'étendit, lourd d'une sagesse immuable.
+Le silence s'étendit, lourd d'une sagesse immuable, éclairée d'un espoir digne de Shelley.
 La nuit s'étendait, mais son cœur demeurait fervent.
 Une lueur lointaine attira leurs regards.
 Ils prirent la direction de cet appel silencieux.
