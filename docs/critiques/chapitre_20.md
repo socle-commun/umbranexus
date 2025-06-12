@@ -1,18 +1,19 @@
 # 💀 Nouvelle critique — Chapitre 20 : Le Soleil et l'Illumination
 
 ## 🧠 Écriture
-La montée vers l'illumination se nuance d'ombres bienvenues. Les images mystiques ont été allégées et la progression vers la révélation gagne en clarté.
+La montée vers l'illumination se nuance d'ombres bienvenues. Les images mystiques ont été allégées et la progression vers la révélation gagne en clarté. Les cinq parties s'enchaînent avec une symbolique solaire désormais plus cohérente.
 
 ## ⚙️ Points forts
 - Émerveillement dans l'esprit de Jules Verne.
 - Structure plus cohérente de la révélation.
 - Harmonie entre lumière et tension croissante.
 - Dialogue lumineux-ombreux annonçant une illumination mature.
+- Montée en puissance de la symbolique solaire sur l'ensemble des sections.
 
 ## ⚠️ Points faibles
 - Emphase lumineuse encore présente par endroits.
 - Symboles mystiques parfois abondants.
-- Fin davantage commentée que vécue.
+ - Conclusion plus incarnée, mais encore perfectible.
 - La nouvelle ouverture semble précipitée.
 
 ## 📈 Pistes d'amélioration
