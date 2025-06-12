@@ -80,7 +80,5 @@ dit Lumina.
 Mémoire s'avança,
 son corps de lumière et d'ombre
 brillant d'une nouvelle détermination.
-"Suivez-moi",
-dit-elle.
-"Je vous mènerai
-Vers un ailleurs baigné d'espérance.
+"Suivez-moi", dit-elle.
+"Je vous mènerai vers un ailleurs baigné d'espérance."
