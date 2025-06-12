@@ -7,12 +7,13 @@ La polyphonie reste la force du chapitre, maintenant mieux équilibrée après r
 - Atmosphère cauchemardesque efficace.
 - Voix multiples donnant de la profondeur.
 - Vocabulaire archaïque précis.
+- Sections enrichies autour des Sept Éclats.
 - Écho persistant des fragments en conclusion.
 
 ## ⚠️ Points faibles
 - Certaines images demeurent obscures.
 - Le rythme pourrait encore gagner en nervosité.
-- Note finale semble précipitée.
+- Conclusion désormais cohérente avec le reste du manuscrit.
 
 ## 📈 Pistes d'amélioration
 1. Varier les ruptures de ton pour souligner la fragilité des souvenirs.
