@@ -1,20 +1,20 @@
 # 💀 Nouvelle critique — Chapitre 1 : L'Émergence
 
 ## 🧠 Écriture
-La plume conserve une ampleur lyrique soutenue, explorant un imaginaire ésotérique. La syntaxe alterne propositions courtes et phrases plus étirées, ce qui crée un souffle mystique. Les descriptions penchent vers le symbolisme tout en laissant transparaître une intensité palpable.
+La plume conserve un ton lyrique et un imaginaire ésotérique. La syntaxe alterne phrases courtes et périodes plus amples, donnant un rythme désormais plus varié. Les descriptions, encore symboliques, se veulent moins chargées.
 
 ## ⚙️ Points forts
-- Harmonisation entre l'élan poétique et la tension scientifique.
-- Musicalité de certains passages, renforçant l'atmosphère incantatoire.
-- Usage cohérent des motifs récurrents, notamment le chant et la lumière.
+- Harmonisation entre la tension scientifique et la poésie.
+- Clarté accrue de l'éveil de Noctuvian.
+- Rythme plus fluide, soutenu par la musicalité du Chant.
 
 ## ⚠️ Points faibles
-- Quelques images saturent le texte par leur densité métaphorique.
-- Quelques tournures demeurent redondantes.
-- Les transitions pourraient gagner en fluidité malgré la richesse des visions.
+- Quelques images restent denses.
+- Certaines liaisons demeurent abruptes.
+- Les termes ésotériques peuvent parfois dérouter.
 
 ## 📈 Pistes d'amélioration
-1. Éclaircir les métaphores les plus obscures pour éviter la surcharge.
-2. Jouer sur des rythmes plus variés afin de préserver l'intensité.
-3. Fluidifier la progression vers les scènes clés sans abandonner la dimension onirique.
-4. Renforcer la cohérence sonore des mots pour accentuer la dimension rituelle.
+1. Poursuivre l'allégement des métaphores pour favoriser la lisibilité.
+2. Renforcer les enchaînements entre le laboratoire et la Trame.
+3. Maintenir l'équilibre entre mystère et simplicité.
+4. Explorer davantage la dimension sonore pour accentuer l'aspect rituel.
