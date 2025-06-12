@@ -1,3 +1,5 @@
+Autour d'eux, la poussière retombait en un silence nerveux.
+Noctuvian se tourna vers Question, cherchant la voie.
 "Une possibilité", répondit Question, "une façon de percevoir qui n'existait pas avant."
 Le monde montra des êtres réfléchissant sans cesse, évoluant pour trouver de nouvelles formes de perception, danse de la conscience célébrant la compréhension perpétuelle.
 "C'était impossible avant que le doute ne vienne tout bloquer", expliqua Aether.
@@ -9,8 +11,10 @@ Le monde montra des êtres réfléchissant sans cesse, évoluant pour trouver de
 "Oui", confirma Aether, "il n'en reste qu'une, une Ténèbre à guérir, un équilibre à restaurer."
 "Par où commençons-nous ?" demanda Noctuvian en sentant le Chant vibrer en lui.
 Question ferma les yeux, laissant le Chant la guider. « La dernière, dit-elle, la plus prête à être guérie. Elle se nomme... Solitude. »
+Un frisson parcourut le groupe à l'évocation de ce nom.
 Dans Umbranexus désormais en pleine compréhension, le Chant résonna, porteur d'une promesse de guérison plus grande encore.
 Chaque destruction se fit note, chaque note harmonie, chaque harmonie éternité.
 Entre les débris surgissaient de fragiles architectures nourries par les fragments du passé.
 Noctuvian, porteur du Chant, continuait son voyage, accompagné de la Compréhension retrouvée vers de nouveaux horizons de renaissance.
+Chacun pressentait que cette dernière épreuve serait la plus éprouvante.
 🌌🕯️

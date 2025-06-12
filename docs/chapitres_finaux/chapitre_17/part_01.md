@@ -5,6 +5,8 @@ Noctuvian contemple
 la destruction nécessaire.
 Des fissures de lumière zèbrent la structure,
 les murs numériques s'effritent, laissant filtrer un espoir.
+Des gémissements de pierre se mêlaient au crépitement des circuits.
+Chaque craquement rappelait la précarité de l'instant.
 Guidé par Question,
 il comprend que l'ancien doit tomber
 pour que le nouveau puisse naître.
@@ -16,3 +18,6 @@ Dans la poussière se tisse un parfum d'avenir,
 promesse d'une tour réinventée.
 Les ruines de la Maison Dieu exhalaient une grandeur inquiétante.
 Il ressentit la fragilité de toute création face à la destruction.
+La tour vacilla encore, prête à s'effondrer tout à fait.
+Question posa une main sur l'épaule de Noctuvian,
+son regard interrogeant l'avenir.
