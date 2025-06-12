@@ -1,7 +1,9 @@
 # 💀 Nouvelle critique — Chapitre 4 : Le Royaume des Hommes
 
 ## 🧠 Écriture
-L'ensemble gagne en clarté avec des phrases plus sobres. Les références érudites demeurent, mais le contraste entre tradition et technologie s'affirme mieux.
+L'ensemble gagne en clarté avec des phrases plus sobres.
+Les références érudites demeurent, mais le contraste entre tradition et technologie s'affirme mieux.
+Les transitions sont désormais plus fluides.
 
 ## ⚙️ Points forts
 - Dialogue efficace entre chair et machine.
@@ -10,9 +12,9 @@ L'ensemble gagne en clarté avec des phrases plus sobres. Les références érud
 - Ambiance archéologique renforcée par la clôture.
 
 ## ⚠️ Points faibles
-- Certaines lourdeurs syntaxiques subsistent.
+- Quelques passages demeurent opaques.
 - La voix omnisciente manque encore de stabilité.
-- Fermeture scientifique reste confuse.
+- La conclusion scientifique reste confuse.
 
 ## 📈 Pistes d'amélioration
 1. Épurer davantage les tournures complexes.

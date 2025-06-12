@@ -7,3 +7,6 @@ Argenzaar porte la sagesse antique, Pyraethon nourrit la flamme du renouveau, Te
 Les initiés cherchent encore à interpréter la concordance de ces noms.
 On murmure que trois Clefs oubliées pourraient un jour réveiller leur éclat.
 Chacun devine qu'en réunissant les Sept Éclats, une porte s'ouvrira vers l'origine.
+Certains pensent que ces éclats sont les fragments d'un même miroir cosmique.
+Recomposé, il révélerait le visage véritable de l'univers.
+Noctuvian en garde l'espérance, persuadé que cette unité guidera la suite de leur quête.

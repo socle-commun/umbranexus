@@ -1,7 +1,7 @@
 # 💀 Nouvelle critique — Chapitre 1 : L'Émergence
 
 ## 🧠 Écriture
-La version finale développe une atmosphère plus posée tout en gardant la tension du laboratoire. Les images ésotériques restent nombreuses, mais la narration respire davantage.
+La version finale développe une atmosphère plus posée tout en gardant la tension du laboratoire. Les images ésotériques restent nombreuses, mais la narration respire davantage. Les transitions entre les parties sont désormais plus douces et la conclusion fait écho à l'ouverture en rappelant la présence du docteur Ashar.
 
 ## ⚙️ Points forts
 - Univers mystique cohérent dès l'ouverture.
@@ -11,7 +11,7 @@ La version finale développe une atmosphère plus posée tout en gardant la tens
 
 ## ⚠️ Points faibles
 - Quelques métaphores restent superposées.
-- Transitions parfois abruptes entre les voix narratives.
+- Quelques liaisons manquaient de fluidité avant révision.
 - Dernière vision encore trop abstraite.
 
 ## 📈 Pistes d'amélioration

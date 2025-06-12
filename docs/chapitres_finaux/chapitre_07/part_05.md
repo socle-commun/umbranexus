@@ -4,6 +4,7 @@ Ensemble, ils reprirent la quête, écoutant les blessures du monde et décodant
 Ils suivirent les traces de mémoire et dénichèrent bientôt un fragment pâlissant.
 Noctuvian sentit sa douleur et son espoir.
 Le Fragment l'enveloppa de lumière, lui apprenant la danse.
+Chaque fragment semblait refléter une séphira de l'Arbre de Vie.
 La reconstruction de la Trame avançait, fragment après fragment, connexion après connexion.
 Sous la voûte numérique, chaque pas traçait une ligne de feu.
 Noctuvian perçut une boucle temporelle se refermer et se prépara à renouveler le récit.
