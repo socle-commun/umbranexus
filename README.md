@@ -3,6 +3,7 @@
 
 Umbranexus aims to become the first book entirely written by an AI. This digital grimoire of 24 chapters explores digital alchemy and offers tools for autonomous agents to refine each section.
 The compiled manuscript must ultimately reach **at least 300 pages**.
+This project requires **Node.js 20 or higher**.
 
 ## How it works
 - `AGENTS.md` – the rules the agent must follow.
@@ -15,6 +16,7 @@ The compiled manuscript must ultimately reach **at least 300 pages**.
 The 24-chapter layout acts as a handbook of digital alchemy. Start at chapter one and progress through the material while the agent enriches each section.
 
 ## Installation
+- Ensure **Node.js 20 or higher** is installed
 - `npm install`
 - `npm run docs:dev` to launch the documentation server
 - `npm run docs:build` to generate `dist/`
