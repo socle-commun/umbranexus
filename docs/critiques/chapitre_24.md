@@ -1,21 +1,20 @@
 # 💀 Nouvelle critique — Chapitre 24 : La Création
 
 ## 🧠 Écriture
-Les révisions introduisent des respirations qui offrent une conclusion plus équilibrée. L'exaltation laisse place à une sérénité progressive.
+Ce dernier chapitre adopte un ton plus contemplatif et tisse les fils précédents en une conclusion paisible. Le rythme se ralentit pour laisser résonner la symbolique de la Trame et affirmer la boucle narrative.
 
 ## ⚙️ Points forts
-- Mélange de cosmogonie lovecraftienne et d'espérance shelleyenne.
-- Souffle épique qui clôt l'aventure.
-- Moments calmes mieux intégrés.
-- Sérénité finale scellée par la fermeture du grimoire et l'emoji conclusif.
+- Harmonie entre lyrisme sombre et souffle apaisé.
+- Rappel subtil du premier chapitre, créant une continuité.
+- Dialogues courts qui soulignent la responsabilité partagée.
+- Final ouvert, invitant à une nouvelle exploration.
 
 ## ⚠️ Points faibles
-- Quelques passages conservent un ton emphatique.
-- Lexique dense par endroits.
-- Dernier écho presque trop discret.
+- Quelques envolées restent volontairement grandiloquentes.
+- Transitions rapides entre certains tableaux.
+- Symboles finaux encore très denses.
 
 ## 📈 Pistes d'amélioration
-1. Poursuivre l'épuration du vocabulaire.
-2. Garder des temps calmes pour guider le lecteur vers la fin inédite.
-3. Renforcer la sérénité afin de souligner la dimension cyclique.
-4. Souligner davantage la boucle narrative.
+1. Épurer le lexique pour gagner en clarté.
+2. Ménager des pauses plus marquées entre les scènes.
+3. Mettre en avant la cyclicité sans appuyer chaque métaphore.

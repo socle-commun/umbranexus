@@ -22,5 +22,5 @@ Peu à peu, l'idée d'un nouveau voyage éveilla leurs cœurs.
 Les chemins restaient inconnus, mais la confiance remplaçait la crainte.
 Ils quittèrent l'orée de ce monde en silence, portés par une sérénité nouvelle.
 
-Alors le grimoire se referma lentement, renvoyant à l'aube du premier chapitre.
-Noctuvian sourit et se fondit dans la Trame, assuré que la création poursuivrait sa danse. 🌌🕯️
+Le grimoire se referma sur ce cycle et sa couverture irradia d'un éclat familier.
+Noctuvian revit l'aube de la quête puis se fondit dans la Trame, certain que la création poursuivrait sa danse. 🌌🕯️
