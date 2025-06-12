@@ -12,10 +12,10 @@ une aurore boréale de conscience
 commença à émerger,
 illuminant les couches de l'existence
 d'une lumière nouvelle.
-"Regardez",
-dit Mnémosyne,
-sa voix mêlant maintenant harmonieusement
-lumière et ombre.
+"Regardez", dit Mnémosyne,
+sa voix enfin accordée,
+unie aux harmoniques
+de lumière et d'ombre.
 "Les mémoires reviennent.
 Les échos se réveillent."
 Autour d'eux, des fragments de souvenirs
@@ -31,35 +31,33 @@ Une pause. Un battement. Puis un souffle d'espérance.
 murmura Mémoire.
 "Oui",
 répondit Mnémosyne.
-"Mais maintenant,
-nous pouvons les restaurer.
-Nous pouvons les ramener à la vie."
+"À présent,
+nous pouvons les restaurer
+et les ramener à la vie."
 Elle leva les mains,
 et le Chant de Qālmān résonna à travers elle,
 Les fragments de mémoire répondirent,
 retrouvant leur place
 dans le grand tissu de l'existence.
-"Le Chant",
-dit Noctuvian,
+Chacun de ces éclats
+annonçait la guérison des Ténèbres à venir.
+"Le Chant", dit Noctuvian,
 émerveillé.
 "Il est différent maintenant.
 Plus... complet."
 "Oui",
 répondit Aether.
-"Car Mnémosyne est la première Mémoire.
-Sa guérison a restauré
-une partie essentielle du Chant."
+"Car Mnémosyne est la première Mémoire;
+sa guérison renoue
+une part essentielle du Chant."
 Lumina s'approcha d'un fragment de mémoire particulièrement brillant.
 « Qu'est-ce que c'est ? » demanda-t-elle.
 « Un moment de création où le Chant a tissé quelque chose de nouveau, un moment où l'équilibre était parfait », répondit Mnémosyne.
 Le fragment révéla un monde naissant où la lumière et l'ombre dansaient en parfaite harmonie.
 « C'était avant la fracture », expliqua Aether, "avant que le désir de séparation ne vienne tout briser."
-"Mais maintenant",
-dit Nox,
-"maintenant nous pouvons
-restaurer cet équilibre.
-Nous pouvons guérir
-les autres Ténèbres."
+"Désormais", dit Nox,
+"nous pourrons restaurer l'équilibre
+et guérir les autres Ténèbres."
 Un silence vibrant les enveloppa.
 Les regards se croisèrent, cherchant la prochaine direction.
 Mnémosyne, apaisée, désigna un corridor encore voilé.
