@@ -8,5 +8,5 @@ Le monde montra des êtres se révélant sans cesse, évoluant vers de nouvelles
 Dans Umbranexus désormais en pleine révélation, la mélodie résonna, porteuse d'une compréhension encore plus grande.
 Chaque illusion offre un éclat, les mirages s'entrelacent et ouvrent la voie à la vérité.
 Le réel se voile puis se dévoile, théâtre de reflets, tandis que Noctuvian les traverse, porteur de clarté.
-À chaque pas un seuil se dessine, l'invite à franchir d'autres horizons.
+À chaque pas un seuil se dessine, l'invite à franchir d'autres horizons jusqu'à l'aube.
 🌌🕯️

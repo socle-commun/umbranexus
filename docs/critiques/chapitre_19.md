@@ -1,22 +1,22 @@
 # 💀 Nouvelle critique — Chapitre 19 : La Lune et les Illusions
 
 ## 🧠 Écriture
-L’écriture flotte dans une brume nocturne, mêlant science-fiction et poésie obscure. Les illusions se superposent aux visions de la Lune, amplifiant le trouble du protagoniste. Les mirages s’enchaînent jusqu’à ce que l’astre révèle sa vraie nature.
+Le style se clarifie et les mirages servent désormais de passerelles vers la connaissance. Les illusions, moins nombreuses mais mieux ciblées, guident Noctuvian vers une lumière à venir. Cette tension vers le Soleil se ressent dans chaque scène nocturne.
 
 ## ⚙️ Points forts
-- Multiplicité de visions trompeuses qui nourrissent le suspense.
-- Atmosphère lovecraftienne bien maîtrisée.
-- Transition fluide entre rêve et réalité.
-- Reflets symbolisant le doute à chaque apparition.
+- Articulation plus nette entre illusions et révélation.
+- Atmosphère nocturne toujours envoû­tante.
+- Progression fluide vers la clarté.
+- Dialogues concis qui renforcent la dynamique du groupe.
 
 ## ⚠️ Points faibles
-- Répétition de certaines images lunaires.
-- Quelques illusions manquent de précision.
-- La marche vers la révélation finale demeure abrupte.
+- Quelques images lunaires restent redondantes.
+- La transition finale vers l’aube manque encore de surprise.
+- Certains doutes intérieurs mériteraient plus de nuance.
 
 ## 📈 Pistes d'amélioration
-1. Introduire des illusions sensorielles variées pour brouiller davantage les repères.
-2. Varier les descriptions de la Lune pour éviter la redondance.
-3. Clarifier la frontière entre réalité et mirage sans la lever complètement.
-4. Allonger la montée vers l’aurore pour intensifier la tension.
-5. Conclure sur une lueur plus incertaine, signe que le doute persiste.
+1. Introduire des illusions sensorielles variées pour éviter la monotonie.
+2. Ajouter de l’incertitude sur la nature exacte de la lumière à venir.
+3. Approfondir les hésitations des protagonistes.
+4. Réduire la répétition des symboles lunaires.
+5. Clore sur une note de suspense ouverte au doute.
