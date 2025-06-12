@@ -1,23 +1,23 @@
 # 💀 Nouvelle critique — Chapitre 23 : L'Éternité
 
 ## 🧠 Écriture
-Le ton méditatif invite à la contemplation. Les images d'infini ont été réduites, mais certaines répétitions subsistent et affaiblissent encore la puissance évocatrice.
+La progression vers la porte ultime se fait sans heurt. L'intensité retombe avec douceur avant l'épilogue, mais plusieurs images se répètent encore.
 
 ## ⚙️ Points forts
-- Extases mystiques rappelant Baudelaire.
-- Rythme ample propice à la conclusion.
-- Sentiment d'ouverture vers la Création.
-- Portes à venir évoquées par la mémoire collective.
+- Gradation constante vers la traversée finale.
+- Souffle mystique rappelant Baudelaire.
+- Cohésion du groupe soulignée par un rythme ample.
+- Transition harmonieuse vers la Création.
 
 ## ⚠️ Points faibles
-- Images d'infini encore redondantes.
-- Bénédiction des Anciens un peu longue.
-- Clôture retarde l'éclat libérateur.
-- Passage vers le vortex manque d'intensité.
+- Métaphores d'infini parfois insistantes.
+- Bénédiction des Anciens légèrement étirée.
+- Manque de clarté dans quelques notations cosmiques.
+- Ultime vortex encore décrit de façon brève.
 
 ## 📈 Pistes d'amélioration
-1. Varier davantage les métaphores de l'infini.
-2. Condenser la bénédiction pour laisser résonner la perspective finale.
-3. Insuffler un souffle lumineux à la Shelley pour renforcer la rédemption.
-4. Simplifier le passage final pour accentuer la perspective.
-5. Renforcer la mémoire collective pour préparer l'accès au portail final.
+1. Élaguer les répétitions pour préserver l'élan.
+2. Ramasser la bénédiction afin de maintenir la tension.
+3. Introduire des nuances calviniennes pour ouvrir l'horizon.
+4. Affiner la description du vortex et du passage.
+5. Veiller à garder la même sérénité que l'épilogue.

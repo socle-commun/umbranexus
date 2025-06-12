@@ -5,4 +5,5 @@ Leurs voix s'unirent dans une dernière mélodie avant la traversée.
 Ils firent le vœu de garder vivante la mémoire de leurs parcours.
 Chaque pas vers la lumière renforça leur désir de partager cette sagesse.
 Le portail vibra, prêt à s'ouvrir sur une aube infinie.
+Une quiétude inespérée les envahit, prélude à la Création.
 🌌🕯️
