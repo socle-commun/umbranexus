@@ -23,6 +23,7 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
   avant d'écrire ou de mettre à jour une critique.
 - Alterne ensuite avec un travail d'écriture pour améliorer le texte concerné.
 - Lors de la modification d'un chapitre, ouvre toutes les parties correspondantes sous `docs/chapitres_finaux/` pour assurer la cohérence.
+- Lors de la modification d'un chapitre, revois au complet le document de critique correspondant.
 
 ---
 
