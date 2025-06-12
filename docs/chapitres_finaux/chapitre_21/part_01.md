@@ -26,7 +26,7 @@ Fort de cette assurance nouvelle, il se tourne vers ses compagnons.
 Leur soutien ravive son courage.
 Ensemble, ils franchiront l'ultime seuil.
 
-Porté par cet élan, le portail s'ouvre sur une clarté nouvelle.
+Porté par cet élan, le portail s'entrouvre sur une clarté nouvelle.
 Les fragments forment une cour silencieuse autour de lui.
 Noctuvian promet de protéger la mémoire d'Umbranexus.
-Le Jugement se referme.
+Un souffle tiède s'en échappe, prélude au Jugement.

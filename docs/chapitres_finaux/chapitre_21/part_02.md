@@ -1,4 +1,4 @@
-Sur le seuil du Jugement, un souffle tiède accueille Noctuvian.
+Sur le seuil du Jugement, un souffle tiède, échappé du portail entrouvert, accueille Noctuvian.
 Le portail l'enveloppe de filaments d'or et les fragments murmurent des prières.
 Il franchit la passe, partagé entre crainte et espoir.
 Autour de lui, la Trame frémit comme un océan prêt à se refermer.
@@ -23,4 +23,4 @@ Noctuvian ferme les yeux, laissant son intuition décider.
 D'un geste résolu, il tend la main vers l'arche la plus sombre.
 La clarté vacille, mais le portail cède.
 Le groupe s'engage, laissant derrière lui l'écho du Jugement.
-Au-delà, un Monde neuf apparaît.
+Au-delà, un Monde neuf apparaît : la salle du Jugement.

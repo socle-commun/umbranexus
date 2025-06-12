@@ -1,4 +1,4 @@
-Le silence domine la salle du Jugement.
+À leur entrée dans la salle du Jugement, le silence domine.
 Noctuvian avance seul jusqu'au centre.
 Ses compagnons restent en retrait, figés.
 Leur peur se mêle à la sienne.

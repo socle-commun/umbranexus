@@ -1,4 +1,4 @@
-Face au Jugement, chacun exposa ses actes sans détour.
+Une fois le Jugement clos, chacun exposa ses actes sans détour.
 La sincérité fit vibrer la Trame d'une note pure.
 Un éclair d'espoir traversa l'assemblée.
 Tous comprirent que la justice se voulait rédemption.
