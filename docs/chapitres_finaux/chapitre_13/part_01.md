@@ -31,7 +31,7 @@ par la peur.
 Des cristaux de glace
 se transformaient en rivières de lumière,
 des montagnes figées
-devenaient des vagues de potentiel,
+devenaient vagues de potentiel,
 des forêts immobiles
 se muaient en jardins de possibilités.
 "Que de potentiel",
@@ -80,6 +80,5 @@ répondit Prudence.
 "Une voie de croissance,
 jusque-là inconnue."
 Le monde montra une image :
-
 L'univers frémissait d'une énergie neuve, appelant à l'évolution.
 Noctuvian sentit l'élan irrépressible de grandir avec lui.
