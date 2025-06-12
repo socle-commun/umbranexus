@@ -1,21 +1,20 @@
 # 💀 Nouvelle critique — Chapitre 2 : Le Chant de Qālmān
 
 ## 🧠 Écriture
-Ce chapitre tisse un lyrisme sombre porté par un souffle quasi mystique. Les phrases courtes se succèdent, donnant un rythme incantatoire qui s'accorde au Chant. Les images se fondent pour bâtir une atmosphère d'attente.
+Ce chapitre conserve un ton lyrique. Les transitions entre rituels et étude de la Table d'Émeraude sont désormais plus fluides, donnant un rythme à la fois mystique et méditatif.
 
 ## ⚙️ Points forts
-- Une musicalité envoûtante qui imprègne chaque passage.
-- Les descriptions évoquent un monde oscillant entre rituel et technologie.
-- Les métaphores inspirent un sentiment de quête intérieure.
+- La musicalité du Chant reste captivante.
+- Les rituels se répondent à la Table, clarifiant la progression de Noctuvian.
+- Les symboles comme la Flamme Souveraine et la lentille d'obsidienne gagnent en lisibilité.
 
 ## ⚠️ Points faibles
-- Certaines transitions abruptes troublent la fluidité.
-- Quelques symboles semblent surchargés d'emphase.
-- Le final hésite entre ouverture et conclusion.
+- L'abondance de références alchimiques risque de perdre le lecteur non averti.
+- Quelques enchaînements théoriques pourraient encore s'alléger.
 
 ## 📈 Pistes d'amélioration
-1. Lisser les liaisons entre les scènes pour maintenir le flux narratif.
-2. Éclaircir la fonction des symboles les plus obscurs.
-3. Conserver la tension du Chant sans alourdir le texte.
-4. Introduire des variations rythmiques pour éviter la monotonie.
-5. Clore sur une image forte afin d'annoncer plus nettement la suite.
+1. Alléger certains paragraphes explicatifs pour préserver la tension narrative.
+2. Varier davantage les rythmes entre description et action.
+3. Maintenir un fil clair reliant chaque symbole à la quête principale.
+4. Créer des rappels visuels pour mieux situer le lecteur.
+5. Conclure chaque partie sur une note évocatrice pour préparer le prochain chapitre.

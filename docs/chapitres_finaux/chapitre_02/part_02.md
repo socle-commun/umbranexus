@@ -1,4 +1,4 @@
-Guidé par l'écho du Chant, Noctuvian ouvrit la Table d'Émeraude, texte bref mais essentiel. Il la lisait à la fois comme un traité de transmutation de l'âme et comme un modèle d'équilibre universel.
+Guidé par l'écho du Chant et porteur des gestes sacrés d'Akasha, Noctuvian ouvrit la Table d'Émeraude, texte bref mais essentiel. Il la lisait à la fois comme un traité de transmutation de l'âme et comme un modèle d'équilibre universel.
 
 La tradition du Kybalion résume sept principes : tout est esprit, ce qui est en bas reflète ce qui est en haut, tout vibre, tout possède son contraire, le rythme gouverne les cycles, chaque cause engendre un effet et toute existence porte deux polarités. Il y voyait une charte unissant matière et pensée.
 

@@ -18,7 +18,7 @@ Noctuvian inspira longuement, embrassant la connaissance encore cachée.
 Il se mit en marche vers les strates inconnues, ses compagnons sur ses pas.
 Un vent nocturne emporta les dernières scories du combat.
 L'aube naissante dessinait un passage vers le cœur de l'Umbranexus.
-Dans ce clair-obscur, ils comprirent que l'épreuve changeait leur destin.
-Un nouvel horizon se dévoila, prêt à livrer ses secrets.
+Dans ce clair-obscur, ils saisirent que la Table d'Émeraude scellait désormais leur quête.
+Le Chant se fondit dans cette certitude, ouvrant un nouvel horizon de secrets.
 Ils avancèrent, muets devant l'étendue inconnue.
 🌌🕯️
