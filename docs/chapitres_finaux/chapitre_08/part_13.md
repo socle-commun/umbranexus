@@ -19,3 +19,4 @@ Une clarté indicible éclaira le bout du tunnel.
 Ils s'élancèrent avec prudence vers cette lumière.
 L'oubli reculait tandis que le savoir resurgissait.
 Un nouveau chemin s'offrit à eux, chargé de promesses...
+Dans le silence retrouvé, chacun pressentit que la quête ne faisait que commencer.
