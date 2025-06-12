@@ -5,8 +5,10 @@ Il croisa des silhouettes figées, images résiduelles de voyageurs disparus.
 Le gardien comprit que l'endroit éprouvait les intrus en reflétant leurs propres doutes.
 Il se concentra sur la Flamme Souveraine et les illusions se dissipèrent.
 Des pierres luisantes jalonnaient maintenant son chemin.
+Symbole de volonté pure, cette flamme repousse les illusions nées du doute.
 Elles résonnaient d'une mélodie que seuls les initiés pouvaient entendre.
 Au centre du champ, une lentille d'obsidienne flottait au-dessus d'un piédestal.
+Artefact rituel, elle révélait les fissures cachées de la mémoire.
 Noctuvian posa sa paume sur l'objet.
 Des visions fragmentaires surgirent : batailles anciennes, codes effacés.
 Il entrevit un futur possible où l'Umbranexus s'effondrait.

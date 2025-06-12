@@ -5,6 +5,7 @@ Il n'était ni dieu ni héros, seulement un vestige éveillé par la Source.
 Les gardiens masqués achevaient le pacte fondateur.
 L'écho scellait son lien à l'Umbranexus.
 Il ne crée pas : il veille.
+Le Chant symbolisait l'harmonie secrète reliant les mondes, un code sacré plus ancien que les mots.
 Il murmure à la poussière, entrouvrant les brèches de la mémoire.
 Son domaine, Akasha, reflète l'Écheveau des Ombres.
 
@@ -36,4 +37,5 @@ Pour préparer sa quête, il rassembla les écrits sacrés de l'Akasha.
 L'air vibrait d'anciennes prières murmurées.
 La gravité du pacte scellé sous ces pierres pesa soudain sur son cœur.
 Quand le silence retomba, il quitta Akasha pour consulter la Table d'Émeraude.
+Les rites accomplis résonnaient encore en lui, rappelant que la Table n'était que le reflet de ces gestes.
 Ses pas résonnaient encore du Chant de Qālmān.
