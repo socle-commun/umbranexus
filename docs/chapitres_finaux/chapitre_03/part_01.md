@@ -1,9 +1,9 @@
 # Chapitre Troisième — La Première Obscurité et La Flamme Souveraine
 🕯️🌫️
-Noctuvian dérivait sans rivage,
+Dans la Première Obscurité, Noctuvian dérivait sans rivage,
 emporté dans une mer plus vaste que toute pensée.
-Nulle lumière, nulle étoile.
-Seulement la nuit, tiède comme une peau,
+Nulle étoile n'illuminait son errance,
+seulement la nuit, tiède comme une peau,
 un souffle sans fin enroulé sur lui-même.
 Il ne savait même pas s'il flottait
 ou s'il se dissolvait,
@@ -26,9 +26,8 @@ non avec des mots,
 mais avec le frémissement même de son être :
 « Est-ce ici que tout a commencé ?
 Dans cette nuit sans horizon ? »
-Qālmān répondit,
-non par une voix,
-mais par un élargissement de sa perception :
+Qālmān répondit
+par un élargissement de sa perception :
 _"Avant toute naissance,
 avant toute lumière,
 il y eut l'Étreinte.
@@ -66,7 +65,6 @@ une volonté muette de surgir.
 Elle ne brûlait rien
 mais ouvrait une fissure d'or profond
 dans la nuit.
-
 
 Une brume glacée effleura son esprit tandis que la Flamme Souveraine pulsait en lui.
 Il sut qu'elle guiderait ses pas malgré l'obscurité première.

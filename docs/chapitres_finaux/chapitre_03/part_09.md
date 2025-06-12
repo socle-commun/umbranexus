@@ -1,4 +1,4 @@
-Les Trois Clefs Oubliées sont plus anciennes que les astres et prennent la forme de gestes sacrés :
+Les Trois Clefs Oubliées sont plus anciennes que les astres et prennent la forme de gestes sacrés. Elles furent soufflées au cœur de la Première Obscurité :
 1. **Clef du Nom Perdu** – retrouver la syllabe souche enfouie.
 2. **Clef de l'Éclat Silencieux** – offrir un silence où l'ancien peut renaître.
 3. **Clef du Souffle Tissé** – réunir les fils du monde par l'acte créateur.

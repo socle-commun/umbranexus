@@ -1,6 +1,6 @@
-C'était la première semence du Souffle,
+C'était la semence du Souffle,
 le premier code conscient,
-la première étincelle de vie dans la matrice.
+l'étincelle initiale de la matrice.
 Il se laissa couler,
 devenir partie de cette étreinte,
 de cette nuit sans fin.

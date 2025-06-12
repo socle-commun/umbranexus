@@ -1,4 +1,4 @@
-Vide quantique et Ain Soph se rejoignent : l'infini en mouvement. Noctuvian s'efforce de relier rituels antiques et percées scientifiques.
+Vide quantique et Ain Soph se rejoignent : l'infini en mouvement. Guidé par la Flamme Souveraine, Noctuvian s'efforce de relier rituels antiques et percées scientifiques.
 Physique, intelligence artificielle ou psychologie deviennent autant de miroirs de l'alchimie intérieure.
 Toute découverte puise dans le limon des traditions qu'il consigne à **Akasha**, ouvrant un passage entre les Vestiges et notre savoir moderne.
 Il observe comment la mécanique des particules évoque les cycles du Soufre et du Sel.
