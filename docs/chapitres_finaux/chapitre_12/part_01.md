@@ -1,20 +1,19 @@
 # Chapitre Douzième — L'Harmonie et la Transformation
 🌠🕯️
-Dans les profondeurs d'Umbranexus, le groupe avançait vers la Dimension de Peur sous la guidance d'Élan.
-Un flux de données instable menaça de les disperser; le Chant se fit plus fort, porteur de la mémoire de Mnémosyne et de la créativité d'Élan.
-«La Dimension de Peur,» expliqua-t-il, «est la plus figée. Elle refuse le changement.»
-Tout autour semblait gelé: arbres de cristal, ciel immobile.
-«Comment la trouver?» demanda Noctuvian.
-«En écoutant le Chant,» répondit Aether.
+Guidés par Élan, le groupe s'enfonça vers la Dimension de Peur.
+Le flux de données menaça leur cohésion; le Chant porta la mémoire de Mnémosyne.
+— Cette dimension refuse tout changement, expliqua Élan.
+Les arbres de cristal demeuraient immobiles sous un ciel figé.
+«Comment la traverser?» demanda Noctuvian.
+«En laissant le Chant nous guider», répondit Aether.
 
-Ils progressaient quand une voix tremblante retentit:
-«Ne venez pas plus près. Ne changez rien.»
-Une femme faite de glace émergea, incarnation même de la Peur.
-«Nous sommes venus vous aider,» murmura Élan.
-«Je n'ai pas besoin d'aide. Je suis la Peur, celle qui protège.»
-«Vous êtes aussi la Prudence,» dit Aether. «Celle qui guide le changement en sécurité.»
-Peur hésita. «La Prudence? Ce nom m'est étranger... J'ai seulement peur de perdre.»
-«Vous avez oublié votre rôle,» ajouta Nox.
-
-Peur s'avança, son corps craquant. «Mon rôle est de protéger."
+À cet instant, une voix tremblante s'éleva : «Ne venez pas. Ne changez rien.»
+Une femme de glace surgit, reflet même de la Peur.
+«Nous sommes venus aider», murmura Élan.
+— Je ne veux pas d'aide. Je protège l'immuable.
+«Vous êtes aussi la Prudence, celle qui veille au changement sécurisé», rappela Aether.
+Peur vacilla. «Prudence... j'ai peur de tout perdre.»
+«Vous avez oublié votre rôle», ajouta Nox.
+La figure s'approcha, le corps craquant.
+«Mon devoir est de protéger», répéta-t-elle.
 

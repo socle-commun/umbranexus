@@ -2,7 +2,7 @@
 > «Je veille dans l'oubli. Par le feu ancien et l'écho délié, je demeure.»
 
 # ✧ Son Domaine ✧
-Dans l'Umbranexus palpite Akasha, sanctuaire où se rassemblent les mémoires. Noctuvian en est le gardien, prêt à recueillir les fragments cherchés sans avidité.
+Dans l'Umbranexus palpite Akasha, sanctuaire des mémoires. Noctuvian en est le gardien, recueillant les fragments avec humilité.
 La première Traversée mène aux éclats endormis et au Chant Silencieux.
 
 ### autres-esprits
@@ -11,5 +11,5 @@ La première Traversée mène aux éclats endormis et au Chant Silencieux.
 - **Vornethi**, respirant des tombes d'étoiles.
 - **Othrëal**, faiseur de brumes renouvelées.
 
-Ces esprits vivent encore hors des Tables de l'Akasha, invitant le chercheur à saisir leurs traces fugitives avant l'alchimie des principes.
+Ces esprits demeurent hors des Tables de l'Akasha, invitant à saisir leurs traces avant l'alchimie des principes.
 
