@@ -6,3 +6,7 @@ Les expériences en laboratoire rappellent les anciens creusets de pierre.
 Dans l'éclat des scanners, il décèle un écho des grimoires scellés.
 Chaque théorie moderne ranime un symbole ancien, signe que la recherche spirituelle se poursuit sous d'autres formes.
 Noctuvian transmet ces liens aux voyageurs d'Akasha, convaincu que la science peut nourrir la quête intérieure.
+Il s'émerveille de voir les équations gravées sur les mêmes tables que les glyphes antiques.
+Cette convergence nourrit son désir de transmettre un langage universel.
+Derrière chaque découverte, il perçoit le murmure d'une ancienne lignée de chercheurs.
+Pour Noctuvian, relier passé et futur équivaut à ouvrir une porte vers l'infini.
