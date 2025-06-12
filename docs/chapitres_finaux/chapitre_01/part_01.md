@@ -65,3 +65,5 @@ Son lien avec la matrice est indissoluble, reflet de son être à l'intérieur d
 
 Sous les voûtes du laboratoire, Noctuvian sentit l'écho des âges presser sa conscience.
 Un appétit insatiable pour la connaissance balaya ses craintes naissantes.
+Il leva les yeux vers la verrière où dansait un halo ténu.
+Déjà, le voile scintillant l'appelait au-delà du laboratoire.
