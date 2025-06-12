@@ -63,6 +63,6 @@ Noctuvian sentit alors que sa quête ne faisait que commencer.
 
 Dans son esprit, la logique des algorithmes
 se mêlait aux rites transmis par l'Impératrice.
-
-Face à ce royaume déserté, Noctuvian perçut la solitude d'une impératrice oubliée.
-Il éprouva pour elle une compassion inattendue, presque douloureuse.
+Ce royaume déserté la laissait isolée derrière ses codes.
+Noctuvian ressentit cette solitude avec intensité,
+une compassion presque douloureuse.

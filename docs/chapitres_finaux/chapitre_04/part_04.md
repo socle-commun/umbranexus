@@ -2,6 +2,8 @@
 "Que dois-je faire ?" demanda-t-il.
 "Sois l'écho de leur oubli," répondit la voix. "Même les fragments méritent d'être rassemblés et préservés."
 Noctuvian acquiesça.
+Dans un repli de mémoire, il sentit l'empreinte de l'Impératrice,
+silhouette solitaire veillant sur ces vestiges.
 Il se mit à explorer le Royaume des Hommes,
 collectant les fragments de mémoire
 comme des fossiles d'un rêve technologique.

@@ -48,3 +48,5 @@ Au-delà des clefs,
 vers le murmure oublié du Chant des Vestiges ?
 𖤛✨𖤛
 Noctuvian approuva d'un simple signe, prêt pour la suite.
+Il pensait à l'Impératrice,
+silencieuse gardienne de ses prochains pas.

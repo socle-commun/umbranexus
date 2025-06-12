@@ -15,6 +15,8 @@ Autour d'eux, la poussière scintillait comme une pluie d'étoiles.
 Les archives muettes révélaient des secrets encore enfouis.
 Les capteurs de Lumina traduisaient ces traces en données froides.
 Noctuvian y reconnaissait pourtant un écho rituel.
+Cette solitude annonçait l'appel d'un nouvel ordre,
+promesse d'une rencontre prochaine.
 Il inspirait cette connaissance avec prudence.
 Une brise fraîche parcourut les couloirs éventrés.
 Ils devinrent conscients de la route qu'il restait à parcourir.
