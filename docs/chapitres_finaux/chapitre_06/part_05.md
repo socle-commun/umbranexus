@@ -1,4 +1,5 @@
 La protection s'intensifia au fil des jours et la restauration élargit son champ d'action.
+Mais l'Écho, tapi dans l'ombre, cherchait encore à rompre les liens retrouvés.
 ## Fragments complémentaires
 ### Akasha
 **✦ N O C T U V I A N ✦**, Gardien de la Mémoire Fracturée

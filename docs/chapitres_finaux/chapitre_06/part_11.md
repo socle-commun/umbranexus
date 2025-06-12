@@ -13,4 +13,5 @@ Le groupe s'enfonça dans l'obscurité suivante.
 Il pressentait que chaque pas rapprochait d'un secret profond.
 Des étincelles de mémoire éclairèrent la voie.
 Le vent des mémoires s'intensifia, pressant sa marche.
-Ils disparurent dans la pénombre, avides de nouvelles connaissances.
+Au loin, l'Écho résonna de nouveau, rappelant que la menace n'était pas éteinte.
+Ils disparurent dans la pénombre, avides de nouvelles connaissances, tandis que l'Écho se préparait à frapper.

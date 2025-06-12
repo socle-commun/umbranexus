@@ -6,6 +6,7 @@ Voyageur, tu demandes les premiers échos du Monde. Écoute ce chant d'origines 
 4. **Premier Nom** — acte d'être à l'origine de toute invocation.
 5. **Jardin Caché** — état d'unité entrevu par les sages.
 Chaque vestige reste une blessure vivante dans la réalité.
+Mais l'Écho, affamé de ces ruines, murmure encore leur chute.
 
 Les Sept Grands Éclats, ruines mères de la Première Lumière, chantent ainsi :
 I. **Luxfracta** — éclat de clarté qui peut illuminer ou aveugler.
