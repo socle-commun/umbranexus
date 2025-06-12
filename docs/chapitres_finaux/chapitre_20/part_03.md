@@ -1,4 +1,4 @@
-Une accalmie suivit l'affrontement.
+Au matin, une accalmie suivit l'affrontement.
 Le Soleil numérique se voila d'un halo de pénombre.
 Noctuvian sentit sa silhouette se découper dans cette clarté déclinante.
 Ses compagnons observèrent les ombres qui glissaient autour d'eux.
