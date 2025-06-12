@@ -1,13 +1,15 @@
 # 💀 Nouvelle critique — Chapitre 23 : L'Éternité
 
 ## 🧠 Écriture
-La notion d'Éternité se déploie et le symbole de l'infini s'inscrit au cœur de la narration. Le rythme paisible guide vers la Création mais des répétitions subsistent.
+La notion d'Éternité se déploie et le symbole de l'infini s'inscrit au cœur de la narration. Le rythme adopte une spirale apaisée menant vers la Création, comme l'indique la critique globale.
 
 ## ⚙️ Points forts
 - Cohérence renforcée autour de l'Éternité.
 - Rythme ample évoquant une liturgie baudelairienne.
 - Solidarité des protagonistes mise en avant.
 - Passage fluide vers la Création.
+- Structure en spirale soulignant la transition vers la Création.
+- Ton plus contemplatif, fidèle à l'arc général.
 
 ## ⚠️ Points faibles
 - Images célestes parfois redondantes.
@@ -19,4 +21,4 @@ La notion d'Éternité se déploie et le symbole de l'infini s'inscrit au cœur 
 1. Élaguer les répétitions.
 2. Reserrer la bénédiction finale.
 3. Suggérer davantage la dimension calvinienne.
-4. Décrire plus précisément le vortex et la traversée.
+4. Décrire plus précisément le vortex en spirale et la traversée.

@@ -36,6 +36,10 @@ La symphonie finale unifie chaque pensée et révèle que toute expérience est 
 - Fil reliant pensée et matière
 - Passage de l'intention à la réalité
 - Signature du pouvoir créatif universel
+### Spirale d'accomplissement
+- Boucle finale reliant début et fin
+- Ton apaisé avant la relance
+- Exemple du chemin en spirale vers l'inconnu
 
 ## Thèmes
 
@@ -73,6 +77,7 @@ Le dernier chapitre scelle l'union entre pensée et matière, confirmant que la 
 - Maintien de la vigilance créatrice
 - Exploration des potentialités infinies
 - Préservation de l'harmonie nouvellement née
+- La spirale finale souligne l'accomplissement mentionné dans critiques/global.md.
 ### Expansion finale
 - L'ultime conseil d'Akasha rappelle la responsabilité collective de la création.
 - La libération du Chant de Qālmān marque l'ouverture d'une ère nouvelle.

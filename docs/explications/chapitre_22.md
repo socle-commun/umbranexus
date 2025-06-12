@@ -36,6 +36,10 @@ Noctuvian contemple la totalité de la Trame et perçoit l'unité de toutes les 
 - Présence discrète mais influente
 - Gardien de l'illusion persistante
 - Rappel que l'équilibre reste précaire
+### Spirale ascendante
+- Montée graduelle vers l'Éternité
+- Renvoie au parcours en boucle mentionné dans critiques/global.md
+- Illustrée par les passages de portails successifs
 
 ## Thèmes
 
@@ -73,6 +77,7 @@ Chaque fragment retrouve sa place dans l'ordre universel. Malgré la fissure du 
 - Consolider la vision unitaire révélée
 - Poursuivre la lutte contre l'ombre persistante
 - Préparer la transition vers une conscience pleinement éveillée
+- La spirale apporte un ton plus lumineux, rejoignant la critique globale.
 ### Nouveaux chemins
 - L'exploration des passerelles irisées annonce d'autres mondes à découvrir.
 - Akasha insiste sur la valeur de chaque fragment, soulignant la fragilité de l'équilibre atteint.

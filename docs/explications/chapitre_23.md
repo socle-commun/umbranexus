@@ -35,6 +35,7 @@ La perception du temps s'efface lorsque Noctuvian effleure l'infini et saisit la
 ### Spirale cosmique
 - Mouvement perpétuel d'expansion
 - Image de la continuité éternelle
+- Vortex final incarnant cette spirale
 - Indice d'une progression sans fin
 
 ## Thèmes
@@ -73,6 +74,7 @@ Ce chapitre mène à la dissolution des limites. L'éternité devient un état d
 - Ancrage de la conscience dans l'infini
 - Ouverture sur un acte créateur global
 - Affirmation d'une continuité sans fin
+- Le ton se fait plus exalté, conformément à critiques/global.md.
 ### Bénédiction des Anciens
 - Les entités primordiales confèrent une légitimité spirituelle au passage final.
 - Cette scène confirme la valeur du chemin parcouru et rapproche Noctuvian de la Création.

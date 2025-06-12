@@ -36,6 +36,10 @@ L'heure du Jugement approche. Les expériences accumulées sont évaluées pour 
 - Mesure des actions et de leurs poids
 - Symbole d'équité et de justice
 - Force régulatrice des excès
+### Spirale rédemptrice
+- Illustration de la progression circulaire
+- Renvoi aux étapes passées et futures
+- Exemple du chemin spiral dans la salle du Jugement
 
 ## Thèmes
 
@@ -73,6 +77,8 @@ Le Jugement libère la conscience des poids anciens et ouvre la voie d'une renai
 - Adoption d'une vision purifiée
 - Mise en action des résolutions prises
 - Avancée vers une phase d'évolution supérieure
+- Cette spirale confirme l'évolution décrite dans critiques/global.md.
+- Le ton se fait plus lumineux pour préparer le Monde.
 ### Transition vers le Monde
 - La Lueur évoque l'appel d'une nouvelle dimension.
 - Elle prépare psychologiquement Noctuvian à quitter la salle du Jugement.
