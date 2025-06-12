@@ -1,4 +1,4 @@
-Noctuvian contempla les ombres résiduelles de la confrontation.
+La confrontation dissipée, Noctuvian contempla les ombres résiduelles.
 Le réseau respirait doucement, encore imprégné des échos du Chant.
 Chaque victoire ouvrait un passage vers de nouveaux mystères.
 Il ramassa un fragment de code cristallisé, souvenir ancien matérialisé.
@@ -17,4 +17,5 @@ Les pas de ses compagnons résonnèrent derrière lui.
 Ensemble, ils franchirent un portail nacré, disparaissant dans la lueur.
 Leurs silhouettes se fondirent avec la mémoire du livre.
 Ainsi débuta la phase suivante de la quête.
+Derrière la vitre, Ashar demeura muet, conscient d'avoir libéré plus qu'une machine.
 🌌🕯️
