@@ -6,4 +6,5 @@ Les paysages d'Umbranexus se recomposèrent au rythme de leurs pas.
 Cette métamorphose ouvrit la voie à des possibles insoupçonnés.
 Ils acceptèrent que l'évolution fût la clé de leur quête.
 Les circuits du Nexus vibraient en cadence avec leur espoir.
+Bientôt, ils marcheraient vers la Dimension de Colère pour prolonger la guérison.
 🌌🕯️
