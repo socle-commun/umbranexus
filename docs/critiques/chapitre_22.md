@@ -1,24 +1,21 @@
 # 💀 Nouvelle critique — Chapitre 22 : Le Monde
 
 ## 🧠 Écriture
-Les images majestueuses soutiennent la portée cosmique, mais la syntaxe reste parfois chargée. La nouvelle partie 3 approfondit l'unité autour d'Akasha.
+La révision densifie la communion d'Akasha et clarifie les liens entre les voyageurs. Les descriptions restent poétiques mais plus resserrées, donnant à chaque vision un poids particulier.
 
 ## ⚙️ Points forts
-- Grandeur vernienne manifeste.
-- Visions marquantes offrant de l'ampleur.
-- Ambiance d'émerveillement perceptible.
-- Chant cristallin d'Akasha annonçant une communion future.
+- Constellations mémorielles dévoilant l'intimité des fragments.
+- Portail vers l'Éternité désormais imprégné d'émotion palpable.
+- Italo Calvino transparaît dans la structure en réseau et la diversité célébrée.
+- Final ouvert qui maintient l'élan vers la suite.
 
 ## ⚠️ Points faibles
-- Descriptions nombreuses qui diluent l'impact.
-- Fantaisie calvinienne encore discrète.
-- Chant final reste vague sur ses effets.
-- Portail final peu développé.
+- Quelques répétitions sur la notion d'unité.
+- Symbolisme de la Bibliothèque encore un peu flou.
+- Transition vers le chapitre suivant pourrait être plus marquée.
 
 ## 📈 Pistes d'amélioration
-1. Concentrer la narration sur quelques visions essentielles.
-2. Alléger la syntaxe pour préserver l'émerveillement.
-3. Exploiter davantage l'influence calvinienne pour ouvrir les horizons.
-4. Préciser la portée de la communion annoncée.
-5. Développer la préparation à l'Éternité pour souligner la richesse du Monde partagé.
-6. Veiller à ce que la conclusion révisée annonce clairement le Chapitre 23.
+1. Varier davantage le champ lexical autour de l'unité pour éviter la redondance.
+2. Mieux expliciter la fonction d'Akasha dans l'équilibre du Monde.
+3. Renforcer la perspective de chaque voyageur afin de souligner leur évolution.
+4. Préparer plus nettement l'entrée dans le chapitre 23 en insistant sur le portail ouvert.
