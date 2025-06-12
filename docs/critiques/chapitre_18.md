@@ -8,6 +8,7 @@ Le lyrisme s'allège pour mieux porter l'affirmation de soi. Les symboles céles
 - Mélancolie baudelairienne tempérant l'éclat.
 - Rythme nerveux dans la troisième partie.
 - Affirmation de soi éclairée par l'étoile intérieure.
+- Clarification progressive de la montée vers l'individualité.
 
 ## ⚠️ Points faibles
 - Transitions parfois abruptes après les accélérations.
