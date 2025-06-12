@@ -3,6 +3,7 @@ Au cœur du voyage, les compagnons sentent le temps se plier en arabesques.
 Leurs pensées s'entrelacent et forment un chœur sans début ni fin.
 Chacun offre son histoire comme une vibration subtile qui nourrit la conscience collective.
 Leurs récits s'enroulent, tissant une fresque d'émotions inédites.
+Cette fresque se déploie comme un anneau infini, rappelant le symbole gravé sous leurs pas.
 
 Un voyage introspectif commence.
 Noctuvian replonge dans ses souvenirs les plus anciens.
@@ -17,3 +18,4 @@ Dans cette acceptation finale,
 Noctuvian remercie ces guides et invite ses compagnons à préserver leur identité malgré l'unité.
 Le portail final luit d'une clarté immobile, tel un miroir nocturne prêt à les mener au seuil de la Création.
 Ils sentent un vertige exaltant les rapprocher de la Création.
+Ce vertige s'adoucit, préparant la traversée vers le chapitre suivant.
