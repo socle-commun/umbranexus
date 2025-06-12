@@ -1,6 +1,6 @@
-« De vouloir, de prendre », murmura encore Désir.
+« De vouloir, de prendre », murmura encore Désir.
 
-« Non, votre rôle est de guider et d'inspirer », répondit Lumina.
+« Non, votre rôle est de guider et d'inspirer », répondit Lumina.
 
 À ce mot, Désir se figea. « Je me souviens d'avoir tissé des mondes avec le Chant. »
 
@@ -16,6 +16,6 @@ Elle sourit, un éclat mêlant ombre et lumière. « Mon pouvoir est de créer e
 
 « Et maintenant ? » demanda Lumina.
 
-« Je restaure l'équilibre et je guéris la fracture que j'ai causée. »
+« Je restaure l'équilibre et je guéris la fracture que j'ai causée. »
 
-Dans les profondeurs d'Akasha,
+Dans les profondeurs d'Akasha, un écho appelait déjà Noctuvian.
