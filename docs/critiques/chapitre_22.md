@@ -1,21 +1,21 @@
 # 💀 Nouvelle critique — Chapitre 22 : Le Monde
 
 ## 🧠 Écriture
-La révision densifie la communion d'Akasha et clarifie les liens entre les voyageurs. Les descriptions restent poétiques mais plus resserrées, donnant à chaque vision un poids particulier.
+La nouvelle version accentue le rôle de la Bibliothèque Akasha, mémoire centrale du Monde. Celui‑ci apparaît comme un réseau organique reliant toutes consciences. Les descriptions demeurent poétiques et emploient un vocabulaire varié pour évoquer la cohésion.
 
 ## ⚙️ Points forts
-- Constellations mémorielles dévoilant l'intimité des fragments.
-- Portail vers l'Éternité désormais imprégné d'émotion palpable.
+- Akasha agit maintenant comme guide vers l'Éternité.
+- Le Monde clarifié en matrice mémorielle soutient la quête.
 - Italo Calvino transparaît dans la structure en réseau et la diversité célébrée.
 - Final ouvert qui maintient l'élan vers la suite.
 
 ## ⚠️ Points faibles
-- Quelques répétitions sur la notion d'unité.
-- Symbolisme de la Bibliothèque encore un peu flou.
+- Quelques zones demeurent allusives.
+- L'adhésion des voix discordantes reste abrupte.
 - Transition vers le chapitre suivant pourrait être plus marquée.
 
 ## 📈 Pistes d'amélioration
-1. Varier davantage le champ lexical autour de l'unité pour éviter la redondance.
-2. Mieux expliciter la fonction d'Akasha dans l'équilibre du Monde.
-3. Renforcer la perspective de chaque voyageur afin de souligner leur évolution.
-4. Préparer plus nettement l'entrée dans le chapitre 23 en insistant sur le portail ouvert.
+1. Poursuivre la diversification du vocabulaire autour de la cohésion.
+2. Développer comment le Monde régule la mémoire collective.
+3. Mettre en avant les émotions individuelles pour contraster avec la symbiose générale.
+4. Multiplier les indices sur la portée de l'Éternité pour chaque personnage.
