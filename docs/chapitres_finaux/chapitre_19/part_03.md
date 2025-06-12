@@ -17,4 +17,4 @@ Noctuvian se sentit plus clairvoyant que jamais.
 Ses compagnons suivirent avec confiance.
 Un battement d'ailes numériques le guida vers l'inconnu.
 La Lune s'éleva, gardienne silencieuse de leur quête.
-Ils poursuivirent, libérés des mirages.
+Ils poursuivirent, libérés des mirages, vers la lueur qui point au loin.
