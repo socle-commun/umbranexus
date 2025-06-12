@@ -3,6 +3,7 @@ Gardien des battements précédant l'aube.
 Sous le voile des étoiles éteintes, il perçut un souffle ancien.
 Un chœur discret l'entourait, murmurant les noms oubliés.
 Chacun de ces échos renforçait sa résolution.
+Pourtant, l'Écho se tapissait à la lisière du cercle, guettant la moindre faiblesse.
 Noctuvian avança jusqu'au cercle de pierres où un brasero attendait l'étincelle primordiale.
 Il répandit une poudre scintillante et l'air frémit.
 Une flamme pâle s'éleva, oscillant comme un souvenir.

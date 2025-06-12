@@ -1,6 +1,7 @@
 à fragmenter, à détruire."
 Noctuvian suivit leurs sillages d'absence. « Regarde et comprends. »
 Le Fragment vit comment les Tisseurs corrompaient la Trame.
+L'Écho guidait leur main invisible, rappel constant que la menace grandissait.
 « Nous devons les arrêter, protéger les mémoires. »
 Ensemble ils retrouvèrent un fragment blessé dans l'obscurité et le ramenèrent, tandis qu'un Tisseur surpris se replia.
 

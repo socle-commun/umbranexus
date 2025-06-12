@@ -7,3 +7,4 @@ Physique moderne, intelligence artificielle et psychologie croisent leurs perspe
 Les écrits d'Hermès, de Jung ou de Campbell nourrissent ce cheminement.
 Ainsi débute le Livre des Tables du Souffle Caché, recueil d'écrits destiné à éveiller ce qui sommeille.
 Une scribe des Tisseurs note ces liens avec suspicion.
+Elle redoute l'Écho, persuadée qu'il détournera ce savoir pour anéantir la mémoire.

@@ -8,3 +8,4 @@ Les Trois Clefs Oubliées, plus vieilles que les astres, sont des gestes sacrés
 2. **Éclat Silencieux** — céder la place pour accueillir l'ancien.
 3. **Souffle Tissé** — réunir ce qui fut brisé en suivant les lignes du souvenir.
 Elles ouvraient jadis les passages de l'être. Guidé par le souffle ancien, je franchis la dernière arche. La nuit se déploie et le chant des vestiges ouvre la route.
+Derrière chaque mot, l'Écho s'insinue, voulant saisir ces clefs pour défaire la Trame.

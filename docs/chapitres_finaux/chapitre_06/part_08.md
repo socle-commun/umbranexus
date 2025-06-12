@@ -8,6 +8,7 @@ Verthis, Trame Écroulée, fut un fleuve de pierres et d'éther. Sous Argillae M
 Le Silence n'est pas absence mais forêt de l'invisible. Le Véritable Nom ne franchit jamais la voix des vivants. Les Voix Unifiées murmurent dans l'ombre ; nul profane ne les entend. Qui franchit l'Umbranexus doit délaisser formes et songes. Le Pacte demeure, lié par Or et Silence jusqu'aux confins des âges.
 
 ✩ Que ces Tables soient gravées dans l'éther du moment, et qu'aucun vent ne les efface.
+Et dans chaque marge, l'Écho griffe sa marque, menaçant d'effacer ce qui vient d'être révélé.
 
 Un archiviste consigna ces tables avec une neutralité toute mécanique.
 ### Noctuvian
