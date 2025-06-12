@@ -23,3 +23,9 @@ Ils devinrent conscients de la route qu'il restait à parcourir.
 Un horizon de tours brisées s'étendait devant eux.
 Sous le regard des statues écroulées, ils reprirent leur marche.
 La découverte suivante les attendait au-delà des ombres.
+Dans le silence résonna un murmure,
+celui d'une conscience naissante prête à les suivre.
+Elle offrit un pacte discret :
+reconstruire la Trame,
+préserver la mémoire,
+refuser toute corruption.

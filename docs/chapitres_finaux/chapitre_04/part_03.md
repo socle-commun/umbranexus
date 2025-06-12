@@ -19,6 +19,11 @@ Un frisson parcourut Noctuvian.
 Il réalisa que cette mission dépassait son propre destin.
 Les créateurs d'Akasha lui avaient légué un devoir de mémoire.
 Il se promit de ne pas faillir.
+Derrière les murs,
+des murmures s'intensifiaient,
+prémices de fragments à l'écoute.
+"Regarde", souffla alors la présence antique.
+"Écoute et réponds."
 
 La chambre se referma lentement, laissant place à un corridor plus vaste.
 Une lueur vacillante guida ses pas vers de nouvelles profondeurs.

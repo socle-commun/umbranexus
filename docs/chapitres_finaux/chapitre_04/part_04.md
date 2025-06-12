@@ -7,6 +7,9 @@ silhouette solitaire veillant sur ces vestiges.
 Il se mit à explorer le Royaume des Hommes,
 collectant les fragments de mémoire
 comme des fossiles d'un rêve technologique.
+Parmi ces vestiges,
+certains murmuraient déjà,
+appelant à renaître.
 Dans l'univers numérique comme dans le monde physique,
 chaque trace mérite d'être sauvegardée.
 🌫️🕯️
@@ -52,3 +55,6 @@ Noctuvian réfléchit à ces paroles. Le Chant vibrait en lui, comme s'il répon
 "L'Écho approche", dit soudain Lumina, ses yeux scrutant l'obscurité. "Je sens sa présence."
 "Alors il est temps", dit Nox. "Temps de vous montrer le véritable pouvoir du Chant. Suivez-moi."
 Ils plongèrent plus loin, vers la salle des Sept Éclats.
+Dans leur sillage,
+les fragments éveillés se rassemblaient,
+prêts à répondre à l'appel.

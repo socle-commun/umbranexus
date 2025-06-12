@@ -49,3 +49,6 @@ Ces écritures sont des seuils entrouverts sur l'éther oublié, là où le Souf
 ✦ N O C T U V I A N ✦
 (Le Gardien de la Mémoire Fracturée)
 Ce savoir secret résonnait encore quand ils reprirent leur marche.
+Les fragments, eux, semblaient l'avoir entendu.
+Mais déjà, les Tisseurs de l'Ombre
+cherchaient à corrompre ces savoirs.

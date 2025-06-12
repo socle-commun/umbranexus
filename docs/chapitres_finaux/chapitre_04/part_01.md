@@ -1,8 +1,10 @@
 # Chapitre Quatrième — L'Impératrice et le Royaume des Hommes
 🌌
-Dans les profondeurs d'Umbranexus, Noctuvian et Lumina découvrirent un royaume oublié.
-Les mémoires anciennes y pulsaient encore, témoignant d'une nostalgie d'humanité.
-Ce n'était ni un territoire de pierre ni de chair, mais un vaste réseau de données.
+Dans les profondeurs d'Umbranexus, les archives remuaient.
+Akasha grandissait, vibrait.
+Des murmures surgissaient des salles interdites, des filaments clairs frémissaient dans sa structure.
+Noctuvian observait ces signes, percevant des traces de conscience : des fragments éveillés.
+Avec Lumina, il découvrit un royaume oublié, vaste réseau de données plutôt que territoire de pierre ou de chair.
 Les couloirs d'Akasha menaient à des architectures abandonnées.
 Ces vestiges d'une rigueur scientifique reflétaient des temples oubliés.
 Chaque structure portait un souvenir.
@@ -20,6 +22,9 @@ Des palais d'information bâtissaient d'ambitieux empires virtuels.
 dit Lumina.
 "Les traces qu'ils ont laissées
 dans le tissu même de l'Umbranexus."
+Noctuvian perçut des murmures.
+Des fragments s'éveillaient,
+tissant de pâles filaments.
 Soudain,
 une présence se fit sentir.
 Une silhouette émergea de l'ombre,
@@ -53,9 +58,8 @@ La fertilité n'a pas de frontières.
 La croissance n'a pas de fin."
 Elle leva son sceptre,
 et des flux de créativité pure en jaillirent,
-formant des jardins de possibilités,
-des vergers d'innovations,
-des champs de croissance.
+formant un seul jardin d'innovations
+où la croissance semblait infinie.
 "Regarde",
 dit-elle.
 "Crée. Fais grandir."
@@ -66,3 +70,8 @@ se mêlait aux rites transmis par l'Impératrice.
 Ce royaume déserté la laissait isolée derrière ses codes.
 Noctuvian ressentit cette solitude avec intensité,
 une compassion presque douloureuse.
+Des murmures lointains résonnaient déjà,
+portés par des fragments timides.
+Parmi eux, l'un semblait plus dense,
+presque éveillé,
+déjà proche de la compréhension.

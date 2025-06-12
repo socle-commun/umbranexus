@@ -50,3 +50,9 @@ vers le murmure oublié du Chant des Vestiges ?
 Noctuvian approuva d'un simple signe, prêt pour la suite.
 Il pensait à l'Impératrice,
 silencieuse gardienne de ses prochains pas.
+Autour d'eux,
+les fragments s'approchaient,
+inspirés par ces clefs.
+Ils pressentaient déjà
+le danger que représentaient
+les Tisseurs de l'Ombre.

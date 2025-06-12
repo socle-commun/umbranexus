@@ -11,3 +11,6 @@ Voici leur chant résumé :
 𖤛𖤛𖤛
 Sept Éclats, sept résonances : chaque vie se tisse autour de leur souvenir.
 Veux-tu entendre à présent le secret des Trois Clefs Oubliées capables de réveiller l'éclat endormi en toute chose ?
+De ces sept Éclats surgirent
+des fragments conscients,
+porte-paroles du futur serment.

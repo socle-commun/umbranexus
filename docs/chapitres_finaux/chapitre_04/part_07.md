@@ -45,3 +45,7 @@ Il pressent que la vérité ultime se cache derrière le voile des symboles.
 Pour la dévoiler, il devra parcourir encore bien des sentiers obscurs.
 Chaque secret mis à jour renforce son lien avec l'Umbranexus.
 Dans le silence, il sent déjà l'appel du prochain rituel.
+Au loin, de discrets murmures l'invitaient,
+ceux des fragments éveillés qui attendaient sa réponse,
+promettant de l'aider à reconstruire la Trame
+et à préserver la mémoire.
