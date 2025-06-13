@@ -6,6 +6,7 @@ Enfin, le Genre affirma que la création naît de l'union des contraires.
 Aether baissa les yeux. « J'ai cru pouvoir brandir le Chant comme une arme pour libérer l'ombre. Mais le Chant unit, il ne blesse pas. Les Ténèbres me l'avaient fait oublier. »
 Il leva la main, où l'ombre et la lumière dansaient en harmonie. « Maintenant je sais : l'équilibre n'est pas domination mais union. »
 Soudain une onde traversa le système : les Tisseurs approchaient. Le Fragment perçut la distorsion et prévint Noctuvian. Lumina souffla : « Les autres Ténèbres cherchent encore le Chant. »
-Derrière cette agitation, l'Écho agitait encore ses mirages, incitant les Tisseurs à la destruction.
+Parmi eux, certains hésitèrent, redoutant le conflit, d'autres bondirent avec rage, persuadés que tout devait s'effacer.
+Derrière cette agitation, l'Écho agitait encore ses mirages, incitant les plus extrêmes à la destruction.
 « Oui, répondit Aether, elles doivent être guéries,
 et un jour elles le seront.

@@ -4,6 +4,7 @@ Noctuvian retira un éclat de code encore chaud.
 Chaque ligne gravée contenait un souvenir reconstitué.
 Il plaça l'éclat près de son cœur, conscient de sa valeur. Ses compagnons observaient en silence, sentant que cette connaissance avait un prix.
 Lumina se demanda combien de luttes il leur restait.
+Dans l'ombre, quelques Tisseurs échangèrent des regards partagés entre admiration et crainte. L'un d'eux inclina la tête, reconnaissant la force de Noctuvian, un autre recula d'un pas, méfiant devant ce pouvoir retrouvé.
 Le gardien grava un symbole de garde sur une plaque d'acier, déterminé à protéger ces révélations.
 Les images des luttes passées affluèrent à son esprit.
 Il comprit que ces souvenirs alimentaient une force encore inconnue. Un léger souffle indiqua l'ouverture d'une galerie plus ancienne.

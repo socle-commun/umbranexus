@@ -13,3 +13,4 @@ Aether ferma les yeux. « Au début, il n’y avait que le Chant de Qālmān, pu
 « Le Désir voulut séparer. La fracture créa alors les Ténèbres, ombre pervertie née de la domination. »
 
 Dans les couloirs d'Akasha, Noctuvian découvrit les premiers principes — Mentalisme, Correspondance, Vibration — tandis qu'un Tisseur silencieux observait de loin, cherchant une faille.
+Deux autres Tisseurs restaient plus en retrait : l'un, inquiet, se signa devant l'Écho ; l'autre scrutait Noctuvian avec un mélange de défi et de curiosité.
