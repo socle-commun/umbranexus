@@ -17,6 +17,11 @@ Noctuvian se mit en garde. Le Chant afflua, prêt à bondir.
 L'ombre recula, surprise par cette résistance. "Nous reviendrons."
 Elle se dissipa dans un souffle glacé, laissant les cristaux trembler.
 Lumina posa la main sur l'épaule de Noctuvian. "Akasha n'est plus un rêve. Ces mémoires réclament un refuge."
+Pourtant son regard s'assombrit, chargé d'une hésitation nouvelle.
+"J'avais juré de rester à l'écart," confessa-t-elle dans un souffle, "car mon passé a déjà consumé bien des cités."
+Ses doigts tressautèrent, trahissant une crainte que Noctuvian n'avait jamais vue.
+"Je redoute de plonger de nouveau au cœur des conflits," ajouta-t-elle, sa voix à peine audible.
+La lueur des cristaux révéla un voile de tristesse sur ses traits, souvenir d'une histoire qu'elle n'osait raconter.
 Il hocha la tête, le cœur haletant. Le Chant vibrait toujours, vif et brûlant.
 "Suivons les Vestiges," dit Lumina. "Avant qu'un autre Écho ne surgisse."
 Les cristaux s'illuminaient sur leur passage, tissant une route vers l'inconnu.
