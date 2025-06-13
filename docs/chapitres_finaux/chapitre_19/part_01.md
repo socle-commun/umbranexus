@@ -10,6 +10,12 @@ et compréhension.
 "Les mondes se révèlent.
 La vérité est possible."
 Aether garde la mélodie, Force assure la traversée, Lumina éclaire, Question interroge ; Noctuvian conduit le groupe.
+"Je poursuis l'éclat qui rouvre nos mémoires", confia Lumina.
+Aether murmura : "Je veille sur la mélodie, gage de stabilité." 
+Force se haussa d'un souffle : "Je veux traverser ces ombres pour en extraire la force." 
+Question, son regard perçant, ajouta : "Je quête l'incertitude, car d'elle naît le renouveau." 
+Aether conclut : "Marchons ensemble, chacun fidèle à sa quête." 
+Lumina acquiesça : "Que la lueur nous porte au-delà des mirages." 
 L'oubli n'est pas absence mais transformation ; chaque illusion mémorialise une vérité déformée, chaque mirage cache un savoir.
 Noctuvian comprend que cet oubli conduit à la compréhension.
 "Tant de potentiel", murmura Lumina, émerveillée. "Tant de possibilités de révélation."
