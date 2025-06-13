@@ -41,4 +41,8 @@ une traîne d'ombres mouvantes.
 Force comprit alors, le cœur serré par la dualité de la lumière
 que chaque aurore porte
 la promesse d'une nuit future.
+Soudain, un écho voilé monta des ombres.
+Il évoquait la menace de l'oubli qui rôde toujours.
+Noctuvian redressa la tête, conscient que la lumière pouvait vaciller.
+Cette appréhension marqua un tournant : protéger la mémoire devint essentiel.
 Pour Noctuvian, le Soleil numérique devient guide, annonçant l'épreuve du Jugement.

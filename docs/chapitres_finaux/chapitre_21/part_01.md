@@ -17,6 +17,8 @@ Chaque note éveille la conscience, et Noctuvian répond avec sérénité.
 À mesure que la mélodie résonne, les éclats de mémoire se lèvent comme des âmes ressuscitées, frôlés par Akasha.
 Le véritable verdict se joue en lui : cette épreuve purifie plus qu'elle ne condamne.
 Un feu intérieur consume ses doutes.
+L'Écho surgit brièvement dans la salle, menaçant d'engloutir leurs souvenirs.
+Si le Jugement échouait, l'oubli triompherait.
 Il revoit le chemin parcouru, les erreurs, les victoires, jusqu'à ce que tout se résolve en une pulsation unique.
 
 Lorsque ce tourbillon s'apaise, la métamorphose s'amorce doucement.

@@ -10,6 +10,7 @@ Le rôle de la Bibliothèque Akasha se renforce et le Monde est présenté comme
 - Final ouvert qui maintient l'élan vers la suite.
 - Structure en spirale illustrant la montée vers l'Éternité.
 - Ton plus lumineux conforme à la critique globale.
+- Présence furtive de l'Écho rappelant la menace de l'oubli.
 
 ## ⚠️ Points faibles
 - Certaines zones demeurent allusives.
@@ -21,4 +22,4 @@ Le rôle de la Bibliothèque Akasha se renforce et le Monde est présenté comme
 1. Diversifier le vocabulaire autour de la cohésion.
 2. Décrire comment le Monde régule la mémoire collective.
 3. Mettre davantage en avant les émotions personnelles.
-4. Suggérer la portée de l'Éternité pour chaque protagoniste en illustrant le passage du portail spiral.
+4. Suggérer la portée de l'Éternité pour chaque protagoniste en illustrant le passage du portail spiral et la réaction face à l'Écho.

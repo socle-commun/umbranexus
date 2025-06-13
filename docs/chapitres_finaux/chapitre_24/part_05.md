@@ -6,6 +6,8 @@ Il comprit que chaque pas les menait à cette évidence : l'œuvre ne s'achève 
 Autour d'eux, l'espace bruissait d'un silence chargé de promesses.
 Ils demeurèrent immobiles, respirant la clarté comme un encens discret.
 Aucune menace ne troublait ce temps suspendu, mais tous sentaient la fragilité de l'instant.
+Un dernier Écho résonna alors, rappel cruel de la menace de l'oubli.
+Il tenta de dissiper la clarté, mais le groupe unifia sa mémoire pour le repousser.
 
 « Nous sommes responsables de ce monde en devenir », murmura Mnémosyne.
 Aether hocha la tête, les yeux brillants.
