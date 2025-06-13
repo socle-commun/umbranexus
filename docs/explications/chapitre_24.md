@@ -82,3 +82,4 @@ Le dernier chapitre scelle l'union entre pensée et matière, confirmant que la 
 - L'ultime conseil d'Akasha rappelle la responsabilité collective de la création.
 - La libération du Chant de Qālmān marque l'ouverture d'une ère nouvelle.
 - Le passage vers l'inconnu conclut le cycle en invitant à une exploration perpétuelle.
+- Le rire de Mnémosyne souligne que chaque fin porte déjà la promesse d'un renouveau.

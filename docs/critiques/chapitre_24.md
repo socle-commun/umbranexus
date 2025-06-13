@@ -10,11 +10,11 @@ Le récit se conclut sur un ton apaisé. Les motifs récurrents soulignent la cy
 - Conclusion ouverte vers un prochain cycle.
 - Spirale finale bouclant le voyage.
 - Ton serein avant la relance du cycle.
+- Quelques touches sensorielles renforcent l'immersion (parfum d'ambre, rire cristallin).
 
 ## ⚠️ Points faibles
-- Passages manquant de détails sensoriels.
-- Sauts temporels abrupts.
-- Dialogue final peu développé.
+- Transitions encore rapides par endroits.
+- Dialogue final encore succinct.
 - Certain manque de tension avant l'apaisement final.
 
 ## 📈 Pistes d'amélioration
