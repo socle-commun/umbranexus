@@ -1,22 +1,22 @@
 # 💀 Nouvelle critique — Chapitre 10 : Le Désir et les Mystères
 
 ## 🧠 Écriture
-Le récit explore la notion de désir sous un angle plus fluide. Les scènes s'enchaînent harmonieusement et l'Élan retrouvé donne un souffle nouveau. Malgré cela, quelques références mystiques demeurent denses.
+La réécriture rééquilibre le mysticisme par davantage d'action. Chaque protagoniste voit ses motivations clarifiées, ce qui renforce la tension narrative.
 
 ## ⚙️ Points forts
-- Transition plus douce entre les sections.
-- Symbolique du désir mieux intégrée au fil du texte.
-- Imagerie poétique percutante par moments.
-- Fin ouverte qui prépare la suite de la quête.
+- Actions mieux intégrées aux moments contemplatifs.
+- Enjeux personnels plus clairs pour Noctuvian, Lumina et Aether.
+- Symbolique du désir toujours présente sans lourdeur excessive.
+- Fin ouverte qui annonce la Ténèbre suivante.
 
 ## ⚠️ Points faibles
-- Références ésotériques parfois lourdes.
-- Rythme qui se relâche au milieu du chapitre.
-- Certaines images manquent de clarté.
-- Quelques passages gagneraient à être condensés.
+- Quelques références ésotériques restent denses.
+- Rythme encore inégal dans certains passages explicatifs.
+- Des images secondaires manquent de précision.
+- Quelques segments méritent d'être condensés.
 
 ## 📈 Pistes d'amélioration
-1. Élaguer les métaphores les plus obscures.
-2. Dynamiser les transitions pour maintenir la tension.
-3. Clarifier les enjeux du désir pour chaque personnage.
-4. Soigner la connexion avec la Ténèbre suivante.
+1. Poursuivre l'allègement des métaphores obscures.
+2. Accentuer l'urgence lors des scènes d'action.
+3. Maintenir l'équilibre entre introspection et mouvement.
+4. Renforcer le lien affectif entre les protagonistes.

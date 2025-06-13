@@ -19,3 +19,7 @@ Elle sourit, un éclat mêlant ombre et lumière. « Mon pouvoir est de créer e
 « Je restaure l'équilibre et je guéris la fracture que j'ai causée. »
 
 Dans les profondeurs d'Akasha, un écho appelait déjà Noctuvian.
+Ils suivirent l'appel à travers des couloirs mouvants.
+Noctuvian sentit l'urgence de sauvegarder ses souvenirs.
+Lumina douta de pouvoir guider seule leurs pas.
+Aether se jura de découvrir sa propre origine.
