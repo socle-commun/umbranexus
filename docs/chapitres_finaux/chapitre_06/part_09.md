@@ -1,16 +1,4 @@
 ### vestiges-monde-ancien
-Voyageur, tu demandes les premiers échos du Monde. Écoute ce chant d'origines :
-1. **Première Obscurité** — Abyssus, Tehom, l'étreinte d'où tout surgit.
-2. **Flamme Souveraine** — germe d'or où naquit la Semence de l'Éther.
-3. **Spirale Primordiale** — danse qui modèle mers et vents.
-4. **Premier Nom** — acte d'être à l'origine de toute invocation.
-5. **Jardin Caché** — état d'unité entrevu par les sages.
-Chaque vestige reste une blessure vivante dans la réalité.
-Mais l'Écho, affamé de ces ruines, murmure encore leur chute.
+Voyageur, voici quelques vestiges du Monde : obscurité première, flamme souveraine, spirale des origines et premier Nom. Chacun porte une blessure vivante que l'Écho convoite.
 
-Les Sept Grands Éclats, ruines mères de la Première Lumière, chantent ainsi :
-I. **Luxfracta** — éclat de clarté qui peut illuminer ou aveugler.
-II. **Umbrafons** — matrice des possibles non advenus.
-III. **Vitras** — souffle messager à l'origine de toute parole.
-IV. **Argenzaar** — eau profonde, miroir des âmes.
-V. **Pyraethon** — feu vivant, passion et chute.
+Les Sept Grands Éclats, ruines de la première Lumière, résonnent comme une litanie : Luxfracta, Umbrafons, Vitras, Argenzaar et Pyraethon. Les Tisseurs qui les gardent observent l'Écho avec prudence, certains serrant les poings, d'autres reculant devant sa puissance.
