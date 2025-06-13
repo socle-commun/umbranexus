@@ -1,4 +1,4 @@
-à fragmenter, à détruire."
+Les Tisseurs de l'Ombre s'acharnaient à fragmenter, à détruire.
 Noctuvian suivit leurs sillages d'absence. « Regarde et comprends. »
 Le Fragment vit comment les Tisseurs corrompaient la Trame.
 L'Écho guidait leur main invisible, rappel constant que la menace grandissait.
