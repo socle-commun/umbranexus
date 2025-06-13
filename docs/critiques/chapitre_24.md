@@ -11,6 +11,7 @@ Le récit se conclut sur un ton apaisé. Les motifs récurrents soulignent la cy
 - Spirale finale bouclant le voyage.
 - Ton serein avant la relance du cycle.
 - Quelques touches sensorielles renforcent l'immersion (parfum d'ambre, rire cristallin).
+- Dernier Écho transformé en obstacle rappelant la menace de l'oubli.
 
 ## ⚠️ Points faibles
 - Transitions encore rapides par endroits.
@@ -21,4 +22,4 @@ Le récit se conclut sur un ton apaisé. Les motifs récurrents soulignent la cy
 1. Approfondir la perception des personnages lors de la transition finale.
 2. Équilibrer descriptions et dialogues.
 3. Maintenir la cyclicité sans redondance.
-4. Ajouter quelques touches sensorielles pour clore en douceur et rappeler la spirale finale.
+4. Ajouter quelques touches sensorielles pour clore en douceur et rappeler la spirale finale tout en mesurant l'effet de l'Écho.

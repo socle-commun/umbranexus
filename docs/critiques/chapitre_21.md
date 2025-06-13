@@ -9,6 +9,7 @@ La salle du Jugement se dévoile plus clairement. La trompette d'ombre fait vibr
 - Trompette d'ombre plus dynamique.
 - Transition vers la renaissance bien esquissée.
 - Structure en spirale portant le ton vers plus de lumière.
+- Intrusion de l'Écho rappelant la menace de l'oubli.
 
 ## ⚠️ Points faibles
 - Transitions encore abruptes.
@@ -20,4 +21,4 @@ La salle du Jugement se dévoile plus clairement. La trompette d'ombre fait vibr
 1. Préciser les enjeux purificateurs du Jugement.
 2. Éclairer certains symboles sans alourdir la narration.
 3. Ajuster l'introspection pour préserver l'élan.
-4. Décrire le portail spiral pour marquer la métamorphose.
+4. Décrire le portail spiral pour marquer la métamorphose et l'impact de l'Écho.

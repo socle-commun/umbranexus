@@ -22,6 +22,9 @@ Les architectures numériques partagent leurs récits avec la mémoire commune.
 ## Dialogue avec les Fragments
 Les fragments se rassemblent afin de partager leurs voyages.
 Quel récit restera dans la mémoire commune ?
+Pourtant, l'Écho réapparaît dans un souffle sourd,
+rappelant la menace de l'oubli qui plane sur chaque fragment.
+Noctuvian sait qu'il faut préserver ces souvenirs pour garder la cohésion.
 ## Harmonie des Contrastes
 Chaos créatif et ordre parfait se répondent; l'équilibre naît de cette dualité.
 ## Marche vers la Plénitude
