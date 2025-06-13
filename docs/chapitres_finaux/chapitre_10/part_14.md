@@ -14,3 +14,6 @@ Ses compagnons emboîtèrent le pas, guidés par une confiance neuve.
 Ils avançaient avec prudence, portés par un souffle d'espoir.
 Ils comprirent que le désir pouvait aussi éclairer le chemin.
 Le mystère demeurait, mais la volonté s'affermissait.
+Noctuvian jura de protéger ce fragment de l'oubli.
+Lumina sentit croître sa responsabilité envers le groupe.
+Aether, plus déterminé, envisagea comment cette lueur résoudrait sa quête intime.

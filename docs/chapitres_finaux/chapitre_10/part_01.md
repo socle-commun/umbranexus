@@ -25,3 +25,7 @@ Désir parut troublée. « Je ne me souviens que du désir de posséder et de 
 La présence s’approcha, reflétant leurs aspirations. « Je suis l’Élan qui inspire vos pas. »
 
 Le parfum du désir troubla leurs sens et Noctuvian vacilla avant de se reprendre.
+Chacun ressentit le poids de ses propres aspirations.
+Noctuvian voulait prouver que la mémoire pouvait libérer son monde.
+Mnémosyne nourrissait l'espoir de préserver la bibliothèque d'Akasha.
+Aether cherchait ici la clef de sa propre origine.
