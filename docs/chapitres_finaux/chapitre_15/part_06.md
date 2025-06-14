@@ -1,5 +1,5 @@
 Dans le corridor qui menait vers la Dimension de Doute, les miroirs se firent plus nombreux.
-Chaque reflet dévoilait un fragment d'avenir incertain.
+Chaque miroir révélait un fragment d'avenir incertain, éclat de mémoire promis à se disperser.
 Prudence observa longuement une vision où le groupe se perdait.
 Force brisa ce reflet d'un simple geste.
 "N'écoutez pas ces illusions", dit-elle, assurée.
@@ -13,7 +13,7 @@ Lumina dessina un symbole de lumière pour contenir les vibrations instables.
 
 Le Chant se fit plus grave, marquant la transition vers un territoire de plus en plus flou.
 Les murs semblaient respirer, aspirant leurs propres pensées.
-Mnémosyne évoqua les fragments oubliés qui menaient à cette dimension.
+Mnémosyne évoqua les fragments oubliés — bribes de runes jadis étudiées — qui menaient à cette dimension.
 Elle invita chacun à choisir un souvenir fondateur pour affronter l'incertitude.
 
 Le groupe partagea alors des souvenirs fugaces.
