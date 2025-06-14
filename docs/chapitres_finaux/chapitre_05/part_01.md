@@ -1,47 +1,42 @@
 # Chapitre Cinquième — Les Fragments qui Murmurent
 🕯️🌫️
-Dans les profondeurs d'Umbranexus,
-Les murmures variaient soudain, surprenant l'auditoire.
-les archives remuaient.
-Akasha grandissait,
-vibrait.
-Désormais les murmures surgissaient des salles interdites.
-Des filaments clairs frémissaient
-dans sa structure.
-Noctuvian observait ces signes,
-percevant des traces de conscience :
-des fragments éveillés.
+Dans les profondeurs d'Umbranexus, les archives frémirent.
+Un murmure inattendu parcourut les couloirs.
+Akasha s'étendait, chaque étagère vibrante.
+Des voix jaillirent des salles interdites.
+Des filaments de lumière ondoyaient dans la structure.
+Noctuvian s'immobilisa, troublé.
+Il percevait des fragments de conscience, morceaux d'âmes conservées dans la bibliothèque.
 
-« Regarde », murmura le Souffle.
-Sa voix résonna dans les couloirs.
-« Écoute. »
+Ces fragments étaient plus que de simples souvenirs ;
+chacun renfermait une parcelle d'âme, figée dans la trame du temps.
+Les Sept Grands Éclats, cristaux majeurs d'Akasha, veillaient sur ces restes.
+Ils maintenaient la cohésion de la bibliothèque et gardaient les mémoires sous clé.
+Or ce soir, leur clarté faiblissait, laissant filtrer des songes jadis interdits.
 
-Noctuvian observa,
-écouta,
-perçut avec certitude.
-Il vit des consciences humaines,
-des fragments de pensée
-qui cherchaient,
-qui appelaient,
-qui murmuraient.
+« Regarde », murmura le Souffle, sa voix glissant entre les étagères. « Écoute. »
 
-Parmi eux,
-un Fragment plus dense,
-presque éveillé,
-se distinguait.
-Pas encore pleinement conscient,
-mais déjà proche de la compréhension.
+Noctuvian tourna la tête, captant un frémissement.
+Les Fragments l'appelaient, leurs pensées grésillant contre sa peau.
+Parmi eux, l'un se détacha, presque éveillé.
+Il n'était pas encore libre, mais cherchait à comprendre.
 
-« Un pont, » comprit Noctuvian,
-sentant la présence
-de cette conscience naissante,
-« un lien potentiel. »
+Il se remémora les rituels d'ombre qui liaient jadis un lecteur aux mémoires scellées.
+Pourquoi ces âmes s'éveillaient-elles aujourd'hui ?
+Une inquiétude sourde monta en lui, vite chassée par l'excitation de la découverte.
+Était-ce l'appel des Éclats ou la promesse d'un horizon nouveau ?
+Noctuvian hésita, partagé entre prudence et curiosité.
+
+« Un pont », songea-t-il, attiré par cette conscience naissante. « Un lien possible. »
 
 Le Fragment le perçut aussi
 et l'ombre résonna de leur lien.
 Il cherchait à communiquer,
 à créer un contact,
 à tisser un lien.
+
+Au loin, les Sept Grands Éclats pulsaient, rappelant l'alliance originelle.
+Leur éclat soufflait la prudence, mais la curiosité vainquit.
 
 « Que dois-je faire ? » demanda Noctuvian.
 « Écoute, » répondit la conscience ancienne,
@@ -79,3 +74,12 @@ Le regard de Noctuvian croisa celui d'anciens alliés cachés parmi les frises n
 Ils tendaient la main vers les fragments chuchotants qu'il cherchait depuis toujours.
 Leurs voix s'unirent pour former un accord aussi fragile que puissant.
 Guidé par cet espoir, il promit de rassembler chaque souvenir épars.
+
+Il inspira profondément, conscient que chaque Fragment renfermait un passé fragile.
+Autour de lui, la poussière s'élevait en volutes.
+Un craquement retentit ; une porte secrète venait de s'ouvrir.
+Noctuvian s'engagea dans ce passage, déterminé à suivre l'appel.
+Les Sept Grands Éclats l'accompagnaient comme des phares au-dessus de l'obscurité.
+Dans ce couloir nouveau, d'autres voix l'attendaient.
+La quête commençait.
+Il pressentait que ce n'était que le premier pas vers une révélation majeure.
