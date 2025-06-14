@@ -1,30 +1,13 @@
 # 💀 Nouvelle critique — Chapitre 24 : La Création
 
-## 🧠 Écriture
-Le récit se conclut sur un ton apaisé. Les motifs récurrents soulignent la cyclicité. Quelques questions finales invitent à prolonger l'exploration. La spirale finale relie chaque étape et s'accorde avec l'arc général décrit dans critiques/global.md.
-
-## ⚙️ Points forts
-- Lexique allégé renforçant la lisibilité.
-- Lien clair avec le début du livre.
-- Symbolique précise autour du renouvellement.
-- Conclusion ouverte vers un prochain cycle.
-- Spirale finale bouclant le voyage.
-- Ton serein avant la relance du cycle.
-- Quelques touches sensorielles renforcent l'immersion (parfum d'ambre, rire cristallin).
-- Dernier Écho transformé en obstacle rappelant la menace de l'oubli.
-
 ## ⚠️ Points faibles
-- Création évoquée par touches trop brèves.
-- Dialogue final encore esquissé.
-- Perspectives de cycle un peu répétitives.
-- Dernier écho d'oubli manque de relief.
+- Certaines transitions manquent de fluidité.
+- Le ton hésite parfois entre poésie et technicité.
+- Des longueurs altèrent la tension.
+- Quelques images symboliques restent floues.
 
 ## 📈 Pistes d'amélioration
-1. Décrire plus nettement la naissance de la Création.
-2. Donner de la substance au dialogue final.
-3. Varier la façon d'annoncer le cycle suivant.
-4. Intensifier la menace résiduelle de l'oubli.
-
-## ✔️ Suivi des améliorations
-Les points 1 et 2 ont été intégrés ; les points 3 et 4 restent à approfondir.
-
+- Clarifier la narration pour maintenir le rythme.
+- Harmoniser le registre de langue.
+- Équilibrer descriptions et actions.
+- Préciser les symboles récurrents.

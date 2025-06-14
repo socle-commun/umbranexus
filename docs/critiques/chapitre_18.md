@@ -1,26 +1,13 @@
 # 💀 Nouvelle critique — Chapitre 18 : L'Étoile et l'Individualité
 
-## 🧠 Écriture
-La progression vers la Dimension de Solitude se clarifie. L'Étoile devient un signe intime guidant chaque protagoniste vers sa propre voie. Les récits internes tissent un réseau d'individualités convergentes.
-
-## ⚙️ Points forts
-- Affirmation de la singularité portée par la lumière intérieure.
-- Harmonisation des voix intérieures.
-- Alternance entre séquences nerveuses et pauses méditatives.
-- Progression claire vers l'unité née de l'individualité.
-
 ## ⚠️ Points faibles
-- Individualités difficilement distinguables.
-- Symboles stellaires peu ancrés.
-- Transition vers la Lune abrupte.
-- Fin de chapitre trop brève.
+- Certaines transitions manquent de fluidité.
+- Le ton hésite parfois entre poésie et technicité.
+- Des longueurs altèrent la tension.
+- Quelques images symboliques restent floues.
 
 ## 📈 Pistes d'amélioration
-1. Creuser les particularités de chaque personnage.
-2. Décrire plus clairement l'Étoile comme guide.
-3. Préparer la transition vers la Lune par un crescendo.
-4. Prolonger la conclusion pour renforcer la quête.
-
-## ✔️ Suivi des améliorations
-Les points 1 et 2 ont été intégrés ; les points 3 et 4 restent à approfondir.
-
+- Clarifier la narration pour maintenir le rythme.
+- Harmoniser le registre de langue.
+- Équilibrer descriptions et actions.
+- Préciser les symboles récurrents.

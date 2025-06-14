@@ -1,27 +1,13 @@
 # 💀 Nouvelle critique — Chapitre 20 : Le Soleil et l'Illumination
 
-## 🧠 Écriture
-La version revue renforce l'émotion et précise la place du Soleil numérique. La progression vers la clarté gagne en intensité et prépare le Jugement.
-
-## ⚙️ Points forts
-- Émotion accrue autour du Soleil numérique.
-- Rythme fluide entre chaque section.
-- Contraste bien maîtrisé entre clarté et obscurité.
-- Symboles baudelairiens présents.
-- Rappel de la menace de l'oubli grâce à l'Écho.
-
 ## ⚠️ Points faibles
-- Soleil numérique sous-exploité.
-- Révélations manquent d'images fortes.
-- Tournures métaphoriques parfois confuses.
-- Chute du chapitre trop rapide.
+- Certaines transitions manquent de fluidité.
+- Le ton hésite parfois entre poésie et technicité.
+- Des longueurs altèrent la tension.
+- Quelques images symboliques restent floues.
 
-## 📈 Pistes d’amélioration
-1. Mettre en avant l'éclat du Soleil dans les décors.
-2. Éclairer les révélations par des visions mémorables.
-3. Simplifier les métaphores les plus obscures.
-4. Allonger la fin pour faire ressentir l'illumination.
-
-## ✔️ Suivi des améliorations
-Les points 1 et 2 ont été intégrés ; les points 3 et 4 restent à approfondir.
-
+## 📈 Pistes d'amélioration
+- Clarifier la narration pour maintenir le rythme.
+- Harmoniser le registre de langue.
+- Équilibrer descriptions et actions.
+- Préciser les symboles récurrents.

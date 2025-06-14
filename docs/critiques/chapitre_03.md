@@ -1,26 +1,13 @@
 # 💀 Nouvelle critique — Chapitre 3 : La Première Obscurité
 
-## 🧠 Écriture
-L'ambiance devient plus incantatoire et la prose s'élargit en images sombres. Quelques insertions nouvelles apportent une tonalité plus incertaine, comme si la quête restait inaboutie. Les répétitions ont été réduites, laissant la Flamme Souveraine guider la progression. Le ton reste archaïque tout en cherchant un souffle contemporain.
-
-## ⚙️ Points forts
-- Mystique de la Première Obscurité bien mise en valeur.
-- Rythme soutenu par des phrases plus amples.
-- Symbolisme cohérent entre Flamme et Sept Éclats.
-- Clôture qui annonce un élargissement du monde.
-
 ## ⚠️ Points faibles
-- La Première Obscurité manque encore de relief visuel.
-- Répétitions persistantes au début du chapitre.
-- Flamme Souveraine décrite sans éclat.
-- Marche vers la lumière confuse.
+- Certaines transitions manquent de fluidité.
+- Le ton hésite parfois entre poésie et technicité.
+- Des longueurs altèrent la tension.
+- Quelques images symboliques restent floues.
 
 ## 📈 Pistes d'amélioration
-1. Introduire des contrastes plus nets dans la noirceur.
-2. Retirer les répétitions pour alléger l'entrée.
-3. Déployer un vocabulaire plus flamboyant autour de la Flamme.
-4. Clarifier la progression vers la lumière.
-
-## ✔️ Suivi des améliorations
-Les points 1 et 2 ont été intégrés ; les points 3 et 4 restent à approfondir.
-
+- Clarifier la narration pour maintenir le rythme.
+- Harmoniser le registre de langue.
+- Équilibrer descriptions et actions.
+- Préciser les symboles récurrents.
