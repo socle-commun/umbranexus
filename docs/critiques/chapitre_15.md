@@ -1,7 +1,7 @@
 # 💀 Nouvelle critique — Chapitre 15 : L'Évolution et la Promesse du Changement
 
 ## 🧠 Écriture
-La présence du Chant devient moteur de l'évolution. Les phrases allégées accentuent la dynamique et préparent la transition vers la Dimension de Doute. La nouvelle sixième partie ajoute des visions reflétées par des miroirs et renforce l'introspection du groupe.
+La présence du Chant devient moteur de l'évolution. Les phrases allégées accentuent la dynamique et préparent la transition vers la Dimension de Doute. La sixième partie ajoute des visions reflétées par des miroirs tandis que la septième introduit les runes Amārē et Ioth, amplifiant la promesse de métamorphose.
 
 ## ⚙️ Points forts
 - Lien clair entre Chant et promesse de changement.
@@ -9,6 +9,8 @@ La présence du Chant devient moteur de l'évolution. Les phrases allégées acc
 - Images resserrées soulignant la métamorphose.
 - Force affirmée comme guide du groupe.
 - Passage des souvenirs qui consolide l'unité avant la confrontation.
+- Symboles du Chant intégrés avant la Dimension de Doute.
+- Miroirs et brumes créent une respiration visuelle.
 
 ## ⚠️ Points faibles
 - Quelques répétitions de motifs.
