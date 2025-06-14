@@ -13,13 +13,17 @@ La notion d'Éternité se déploie et le symbole de l'infini s'inscrit au cœur 
 - Écho et menace de l'oubli donnent un tournant avant la Création.
 
 ## ⚠️ Points faibles
-- Images célestes parfois redondantes.
-- Bénédiction des Anciens trop longue.
-- Formulations approximatives.
-- Vortex final manquant d'emphase sensorielle.
+- Notion d'Éternité encore flottante.
+- Emphase sur la bénédiction trop appuyée.
+- Manque d'images sensorielles fortes.
+- Transition vers la Création expédiée.
 
 ## 📈 Pistes d'amélioration
-1. Élaguer les répétitions.
-2. Reserrer la bénédiction finale.
-3. Suggérer davantage la dimension calvinienne.
-4. Décrire plus précisément le vortex en spirale et la traversée, en amplifiant la confrontation avec l'Écho.
+1. Préciser la portée de l'Éternité par des métaphores claires.
+2. Alléger la bénédiction.
+3. Insérer des impressions tactiles ou sonores.
+4. Ménager un lien plus progressif vers la Création.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

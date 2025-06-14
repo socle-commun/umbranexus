@@ -10,13 +10,17 @@ La destruction est présentée comme prélude à la renaissance. La Maison Dieu 
 - Progression fluide vers la quête de Solitude.
 
 ## ⚠️ Points faibles
-- Enchaînements parfois abrupts entre les tableaux.
-- Voix secondaires peu développées.
-- Répétition du vocabulaire des ruines.
-- Brefs passages manquant de clarté.
+- Destruction manque de progression.
+- Ruines décrites de manière répétitive.
+- Personnages secondaires presque absents.
+- Narration perd de l'intensité en milieu de chapitre.
 
 ## 📈 Pistes d'amélioration
-1. Souligner la symbolique de la tour dès l'ouverture.
-2. Varier les descriptions de débris pour éviter la redondance.
-3. Donner plus d'épaisseur aux compagnons.
-4. Intensifier la tension vers Solitude tout en préparant la renaissance.
+1. Étaler la montée vers la destruction.
+2. Varier le lexique des ruines.
+3. Accorder plus d'espace aux compagnons.
+4. Maintenir la tension jusqu'à la sortie de la Maison Dieu.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

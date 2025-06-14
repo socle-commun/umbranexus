@@ -10,13 +10,17 @@ La description de l'Arbre de Vie gagne en clarté, offrant un cadre plus lisible
 - Conclusion qui prépare l'étape suivante.
 
 ## ⚠️ Points faibles
-- Quelques passages demeurent prévisibles.
-- Symboles finaux parfois énigmatiques.
-- Rythme des explications ésotériques inégal.
-- Personnages secondaires peu nuancés.
+- La Danse manque de repères visuels précis.
+- Symbole de l'Arbre de Vie demeure hermétique.
+- Ambiance onirique parfois monotone.
+- Secondaires peu présents.
 
 ## 📈 Pistes d'amélioration
-1. Accentuer l'enjeu dramatique autour d'Oubli.
-2. Varier la cadence lors des descriptions symboliques.
-3. Préparer plus explicitement la montée vers la prochaine Dimension.
-4. Étoffer les personnages pour alimenter la tension.
+1. Décrire l'Arbre de Vie avec plus de détails sensibles.
+2. Clarifier la portée des symboles.
+3. Moduler le rythme pour maintenir l'élan.
+4. Donner aux figures secondaires un rôle actif.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

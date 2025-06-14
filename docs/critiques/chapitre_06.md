@@ -10,12 +10,17 @@ Le chapitre développe la menace de l'Écho et offre un rythme alternant phrases
 - Conclusion ouverte vers la suite.
 
 ## ⚠️ Points faibles
-- Quelques transitions demeurent abruptes.
-- Certains personnages secondaires restent esquissés.
-- Quelques motifs restent répétitifs.
+- Les Tisseurs demeurent encore trop mystérieux.
+- Rythme haché lors des confrontations.
+- Références à l'Écho répétitives.
+- Manque de tension sensorielle.
 
 ## 📈 Pistes d'amélioration
-1. Éclaircir les motivations de l'Écho pour accentuer la tension.
-2. Approfondir les personnages secondaires pour étoffer l'intrigue.
-3. Maintenir la diversité de réactions des Tisseurs au fil des scènes.
-4. Soigner la transition vers le chapitre suivant.
+1. Dévoiler davantage le fonctionnement des Tisseurs.
+2. Fluidifier les scènes d'affrontement.
+3. Varier les mentions de l'Écho.
+4. Insérer des sensations de froid ou d'ombre dans l'ambiance.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

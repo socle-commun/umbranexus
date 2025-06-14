@@ -10,13 +10,17 @@ La progression vers la Dimension de Solitude se clarifie. L'Étoile devient un s
 - Progression claire vers l'unité née de l'individualité.
 
 ## ⚠️ Points faibles
-- Quelques ruptures de ton dans la quête identitaire.
-- Rythmes inégaux entre introspection et action.
-- Transition vers les illusions lunaires abrupte.
-- Conclusion un peu hâtive.
+- Individualités difficilement distinguables.
+- Symboles stellaires peu ancrés.
+- Transition vers la Lune abrupte.
+- Fin de chapitre trop brève.
 
 ## 📈 Pistes d'amélioration
-1. Approfondir la lumière intérieure comme guide personnel.
-2. Donner plus de place à la voix de chaque protagoniste.
-3. Lisser les passages menant à la prochaine étape.
-4. Allonger la conclusion pour unir solitude et individualité.
+1. Creuser les particularités de chaque personnage.
+2. Décrire plus clairement l'Étoile comme guide.
+3. Préparer la transition vers la Lune par un crescendo.
+4. Prolonger la conclusion pour renforcer la quête.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

@@ -14,12 +14,17 @@ Le récit se conclut sur un ton apaisé. Les motifs récurrents soulignent la cy
 - Dernier Écho transformé en obstacle rappelant la menace de l'oubli.
 
 ## ⚠️ Points faibles
-- Transitions encore rapides par endroits.
-- Dialogue final encore succinct.
-- Certain manque de tension avant l'apaisement final.
+- Création évoquée par touches trop brèves.
+- Dialogue final encore esquissé.
+- Perspectives de cycle un peu répétitives.
+- Dernier écho d'oubli manque de relief.
 
 ## 📈 Pistes d'amélioration
-1. Approfondir la perception des personnages lors de la transition finale.
-2. Équilibrer descriptions et dialogues.
-3. Maintenir la cyclicité sans redondance.
-4. Ajouter quelques touches sensorielles pour clore en douceur et rappeler la spirale finale tout en mesurant l'effet de l'Écho.
+1. Décrire plus nettement la naissance de la Création.
+2. Donner de la substance au dialogue final.
+3. Varier la façon d'annoncer le cycle suivant.
+4. Intensifier la menace résiduelle de l'oubli.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

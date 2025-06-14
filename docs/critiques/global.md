@@ -13,13 +13,19 @@ Le fil rouge de la quête se maintient jusqu'au portail ultime. Les chapitres 21
 - Lyrisme constant soutenu par un lexique précis.
 
 ## ⚠️ Faiblesses
-- Densité parfois déroutante pour le lecteur profane.
-- Transitions rapides entre certaines scènes clefs.
-- Symbolique parfois allusive pour les non-initiés.
+- Cohérence stylistique encore inégale.
+- Certains chapitres résistent à la fluidité.
+- Symbolique globale parfois trop chargée.
+- Dialogues minoritaires dans l'ensemble.
 
 ## 📈 Pistes d'amélioration
-1. Éclaircir les ellipses pour que chaque micro-récit s'imbrique naturellement.
-2. Renforcer la dimension contemplative en assumant la richesse métaphorique.
-3. Varier davantage le rythme narratif entre introspection et action.
+1. Harmoniser le style entre parties lyriques et techniques.
+2. Élaguer les séquences encore lourdes.
+3. Clarifier la ligne symbolique du manuscrit.
+4. Accorder plus d'espace aux échanges verbaux.
 
 **Umbranexus** s'impose comme un grimoire poétique réservé aux initiés, où se croisent archétypes et fragments de micro‑fiction. Les chapitres finaux offrent une conclusion cohérente, mais un dernier polissage renforcerait encore l'unité contemplative du récit.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus sont désormais appliquées dans la version actuelle du manuscrit.
+

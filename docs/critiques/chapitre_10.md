@@ -10,13 +10,17 @@ La réécriture rééquilibre le mysticisme par davantage d'action. Chaque prota
 - Fin ouverte qui annonce la Ténèbre suivante.
 
 ## ⚠️ Points faibles
-- Quelques références ésotériques restent denses.
-- Rythme encore inégal dans certains passages explicatifs.
-- Des images secondaires manquent de précision.
-- Quelques segments méritent d'être condensés.
+- Désir de Noctuvian manque d'illustrations concrètes.
+- Dialogue interne tardif.
+- Vocabulaire ésotérique encore pesant.
+- Tension retombe après la scène centrale.
 
 ## 📈 Pistes d'amélioration
-1. Poursuivre l'allègement des métaphores obscures.
-2. Accentuer l'urgence lors des scènes d'action.
-3. Maintenir l'équilibre entre introspection et mouvement.
-4. Renforcer le lien affectif entre les protagonistes.
+1. Montrer physiquement le désir du héros.
+2. Condenser l'introspection.
+3. Simplifier quelques termes mystérieux.
+4. Soutenir la tension jusqu'à la fin.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

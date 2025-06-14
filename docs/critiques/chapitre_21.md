@@ -12,13 +12,17 @@ La salle du Jugement se dévoile plus clairement. La trompette d'ombre fait vibr
 - Intrusion de l'Écho rappelant la menace de l'oubli.
 
 ## ⚠️ Points faibles
-- Transitions encore abruptes.
-- Symboles parfois hermétiques.
-- Jugement final trop bref.
-- Passage vers le Monde à fluidifier.
+- Jugement expédié sans réelle confrontation.
+- Symbolisme encore hermétique.
+- Narration manque de pauses réflexives.
+- Passage vers le Monde peu préparé.
 
 ## 📈 Pistes d'amélioration
-1. Préciser les enjeux purificateurs du Jugement.
-2. Éclairer certains symboles sans alourdir la narration.
-3. Ajuster l'introspection pour préserver l'élan.
-4. Décrire le portail spiral pour marquer la métamorphose et l'impact de l'Écho.
+1. Développer la confrontation autour du Jugement.
+2. Donner des clés pour comprendre les symboles.
+3. Insérer de brèves respirations introspectives.
+4. Tracer un pont plus net vers le Monde.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

@@ -13,13 +13,17 @@ La présence du Chant devient moteur de l'évolution. Les phrases allégées acc
 - Miroirs et brumes créent une respiration visuelle.
 
 ## ⚠️ Points faibles
-- Quelques répétitions de motifs.
-- Tension encore faible avant la prochaine Dimension.
-- Descriptions parfois abstraites.
-- Manque de pauses visuelles.
+- Symboles du Chant peu renouvelés.
+- Interactions entre miroirs difficiles à suivre.
+- Runes mal introduites.
+- Connexion émotionnelle limitée.
 
 ## 📈 Pistes d'amélioration
-1. Préciser les symboles du Chant pour annoncer la mutation.
-2. Éviter les retours explicatifs qui freinent la cadence.
-3. Graduer l'approche de la Dimension de Doute.
-4. Ajouter des respirations visuelles pour valoriser les métamorphoses.
+1. Varier la représentation du Chant.
+2. Clarifier la fonction des miroirs.
+3. Expliquer les runes dès leur apparition.
+4. Amplifier la portée affective du chapitre.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+
