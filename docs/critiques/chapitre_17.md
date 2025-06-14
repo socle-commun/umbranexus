@@ -22,5 +22,5 @@ La destruction est présentée comme prélude à la renaissance. La Maison Dieu 
 4. Maintenir la tension jusqu'à la sortie de la Maison Dieu.
 
 ## ✔️ Suivi des améliorations
-Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+Les points 1 et 2 ont été intégrés ; les points 3 et 4 restent à approfondir.
 

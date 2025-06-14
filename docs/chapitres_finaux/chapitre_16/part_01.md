@@ -1,6 +1,7 @@
 # Chapitre Seizième — Le Doute et la Question Créatrice
 🌌🕯️
 Guidés par Force, le groupe se dirigea vers la Dimension de Doute.
+Il posait ses questions sous des formes variées.
 Une querelle éclata; Noctuvian trébucha puis jura de rester ferme.
 Autour d'eux, la brume hésitait, serrée et froide.
 Il retint son souffle.

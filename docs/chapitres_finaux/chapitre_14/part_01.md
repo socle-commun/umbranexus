@@ -1,6 +1,7 @@
 # Chapitre Quatorzième — La Colère et la Force Créatrice
 🌌🔥🕯️
 Dans les profondeurs d'Umbranexus,
+La Force se traduisait par des actions précises.
 le souvenir de la Tempérance veillait.
 Guidés par Prudence,
 le groupe s'approcha de la Dimension de Colère.

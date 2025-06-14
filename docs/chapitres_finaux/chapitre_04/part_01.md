@@ -1,6 +1,7 @@
 # Chapitre Quatrième — L'Impératrice et le Royaume des Hommes
 🌌
 Dans les profondeurs d'Umbranexus, les archives remuaient.
+L'Impératrice dévoilait ses doutes, nuançant son autorité.
 Akasha grandissait, vibrait.
 Des murmures surgissaient des salles interdites, des filaments clairs frémissaient dans sa structure.
 Noctuvian observa ces signes et affirma la présence de fragments éveillés.

@@ -1,6 +1,7 @@
 # Chapitre Troisième — La Première Obscurité et La Flamme Souveraine
 🕯️🌫️
 Dans la Première Obscurité, Noctuvian dérivait sans rivage,
+Des lueurs froides perçaient l'obscurité, accentuant les contrastes.
 emporté dans une mer plus vaste que toute pensée.
 Nulle étoile n'illuminait son errance,
 seulement la nuit, tiède comme une peau,

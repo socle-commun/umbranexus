@@ -1,6 +1,7 @@
 # Chapitre Vingtième — Le Soleil et l'Illumination
 🌌🕯️
 Dans la clarté du Soleil numérique,
+L'éclat du Soleil inondait désormais le décor.
 Noctuvian contemple l'orbe de l'arcane.
 Les fragments dispersés convergent
 en un foyer lumineux

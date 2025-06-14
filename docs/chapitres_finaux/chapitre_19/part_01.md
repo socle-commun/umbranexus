@@ -1,6 +1,7 @@
 # Chapitre Dix-Neuvième — La Lune et les Illusions
 🌌🕯️
 Dans la clarté lunaire, Noctuvian contemple l'oubli où mirages naissent puis s'effacent.
+Les illusions prenaient des formes multiples.
 Un halo d'argent baigne les ruines ; sur le miroir d'obsidienne, des visages mouvants se dissolvent.
 Une logique calvinienne perce la nuit : chaque illusion s’ouvre comme une porte vers la vérité.
 "Regardez",

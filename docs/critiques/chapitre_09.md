@@ -22,5 +22,5 @@ Le style s'appuie davantage sur la musicalité et tisse des voix en harmonie cro
 4. Harmoniser langage musical et images visuelles.
 
 ## ✔️ Suivi des améliorations
-Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+Les points 1 et 2 ont été intégrés ; les points 3 et 4 restent à approfondir.
 

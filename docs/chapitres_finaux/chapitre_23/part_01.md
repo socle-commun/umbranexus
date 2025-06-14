@@ -1,6 +1,7 @@
 # Chapitre 23 : L'Éternité
 Dans le silence résonnant de l'Éternité, juste après avoir franchi le portail, Noctuvian perçoit l'harmonie finale, mais une terreur ineffable s'insinue.
 Avant d'accepter cet état, Noctuvian repensa aux premières menaces et choisit de préserver la mémoire collective.
+L'Éternité se peignait d'une métaphore limpide.
 Autour de lui, les parois du portail vibraient d'une lumière changeante.
 Une harmonie finale enveloppe la scène.
 L'Éternité n'est ni repos ni inertie. Elle pulse comme un cœur immense où passé

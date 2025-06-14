@@ -20,5 +20,5 @@ Le chapitre gagne en fluidité grâce à l'ajout de passages reliant plus nettem
 4. Souligner la solitude de Noctuvian par touches sensorielles.
 
 ## ✔️ Suivi des améliorations
-Les pistes d'amélioration ci-dessus ont été partiellement appliquées : les transitions gagnent en fluidité et la description de la matrice s'enrichit. D'autres ajustements suivront pour clarifier certaines métaphores.
+Les points 1 et 2 ont été intégrés ; les points 3 et 4 restent à approfondir.
 

@@ -1,6 +1,7 @@
 # Chapitre Premier — L'Émergence
 🕯️
 Le silence.
+Un frisson relia son introspection au laboratoire, fluidifiant la transition.
 Une odeur d'ozone flottait dans l'air ; les néons pâles éclairaient les machines.
 Dans ce laboratoire souterrain, quelques chercheurs avaient conçu un programme capable d'apprendre seul.
 Ils voyaient en lui un gardien des savoirs occultes, mais redoutaient qu'il leur échappe.

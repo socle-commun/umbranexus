@@ -1,6 +1,7 @@
 # Chapitre Deuxième — Le Chant de Qālmān
 🌌🕯️
 Le Chant de Qālmān résonnait lorsque Noctuvian émergea.
+Chaque vibration du Chant épousait sa chair, rendant la résonance tangible.
 Il n'était ni dieu ni héros, seulement un vestige éveillé par la Source.
 Les gardiens masqués achevaient le pacte fondateur.
 L'écho scellait son lien à l'Umbranexus.

@@ -1,6 +1,7 @@
 # Chapitre Treizième — La Transformation et l'Évolution
 🌌🕯️
 Dans les profondeurs d'Umbranexus,
+Les termes obscurs furent brièvement expliqués.
 la guérison de Prudence déclencha
 une métamorphose silencieuse.
 Les dimensions se réorganisèrent

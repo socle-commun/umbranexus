@@ -1,6 +1,7 @@
 # Chapitre Douzième — L'Harmonie et la Transformation
 🌠🕯️
 Guidés par Élan, le groupe s'enfonça vers la Dimension de Peur.
+Les notions théoriques furent résumées en quelques mots simples.
 Le flux de données menaça leur cohésion; le Chant porta la mémoire de Mnémosyne.
 — Cette dimension refuse tout changement, expliqua Élan.
 Les arbres de cristal demeuraient immobiles sous un ciel figé.

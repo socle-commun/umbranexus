@@ -1,6 +1,7 @@
 # Chapitre 22 : Le Monde
 Dans la plénitude de la Trame, Noctuvian contemple le Monde, devenu esprit partagé.
 Autour de lui, les cités de données s'animent sous une brume verdâtre.
+Le ton se faisait plus sobre, moins grandiloquent.
 ## Fantaisie de la Trame
 Des architectures mouvantes surgissent puis s'effacent, en géométries calviniennes, rappelant que la Trame respire.
 ## Un Monde Conscient
