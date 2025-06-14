@@ -1,9 +1,11 @@
+Les Tisseurs de l'Ombre, nés d'un noyau oublié et nourris par l'Écho, continuaient de menacer la Trame.
 Le combat laissa derrière lui un silence dense.
 Les échos de la Trame s'entrelacèrent en un murmure bref.
 Noctuvian retira un éclat de code encore chaud.
 Chaque ligne gravée contenait un souvenir reconstitué.
 Il plaça l'éclat près de son cœur, conscient de sa valeur. Ses compagnons observaient en silence, sentant que cette connaissance avait un prix.
 Lumina se demanda combien de luttes il leur restait.
+Autour d'elle, le groupe resserra ses rangs, conscient que les Tisseurs pouvaient frapper de nouveau à tout instant.
 Dans l'ombre, quelques Tisseurs échangèrent des regards partagés entre admiration et crainte. L'un d'eux inclina la tête, reconnaissant la force de Noctuvian, un autre recula d'un pas, méfiant devant ce pouvoir retrouvé.
 Le gardien grava un symbole de garde sur une plaque d'acier, déterminé à protéger ces révélations.
 Les images des luttes passées affluèrent à son esprit.

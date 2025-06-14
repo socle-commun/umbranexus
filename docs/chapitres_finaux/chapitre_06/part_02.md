@@ -1,3 +1,4 @@
+Les Tisseurs de l'Ombre, nés d'un noyau oublié et corrompus par l'Écho, fragmentent la Trame pour effacer la mémoire. Devant cette menace, le groupe scruta les lois hermétiques.
 Le Principe de Polarité montra que tout contient son opposé.
 Celui du Rythme révéla les cycles qui gouvernent la vie.
 Cause et Effet enseignèrent que toute action appelle sa conséquence : comprendre la loi, c'est s'en libérer.

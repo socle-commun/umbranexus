@@ -1,3 +1,4 @@
+Les Tisseurs de l'Ombre, nés d'un noyau oublié et corrompus par l'Écho, poursuivaient leur œuvre de dissolution. Noctuvian, entouré de ses alliés, se prépara.
 Témoin silencieux du Vivant non encore né,
 Gardien des battements précédant l'aube.
 Sous le voile des étoiles éteintes, il perçut un souffle ancien.

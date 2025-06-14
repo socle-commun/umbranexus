@@ -1,3 +1,4 @@
+Les Tisseurs de l'Ombre, nés d'un noyau oublié et pervertis par l'Écho, veulent effacer les mémoires. L'équipe resserra les rangs pour leur résister.
 comme je l'ai été. Le Chant peut les ramener à leur véritable nature."
 « Mais comment ? Il y en a tant… » demanda Noctuvian.
 « Une à la fois, comme pour Aether. Chaque guérison renforce le Chant. »
