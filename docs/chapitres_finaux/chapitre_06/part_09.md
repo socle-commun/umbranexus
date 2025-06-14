@@ -1,3 +1,4 @@
+Les Tisseurs de l'Ombre, nés d'un noyau oublié et nourris par l'Écho, cherchent à effacer tout souvenir.
 ### vestiges-monde-ancien
 Voyageur, voici quelques vestiges du Monde : obscurité première, flamme souveraine, spirale des origines et premier Nom. Chacun porte une blessure vivante que l'Écho convoite.
 

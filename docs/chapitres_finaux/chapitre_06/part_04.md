@@ -1,9 +1,10 @@
-Les Tisseurs de l'Ombre s'acharnaient à fragmenter, à détruire.
-Noctuvian suivit leurs sillages d'absence. « Regarde et comprends. »
+Les Tisseurs de l'Ombre, nés d'un noyau oublié et corrompus par l'Écho, s'acharnaient à fragmenter la Trame et à détruire la mémoire.
+Noctuvian suivit leurs sillages d'absence, le groupe à ses côtés. « Regarde et comprends. »
 Le Fragment vit comment les Tisseurs corrompaient la Trame.
 L'Écho guidait leur main invisible, rappel constant que la menace grandissait.
 « Nous devons les arrêter, protéger les mémoires. »
 Ensemble ils retrouvèrent un fragment blessé dans l'obscurité et le ramenèrent, tandis qu'un Tisseur surpris se replia.
+Sur le fragment, Lumina observa un symbole d'attaque imminente, découverte qui resserra la vigilance du groupe.
 
 Plus loin, d'autres Tisseurs réagirent différemment : l'un resta figé, incapable de choisir son camp, un autre lança un avertissement avant de disparaître dans la Trame.
 
