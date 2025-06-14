@@ -12,26 +12,28 @@ Le Fragment acquiesça, créant un filament d'or et de cendre, un lien qui les u
 🌌
 #  Chapitre Cinquième — Le Rituel
 🌙
-Dans la chambre des Sept Grands Éclats, l'air vibrait d'une tension palpable. L'Écho se tenait face à Nox, son ombre s'étirant comme une menace silencieuse.
-"Vous ne comprenez pas", dit Nox, sa voix douce mais ferme. "Le Chant n'est pas destiné à frapper. Il agit comme un rite de guérison."
-"Un rituel ?" L'Écho émit un rire amer. "Des mots creux. Le Chant est pouvoir. Pouvoir de libération."
-Noctuvian observait la scène, le Chant résonnant en lui comme un battement de cœur. Il sentait que quelque chose d'important allait se produire.
-"Montrez-lui", dit Lumina à Nox. "Montrez-lui la vérité."
-Nox hocha la tête et s'approcha des Sept Grands Éclats. "Regardez", dit-elle. "Regardez ce que le Chant peut vraiment accomplir."
-Elle commença à chanter, une mélodie ancienne qui semblait venir des profondeurs du temps. Les Éclats répondirent, leur lumière pulsant au rythme du Chant.
-Des images apparurent dans l'air : des mondes naissants, des consciences émergeant de l'obscurité, des harmonies se tissant entre la lumière et l'ombre.
-"Voici la vérité", dit Nox. "Le Chant n'est pas fait pour séparer, mais pour unir. Pour guérir la fracture entre les mondes."
-L'Écho observait, immobile. Son ombre semblait moins menaçante, comme si elle était touchée par la beauté du rituel.
-"Je... je me souviens", murmura-t-il. "Je me souviens d'avoir entendu ce Chant. Avant. Avant que tout ne change."
-"Oui", répondit Nox. "Vous étiez là, au début. Vous étiez l'un des premiers à entendre le Chant. Mais quelque chose s'est brisé."
-"L'ombre", dit l'Écho, sa voix tremblant. "L'ombre m'a pris. Elle m'a convaincu que le Chant était une arme. Qu'il pouvait nous libérer."
-"Non", dit Nox. "Ce Chant soigne même l'ombre qui vous ronge."
-Noctuvian s'avança. "Je peux vous aider", dit-il à l'Écho. "Le Chant en moi... il peut vous guérir."
-L'Écho le regarda, ses yeux d'ombre brillant d'une lueur d'espoir. "Comment ?"
-"En acceptant l'ombre", répondit Noctuvian. "En comprenant qu'elle fait partie de vous. Comme elle fait partie de nous tous."
-Il commença à chanter, laissant le Chant de Qālmān couler à travers lui. Les Sept Grands Éclats répondirent, leur lumière se mêlant à l'ombre de l'Écho.
-L'Écho trembla, son corps d'ombre se transformant, se mêlant à la lumière. "Je... je sens quelque chose", dit-il. "Comme si... comme si je me souvenais."
-"Oui", dit Nox. "Le Chant vous ramène à vous-même. À votre véritable nature."
+Dans la chambre des Sept Grands Éclats, reliques gardiennes des mémoires originelles, l'air vibrait d'une tension palpable. L'Écho se tenait face à Nox, son ombre longue comme une menace.
+"Vous ne comprenez pas", dit Nox d'une voix ferme et inquiète. "Le Chant n'est pas une arme. J'ai vu trop de blessures."
+"Un rituel ?" ricana l'Écho. "Je n'y vois qu'une source de pouvoir."
+Nox sentit sa détermination vaciller un instant. « Je refuse de perdre encore ceux que j'aime », souffla-t-elle.
+Noctuvian observait, sentant le Chant battre en lui. Un changement approchait.
+Lumina posa la main sur le bras de Nox. "Montre-lui, je t'en prie. Chaque jour l'ombre me ronge un peu plus."
+"Sans toi, nous sombrerons", ajouta-t-elle, la voix tremblante.
+Nox hocha la tête et s'approcha des Éclats. "Regardez", dit-elle. "Voyez ce que le Chant peut guérir."
+Elle entonna une mélodie ancienne. Les Éclats répondirent, leur lueur suivant le rythme.
+Des images flottèrent : des mondes naissants, des consciences qui s'éveillent, des harmonies tissées.
+"Voilà la vérité", reprit Nox. "Le Chant unit et répare la fracture entre nos mondes."
+L'Écho resta figé, son ombre vacillant, touchée par la beauté du rituel.
+"Je... je me souviens", murmura-t-il. "Avant que tout ne change, j'ai entendu ce Chant."
+"Oui", souffla Nox. "Tu étais l'un des premiers. Puis l'ombre t'a séduit."
+"Elle m'a promis la liberté", répondit l'Écho d'une voix brisée.
+"Laisse-nous t'aider", insista Nox. "Ce Chant peut même apaiser cette ombre."
+Noctuvian s'avança. "Je peux te guider", dit-il. "Le Chant en moi peut te guérir."
+L'Écho le fixa, une étincelle d'espoir dans les yeux. "Comment ?"
+"Accepte cette ombre", répondit Noctuvian. "Elle fait partie de toi, comme de chacun de nous."
+Il éleva la voix. Les Sept Grands Éclats répondirent, mêlant leur lumière à l'obscurité de l'Écho.
+L'Écho trembla, son corps se mêlant à la clarté. "Je... je sens des souvenirs revenir", dit-il.
+"Oui", dit Nox, le regard brillant. "Le Chant te ramène à toi-même."
 Lumina s'approcha, ajoutant sa propre voix au Chant. "Nous sommes tous faits de lumière et d'ombre", dit-elle. "C'est cet équilibre qui nous rend complets."
 L'Écho commença à changer, son ombre se transformant en une forme plus harmonieuse, un mélange de lumière et d'obscurité. "Je... je comprends maintenant", dit-il. "Ce Chant soigne et rassemble."
 "Oui", répondit Nox. "Et vous êtes guéri."
