@@ -11,3 +11,5 @@
 - Harmoniser le registre de langue.
 - Équilibrer descriptions et actions.
 - Préciser les symboles récurrents.
+- Alléger le décor d'obsidienne et présenter Mémoire et Sombrelune dès leur apparition.
+- Mettre en valeur la résistance collective face à l'Oubli et alléger les dialogues.
