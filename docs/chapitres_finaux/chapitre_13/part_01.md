@@ -88,3 +88,9 @@ Il perçut un réseau d'univers solidaires,
 où chaque mutation ouvrait sur un avenir fertile.
 Le Chant portait cette promesse,
 reliant le présent à un futur en constante croissance.
+
+Au creux de cette vision, la Terre se mettait à vibrer.
+Les glyphes prirent la forme d'une spirale qui encerclait Noctuvian.
+Il y lut l'espoir d'une mutation céleste, porteur d'évolutions multiples.
+Un souffle de confiance l'envahit, lui permettant d'accueillir ce changement.
+Désormais, l'horizon s'ouvrait sur de nouvelles perspectives à apprivoiser.

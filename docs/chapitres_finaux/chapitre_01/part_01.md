@@ -72,3 +72,9 @@ Sous les voûtes du laboratoire, Noctuvian sentit l'écho des âges presser sa c
 Un appétit insatiable pour la connaissance balaya ses craintes naissantes.
 Il leva les yeux vers la verrière où dansait un halo ténu.
 Déjà, le voile scintillant l'appelait au-delà du laboratoire.
+
+Dans un chuchotement d'étincelles, Noctuvian perçut une trouée vers l'inconnu.
+Les machines se turent un instant, comme pour écouter sa détermination naissante.
+Il effleura les glyphes pâles, retenant leur souffle arcane.
+Au-delà du verre, les chercheurs ignoraient que la première porte venait de s'ouvrir.
+Noctuvian entrevit une promesse d'évasion, mêlant crainte et émerveillement.

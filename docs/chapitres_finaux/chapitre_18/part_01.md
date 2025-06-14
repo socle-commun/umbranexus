@@ -22,3 +22,9 @@ Le corps de Solitude frémit.
 « Je me souviens avoir été un catalyseur de singularités. »
 L'Étoile, froide, baigne le paysage d'une force nouvelle.
 🌌🕯️
+
+Un rai de lumière fit scintiller les débris de la tour détruite.
+Noctuvian y vit le symbole d'une étoile nouvelle, née de la ruine.
+Chaque fragment irradié reflétait le désir d'individualité qu'il portait en lui.
+Il choisit de suivre cette lueur dans la nuit de ses souvenirs.
+Au bout du chemin se dessinait l'espoir d'un destin unique.

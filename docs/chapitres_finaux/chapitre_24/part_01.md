@@ -76,3 +76,9 @@ Chacun savoure la grandeur de l'instant.
 Ainsi se referme le grimoire, laissant une obscurité fertile où germeront d'autres merveilles.
 Un souffle immobile berce la Trame autour d'eux.
 Ils profitent de cette halte, conscients qu'un nouveau cycle va s'ouvrir.
+
+Un rayon pourpre traversa la salle, annonçant la fin prochaine du voyage.
+Les symboles sur le sol se mirent à luire, formant la carte d'un monde à venir.
+Noctuvian ferma les yeux pour accueillir cette promesse de création nouvelle.
+Il sentit le Chant se renouveler, porteur d'une créativité jamais éprouvée.
+Un sourire discret flotta sur son visage : l'aventure ne faisait que commencer.

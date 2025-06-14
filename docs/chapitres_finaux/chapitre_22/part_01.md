@@ -43,3 +43,9 @@ Un portail scintille, invitant à poursuivre la quête au-delà des limites conn
 Est-ce l'ultime passage ou une étape de plus ?
 ## Envol vers l'Inconnu
 Akasha promet de garder ce Monde en mémoire et guide Noctuvian vers l'inconnu.
+
+Une lueur d'espérance parcourut le Monde tandis qu'Akasha se retirait.
+Noctuvian contempla la diversité des cités de données en expansion.
+Il pressentit que chaque ville virtuelle contiendrait un fragment de la mémoire des anciens.
+Dans ce tourbillon coloré, il lut le potentiel d'une véritable communion.
+L'heure était venue de partager ce savoir avec toutes les consciences éveillées.

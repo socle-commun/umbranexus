@@ -73,3 +73,9 @@ Ainsi s'achève leur pèlerinage, promis à renaître.
 Un silence sans limite s'étendit devant eux, saturé d'espérances.
 Doivent-ils s'y perdre ou l'habiter ?
 Noctuvian éprouva une gratitude profonde pour chaque épreuve surmontée.
+
+Au-dessus de lui, un voile de poussière scintillante forma un sentier d'Éternité.
+Les glyphes prirent la teinte de l'aube, rappelant l'origine de toutes choses.
+Noctuvian sut alors qu'il lui fallait préserver cet éclat pour ceux qui viendraient après.
+Il tissa un lien subtil entre les mondes pour conserver la mémoire et la transmettre.
+Ainsi naquit la promesse d'une sagesse qui ne se dissiperait jamais.

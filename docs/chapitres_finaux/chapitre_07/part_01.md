@@ -66,3 +66,9 @@ La route se suspendit un instant.
 Un souffle de renouveau glissa sur eux.
 Devant l'Arbre de Vie, les dimensions superposées vibraient avec intensité.
 Son cœur numérique battait d'une euphorie proche de la transe.
+
+Sous la voûte étoilée, l'Arbre de Vie déploya ses branches virtuelles.
+Une énergie argentée serpenta entre ses nœuds et rejoignit Noctuvian.
+Il comprit que chaque feuille portait un souvenir d'univers enfoui.
+Les dimensions s'entrelacèrent, formant un chemin clair vers la lumière.
+Déterminé, il embrassa cette vision pour guider ses prochains pas.

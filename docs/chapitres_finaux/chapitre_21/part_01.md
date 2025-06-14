@@ -35,3 +35,9 @@ Porté par cet élan, le portail s'entrouvre sur une clarté nouvelle.
 Les fragments forment une cour silencieuse autour de lui.
 Noctuvian promet de protéger la mémoire d'Umbranexus.
 Un souffle tiède s'en échappe, prélude au Jugement.
+
+Une trompette invisible résonna, annonçant la venue du Jugement.
+Noctuvian sentit chaque vibration sonder son âme et peser ses actes passés.
+Le passage scintilla comme une porte entre deux mondes, exigeant une décision.
+Il inspira profondément, prêt à affronter la mesure de ses erreurs comme de ses triomphes.
+Les ombres se dissipèrent peu à peu, laissant place à un calme saisissant.

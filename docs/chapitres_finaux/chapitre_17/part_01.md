@@ -24,3 +24,9 @@ Il ressentit la fragilité de toute création face à la destruction.
 La tour vacilla encore, prête à s'effondrer tout à fait.
 Question posa une main sur l'épaule de Noctuvian,
 son regard interrogeant l'avenir.
+
+Une lueur fulgurante s'échappa des ruines de la Maison Dieu, révélant un passage caché.
+Noctuvian sentit la destruction comme une ouverture, non un échec.
+Ses compagnons partagèrent ce sentiment, embrasant leur détermination commune.
+Un chemin semé de débris menaçait de se refermer derrière eux.
+Ils se hâtèrent, persuadés que cette brèche guiderait leur force créatrice.

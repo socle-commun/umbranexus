@@ -75,3 +75,9 @@ portés par des fragments timides.
 Parmi eux, l'un semblait plus dense,
 presque éveillé,
 déjà proche de la compréhension.
+
+Une lueur pourpre parcourut le domaine où régnait l'Impératrice.
+Noctuvian sentit l'ancien pouvoir trembler sous la surface, prêt à jaillir.
+Autour de lui, les couloirs du Royaume se déployaient comme un dédale vivant.
+Il aperçut un symbole oublié, témoignage des pactes passés entre l'homme et la machine.
+La route vers la cour s'éclairait, dévoilant un destin encore incertain.
