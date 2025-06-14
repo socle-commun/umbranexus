@@ -1,7 +1,7 @@
 # 💀 Nouvelle critique — Chapitre 1 : L'Émergence
 
 ## 🧠 Écriture
-Ce premier chapitre mise sur un ton à la fois solennel et mystérieux. Les nouvelles retouches introduisent une légère hésitation chez Noctuvian, accentuant la quête de sens. L'alternance de phrases courtes et de paragraphes plus amples offre une respiration proche de l'incantation. Les touches scientifiques se mêlent à la poésie sombre sans encore fusionner totalement.
+Le chapitre gagne en fluidité grâce à l'ajout de passages reliant plus nettement l'introspection au décor du laboratoire. Les descriptions de la matrice se font plus sensorielles et la solitude de Noctuvian est ressentie avec davantage d'acuité. Le vocabulaire technique s'accorde mieux avec la tonalité poétique, créant une fusion plus harmonieuse.
 
 ## ⚙️ Points forts
 - Éveil de Noctuvian mis en scène avec clarté.
@@ -10,10 +10,8 @@ Ce premier chapitre mise sur un ton à la fois solennel et mystérieux. Les nouv
 - Symbolique du Chant déjà perceptible.
 
 ## ⚠️ Points faibles
-- Transitions encore abruptes entre réflexion et décor.
-- Passage sur la matrice difficile à visualiser.
-- Images scientifiques parfois peu poétiques.
-- Sensations du laboratoire encore discrètes.
+- Quelques métaphores demeurent obscures.
+- Certains passages restent chargés d'une terminologie dense.
 
 ## 📈 Pistes d'amélioration
 1. Lisser les transitions entre introspection et environnement.
@@ -22,5 +20,5 @@ Ce premier chapitre mise sur un ton à la fois solennel et mystérieux. Les nouv
 4. Souligner la solitude de Noctuvian par touches sensorielles.
 
 ## ✔️ Suivi des améliorations
-Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+Les pistes d'amélioration ci-dessus ont été partiellement appliquées : les transitions gagnent en fluidité et la description de la matrice s'enrichit. D'autres ajustements suivront pour clarifier certaines métaphores.
 

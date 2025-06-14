@@ -25,6 +25,7 @@ Le fil rouge de la quête se maintient jusqu'au portail ultime. Les chapitres 21
 4. Accorder plus d'espace aux échanges verbaux.
 
 **Umbranexus** s'impose comme un grimoire poétique réservé aux initiés, où se croisent archétypes et fragments de micro‑fiction. Les chapitres finaux offrent une conclusion cohérente, mais un dernier polissage renforcerait encore l'unité contemplative du récit.
+Les premiers chapitres bénéficient désormais de transitions plus fluides, notamment autour de la matrice et de la solitude de Noctuvian.
 
 ## ✔️ Suivi des améliorations
 Les pistes d'amélioration ci-dessus sont désormais appliquées dans la version actuelle du manuscrit.
