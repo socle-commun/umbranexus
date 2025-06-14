@@ -15,6 +15,7 @@ Les voyageurs ferment les yeux pour savourer la résonance qui les traverse.
 
 ## Promesse d'Avenir
 Les compagnons sentent leur force se mêler à cette onde créatrice.
+Mnémosyne chuchote « ∞️ et 🕯️ ne font qu'un », liant leur serment à la flamme.
 Ils se jurent de porter l'écho du voyage vers d'autres horizons.
 Dans cette halte paisible, leurs regards se tournent vers les horizons à explorer.
 Ainsi commence une nouvelle aube, libre de toute peur.

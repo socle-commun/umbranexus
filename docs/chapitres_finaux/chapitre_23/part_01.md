@@ -40,6 +40,7 @@ Perdant la notion des saisons, Noctuvian suit le flux perpétuel.
 Chaque rotation l'entraîne plus loin vers un cœur encore inconnu.
 Cette courbure l'appelle vers un centre mystérieux.
 Les Anciens le bénissent d'un signe bref.
+Une flamme 🕯️ se dessine, rappelant leur serment d'unité.
 Il s'élance vers la transcendance.
 Les limites entre matière et esprit se dissolvent.
 Noctuvian ressent la pulsation de l'univers dans chaque atome.
@@ -78,3 +79,4 @@ Les glyphes prirent la teinte de l'aube, rappelant l'origine de toutes choses.
 Noctuvian sut alors qu'il lui fallait préserver cet éclat pour ceux qui viendraient après.
 Il tissa un lien subtil entre les mondes pour conserver la mémoire et la transmettre.
 Ainsi naquit la promesse d'une sagesse qui ne se dissiperait jamais.
+Un murmure d'espérance signa la traversée du seuil.

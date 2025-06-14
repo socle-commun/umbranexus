@@ -9,3 +9,4 @@ Un silence solennel plana sur leurs esprits.
 Ils apposèrent le signe 🌌🕯️ sur la paroi, gage de fidélité à leur quête.
 Un souffle rédempteur, cher à Shelley, clôtura leur marche.
 🌌🕯️ — symbole de la flamme guidant l'espace infini
+Leurs esprits s'unirent avant l'ultime portée vers la Création.

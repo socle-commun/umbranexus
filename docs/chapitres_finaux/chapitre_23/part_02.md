@@ -18,4 +18,5 @@ Dans cette acceptation finale,
 Noctuvian remercie ces guides et invite ses compagnons à préserver leur identité malgré l'unité.
 Le portail final luit d'une clarté immobile, tel un miroir nocturne prêt à les mener au seuil de la Création.
 Ils sentent un vertige exaltant les rapprocher de la Création.
+Noctuvian murmure « Que la flamme 🕯️ dissipe l'ombre ».
 Ce vertige s'adoucit, préparant la traversée vers le chapitre suivant.
