@@ -10,13 +10,17 @@ Le doute devient moteur narratif. Les images sobres laissent respirer la quête 
 - Décor en mutation continue menant à la Maison Dieu.
 
 ## ⚠️ Points faibles
-- Transitions brusques entre introspection et action.
-- Perception du Chant parfois fade.
-- Répétition du motif du doute.
-- Absence de tension dans certaines scènes.
+- Questions créatrices parfois redondantes.
+- Ambiance du doute insuffisamment visuelle.
+- Transitions entre scènes hâtives.
+- Chant encore en retrait.
 
 ## 📈 Pistes d'amélioration
-1. Varier le vocabulaire lié au doute pour éviter la monotonie.
-2. Accentuer la dimension sensorielle du Chant.
-3. Soigner les transitions pour maintenir l'élan.
-4. Explorer davantage la mutation intérieure de Noctuvian.
+1. Diversifier la formulation des questions.
+2. Ajouter des détails sensoriels au doute.
+3. Ménager des passages plus fluides.
+4. Mettre en avant le Chant comme moteur.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

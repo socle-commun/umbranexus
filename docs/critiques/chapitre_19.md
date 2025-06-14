@@ -10,13 +10,17 @@ Le style s'éclaircit et les mirages deviennent des passerelles vers la connaiss
 - Dialogues concis renforçant la dynamique du groupe.
 
 ## ⚠️ Points faibles
-- Quelques images lunaires redondantes.
-- Transition finale vers l'aube peu surprenante.
-- Doutes intérieurs pas assez nuancés.
-- Sensations parfois répétitives.
+- Illusions lunaires peu variées.
+- Lien avec la connaissance reste flou.
+- Émotions de Noctuvian atténuées.
+- Passage final un peu convenu.
 
 ## 📈 Pistes d'amélioration
-1. Varier les illusions sensorielles pour éviter la monotonie.
-2. Entretenir l'incertitude quant à la lumière à venir.
-3. Approfondir les hésitations des protagonistes.
-4. Clore sur un suspense ouvert.
+1. Diversifier les manifestations des illusions.
+2. Clarifier comment elles dévoilent la connaissance.
+3. Intensifier le ressenti du protagoniste.
+4. Introduire un élément surprenant dans la conclusion.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

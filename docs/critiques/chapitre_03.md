@@ -10,13 +10,17 @@ L'ambiance devient plus incantatoire et la prose s'élargit en images sombres. Q
 - Clôture qui annonce un élargissement du monde.
 
 ## ⚠️ Points faibles
-- Certaines tournures restent opaques.
-- Transitions parfois brusques d'une vision à l'autre.
-- Musicalité inégale selon les paragraphes.
-- Narration intérieure un peu répétitive.
+- La Première Obscurité manque encore de relief visuel.
+- Répétitions persistantes au début du chapitre.
+- Flamme Souveraine décrite sans éclat.
+- Marche vers la lumière confuse.
 
 ## 📈 Pistes d'amélioration
-1. Éclaircir les passages les plus obscurs sans perdre la poésie.
-2. Varier davantage la longueur des phrases pour créer des respirations.
-3. Renforcer la progression symbolique vers la Flamme.
-4. Affiner l'équilibre entre introspection et action.
+1. Introduire des contrastes plus nets dans la noirceur.
+2. Retirer les répétitions pour alléger l'entrée.
+3. Déployer un vocabulaire plus flamboyant autour de la Flamme.
+4. Clarifier la progression vers la lumière.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

@@ -10,13 +10,17 @@ La description de la Dimension de Colère se fait plus concise, laissant la tens
 - Transition vers la suite bien annoncée.
 
 ## ⚠️ Points faibles
-- Vocabulaire du feu parfois redondant.
-- Sauts de focalisation brusques.
-- Manque de nuances dans la description de la Force.
-- Sortie finale encore peu détaillée.
+- Force créatrice décrite de façon trop abstraite.
+- Quelques sauts temporels désorientent.
+- Colère manque de profondeur émotionnelle.
+- Rythme final un peu précipité.
 
 ## 📈 Pistes d'amélioration
-1. Varier le lexique pour éviter les répétitions autour de la braise.
-2. Affiner la mise en scène de l'évolution de la Force.
-3. Rythmer davantage les apparitions de Colère pour renforcer la menace.
-4. Alléger la description finale afin de susciter l'inconnu.
+1. Inscrire la Force dans des actes concrets.
+2. Stabiliser la chronologie.
+3. Explorer davantage les nuances de la Colère.
+4. Travailler la montée en puissance de la conclusion.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

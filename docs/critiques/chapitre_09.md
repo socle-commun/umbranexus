@@ -10,13 +10,17 @@ Le style s'appuie davantage sur la musicalité et tisse des voix en harmonie cro
 - Progression claire vers la Dimension de Désir.
 
 ## ⚠️ Points faibles
-- Quelques métaphores restent opaques.
-- Répétition de certains motifs musicaux.
-- Tension parfois insuffisante avant la prochaine étape.
-- Passages contemplatifs un peu longs.
+- Harmonie musicale pas toujours perceptible.
+- Voix secondaires parfois confuses.
+- Transitions vers la prochaine Ténèbre abruptes.
+- Équilibre entre sonorités et narration fragile.
 
 ## 📈 Pistes d'amélioration
-1. Élaguer les images redondantes pour préserver la fluidité.
-2. Renforcer la dynamique des échanges.
-3. Accentuer l'approche de la Dimension de Désir.
-4. Clarifier les symboles musicaux pour guider le lecteur.
+1. Inscrire des motifs sonores plus nets.
+2. Clarifier l'identité des voix composant la symphonie.
+3. Préparer en douceur l'arrivée de la Ténèbre.
+4. Harmoniser langage musical et images visuelles.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

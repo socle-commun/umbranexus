@@ -10,13 +10,17 @@ La narration reste introspective et cherche à unir les contraires. Les images p
 - Dialogues sobres favorisant la suggestion.
 
 ## ⚠️ Points faibles
-- Certains passages manquent de rythme.
-- Enchaînement final entre lumière et ombre ambigu.
-- L'équilibre s'effrite au milieu du chapitre.
-- Transition vers la suite peu marquée.
+- Progression narrative inégale.
+- Symboles de lumière et d'ombre se confondent.
+- Clés alchimiques peu exploitées.
+- Sentiment d'urgence faible.
 
 ## 📈 Pistes d'amélioration
-1. Accentuer la progression vers l'harmonie.
-2. Élaguer les métaphores répétitives.
-3. Introduire des contrastes plus nets pour dynamiser la lecture.
-4. Clarifier le rôle des Clés dans chaque transition.
+1. Scander davantage la recherche d'équilibre.
+2. Donner un rôle structurant aux Clés.
+3. Clarifier l'alternance lumière/ombre.
+4. Augmenter la tension vers la suite.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

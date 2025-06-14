@@ -10,13 +10,17 @@ Les ellipses sont mieux dosées et les images plus concrètes ancrent le lecteur
 - Progression nette vers l'effacement de l'oubli.
 
 ## ⚠️ Points faibles
-- Certaines métaphores demeurent obscures.
-- Descriptions parfois imprécises.
-- Fin qui manque d'impact.
-- Rappels symboliques un peu répétitifs.
+- Lien entre Ombres et souvenirs peu clair.
+- Rythme global encore saccadé.
+- Métaphores parfois surchargées.
+- Dimension métaphysique peu ancrée.
 
 ## 📈 Pistes d'amélioration
-1. Renforcer les sensations concrètes pour accroître l'immersion.
-2. Simplifier le vocabulaire afin de conserver la fluidité.
-3. Relier chaque scène au motif de l'oubli de façon cohérente.
-4. Soigner la transition finale pour préparer la suite.
+1. Expliciter le rapport entre Ombres et mémoire.
+2. Équilibrer action et description pour la fluidité.
+3. Alléger les métaphores trop complexes.
+4. Ancrer la Convergence dans un lieu tangible.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

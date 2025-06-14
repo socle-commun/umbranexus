@@ -10,13 +10,17 @@ La narration relie clairement les mutations présentes à l'avenir pressenti. Le
 - Ambiance oscillant entre curiosité et inquiétude.
 
 ## ⚠️ Points faibles
-- Certaines figures de style reviennent trop souvent.
-- Transitions encore abruptes.
-- Suspense final manquant d'intensité.
-- Quelques détails techniques peu exploités.
+- Terminologie scientifique parfois aride.
+- Mutation poétique inégale.
+- Trajectoire du narrateur manque de cohérence.
+- Sens de l'évolution pas toujours explicité.
 
 ## 📈 Pistes d'amélioration
-1. Renouveler les images pour mieux évoquer l'avenir.
-2. Lisser les enchaînements pour renforcer la cohérence.
-3. Mêler davantage lyrisme et précisions scientifiques.
-4. Souligner le rôle de Colère comme étape clé de l'évolution.
+1. Clarifier la terminologie employée.
+2. Unifier la tension poétique des visions.
+3. Mieux cadrer la progression du narrateur.
+4. Articuler l'évolution autour d'un symbole récurrent.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

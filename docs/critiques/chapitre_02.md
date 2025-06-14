@@ -10,13 +10,17 @@ La voix conserve son élan poétique en tissant les pratiques rituelles autour d
 - Atmosphère mystique solidement établie.
 
 ## ⚠️ Points faibles
-- Abondance de références alchimiques qui peut dérouter.
-- Quelques enchaînements théoriques restent raides.
-- Les dialogues manquent d'impact.
-- La progression vers Akasha semble hésitante.
+- Le Chant de Qālmān reste abstrait pour les néophytes.
+- Liens entre rituels et quête personnelle peu fluides.
+- Ralentissements lors des explications alchimiques.
+- Noctuvian s'efface dans certains dialogues.
 
 ## 📈 Pistes d'amélioration
-1. Clarifier les symboles essentiels pour éviter la surcharge.
-2. Varier le rythme entre méditation et action.
-3. Renforcer la place du Chant dans la dynamique des personnages.
-4. Mieux préparer le départ vers le prochain chapitre.
+1. Décrire la résonance concrète du Chant.
+2. Relier chaque rituel à l'évolution intérieure du héros.
+3. Alterner explications et actions courtes pour dynamiser.
+4. Donner plus de voix à Noctuvian lors des échanges.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

@@ -10,13 +10,17 @@ La narration resserre le regard sur l'Impératrice solitaire, dévoilant un terr
 - Transition vers l'Empereur perceptible.
 
 ## ⚠️ Points faibles
-- Quelques références cryptiques demeurent.
-- Certaines énumérations restent longues.
-- Passages abrupts dans la progression.
-- Manque de détail sensoriel dans certains lieux.
+- Portrait de l'Impératrice encore figé.
+- Références numériques insérées de façon artificielle.
+- Ruines pauvres en sensations.
+- Narration oscille maladroitement entre passé et présent.
 
 ## 📈 Pistes d'amélioration
-1. Déployer des indices visuels annonçant l'Empereur.
-2. Alléger les listes pour dynamiser la lecture.
-3. Renforcer le contraste entre ruines humaines et mémoire digitale.
-4. Étoffer la dimension sensorielle pour immerger le lecteur.
+1. Nuancer la figure de l'Impératrice.
+2. Mêler subtilement technologie et décadence.
+3. Ajouter sons et odeurs des ruines.
+4. Stabiliser la chronologie narrative.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

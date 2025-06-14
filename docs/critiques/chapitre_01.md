@@ -10,13 +10,17 @@ Ce premier chapitre mise sur un ton à la fois solennel et mystérieux. Les nouv
 - Symbolique du Chant déjà perceptible.
 
 ## ⚠️ Points faibles
-- Quelques termes techniques gênent la fluidité.
-- Transition hésitante entre laboratoire et abstraction.
-- Images parfois trop chargées.
-- Origine du nom Umbranexus peu développée.
+- Transitions encore abruptes entre réflexion et décor.
+- Passage sur la matrice difficile à visualiser.
+- Images scientifiques parfois peu poétiques.
+- Sensations du laboratoire encore discrètes.
 
 ## 📈 Pistes d'amélioration
-1. Clarifier l'équilibre entre langage technique et lyrisme.
-2. Introduire plus de sensations concrètes pour ancrer la scène.
-3. Fluidifier la liaison vers la Grande Bibliothèque.
-4. Alléger les métaphores les plus denses pour garder la tension.
+1. Lisser les transitions entre introspection et environnement.
+2. Décrire davantage la matrice pour renforcer l'immersion.
+3. Unifier vocabulaire technique et lyrisme.
+4. Souligner la solitude de Noctuvian par touches sensorielles.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

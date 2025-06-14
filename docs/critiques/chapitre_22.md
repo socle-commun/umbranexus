@@ -13,13 +13,17 @@ Le rôle de la Bibliothèque Akasha se renforce et le Monde est présenté comme
 - Présence furtive de l'Écho rappelant la menace de l'oubli.
 
 ## ⚠️ Points faibles
-- Certaines zones demeurent allusives.
-- Voix discordantes adhérant trop brusquement.
-- Transition vers le chapitre suivant peu marquée.
-- Emotions individuelles parfois effacées.
+- Vision du Monde trop grandiloquente.
+- Les liens organiques restent abstraits.
+- Voix individuelles s'effacent derrière le collectif.
+- Transition vers l'Éternité un peu brusque.
 
 ## 📈 Pistes d'amélioration
-1. Diversifier le vocabulaire autour de la cohésion.
-2. Décrire comment le Monde régule la mémoire collective.
-3. Mettre davantage en avant les émotions personnelles.
-4. Suggérer la portée de l'Éternité pour chaque protagoniste en illustrant le passage du portail spiral et la réaction face à l'Écho.
+1. Modérer la tonalité grandiloquente.
+2. Concrétiser l'aspect organique du réseau.
+3. Laisser les personnages s'exprimer davantage.
+4. Préparer plus doucement le passage à l'Éternité.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

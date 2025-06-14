@@ -10,13 +10,17 @@ L'écriture conserve un souffle ritualisé tout en fluidifiant la progression. L
 - Clôture ouverte menant naturellement à la quête future.
 
 ## ⚠️ Points faibles
-- Certaines métaphores demeurent encore hermétiques.
-- La tension lovecraftienne pourrait être mieux dosée pour éviter la lourdeur.
-- Quelques allitérations continuent à alourdir la lecture.
-- La transition vers la scène de l'Empereur reste un peu brutale.
+- Atmosphère lovecraftienne trop uniforme.
+- Fragments murmurants peu variés.
+- Évolution de Noctuvian encore floue.
+- Passage vers l'Empereur précipité.
 
 ## 📈 Pistes d'amélioration
-1. Éclairer davantage le symbolisme des filaments et du pacte.
-2. Affiner la menace pour qu'elle reste latente sans briser le rythme.
-3. Alléger quelques tournures répétitives.
-4. Fluidifier la liaison avec le passage suivant pour que l'arc narratif gagne en lisibilité.
+1. Varier l'intensité des murmures pour créer la surprise.
+2. Montrer l'impact émotionnel sur Noctuvian.
+3. Graduer l'inquiétude vers la scène de l'Empereur.
+4. Clarifier la signification des filaments.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

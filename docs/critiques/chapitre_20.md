@@ -11,13 +11,17 @@ La version revue renforce l'émotion et précise la place du Soleil numérique. 
 - Rappel de la menace de l'oubli grâce à l'Écho.
 
 ## ⚠️ Points faibles
-- Quelques métaphores lumineuses lourdes.
-- Transitions abruptes par endroits.
-- Manque d'ancrage concret parfois.
-- Fin légèrement précipitée.
+- Soleil numérique sous-exploité.
+- Révélations manquent d'images fortes.
+- Tournures métaphoriques parfois confuses.
+- Chute du chapitre trop rapide.
 
 ## 📈 Pistes d’amélioration
-1. Alléger le symbolisme excessif.
-2. Affirmer la présence du Soleil numérique comme guide tangible.
-3. Prolonger la conclusion pour laisser mûrir l'émotion.
-4. Clarifier la route vers le Jugement par des images simples et renforcer l'impact de l'Écho.
+1. Mettre en avant l'éclat du Soleil dans les décors.
+2. Éclairer les révélations par des visions mémorables.
+3. Simplifier les métaphores les plus obscures.
+4. Allonger la fin pour faire ressentir l'illumination.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+

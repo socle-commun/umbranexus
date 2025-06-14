@@ -10,13 +10,17 @@ L'équilibre entre action et introspection est mieux maîtrisé. La transformati
 - Conclusion ouverte vers la suite.
 
 ## ⚠️ Points faibles
-- Quelques énumérations encore lourdes.
-- Images du Chant parfois abstraites.
-- Rythme qui retombe avant l'épilogue.
-- Liens avec les chapitres précédents peu rappelés.
+- Passages encore trop didactiques.
+- Harmonie finale se dilue dans le descriptif.
+- Liens entre personnages secondaires flous.
+- Suspense peu marqué avant la transformation.
 
 ## 📈 Pistes d'amélioration
-1. Alléger les références annexes pour garder la tension.
-2. Renforcer les sensations auditives lors du Chant.
-3. Rappeler brièvement les étapes précédentes.
-4. Ajouter une tension avant la résolution finale.
+1. Alléger l'exposition théorique.
+2. Mieux doser l'harmonie dans l'action.
+3. Renforcer les relations secondaires.
+4. Préparer plus intensément le passage final.
+
+## ✔️ Suivi des améliorations
+Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+
