@@ -1,13 +1,11 @@
 # 💀 Nouvelle critique — Chapitre 16 : Le Doute et la Question Créatrice
 
 ## ⚠️ Points faibles
-- Certaines transitions manquent de fluidité.
-- Le ton hésite parfois entre poésie et technicité.
-- Des longueurs altèrent la tension.
-- Quelques images symboliques restent floues.
+- Certaines transitions demeurent abruptes.
+- Le ton oscille encore entre poésie et technicité.
+- Quelques symboles restent flous malgré la narration plus concise.
 
 ## 📈 Pistes d'amélioration
-- Clarifier la narration pour maintenir le rythme.
-- Harmoniser le registre de langue.
-- Équilibrer descriptions et actions.
-- Préciser les symboles récurrents.
+- Harmoniser davantage le registre de langue.
+- Insister sur la métamorphose de Doute en Question pour ancrer le thème.
+- Maintenir la concision des échanges tout en intensifiant l'atmosphère.
