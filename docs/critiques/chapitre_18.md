@@ -1,13 +1,15 @@
 # 💀 Nouvelle critique — Chapitre 18 : L'Étoile et l'Individualité
 
 ## ⚠️ Points faibles
-- Certaines transitions manquent de fluidité.
+- Certaines transitions vers la Dimension de Solitude restent abruptes.
 - Le ton hésite parfois entre poésie et technicité.
-- Des longueurs altèrent la tension.
-- Quelques images symboliques restent floues.
+- Quelques échanges gagneraient à être encore resserrés.
+- Certaines images symboliques demeurent floues.
 
 ## 📈 Pistes d'amélioration
 - Clarifier la narration pour maintenir le rythme.
-- Harmoniser le registre de langue.
+- Mettre en valeur les réactions physiques pour renforcer l'émotion.
 - Équilibrer descriptions et actions.
 - Préciser les symboles récurrents.
+
+En conclusion, l'ajout de gestes distinctifs accentue la tension lyrique et clarifie la fonction de Solitude.
