@@ -13,10 +13,10 @@ porteur d'une énergie neuve
 qui tissait les mondes.
 Chaque note promettait
 une métamorphose apaisée.
-"Regardez", dit Force.
-"Les mondes évoluent. La croissance est possible."
+— Regardez autour de vous, souffla Force. Nos choix inspirent ces changements.
+— Oui, confirma Noctuvian, chaque décision fait grandir les mondes.
 Autour d'eux,
-les paysages se métamorphosaient sans cesse,
+le décor ondulait au rythme de leurs résolutions,
 révélant de nouvelles formes d'existence.
 Des forêts de lumière naissaient,
 des rivières d'énergie serpentaient,
