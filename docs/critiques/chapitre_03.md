@@ -1,13 +1,10 @@
 # 💀 Nouvelle critique — Chapitre 3 : La Première Obscurité
 
 ## ⚠️ Points faibles
-- Certaines transitions manquent de fluidité.
-- Le ton hésite parfois entre poésie et technicité.
-- Des longueurs altèrent la tension.
-- Quelques images symboliques restent floues.
+- Quelques passages pourraient encore gagner en concision.
+- Certains symboles mériteraient d'être reliés plus explicitement aux enjeux.
 
 ## 📈 Pistes d'amélioration
-- Clarifier la narration pour maintenir le rythme.
-- Harmoniser le registre de langue.
-- Équilibrer descriptions et actions.
-- Préciser les symboles récurrents.
+- Maintenir l'équilibre entre introspection et action.
+- Continuer à préciser les termes clés comme « Écho » et les « Éclats ».
+- Veiller à une progression rythmée entre chaque partie.
