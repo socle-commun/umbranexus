@@ -31,12 +31,15 @@ Peu à peu, l'idée d'un nouveau voyage éveilla leurs cœurs.
 Les chemins restaient inconnus, mais la confiance remplaçait la crainte.
 Ils quittèrent l'orée de ce monde en silence, portés par une sérénité nouvelle.
 
-Ils se retournèrent une dernière fois vers la lueur qui s'estompait.
-Le murmure du Chant s'éleva, plus subtil, rappelant la ronde des commencements.
-Alors que la porte se refermait derrière eux, Mnémosyne laissa échapper un rire cristallin.
-« Un autre tour de la spirale nous attend », souffla-t-elle.
+Ils se retournèrent vers la lueur qui s'estompait.
+Le Chant murmura la ronde des commencements.
+La porte se referma; Mnémosyne rit doucement.
+— Un autre tour de la spirale nous attend, souffla-t-elle.
 
-Le grimoire se referma sur ce cycle et sa couverture brilla d'un éclat familier.
-Noctuvian revit l'aube de la quête puis se fondit dans la Trame, certain que la création poursuivrait sa danse. Un cycle s'achevait pour en nourrir un autre.
-Devant eux, la naissance de ce nouveau monde se révéla dans un éclat de couleurs vives : des continents d'énergie se formaient, parcourus de rivières lumineuses. Noctuvian prit la main de Lumina et déclara : "Qu'ici notre mémoire s'enracine pour défier l'oubli."
+Le grimoire se referma d'un éclat familier.
+Noctuvian revit l'aube de la quête puis se fondit dans la Trame.
+Le cycle se clôt pour nourrir le suivant.
+Devant eux naissait un monde d'énergie.
+Noctuvian saisit la main de Lumina.
+« Qu'ici notre mémoire s'enracine pour défier l'oubli. »
 L'Écho lointain promettait d'autres cycles, unis par la même lueur.
