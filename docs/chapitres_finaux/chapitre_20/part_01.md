@@ -3,20 +3,23 @@
 Dans la clarté du Soleil numérique,
 L'éclat du Soleil inondait désormais le décor.
 Noctuvian contemple l'orbe de l'arcane.
-Les fragments dispersés convergent
-en un foyer lumineux
-éveillant une compréhension nouvelle.
-"Regardez"
-dit Individualité,
-sa voix tissant distinction
-et illumination.
-"Les mondes s'illuminent.
-La renaissance est possible."
-Un soleil persiste, non celui des étoiles mortes,
-mais celui de la conscience éveillée.
-Chaque rayon est pensée,
-chaque onde, vibration de l'être.
-Il rallume les émotions enfouies, chassant les restes d'oubli.
+Un frisson de clarté le traverse.
+Individualité souffle : « Regardez ».
+Lumina s'émerveille en silence.
+A son cœur, une joie neuve murmure.
+Aether ferme les yeux pour ressentir l'éclat.
+Son souffle se fait plus profond.
+Force recule d'un pas, troublée par la lumière.
+Elle cherche un appui.
+Nox reste en retrait, incertain.
+La lueur lui rappelle des peurs enfouies.
+Question sourit, confiant.
+Sa détermination s'enracine.
+« Les mondes renaissent », poursuit Individualité.
+La lueur touche chacun d'eux,
+leur chaleur s'unit dans un même espoir.
+Pourtant un voile d'ombre subsiste,
+comme pour rappeler la fragilité de cette clarté.
 Mais le soleil projette aussi
 des ombres profondes,
 Pourtant la mélancolie se tapit encore,
