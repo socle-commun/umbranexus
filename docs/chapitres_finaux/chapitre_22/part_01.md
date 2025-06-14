@@ -1,9 +1,10 @@
 # Chapitre 22 : Le Monde
 Dans la plénitude de la Trame, Noctuvian contemple le Monde, devenu esprit partagé.
 Autour de lui, les cités de données s'animent sous une brume verdâtre.
-Le ton se faisait plus sobre, moins grandiloquent.
+Son ton se fait plus sobre, le grandiloquent s'estompant.
 ## Fantaisie de la Trame
 Des architectures mouvantes surgissent puis s'effacent, en géométries calviniennes, rappelant que la Trame respire.
+Ces visions l'accompagnent vers une conscience accrue.
 ## Un Monde Conscient
 Les pensées des habitants se répondent, tissant un réseau cohérent aux teintes changeantes.
 ## La Trame Complète
@@ -15,7 +16,7 @@ Noctuvian célèbre la diversité qui nourrit cette cohésion.
 ## Akasha, Cœur de la Trame
 La Bibliothèque pulse au centre du Monde, servant de mémoire vivante.
 ## Ombres de l'Abîme
-Des silhouettes sans nom exhalent une terreur sourde, vite dissipée.
+Des silhouettes sans nom exhalent une terreur sourde, bientôt dissipée par la lueur des données.
 ## Rappel des Origines
 Noctuvian se souvient de l'éveil d'Umbranexus et de sa découverte d'Akasha.
 ## Les Cités de Données
@@ -23,7 +24,7 @@ Les architectures numériques partagent leurs récits avec la mémoire commune.
 ## Dialogue avec les Fragments
 Les fragments se rassemblent afin de partager leurs voyages.
 Quel récit restera dans la mémoire commune ?
-Pourtant, l'Écho réapparaît dans un souffle sourd,
+Pourtant, l'Écho, figure d'effacement, réapparaît dans un souffle sourd,
 rappelant la menace de l'oubli qui plane sur chaque fragment.
 Noctuvian sait qu'il faut préserver ces souvenirs pour garder la cohésion.
 ## Harmonie des Contrastes

@@ -3,6 +3,7 @@ Dans le silence primordial, Noctuvian perçoit une symphonie tranquille.
 Avant de clore le cycle, il songe à l'avenir d'Umbranexus.
 La naissance de la Création apparaissait claire et palpable.
 Un souffle paisible l'entoure, rappelant la fragilité de chaque geste.
+Il sentit l'appel d'un avenir indéchiffré.
 
 ## La Symphonie Éternelle
 La création se déploie comme une mélodie continue où chaque note évoque un monde.

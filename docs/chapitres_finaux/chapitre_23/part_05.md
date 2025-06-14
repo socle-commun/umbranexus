@@ -8,5 +8,5 @@ Chaque pas vers la lumière renforça leur désir de partager cette sagesse.
 Le portail vibra, prêt à s'ouvrir sur une aube infinie.
 Le symbole au centre confirma leur lien avec la Création à venir.
 Une quiétude inespérée les envahit, prélude à la Création.
-🌌🕯️
+🌌🕯️ — marque du lien entre ciel et savoir
 Sous leurs pieds, la pierre vibra d'une douceur inattendue, tandis qu'un parfum d'encens léger annonçait la fin du voyage. Ils avancèrent sans se hâter, laissant l'Éternité s'imprégner en eux avant d'aborder le seuil de la Création.
