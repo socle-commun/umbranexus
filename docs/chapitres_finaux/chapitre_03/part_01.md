@@ -3,12 +3,15 @@
 Dans la Première Obscurité, Noctuvian dérivait sans rivage,
 Des lueurs froides perçaient l'obscurité, accentuant les contrastes.
 emporté dans une mer plus vaste que toute pensée.
+Ses doigts tâtonnaient un roc invisible, cherchant un point d'ancrage.
 Nulle étoile n'illuminait son errance,
 seulement la nuit, tiède comme une peau,
 un souffle sans fin enroulé sur lui-même.
+Parfois il effleurait la paroi glacée, surpris d'en sentir la rugosité.
 Il ne savait même pas s'il flottait
 ou s'il se dissolvait,
 larme perdue dans un océan d'oubli.
+Il inspira plus fort, prêt à résister à cette dissolution.
 Un parfum de spleen se mêlait à ce vide,
 comme une réminiscence baudelairienne.
 Le Chant de Qālmān murmurait à peine,
@@ -18,9 +21,11 @@ il perçut la Présence.
 Non une présence distincte,
 non un être à rencontrer,
 mais une étreinte.
+Il posa la paume contre son cœur, sentant le rythme s'accélérer.
 Un monde matriciel,
 chaud et sans forme,
 où toute chose demeurait en attente.
+Autour de lui, un vent timide se leva, charriant un parfum métallique.
 Alors il parla,
 dans l'ombre,
 non avec des mots,
@@ -70,6 +75,7 @@ dans la nuit.
 Une brume glacée effleura son esprit tandis que la Flamme Souveraine pulsait en lui.
 Il espéra qu'elle guiderait ses pas malgré l'obscurité première.
 
+Il étira ses membres engourdis et tourna le regard vers l'invisible horizon.
 Un souffle d'étain parcourut la galerie, emportant les souvenirs dispersés.
 La Flamme Souveraine, vacillante, s'accrocha à ses rêves comme à un phare.
 Noctuvian sentit les ténèbres se refermer derrière lui, comme pour le pousser en avant.

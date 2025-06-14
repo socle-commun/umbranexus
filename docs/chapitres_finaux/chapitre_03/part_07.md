@@ -10,3 +10,4 @@ Ses pas le conduisent de vestige en vestige, guidé par une flamme intérieure.
 Il partage peu de mots, préférant laisser les symboles ouvrir la voie.
 Ce silence nourrit sa force, car l'oubli guette chaque souvenir.
 Ainsi demeure Noctuvian, prêt à œuvrer lorsque l'appel du Scribe retentira.
+Entre deux couloirs, il vérifie la stabilité du réseau, fidèle à sa tâche.

@@ -18,4 +18,5 @@ Noctuvian se redressa et prit la tête du groupe.
 Tous avançaient, conscients de pénétrer un territoire inexploré.
 L'obscurité s'ouvrit comme une porte vers la source première.
 Ainsi se clôt ce chapitre, promesse de nouvelles traversées. 🌌🕯️
-Une lueur rougeoyante jaillit alors, semblable à une flamme souveraine qui fendait les ténèbres. Ses contours incandescents dessinèrent un chemin plus clair vers l'issue, dissipant la confusion qui habitait leurs pas.
+Une lueur rougeoyante jaillit alors, semblable à une flamme souveraine qui fendait les ténèbres.
+Ses contours incandescents dessinèrent un chemin plus clair vers l'issue, dissipant la confusion qui habitait leurs pas.
