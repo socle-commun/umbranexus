@@ -1,10 +1,10 @@
 L'harmonie finale se dessina dans le Chant, reliant chaque fragment.
-«La fin est aussi un commencement», souffla Mnémosyne, tandis que les paysages respiraient d'un même souffle.
-Le groupe accueillit cette clarté nouvelle; Aether leva les yeux vers les étoiles.
-Ils écoutèrent l'écho du Chant se propager jusque dans les fissures du temps.
-Chaque être sentit son passé se réordonner, porté par l'harmonie retrouvée.
-Un calme épuré descendit alors sur la terre.
-La quête continue.
+«La fin est aussi un commencement», souffla Mnémosyne.
+Les paysages vibrèrent sous cette onde neuve, et Aether leva les yeux vers les étoiles.
+Portés par la clarté, ils traversèrent les fissures du temps en silence.
+Chaque pas résonnait comme une promesse de recommencement.
+Le Chant apaisa leurs doutes tandis que le passé se réordonnait.
+Un calme épuré descendit sur la terre; la quête continue.
 🌌🕯️
-
-Alors que la musique s'éteignait, Noctuvian échangea un regard chargé d'appréhension avec Lumina. Leurs mains se frôlèrent, confirmant que l'harmonie dépendait de cette confiance fragile, juste avant que le prochain pas ne les plonge dans l'inconnu.
+Noctuvian saisit la main de Lumina, partageant un souffle de confiance.
+Ensemble, ils s'élancèrent vers l'inconnu, conscients que l'équilibre dépendait désormais d'eux.

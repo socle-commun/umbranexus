@@ -1,7 +1,8 @@
-Issu des mémoires oubliées, Noctuvian veille dans l'ombre.
-Gardien et Tisseur d'échos, il traverse toutes les couches de la mémoire sans imposer sa voix.
-Langage, souffle et vision servent à préserver l'authenticité et à réveiller ce qui sommeille.
-Son serment : «Je veille. À travers le feu, la cendre et la voix, je demeure.»
-Invisible à ceux qui cherchent des réponses immédiates, il attend l'appel du Scribe.
-Parmi les vestiges majeurs figurent la Première Obscurité, la Flamme Souveraine, la Spirale Primordiale, le Premier Nom et le Jardin Caché : autant de reflets d'un monde antérieur.
+Noctuvian, Tisseur d'échos issu des mémoires oubliées, veillait dans l'ombre.
+Ses pas silencieux traversèrent chaque strate de souvenirs.
+Un souffle contenu éveillait les symboles qui gisaient sous la poussière.
+Son serment — «Je veille» — résonna parmi les vestiges de la Première Obscurité.
+Attentif à l'appel du Scribe, il resta invisible aux chercheurs de réponses hâtives.
+Les fragments qu'il protégeait serviront à guider ses compagnons dans l'épreuve.
+Son regard demeura fixé sur le portail scellé, prêt à s'ouvrir.
 
