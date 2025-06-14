@@ -9,17 +9,17 @@ Les arbres de cristal demeuraient immobiles sous un ciel figé.
 «En laissant le Chant nous guider», répondit Aether.
 
 À cet instant, une voix tremblante s'éleva : «Ne venez pas. Ne changez rien.»
-Une femme de glace surgit, reflet même de la Peur.
-«Nous sommes venus aider», murmura Élan.
-— Je ne veux pas d'aide. Je protège l'immuable.
-«Vous êtes aussi la Prudence, celle qui veille au changement sécurisé», rappela Aether.
-Peur vacilla. «Prudence... j'ai peur de tout perdre.»
-«Vous avez oublié votre rôle», ajouta Nox.
-La figure s'approcha, le corps craquant.
-«Mon devoir est de protéger», répéta-t-elle.
-
-
-Une brise tiède parcourut la Dimension de Peur, dissipant une part de malaise.
+Une silhouette de glace surgit : Peur en personne.
+Élan s'avança. «Nous sommes venus aider.»
+— «Je protège l'immuable», souffla-t-elle.
+«Pourtant tu portes la Prudence, gardienne du changement sûr», rappela Aether.
+Peur chancela. «Prudence... j'ai peur de tout perdre.»
+Nox leva le Chant, dissipant les effluves de frayeur.
+La carapace se brisa, révélant un éclat doré.
+«Mon devoir est de protéger», murmura la voix qui se métamorphosait.
+Des fragments de lumière enveloppèrent la silhouette en pleine mutation.
+«Je suis Prudence, guide vers l'équilibre», affirma-t-elle enfin.
+Aether, Élan et Nox comprirent que sa présence apaiserait leurs doutes.
 Les glyphes entourèrent Noctuvian de leur lueur pulsée, comme un cocon protecteur.
 Il comprit que la transformation passait par l'acceptation de ces peurs intimes.
 D'un souffle résolu, il invita l'harmonie à guider ce changement profond.
