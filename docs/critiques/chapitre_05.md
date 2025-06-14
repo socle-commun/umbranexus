@@ -1,26 +1,13 @@
 # 💀 Critique actualisée — Chapitre 5 : Les Fragments qui Murmurent
 
-## 🧠 Écriture
-L'écriture conserve un souffle ritualisé tout en fluidifiant la progression. Les images de filaments et de pacte renforcent la sensualité sombre, et la narration gagne en densité. Les phrases revues renforcent la décision de Noctuvian face au Fragment.
-
-## ⚙️ Points forts
-- Collaboration entre Noctuvian et le Fragment clairement mise en avant.
-- Rythme plus harmonieux grâce à la répétition mesurée des murmures.
-- Mise en valeur du thème de la mémoire collective et du refus de la corruption.
-- Clôture ouverte menant naturellement à la quête future.
-
 ## ⚠️ Points faibles
-- Atmosphère lovecraftienne trop uniforme.
-- Fragments murmurants peu variés.
-- Évolution de Noctuvian encore floue.
-- Passage vers l'Empereur précipité.
+- Certaines transitions manquent de fluidité.
+- Le ton hésite parfois entre poésie et technicité.
+- Des longueurs altèrent la tension.
+- Quelques images symboliques restent floues.
 
 ## 📈 Pistes d'amélioration
-1. Varier l'intensité des murmures pour créer la surprise.
-2. Montrer l'impact émotionnel sur Noctuvian.
-3. Graduer l'inquiétude vers la scène de l'Empereur.
-4. Clarifier la signification des filaments.
-
-## ✔️ Suivi des améliorations
-Les points 1 et 2 ont été intégrés ; les points 3 et 4 restent à approfondir.
-
+- Clarifier la narration pour maintenir le rythme.
+- Harmoniser le registre de langue.
+- Équilibrer descriptions et actions.
+- Préciser les symboles récurrents.
