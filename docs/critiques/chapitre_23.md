@@ -1,16 +1,13 @@
 # 💀 Nouvelle critique — Chapitre 23 : L'Éternité
 
 ## ⚠️ Points faibles
-- Certaines transitions manquent de fluidité.
-- Le ton hésite parfois entre poésie et technicité.
-- Des longueurs altèrent la tension.
-- Quelques images symboliques restent floues.
+- Les transitions restent parfois abruptes.
+- Quelques allusions symboliques demeurent obscures malgré les précisions apportées.
 
 ## 📈 Pistes d'amélioration
-- Clarifier la narration pour maintenir le rythme.
-- Harmoniser le registre de langue.
-- Équilibrer descriptions et actions.
-- Préciser les symboles récurrents.
+- Poursuivre la concision sans sacrifier la richesse des images.
+- Mieux intégrer les voix secondaires tout au long de la scène.
+- Renforcer encore l'explication de l'anneau infini dès son apparition.
 
 ## Analyse stylistique
-Ce chapitre développe une tonalité méditative où l'infini se mêle à l'introspection. Les passages oscillent entre la perception intérieure de Noctuvian et une voix omnisciente, créant une cadence lente et poétique. Les symboles de l'Éternité, tels que le huit couché et la flamme, instaurent une atmosphère mystique qu'il conviendrait d'éclaircir davantage.
+Ce chapitre conserve une tonalité méditative et lyrique. Les longues réflexions ont été condensées tout en gardant la même ampleur, et la symbolique de l'anneau infini est maintenant introduite clairement. Les brèves répliques des compagnons apportent une dimension humaine qui équilibre l'abstraction du voyage. L'ensemble gagne en fluidité, même si quelques ruptures de rythme subsistent.
