@@ -11,3 +11,5 @@
 - Harmoniser le registre de langue.
 - Équilibrer descriptions et actions.
 - Préciser les symboles récurrents.
+- Mieux intégrer la guidance de Mnémosyne dans la dynamique de groupe.
+- Introduire des notes concises sur la Coquille de Sélène, le Masque d'Éther et l'Éclipse gravée.
