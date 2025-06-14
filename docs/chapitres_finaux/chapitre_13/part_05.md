@@ -12,3 +12,4 @@ tissait un futur plus vaste pour l'Umbranexus.
 Portés par cette certitude,
 ils unirent leurs forces vers l'horizon.
 🌌🕯️
+Noctuvian sentit l'emblème en forme de spirale tatoué sur son avant-bras pulser doucement. Cette marque devint pour lui le fil conducteur de toutes les transformations à venir, reliant sa trajectoire à celle de ses compagnons.

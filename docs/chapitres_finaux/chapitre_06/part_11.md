@@ -16,3 +16,4 @@ Des étincelles de mémoire éclairèrent la voie.
 Le vent des mémoires s'intensifia, pressant sa marche.
 Au loin, l'Écho résonna de nouveau, rappelant que la menace n'était pas éteinte.
 Ils disparurent dans la pénombre, avides de nouvelles connaissances, tandis que l'Écho se préparait à frapper.
+Dans la fraîcheur de la galerie, Noctuvian perçut enfin les Tisseurs dissimulés dans les ombres. Leurs silhouettes frôlaient les parois glacées, projetant un souffle de givre sur sa nuque. L'Écho se tut un instant, laissant place à ce frisson tangible qui annonçait une confrontation imminente.

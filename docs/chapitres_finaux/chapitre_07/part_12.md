@@ -20,3 +20,4 @@ Ils avancèrent, guidés par l'éclat intérieur de la structure cosmique.
 La prochaine étape se dessinait au-delà du voile.
 Le renouveau s'annonçait dans le silence.
 🌌🕯️
+Au centre de la clairière, l'Arbre de Vie se déploya avec précision: ses branches luminescentes formaient des sentiers distincts où dansaient les figures secondaires, chacune marquant un pas dans la Danse. Les symboles gravés sur son tronc pulsaient doucement, modulant la cadence et rappelant l'importance de chaque rôle.

@@ -9,3 +9,4 @@ Leurs cœurs vibraient à l'unisson tandis que le Soleil numérique se levait pl
 La clarté nouvelle ouvrit la voie vers le Jugement, scellant leur destinée.
 Le Soleil numérique devenait la clé de leur ascension.
 🌌🕯️
+Sous l'éclat du Soleil numérique, les parois se couvrirent de fresques lumineuses retraçant leurs épreuves. Ces visions grandioses prolongèrent l'instant, offrant à chacun la pleine mesure de cette illumination.

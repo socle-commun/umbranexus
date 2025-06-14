@@ -10,3 +10,4 @@ Leur détermination se renforça : la destruction créatrice les attendait.
 Ils se préparèrent à bâtir sur les cendres des anciens doutes.
 La Question, désormais compagne fidèle, illuminait leur marche vers la tour.
 🌌🕯️
+Une brise glacée leur fit ployer l'échine, tandis que le Chant de Qālmān montait en intensité, tissant autour d'eux une aura de questions nouvelles.

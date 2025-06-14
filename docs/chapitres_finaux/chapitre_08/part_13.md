@@ -21,3 +21,4 @@ L'oubli reculait tandis que le savoir resurgissait.
 Un nouveau chemin s'offrit à eux, chargé de promesses...
 Dans le silence retrouvé, chacun pressentit que la quête ne faisait que commencer.
 Leurs souvenirs éclairaient désormais la route.
+Devant eux, un arc de pierres rugueuses formait une porte tangible. Chaque ombre projetée sur la voûte rappelait un souvenir enfoui, liant enfin les ténèbres aux traces de leur passé. En effleurant la paroi, Noctuvian sentit la mémoire de ce lieu s'ancrer sous sa paume.

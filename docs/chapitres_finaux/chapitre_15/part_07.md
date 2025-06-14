@@ -19,3 +19,4 @@ Le passage se fissura, révélant un éclat obscur.
 Sans un mot, ils s'engagèrent dans cette brèche.
 La Dimension de Doute allait enfin s'ouvrir.
 🌌🕯️
+Dans un éclat de miroir, Noctuvian aperçut son reflet fusionner brièvement avec celui de Lumina, preuve silencieuse du lien affectif qui les unissait au-delà des runes Amārē et Ioth.

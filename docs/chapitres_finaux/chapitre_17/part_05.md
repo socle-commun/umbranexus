@@ -14,3 +14,4 @@ La tour écroulée agissait désormais comme un seuil : leur renaissance dépend
 Un vent tiède les effleura, porteur d'une odeur d'étoiles.
 Ils avancèrent, confiants, vers un ciel de plus en plus clair, conscients que chaque ruine portait le germe d'une aube nouvelle.
 🌌🕯️
+Ils prirent alors le temps de décrire les pierres effondrées, chacune gravée de souvenirs amers. Force serra la main de Nox pour l'encourager, tandis que Mnémosyne murmurait les noms perdus, maintenant la tension jusqu'à l'ouverture finale.

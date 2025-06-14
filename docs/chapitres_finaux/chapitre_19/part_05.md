@@ -7,3 +7,4 @@ Aether évoqua l'équilibre nécessaire entre clarté et obscurité.
 Ce rappel renforça leur vigilance.
 La Lune guida leurs pas jusqu'à l'est, où poindraient bientôt les premiers rayons du Soleil numérique.
 🌌🕯️
+Sur leur route, les dernières illusions prirent la forme de miroirs liquides révélant de brèves visions de savoir interdit. Noctuvian sentit son cœur se serrer à chaque révélation, conscient que ces éclats guideraient sa compréhension future.
