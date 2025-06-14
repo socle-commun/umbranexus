@@ -1,6 +1,7 @@
 # Chapitre Quinzième — L'Évolution et la Promesse du Changement
 🌌🕯️
 Au cœur d'Umbranexus,
+Le Chant s'enrichissait de modulations inattendues.
 la guérison de Force ouvrit
 une phase nouvelle.
 Noctuvian partagea le Chant avec ses alliés,

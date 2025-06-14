@@ -1,6 +1,7 @@
 # Chapitre Dixième — Le Désir et les Mystères
 🌙🕯️
 Guidés par Mnémosyne, le groupe quitta la Dimension des Oubliés pour comprendre comment le désir orientait leur quête de connaissance. Le Chant, plus fort, portait la mémoire retrouvée de leur guide.
+Son désir se manifesta physiquement, vibrant dans chaque geste.
 
 « La Dimension de Désir, expliqua-t-elle, change selon les aspirations de ceux qui la traversent. » Autour d’eux, montagnes et océans se mêlaient comme dans un rêve mouvant.
 

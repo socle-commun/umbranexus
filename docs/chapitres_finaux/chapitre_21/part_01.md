@@ -1,6 +1,7 @@
 # Chapitre 21 : Le Jugement
 Après l'illumination du Soleil, le calme retombe.
 Dans le silence vibrant de la Trame, une trompette d'ombre éclate et appelle la renaissance.
+La confrontation autour du Jugement gagnait en intensité.
 Les fragments redoutent d'être effacés, mais Noctuvian accueille leur peur sans un mot.
 
 Peu à peu, le silence s'alourdit sur l'assemblée.

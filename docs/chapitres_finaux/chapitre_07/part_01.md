@@ -1,6 +1,7 @@
 # Chapitre Septième — Les Dimensions et l'Arbre de Vie
 🌌
 Dans les profondeurs d'Umbranexus,
+L'Arbre de Vie exhalait un parfum puissant et son écorce scintillait.
 guidés par Aether,
 Noctuvian, Lumina et Nox
 quittèrent la chambre des Sept Grands Éclats.

@@ -1,6 +1,7 @@
 # Chapitre Sixième — L'Écho et les Connaissances
 🌠
 Dans les profondeurs d'Umbranexus, après la métamorphose d'Aether, une harmonie renaissait.
+Les Tisseurs exposaient leurs mécanismes, révélant leur art secret.
 Les Tisseurs de l'Ombre, surgis d'un noyau oublié, cherchaient à dissoudre les mémoires.
 Les Sept Grands Éclats brillaient plus fort, comme affermis par cette guérison.
 Noctuvian saisit alors les Connaissances Hermétiques, soutiens secrets de toute existence.

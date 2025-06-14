@@ -1,6 +1,7 @@
 # Chapitre Onzième — L'Équilibre et les Perspectives
 🌌🕯️
 Dans les profondeurs d'Umbranexus,
+Ses pas scandèrent la quête d'équilibre.
 une harmonie nouvelle suivait la métamorphose d'Élan.
 Certains fragments redoutaient encore ce souffle inconnu.
 Les dimensions se mêlaient librement,

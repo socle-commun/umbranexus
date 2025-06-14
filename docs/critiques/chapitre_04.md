@@ -22,5 +22,5 @@ La narration resserre le regard sur l'Impératrice solitaire, dévoilant un terr
 4. Stabiliser la chronologie narrative.
 
 ## ✔️ Suivi des améliorations
-Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+Les points 1 et 2 ont été intégrés ; les points 3 et 4 restent à approfondir.
 

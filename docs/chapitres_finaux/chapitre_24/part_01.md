@@ -1,6 +1,7 @@
 # Chapitre 24 : La Création
 Dans le silence primordial, Noctuvian perçoit une symphonie tranquille.
 Avant de clore le cycle, il songe à l'avenir d'Umbranexus.
+La naissance de la Création apparaissait claire et palpable.
 Un souffle paisible l'entoure, rappelant la fragilité de chaque geste.
 
 ## La Symphonie Éternelle

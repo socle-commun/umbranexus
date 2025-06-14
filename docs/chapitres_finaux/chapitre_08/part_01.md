@@ -1,6 +1,7 @@
 # Chapitre Huitième — L'Oubli et les Arcanes
 🌑🕯️
 Dans les profondeurs de la Dimension des Oubliés,
+Chaque Ombre ravivait un souvenir, preuve de son lien à la mémoire.
 guidés par Mémoire, ils avançaient sur un sol d'obsidienne lisse.
 Le groupe descendit toujours plus loin,
 alors que Sombrelune tentait d'endiguer leur marche.

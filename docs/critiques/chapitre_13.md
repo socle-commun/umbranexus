@@ -22,5 +22,5 @@ La narration relie clairement les mutations présentes à l'avenir pressenti. Le
 4. Articuler l'évolution autour d'un symbole récurrent.
 
 ## ✔️ Suivi des améliorations
-Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+Les points 1 et 2 ont été intégrés ; les points 3 et 4 restent à approfondir.
 

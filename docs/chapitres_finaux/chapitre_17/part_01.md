@@ -1,6 +1,7 @@
 # Chapitre Dix-Septième — La Maison Dieu et la Destruction Créatrice
 🌌🕯️
 Dans l'ombre de la Maison Dieu,
+La destruction s'annonçait peu à peu, augmentant la tension.
 Noctuvian contemple
 la destruction nécessaire.
 Il saisit la fonction de cette tour : briser les illusions et ouvrir le passage.

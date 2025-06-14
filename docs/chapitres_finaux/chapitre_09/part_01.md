@@ -1,6 +1,7 @@
 # Chapitre Neuvième — La Restauration et la Symphonie Éternelle
 🌠🕯️
 Dans les profondeurs de la Dimension des Oubliés,
+De nouveaux motifs sonores rythmaient sa progression.
 avec la guérison de Mnémosyne,
 le paysage commença à changer.
 Les ombres se dissipaient,

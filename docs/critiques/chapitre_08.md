@@ -22,5 +22,5 @@ Les ellipses sont mieux dosées et les images plus concrètes ancrent le lecteur
 4. Ancrer la Convergence dans un lieu tangible.
 
 ## ✔️ Suivi des améliorations
-Les pistes d'amélioration ci-dessus ont été prises en compte dans la dernière révision du chapitre.
+Les points 1 et 2 ont été intégrés ; les points 3 et 4 restent à approfondir.
 
