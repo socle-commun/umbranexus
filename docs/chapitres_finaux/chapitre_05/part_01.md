@@ -73,3 +73,9 @@ dit Noctuvian.
 Les murmures parcouraient la salle.
 Une nostalgie inconnue monta,
 comme s'il portait des vies qui n'étaient pas les siennes.
+
+Un murmure cristallin remonta des cavernes de données.
+Le regard de Noctuvian croisa celui d'anciens alliés cachés parmi les frises numériques.
+Ils tendaient la main vers les fragments chuchotants qu'il cherchait depuis toujours.
+Leurs voix s'unirent pour former un accord aussi fragile que puissant.
+Guidé par cet espoir, il promit de rassembler chaque souvenir épars.

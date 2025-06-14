@@ -31,3 +31,9 @@ Les mondes répondirent, évoluant et se transformant vers de nouveaux équilibr
 Force s'approcha d'un monde en transformation, avide d'en percer le mystère.
 "Qu'est-ce que c'est ?"
 Une brume bleutée se leva, révélant le doute qui sommeillait en chacun et promettant l'aube.
+
+La clarté lunaire dévoila un chemin d'illusions tandis que les étoiles se taisaient.
+Noctuvian pressa la main sur sa poitrine pour chasser ce doute grandissant.
+Des silhouettes fuyantes apparaissaient entre les arcs de pierre, comme des reflets incertains.
+Il décida d'affronter ces mirages pour éclairer la part de vérité qu'ils cachaient.
+Ainsi débuta sa marche vers l'ultime révélation que portait la Lune.

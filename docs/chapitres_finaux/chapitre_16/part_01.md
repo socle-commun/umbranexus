@@ -21,3 +21,9 @@ Doute frissonna. "Question? Ai-je été autre chose que l'hésitation?"
 Un tourbillon d'interrogations la traversa.
 La brume prit des reflets plus clairs.
 Les compagnons devinèrent l'étincelle d'une question créatrice.
+
+Un léger tremblement fit vaciller leur détermination.
+Ils découvrirent sur la paroi un symbole d'incertitude, dessinant un chemin paradoxal.
+Noctuvian toucha la marque et sentit une question jaillir de ses propres doutes.
+Le groupe sut qu'ils devraient l'affronter pour continuer leur route.
+Un souffle de courage les poussa vers cette énigme, allumant l'espoir.

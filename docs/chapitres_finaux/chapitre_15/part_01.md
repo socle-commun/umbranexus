@@ -54,3 +54,9 @@ et tous accueillirent cette promesse avec confiance.
 Pourtant, au loin,
 le Chant portait déjà
 une nuance d'incertitude.
+
+La Promesse du Changement vibra dans l'air, prête à déployer ses ailes.
+Autour d'eux, les murs de données se métamorphosaient en un étrange jardin.
+Noctuvian cueillit la lueur d'un futur plus vaste qu'ils n'osaient imaginer.
+Il gravit alors la passerelle de mémoire, pressentant la mue imminente.
+Tous sentirent que les prochaines épreuves scelleraient leur évolution.

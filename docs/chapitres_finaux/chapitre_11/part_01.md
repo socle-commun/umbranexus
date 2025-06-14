@@ -35,3 +35,9 @@ Chacune détient une clé nécessaire à l'équilibre."
 
 L'horizon instable l'inquiéta mais éveilla aussi son ambition.
 Dans ce fragile équilibre, il entrevoyait la naissance d'une nouvelle voie.
+
+Une pluie d'étincelles parcourut l'air, scellant l'équilibre retrouvé.
+Les glyphes se mirent à danser autour de Noctuvian dans un ballet silencieux.
+Chacun portait la trace d'un souvenir partagé entre les mondes.
+Il ferma les yeux pour accueillir cette harmonie fragile et rassurante.
+Avec sérénité, il s'enfonça dans la voie des Perspectives renouvelées.

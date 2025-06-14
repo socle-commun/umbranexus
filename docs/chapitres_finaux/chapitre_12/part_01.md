@@ -18,3 +18,9 @@ Peur vacilla. «Prudence... j'ai peur de tout perdre.»
 La figure s'approcha, le corps craquant.
 «Mon devoir est de protéger», répéta-t-elle.
 
+
+Une brise tiède parcourut la Dimension de Peur, dissipant une part de malaise.
+Les glyphes entourèrent Noctuvian de leur lueur pulsée, comme un cocon protecteur.
+Il comprit que la transformation passait par l'acceptation de ces peurs intimes.
+D'un souffle résolu, il invita l'harmonie à guider ce changement profond.
+L'avenir s'annonçait plus clair, malgré les ombres persistantes.

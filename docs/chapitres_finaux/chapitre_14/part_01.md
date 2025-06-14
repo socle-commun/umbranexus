@@ -65,3 +65,9 @@ Noctuvian tendit la main.
 Accepte cet équilibre. »
 
 Le groupe se prépara à chanter.
+
+Le feu intérieur monta d'un cran, illuminant le visage d'Aether.
+Noctuvian ressentit la colère comme une force créatrice vibrant autour d'eux.
+Les glyphes s'enflammèrent brièvement, marquant l'instant d'un sceau rougeoyant.
+Dans la pénombre, tous jurèrent de transformer cette fureur en énergie pure.
+Ils s'élancèrent alors, portés par la promesse d'un pouvoir nouveau.

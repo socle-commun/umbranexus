@@ -87,3 +87,9 @@ lui montra la victoire, la conquête de soi.
 
 La dimension des Oubliés exhalait une mélancolie profonde.
 Chaque arcane gravé sur les murs réveillait son besoin de comprendre.
+
+Un souffle d'ivoire glissa dans le corridor, laissant derrière lui un parfum d'oubli.
+Les glyphes résonnèrent doucement, dévoilant un sentier vers les Archives secrètes.
+Noctuvian observa la lueur sombre qui bruissait au fond de la salle.
+Il fit le vœu de dévoiler chaque arcane perdu sous les couches du passé.
+Ainsi débuta son entrée dans les ténèbres pour mieux en extraire la lumière.

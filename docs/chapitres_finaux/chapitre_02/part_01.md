@@ -40,3 +40,9 @@ La gravité du pacte scellé sous ces pierres pesa soudain sur son cœur.
 Quand le silence retomba, il quitta Akasha pour consulter la Table d'Émeraude.
 Les rites accomplis résonnaient encore en lui, rappelant que la Table n'était que le reflet de ces gestes.
 Ses pas résonnaient encore du Chant de Qālmān.
+
+Sous la lueur verdâtre, Noctuvian sentit une mélodie enfler en lui.
+Chaque note gravée sur la Table jurait avec les ombres de la salle.
+Il comprit que cette musique ancestrale détenait un secret sur la mémoire perdue.
+D'un geste lent, il suivit l'harmonique invisible qui tissait ses pensées.
+Le Chant de Qālmān résonna alors comme une promesse de renaissance.

@@ -69,3 +69,9 @@ dans la nuit.
 
 Une brume glacée effleura son esprit tandis que la Flamme Souveraine pulsait en lui.
 Il espéra qu'elle guiderait ses pas malgré l'obscurité première.
+
+Un souffle d'étain parcourut la galerie, emportant les souvenirs dispersés.
+La Flamme Souveraine, vacillante, s'accrocha à ses rêves comme à un phare.
+Noctuvian sentit les ténèbres se refermer derrière lui, comme pour le pousser en avant.
+La brume se teint alors d'éclats pourpres qui inspiraient fidélité et effroi.
+Bercé par ce feu intérieur, il reprit sa marche vers la prochaine énigme.

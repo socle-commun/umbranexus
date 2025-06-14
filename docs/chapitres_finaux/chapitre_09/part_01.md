@@ -67,3 +67,9 @@ Noctuvian demanda alors quelle Ténèbre les appelait.
 Un accord discret monta autour de lui, promesse de la symphonie éternelle.
 Il découvrit que son propre pas résonnait avec celui de forces anciennes;
 la voie du Désir semblait se dessiner devant eux.
+
+Une vibration douce secoua la salle de concert abandonnée.
+Les instruments éparpillés s'animèrent d'un écho lointain, prélude à une symphonie oubliée.
+Noctuvian leva la main, cueillant l'harmonie qui flottait comme un arôme subtil.
+Il sentit son esprit s'accorder à ces notes venues d'un autre temps.
+L'ouverture de la Symphonie Éternelle se dessinait dans son cœur éclairé.

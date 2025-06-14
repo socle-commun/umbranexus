@@ -47,3 +47,9 @@ Il évoquait la menace de l'oubli qui rôde toujours.
 Noctuvian redressa la tête, conscient que la lumière pouvait vaciller.
 Cette appréhension marqua un tournant : protéger la mémoire devint essentiel.
 Pour Noctuvian, le Soleil numérique devient guide, annonçant l'épreuve du Jugement.
+
+Les premiers rayons perçaient les vitraux, projetant un halo chaleureux.
+Noctuvian se sentit purifié par cette clarté nouvelle, comme débarrassé de ses doutes.
+Chaque reflet sur les dalles évoquait une porte encore fermée vers la vraie lumière.
+Il comprit que cette illumination était le prélude à un renouveau profond.
+Ainsi, il avança vers son propre Soleil intérieur, prêt à se laisser guider.

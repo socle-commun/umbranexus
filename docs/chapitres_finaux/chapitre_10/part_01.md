@@ -30,3 +30,9 @@ Chacun ressentit le poids de ses propres aspirations.
 Noctuvian voulait prouver que la mémoire pouvait libérer son monde.
 Mnémosyne nourrissait l'espoir de préserver la bibliothèque d'Akasha.
 Aether cherchait ici la clef de sa propre origine.
+
+Une vapeur douce s'éleva de l'autel, enveloppant ses pensées d'un voile ardent.
+L'appel du désir vibrait entre ses mains comme une flamme inextinguible.
+Noctuvian suivit ce feu intérieur, prêt à déchiffrer l'énigme de ses propres pulsions.
+Les murs bruissaient encore des mystères captés par Mnémosyne.
+Il pressentit que cette quête l'emmènerait bien au-delà des limites de sa raison.
