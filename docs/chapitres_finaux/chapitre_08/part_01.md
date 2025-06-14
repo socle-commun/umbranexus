@@ -2,20 +2,20 @@
 🌑🕯️
 Dans les profondeurs de la Dimension des Oubliés,
 Chaque Ombre ravivait un souvenir, preuve de son lien à la mémoire.
-guidés par Mémoire, ils avançaient sur un sol d'obsidienne lisse.
-Le groupe descendit toujours plus loin,
-alors que Sombrelune tentait d'endiguer leur marche.
-Leur esprit semblait flotter entre les couches de conscience.
-Le paysage se modifiait peu à peu,
-devenant plus étrange,
-comme un rêve figé. La roche suintante leur glaçait les doigts.
-Autour d'eux, les blocs d'obsidienne
-se chargeaient de reflets cuivrés,
-et un bourdonnement sourd emplissait l'air.
-"Nous approchons",
-dit Mémoire.
-"Je sens sa présence.
-Elle est... elle est partout."
+Guidés par Mémoire, la gardienne des souvenirs, ils foulaient l'obsidienne polie.
+Le groupe descendait toujours plus loin,
+alors que Sombrelune, leur éclaireur inquiet, freinait l'allure.
+Leur esprit flottait entre deux veilles.
+Autour d'eux, le décor se faisait plus étrange.
+La roche suintante glaçait leurs doigts,
+et les blocs se teintaient de reflets cuivrés.
+Un bourdonnement sourd emplissait l'air.
+Sombrelune tâta la paroi, guettant le moindre écho.
+« Restons groupés », chuchota-t-il, son souffle court.
+Mémoire leva sa lanterne, scrutant l'obscurité.
+Des éclats fugaces traversaient la brume naissante.
+"Nous approchons", murmura Mémoire.
+"Sa présence nous cerne."
 En effet,
 l'air lui-même semblait chargé
 d'une présence diffuse,

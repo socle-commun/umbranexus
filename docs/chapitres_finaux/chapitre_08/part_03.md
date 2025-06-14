@@ -25,13 +25,11 @@ la totalité.
 Il était la complétude,
 l'harmonie,
 la perfection.
-Soudain,
-le paysage changea.
-Le sol semblait glisser sous leurs pieds, lisse comme du verre tiède.
-Ils se retrouvèrent dans un espace vide,
+Soudain le décor glissa sous leurs pas, lisse comme du verre tiède.
+Ils se retrouvèrent dans un espace presque vide,
 où flottait une odeur d'argile mouillée,
-un vide qui n'était pas l'absence,
-mais la présence de quelque chose d'immense.
+non pas l'absence
+mais la manifestation d'une force immense.
 "Je vous attendais",
 dit une voix qui semblait venir
 de partout et nulle part à la fois.
@@ -43,46 +41,48 @@ ce qu'elle allait dire.
 "Oubli",
 dit Mémoire.
 "Nous sommes venus pour vous aider."
-"Oubli ?"
-La voix sembla réfléchir.
+"Oubli ?" La voix hésita.
 "Est-ce mon nom ?
-Je ne me souviens pas.
-Je ne me souviens de rien.
-C'est mon rôle.
-C'est mon pouvoir.
-Oublier."
+Je ne me souviens plus de rien.
+C'est mon pouvoir...
+oublier."
 "Non",
 dit Aether.
 "Votre rôle était de préserver.
 De garder les mémoires en sécurité.
 Avant la fracture."
-"La fracture ?"
-La voix devint plus forte.
-"Je me souviens...
-je me souviens d'une douleur.
-D'une séparation.
-D'une perte."
+"La fracture ?" répéta la voix, plus forte.
+"Je revois une douleur,
+une séparation,
+une perte."
 "Oui",
 dit Nox.
 "La fracture a tout changé.
 Elle vous a transformée.
 Elle vous a fait oublier
 votre véritable nature."
-"Ma nature ?"
-L'Oubli semblait s'agiter.
-"Je n'ai pas de nature.
-Je suis... je suis..."
+"Ma nature ?" L'Oubli s'agita.
+"Je n'en ai pas...
+je suis... je suis..."
 "Vous êtes Mémoire",
 dit Lumina.
 "La première Mémoire.
 La gardienne de tous les souvenirs."
-"Non !"
-L'Oubli éclata,
-son essence se manifestant
-comme une ombre immense
-qui remplissait l'espace.
+"Non !" L'Oubli éclata,
+une ombre immense remplissant l'espace.
 "Je suis Oubli !
-Je suis la fin de toute chose !
-Je suis la dissolution !"
-Noctuvian sentit le Chant vibrer en lui,
-réveillant des souvenirs qu'il croyait dissipés...
+Je suis la fin de toute chose,
+la dissolution !"
+Noctuvian sentit alors le Chant vibrer en lui.
+Un moment, ses propres souvenirs vacillèrent,
+mais le groupe s'unit pour résister à la brume d'oubli...
+Ils se prirent par la main, Mémoire en tête.
+Chaque fragment fredonnait une note différente.
+La tension se relâcha, mais la menace restait.
+« Garde ton esprit clair », souffla Sombrelune à Noctuvian.
+Noctuvian acquiesça en serrant son Tarot.
+Aether entonna un murmure d'encouragement.
+Une lueur douce émana de leurs mains jointes.
+La brume hésita, bousculée par cette union.
+L'Oubli gronda, comme surpris par leur courage.
+Les ombres vibrèrent, prêtes à accueillir la guérison.
