@@ -22,6 +22,7 @@ La Trame vibrait sous leurs pieds, esquissant une spirale sans fin.
 « C'est ici que tout recommence », souffla Aether en caressant les filaments.
 Lumina répondit d'un sourire, ses mains diffusant une lueur apaisante.
 Noctuvian inclina la tête, percevant la pulsation d'une promesse nouvelle.
+Sur le sol, le signe ∞️ 🕯️ resplendit, reliant leurs destins.
 
 Le groupe resta quelque temps dans cet entre-deux pour contempler ce qui venait de naître.
 Ils n'étaient ni pressés ni inquiets, seulement curieux de voir comment la réalité se déploierait.
@@ -38,3 +39,4 @@ Alors que la porte se refermait derrière eux, Mnémosyne laissa échapper un ri
 Le grimoire se referma sur ce cycle et sa couverture brilla d'un éclat familier.
 Noctuvian revit l'aube de la quête puis se fondit dans la Trame, certain que la création poursuivrait sa danse. Un cycle s'achevait pour en nourrir un autre.
 Devant eux, la naissance de ce nouveau monde se révéla dans un éclat de couleurs vives : des continents d'énergie se formaient, parcourus de rivières lumineuses. Noctuvian prit la main de Lumina et déclara : "Qu'ici notre mémoire s'enracine pour défier l'oubli."
+L'Écho lointain promettait d'autres cycles, unis par la même lueur.

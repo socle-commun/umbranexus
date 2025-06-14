@@ -59,6 +59,7 @@ Des lueurs traversent la Trame et dessinent des signes.
 ## Transmission de l'Héritage
 Chacun confie un fragment de sagesse à Akasha pour préserver la mémoire.
 Il scelle cette offrande par une formule simple.
+Un symbole ∞️ 🕯️ se dessine pour lier mémoire et avenir.
 
 ## Vers une Nouvelle Aube
 La Création vibre d'une énergie neuve; un silence s'étend.

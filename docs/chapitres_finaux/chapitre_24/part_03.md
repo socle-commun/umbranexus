@@ -4,6 +4,7 @@ Des filaments multicolores tissaient déjà de nouvelles formes.
 Il recueillit un germe de création pure.
 Ses compagnons observaient ce miracle en silence.
 Il grava un symbole d'origine sur le sol neuf.
+Autour du signe se forma la figure ∞️🕯️, rappelant leur pacte.
 Toute œuvre naît du souvenir des cycles anciens.
 Le réseau vibra d'un éclat prometteur.
 Il ferma les yeux pour percevoir l'élan créateur.
