@@ -11,3 +11,5 @@
 - Harmoniser le registre de langue.
 - Équilibrer descriptions et actions.
 - Préciser les symboles récurrents.
+- Les dernières révisions décrivent mieux l'Arbre de Vie et
+  introduisent des actions brèves de Nox et Lumina pour rythmer le passage.
