@@ -2,12 +2,13 @@
 
 ## ⚠️ Points faibles
 - Certaines transitions manquent de fluidité.
-- Le ton hésite parfois entre poésie et technicité.
-- Des longueurs altèrent la tension.
-- Quelques images symboliques restent floues.
+- Quelques passages restent explicatifs.
+- Des images symboliques demeurent floues.
+- Les réactions manquent parfois de profondeur individuelle.
 
 ## 📈 Pistes d'amélioration
-- Clarifier la narration pour maintenir le rythme.
-- Harmoniser le registre de langue.
-- Équilibrer descriptions et actions.
-- Préciser les symboles récurrents.
+- Poursuivre la réduction des explications pour renforcer l'émotion.
+- Accorder plus de place au ressenti individuel des compagnons.
+- Maintenir un rythme soutenu par des dialogues brefs.
+- Clarifier les symboles récurrents.
+- Approfondir la dimension sensorielle pour enrichir la poésie.
