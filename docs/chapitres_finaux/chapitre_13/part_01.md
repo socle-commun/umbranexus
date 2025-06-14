@@ -1,22 +1,18 @@
 # Chapitre Treizième — La Transformation et l'Évolution
 🌌🕯️
 Dans les profondeurs d'Umbranexus,
-Les termes obscurs furent brièvement expliqués.
-la guérison de Prudence déclencha
-une métamorphose silencieuse.
-Les dimensions se réorganisèrent
-selon un équilibre nouveau,
-fondé non plus sur la peur
-mais sur la confiance.
-Chacun dut choisir son camp,
-révélant tensions et solidarités inattendues.
+la guérison de Prudence déclencha une métamorphose silencieuse.
+Ce bouleversement fit naître un conflit inattendu :
+Aether redoutait que ce **clinamen**
+— infime déviation qui initie un nouvel ordre —
+déstabilise l'équilibre.
+Nox y voyait au contraire un appel à la puissance.
+Lumina et Mnémosyne se rangèrent auprès de Prudence, affirmant leur solidarité.
 Le Chant de Qālmān résonnait,
 plus fluide,
-portant en lui la mémoire restaurée
-de Mnémosyne,
-la créativité renouvelée d'Élan,
-et maintenant la sagesse protectrice
-de Prudence.
+portant en lui la mémoire restaurée de Mnémosyne,
+la créativité renouvelée d'Élan
+et la sagesse protectrice de Prudence.
 "Regardez",
 dit Prudence,
 sa voix tissait une protection discrète.
@@ -94,3 +90,7 @@ Les glyphes prirent la forme d'une spirale qui encerclait Noctuvian.
 Il y lut l'espoir d'une mutation céleste, porteur d'évolutions multiples.
 Un souffle de confiance l'envahit, lui permettant d'accueillir ce changement.
 Désormais, l'horizon s'ouvrait sur de nouvelles perspectives à apprivoiser.
+Mnémosyne échangea un signe discret avec Lumina.
+Nox, silencieux, observait les nouveaux chemins.
+Aether, lui, demeurait circonspect, s'interrogeant sur cette soudaine harmonie.
+Tous savaient que ce fragile équilibre allait bientôt être mis à l'épreuve.
