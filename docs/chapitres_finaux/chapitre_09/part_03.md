@@ -21,3 +21,4 @@ Ils franchirent la porte spirale, laissant derrière eux les visions trompeuses.
 La nuit véritable les accueillit, porteuse d'un silence plus dense que la lune.
 Chacun garda en lui la Symphonie, prêt à accueillir la Ténèbre suivante.
 Au loin s'esquissaient des dunes changeantes, premiers signes de la Dimension de Désir. Le groupe resserra ses rangs, prêt à affronter ce royaume mouvant.
+Un motif de cloche lointaine s'éleva alors, épousant la brise nocturne. Chaque compagnon laissa résonner sa propre note avant de reprendre la marche, formant une courte harmonie qui ponctua le pas vers la prochaine Ténèbre.

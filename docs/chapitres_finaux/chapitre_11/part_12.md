@@ -10,3 +10,4 @@ Ils avancèrent vers l'harmonie en devenir, confiants dans la suite du récit.
 🌌🕯️
 Ils savaient que quatre Ténèbres demeuraient à pacifier, gardiennes des Clés finales.
 Leurs pas résonnèrent dans la Trame, annonçant la suite de leur voyage vers l'équilibre.
+Chacun serra dans sa paume la Clé qu'il avait reçue, se demandant quelle lumière ou quelle ombre viendrait la réclamer. Cette pensée fit naître une inquiétude partagée qui aiguisa leur marche.

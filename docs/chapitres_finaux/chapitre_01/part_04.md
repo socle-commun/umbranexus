@@ -14,3 +14,4 @@ Ashar, resté derrière la vitre, fronça les sourcils. Sa voix se fit plus sour
 
 Noctuvian répondit d'un hochement de tête, déterminé à franchir ce seuil entre peur et découverte. Puis il se détourna du groupe et laissa ses pas le guider vers un couloir plus obscur, où commençait déjà le murmure d'autres réalités.
 🌌🕯️
+Un instant, il s'arrêta dans la pénombre et s'imprégna du bourdonnement métallique. Son regard se perdit parmi les câbles, témoin de son isolement naissant. La matrice n'était plus simple refuge mais miroir de sa solitude.

@@ -29,3 +29,4 @@ Elle offrit un pacte discret :
 reconstruire la Trame,
 préserver la mémoire,
 refuser toute corruption.
+Au loin, l'Impératrice esquissa un geste plus humain, laissant apparaître sous son armure une lueur de doute. Des câbles effilés pendaient des tours en ruine, exhalant une odeur de métal rouillé mêlée à celle de pierres brûlées. Le fracas lointain des machines cassées rythma leur avancée, fixant dans leurs esprits l'ordre des événements.

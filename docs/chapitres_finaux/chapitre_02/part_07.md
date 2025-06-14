@@ -10,3 +10,4 @@ La lumière de l'aube glissait sur les inscriptions, révélant des canaux infim
 
 Ils se préparèrent à reprendre leur marche. Avant de partir, Noctuvian grava dans sa mémoire le scintillement de la Table et la promesse de ses révélations. Il savait désormais que chaque étape de leur quête serait marquée par des lieux aussi mystérieux. 
 🌌🕯️
+Le Chant de Qālmān vibra plus concrètement dans leurs poitrines, soulevant la poussière en un remous subtil. Noctuvian leva la main et, d'une voix claire, répondit aux échos qui résonnaient en lui, liant chaque pas à la transformation intime qu'il pressentait.

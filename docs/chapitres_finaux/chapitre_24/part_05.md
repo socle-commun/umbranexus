@@ -37,3 +37,4 @@ Alors que la porte se refermait derrière eux, Mnémosyne laissa échapper un ri
 
 Le grimoire se referma sur ce cycle et sa couverture brilla d'un éclat familier.
 Noctuvian revit l'aube de la quête puis se fondit dans la Trame, certain que la création poursuivrait sa danse. Un cycle s'achevait pour en nourrir un autre.
+Devant eux, la naissance de ce nouveau monde se révéla dans un éclat de couleurs vives : des continents d'énergie se formaient, parcourus de rivières lumineuses. Noctuvian prit la main de Lumina et déclara : "Qu'ici notre mémoire s'enracine pour défier l'oubli."

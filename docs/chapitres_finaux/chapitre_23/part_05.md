@@ -9,3 +9,4 @@ Le portail vibra, prêt à s'ouvrir sur une aube infinie.
 Le symbole au centre confirma leur lien avec la Création à venir.
 Une quiétude inespérée les envahit, prélude à la Création.
 🌌🕯️
+Sous leurs pieds, la pierre vibra d'une douceur inattendue, tandis qu'un parfum d'encens léger annonçait la fin du voyage. Ils avancèrent sans se hâter, laissant l'Éternité s'imprégner en eux avant d'aborder le seuil de la Création.

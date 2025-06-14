@@ -9,3 +9,4 @@ Force leur murmura la promesse d'une évolution prochaine.
 Ils avancèrent, sûrs de maîtriser cette puissance.
 Leurs cœurs battirent à l'unisson, prêts à découvrir de nouveaux horizons.
 🌌🕯️
+Un brasier résiduel crépitait encore derrière eux, répandant une odeur de cendre humide et rappelant les éclats de la colère. Cette vision ancrée ralentit leur pas et clarifia la chronologie de leur marche vers l'étape suivante.

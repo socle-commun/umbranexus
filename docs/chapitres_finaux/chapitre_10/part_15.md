@@ -8,3 +8,4 @@ L'Élan, devenu allié, murmura une promesse d'équilibre durable.
 La porte du prochain chapitre s'ouvrit dans un halo coloré, promesse d'horizons nouveaux.
 Ils la franchirent sans se retourner, portés par un désir apaisé.
 🌌🕯️
+Malgré l'apaisement, Noctuvian sentit encore la chaleur d'un désir brûlant courir dans ses veines, signe que la quête ne devait pas faiblir.

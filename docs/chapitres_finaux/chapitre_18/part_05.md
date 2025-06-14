@@ -7,3 +7,4 @@ Mnémosyne inscrivit ces résolutions dans sa mémoire vivante.
 Ils poursuivirent leur route, confiants dans leur singularité partagée.
 Leurs pas résonnèrent comme un écho d'astres, guidés par la promesse d'une clarté nouvelle.
 🌌🕯️
+Chacun prononça son nom à voix basse, affirmant sa propre lueur : Aether, Lumina, Force, Nox. Cette invocation éclaira plus nettement l'Étoile au-dessus d'eux, ouvrant en douceur la voie vers la Lune qui se dressait à l'horizon.

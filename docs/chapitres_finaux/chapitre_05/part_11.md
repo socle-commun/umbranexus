@@ -22,3 +22,4 @@ Ils quittèrent les lieux, portés par cette rumeur persistante.
 Leur quête se poursuivait dans le silence des couloirs,
 vers le cœur d'Umbranexus.
 🌌🕯️
+Les murmures prirent soudain des accents multiples, tour à tour pressants ou à peine audibles. Noctuvian sentit sa poitrine se serrer, comme si chaque filament murmuré venait délier une mémoire enfouie. Cette tension nouvelle annonçait la rencontre imminente avec l'Empereur.

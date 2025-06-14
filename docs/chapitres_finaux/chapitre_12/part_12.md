@@ -7,3 +7,4 @@ Un calme épuré descendit alors sur la terre.
 La quête continue.
 🌌🕯️
 
+Alors que la musique s'éteignait, Noctuvian échangea un regard chargé d'appréhension avec Lumina. Leurs mains se frôlèrent, confirmant que l'harmonie dépendait de cette confiance fragile, juste avant que le prochain pas ne les plonge dans l'inconnu.
