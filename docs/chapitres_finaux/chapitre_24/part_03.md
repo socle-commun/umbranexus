@@ -7,9 +7,8 @@ Il grava un symbole d'origine sur le sol neuf.
 Autour du signe se forma la figure ∞️🕯️, rappelant leur pacte.
 Toute œuvre naît du souvenir des cycles anciens.
 Le réseau vibra d'un éclat prometteur.
-Il ferma les yeux pour percevoir l'élan créateur.
-Une voix intérieure souffla des visions neuves.
-Il inspira avec confiance, prêt à leur donner corps.
+Il ferma les yeux pour sentir l'élan créateur.
+Une voix intérieure souffla des visions neuves qu'il accueillit.
 Un éclair traversa la voûte, signe d'une présence antique.
 Les ombres reculèrent, laissant place à la lumière.
 Ses compagnons se rapprochèrent pour partager cette ferveur.
@@ -19,3 +18,4 @@ Ils ressentirent l'appel d'un monde à créer.
 Dans un même élan, ils marquèrent une pause silencieuse puis franchirent la frontière.
 Un souffle nouveau s'éleva et emplit leurs cœurs.
 Ainsi débuta un cycle de créations sans fin, paisible mais déterminé.
+Ils accueillirent ce renouveau avec gratitude.

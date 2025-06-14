@@ -66,13 +66,13 @@ La Création vibre d'une énergie neuve; un silence s'étend.
 Noctuvian murmure : « Que le voyage continue. » Ses compagnons savourent cette halte.
 Quelle route s'ouvrira après cette aube ?
 
-## Pause Contemplative
-Ils voient la Trame se diluer dans une clarté mouvante.
-Chacun respire lentement, laissant la promesse d'un avenir inconnu s'insinuer.
 
 ## Retour au Silence
 La dernière note s'évanouit et la Trame se calme.
 Chacun savoure la grandeur de l'instant.
+Une brise tiède passe, éveillant leurs sens.
+Ils se recueillent encore, unis par l'éclat partagé.
+La dernière étoile scintille au loin.
 
 ## Fin de la Création
 Ainsi se referme le grimoire, laissant une obscurité fertile où germeront d'autres merveilles.
