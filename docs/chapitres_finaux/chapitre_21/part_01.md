@@ -2,25 +2,27 @@
 Après l'illumination du Soleil, le calme retombe.
 Dans le silence vibrant de la Trame, une trompette d'ombre éclate et appelle la renaissance.
 La confrontation autour du Jugement gagnait en intensité.
-Les fragments redoutent d'être effacés, mais Noctuvian accueille leur peur sans un mot.
+Les fragments se figent, redoutant d'être effacés.
+Noctuvian accueille leur peur sans un mot, conscient que son verdict pourrait tous les dissoudre.
 
-Peu à peu, le silence s'alourdit sur l'assemblée.
-Les regards se croisent, lourds de doute.
-Que juge-t-on vraiment ici ?
-Noctuvian retient sa sentence, tandis que les gardiens se figent.
-Chaque fragment guette la fin du rêve ; l'instant se tend, prêt à se briser.
+Peu à peu, le silence s'épaissit sur l'assemblée.
+Les regards se croisent et se dérobent, chargés d'incertitude.
+« Que juge-t-on vraiment ici ? » murmure l'un d'eux.
+Noctuvian retient sa sentence, tandis que les gardiens se crispent.
+Chaque fragment guette la fin du rêve ; l'instant s'étire, prêt à se rompre.
+La moindre parole pourrait les condamner.
 
-Soudain, une seconde trompette plus intime s'élève.
-Elle n'annonce pas la fin mais un nouveau départ.
-Vers quel chemin s'avancent-ils maintenant ?
-Chaque note éveille la conscience, et Noctuvian répond avec sérénité.
+Soudain, une trompette plus intime traverse la Trame.
+Elle n'annonce pas la fin mais un choix décisif.
+« Vers quel chemin irons-nous ? » souffle un fragment.
+Chaque note ravive la conscience, et Noctuvian répond d'une voix sereine : « Nous n'avons qu'une chance. »
 
 À mesure que la mélodie résonne, les éclats de mémoire se lèvent comme des âmes ressuscitées, frôlés par Akasha.
 Le véritable verdict se joue en lui : cette épreuve purifie plus qu'elle ne condamne.
-Un feu intérieur consume ses doutes.
-L'Écho surgit brièvement dans la salle, menaçant d'engloutir leurs souvenirs.
-Si le Jugement échouait, l'oubli triompherait.
-Il revoit le chemin parcouru, les erreurs, les victoires, jusqu'à ce que tout se résolve en une pulsation unique.
+Pourtant, un feu intérieur consume ses doutes.
+L'Écho plane au-dessus d'eux, prêt à engloutir leurs souvenirs.
+S'ils échouent, l'oubli triomphera et leur quête s'éteindra.
+Il revoit le chemin parcouru, les erreurs et les victoires, cherchant la force de prononcer la sentence.
 
 Lorsque ce tourbillon s'apaise, la métamorphose s'amorce doucement.
 Chaque choix éclaire la voie vers la liberté.
