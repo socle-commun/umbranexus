@@ -11,3 +11,10 @@
 - Harmoniser le registre de langue.
 - Équilibrer descriptions et actions.
 - Préciser les symboles récurrents.
+
+## ✨ Appréciation stylistique
+La nouvelle version transforme le monologue de Désir en dialogue vivant et rythmé.
+Les perceptions croisées de Mnémosyne et d'Aether renforcent la plasticité de la
+Dimension de Désir tout en éclairant leurs motivations.
+Les gestes insérés entre les répliques fluidifient la lecture et confèrent au
+passage une intensité plus palpable.
