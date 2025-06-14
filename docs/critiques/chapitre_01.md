@@ -11,3 +11,4 @@
 - Harmoniser le registre de langue.
 - Équilibrer descriptions et actions.
 - Préciser les symboles récurrents.
+- Les interactions avec les scientifiques renforcent l'urgence ; continuer dans cette voie.
