@@ -9,5 +9,5 @@ Ils savourèrent une dernière fois la richesse de ce Monde avant d'avancer.
 Une vague d'émotion submergea Noctuvian, conscient du chemin parcouru.
 Le portail frémissait, révélant par instants un éclat de ciel inconnu.
 Ils franchirent alors le portail, entrant dans l'Éternité que dévoilera le chapitre suivant.
-🌌🕯️
+🌌🕯️ — emblème de la connaissance unie aux astres
 Autour d'eux, des filaments semblables à des racines palpitaient sous la surface, connectant leurs souvenirs aux archives d'Akasha. Cette perception rapprocha les compagnons, qui s'échangèrent quelques mots simples avant de franchir le seuil.

@@ -7,4 +7,4 @@ Il cueillit la sagesse de ces rencontres multiples.
 La route se déployait devant eux, tissée d'histoires anciennes et de promesses nouvelles.
 Ils sentaient que chaque fragment glané ouvrait un peu plus le portail à venir.
 Il sut alors que leur quête touchait une vérité universelle.
-🌌🕯️
+🌌🕯️ — le signe d'une flamme cosmique guidant leurs pas.
