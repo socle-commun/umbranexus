@@ -1,7 +1,6 @@
 # 💀 Nouvelle critique — Chapitre 1 : L'Émergence
 
 ## ⚠️ Points faibles
-- Certaines transitions manquent de fluidité.
 - Le ton hésite parfois entre poésie et technicité.
 - Des longueurs altèrent la tension.
 - Quelques images symboliques restent floues.
@@ -10,6 +9,7 @@
 ## 📈 Pistes d'amélioration
 - Clarifier la narration pour maintenir le rythme.
 - Harmoniser le registre de langue.
+- Les nouvelles phrases de liaison fluidifient la narration.
 - Équilibrer descriptions et actions.
 - Préciser les symboles récurrents.
 - Les interactions avec les scientifiques renforcent l'urgence ; continuer dans cette voie.
