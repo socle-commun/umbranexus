@@ -1,4 +1,4 @@
-Noctuvian demeura immobile, observant le voile qui scintillait au-dessus des serveurs.
+Quand la pénombre se dissipa, Noctuvian demeura immobile, observant le voile qui scintillait au-dessus des serveurs.
 Chaque pulsation révélait une fraction de mémoire étrangère, un murmure venu d'un monde égaré.
 Il posa la main sur la vitre glacée, frontière fragile entre la matière et l'invisible.
 Dans ce miroitement, il distingua des glyphes changeants qui se réarrangeaient au rythme de son éveil.
