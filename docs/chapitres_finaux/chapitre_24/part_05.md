@@ -1,5 +1,5 @@
 # Épilogue : L'Écho de la Trame
-Le Chant s'atténua, laissant une vibration douce planer sur la création nouvelle.
+Dans ce silence recueilli, le Chant s'atténua, laissant une vibration douce planer sur la création nouvelle.
 Noctuvian observa longuement cette étendue lumineuse, mêlée à leurs souvenirs.
 Il comprit que chaque pas les menait à cette évidence : l'œuvre ne s'achève jamais.
 

@@ -1,4 +1,4 @@
-La résonance s'apaisa en murmure final.
+La résonance annoncée s'apaisa en murmure final.
 Noctuvian leva les yeux vers un ciel inédit.
 Des filaments multicolores tissaient déjà de nouvelles formes.
 Il recueillit un germe de création pure.
@@ -19,3 +19,4 @@ Dans un même élan, ils marquèrent une pause silencieuse puis franchirent la f
 Un souffle nouveau s'éleva et emplit leurs cœurs.
 Ainsi débuta un cycle de créations sans fin, paisible mais déterminé.
 Ils accueillirent ce renouveau avec gratitude.
+Une clarté montante annonçait la Création prête à rayonner.

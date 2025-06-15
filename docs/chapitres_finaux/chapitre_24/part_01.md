@@ -84,3 +84,4 @@ Les symboles sur le sol se mirent à luire, formant la carte d'un monde à venir
 Noctuvian ferma les yeux pour accueillir cette promesse de création nouvelle.
 Il sentit le Chant se renouveler, porteur d'une créativité jamais éprouvée.
 Un sourire discret flotta sur son visage : l'aventure ne faisait que commencer.
+Porté par cette certitude, il franchit le portail menant à l'inconnu.
