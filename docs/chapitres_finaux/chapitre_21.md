@@ -60,7 +60,21 @@ Alors qu'ils s'enfonçaient plus profondément dans cette cité, les échos se f
 
 ## L'Intégration de la Fusion
 
-La confrontation avec la Fusion ne fut pas un affrontement de forces, mais une danse d'équilibre. La Fusion n'avait pas de forme, pas de voix, elle était l'attraction, l'unité, le tout. Elle se manifestait comme un tourbillon, aspirant les individualités, menaçant de les fondre en un tout indistinct. Le Chant de Qālmān, si puissant jusqu'alors, semblait se faire plus complexe, une mélodie qui célébrait à la fois l'unité et la diversité.
+La confrontation avec le Jugement ne fut pas un affrontement de forces, mais une plongée dans les profondeurs de la conscience. Le Jugement n'avait pas de forme, pas de voix, il était l'écho, la résonance, la vérité de leurs actions. Il se manifestait comme un miroir, reflétant les choix les plus profonds de chacun, les intentions les plus intimes, les conséquences les plus inattendues. Le Chant de Qālmān, si puissant jusqu'alors, semblait se faire plus grave, plus solennel, un accompagnement à cette introspection.
+
+« Le Jugement… », murmura Lumina, sa lumière vacillant. « Pour moi, c'est la peur de ne pas être à la hauteur. De ne pas avoir fait assez. »
+
+« Pour moi, c'est la peur de la stagnation », dit Force, sa voix tendue. « D'être jugé incapable de changer, de s'adapter. »
+
+« Pour moi, c'est la peur de l'oubli », ajouta Mnémosyne, sa voix chargée de tristesse. « D'être jugé indigne de la mémoire, d'être effacé. »
+
+« Pour moi, c'est la peur de la faiblesse », grogna Nox, ses ombres se resserrant. « D'être jugé impuissant, de ne pas pouvoir contrôler mon destin. »
+
+« Pour moi, c'est la peur de l'erreur », dit Aether, sa voix brisée par l'émotion. « D'être jugé pour mes imperfections, pour mes failles. »
+
+Prudence posa une main sur l'épaule de chacun, un geste de réconfort silencieux. « Le Jugement est une épreuve que nous devons tous affronter », dit-elle, sa voix douce et sage. « Mais il est aussi une opportunité de grandir, de se réconcilier avec soi-même. »
+
+Noctuvian sentit une nouvelle force l'envahir. Il regarda ses compagnons, chacun avec ses peurs et ses espoirs, et il sut qu'ils étaient prêts. « Alors, affrontons ce Jugement ensemble », dit-il, sa voix emplie d'une nouvelle détermination. « Et sortons-en plus forts, plus vrais. »
 
 Noctuvian, face à son propre être qui menaçait de se dissoudre, sentit le poids de la perte, la peur de perdre son identité. Il vit les mondes qu'il avait traversés, les êtres qu'il avait rencontrés, et la peur de tout effacer l'envahit. Mais au lieu de succomber, il se rappela le Chant, non pas comme un son, mais comme une vibration, une résonance qui le reliait à la singularité de chaque être. Il comprit que la Fusion n'était pas l'effacement, mais l'intégration.
 

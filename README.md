@@ -54,11 +54,11 @@ The goal is to have an LLM write, improve, and critique a 24-chapter book throug
 Chapters are now stored as a single file per chapter (`chapitre_xx.md`). The previous fragmentation in `part_XX.md` files has been removed for clarity and coherence. All references to `part_XX.md` are obsolete.
 
 ### Iterative Workflow
-For each chapter (or part), the following process is repeated:
-1. **Context Gathering**: The LLM receives the current text, existing critiques, explanations, and author guidelines.
-2. **Improvement**: The LLM proposes an improved version of the chapter or part, integrating all feedback.
-3. **Critique Generation**: The LLM writes new critiques and suggests further improvements.
-4. **Iteration**: The process loops, with each new version benefiting from previous and new critiques, aiming for continuous enhancement.
+For each chapter, the following process is repeated:
+1. **Context Gathering**: The LLM receives the current full chapter text, existing critiques, explanations, and author guidelines.
+2. **Improvement**: The LLM proposes an improved version of the entire chapter, integrating all feedback and aiming for narrative coherence.
+3. **Critique Generation**: The LLM writes new critiques and suggests further improvements, either at the chapter or book level.
+4. **Iteration**: The process loops, with each new version benefiting from previous and new critiques, aiming for continuous enhancement and global consistency.
 
 ### Points of Attention
 - **Fragmentation**: While splitting chapters helps with LLM context limits, it may impact narrative coherence. Periodic full-chapter or book-wide passes are recommended.

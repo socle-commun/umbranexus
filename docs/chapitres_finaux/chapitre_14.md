@@ -3,6 +3,20 @@
 
 Dans les profondeurs d'Umbranexus, le souvenir de la Tempérance veillait, un guide silencieux. Guidés par Prudence, le groupe s'approcha de la Dimension de Colère. L'air devint lourd, saturé d'une rage palpable. Prudence sentit la fureur effleurer sa peau ; la dimension n'était plus qu'un champ de ruines mouvantes, où des éclairs zébraient un ciel tourmenté et le sol tremblait sous leurs pieds. Une onde de fureur balaya la plaine, fissurant la Trame elle-même. L'air vibrait, prêt à rompre.
 
+« Restez sur vos gardes », prévint Nox, ses ombres s'agitant comme pour repousser une menace invisible. « La colère est une force brute, elle ne connaît que la destruction. Nous devons la maîtriser, la soumettre avant qu'elle ne nous consume. »
+
+« La soumettre ? » répéta Lumina, sa lumière vacillant un instant. « N'est-ce pas là l'erreur qui a tout déclenché ? Tenter de dominer ce qui doit être compris ? »
+
+« Comprendre la fureur ? » ironisa Nox. « C'est comme vouloir raisonner une tempête. La seule réponse est la force. »
+
+« Ou la compassion », murmura Mnémosyne, sa voix à peine audible mais chargée de sens. « La colère naît souvent d'une blessure. Peut-être devrions-nous chercher la source de sa douleur, plutôt que de nous préparer au combat. »
+
+Force, silencieuse jusqu'alors, sentit sa propre énergie vibrer en écho à celle de la dimension. Elle comprenait la puissance de la colère, sa capacité à tout balayer sur son passage. Mais elle sentait aussi, au plus profond d'elle-même, une autre possibilité. « Il y a une différence entre la force et la violence », dit-elle enfin, sa voix grave et posée. « La violence détruit, mais la force peut aussi protéger, construire, transformer. »
+
+Noctuvian écouta attentivement chaque point de vue, reconnaissant la validité de chaque approche. « Nous ne pouvons pas l'aborder avec une seule stratégie », conclut-il. « Nous devrons être à la fois forts et compatissants, prudents et audacieux. Nous devrons être tout ce que nous sommes devenus. »
+
+Prudence hocha la tête, un léger sourire aux lèvres. « C'est cela, l'équilibre. Et c'est cet équilibre qui nous permettra de la guérir. »
+
 Elle serra les dents. « Gardez votre sang-froid », souffla-t-elle, sa voix à peine audible au milieu du grondement. « Chaque faille peut devenir un chemin. » D'un signe, elle les guida à travers le chaos. Ils avancèrent, le cœur serré, le Chant de Qālmān les enveloppant, les protégeant des débris d'illusions. Des cités fantômes surgissaient puis s'effaçaient, des mirages soufflés à la Calvino, la réalité oscillant entre effondrement et renaissance.
 
 « Elle est proche », dit Aether, sa forme vacillant légèrement sous l'intensité de l'énergie. « Je sens sa présence. »

@@ -5,30 +5,24 @@ const chaptersDir = path.join('docs', 'chapitres_finaux');
 const outputFile = path.join(chaptersDir, 'compiled_book.md');
 
 async function gather() {
-  const dirs = await fs.readdir(chaptersDir, { withFileTypes: true });
-  let parts = [];
-  for (const d of dirs) {
-    if (!d.isDirectory()) continue;
-    const m = d.name.match(/^chapitre_(\d{2})$/);
-    if (!m) continue;
-    const chapterNum = Number(m[1]);
-    const dirPath = path.join(chaptersDir, d.name);
-    const files = (await fs.readdir(dirPath)).filter(f => /^part_\d{2}\.md$/.test(f)).sort();
-    files.forEach((f) => {
-      const pMatch = f.match(/^part_(\d{2})\.md$/);
-      const partNum = Number(pMatch[1]);
-      parts.push({ chapter: chapterNum, part: partNum, file: path.join(d.name, f) });
+  // Recherche tous les fichiers chapitre_XX.md à la racine de chaptersDir
+  const files = (await fs.readdir(chaptersDir, { withFileTypes: true }))
+    .filter(f => f.isFile() && /^chapitre_\d{2}\.md$/.test(f.name))
+    .map(f => f.name)
+    .sort((a, b) => {
+      // Tri naturel par numéro de chapitre
+      const nA = parseInt(a.match(/chapitre_(\d{2})\.md/)[1], 10);
+      const nB = parseInt(b.match(/chapitre_(\d{2})\.md/)[1], 10);
+      return nA - nB;
     });
-  }
-  parts.sort((a, b) => a.chapter - b.chapter || a.part - b.part);
 
   let content = '';
-  for (const p of parts) {
-    const text = await fs.readFile(path.join(chaptersDir, p.file), 'utf8');
+  for (const file of files) {
+    const text = await fs.readFile(path.join(chaptersDir, file), 'utf8');
     content += text.trimEnd() + '\n\n';
   }
   await fs.writeFile(outputFile, content.trimEnd() + '\n');
-  console.log(`Compiled ${parts.length} parts into ${outputFile}`);
+  console.log(`Compiled ${files.length} chapters into ${outputFile}`);
 
   const min = Number(300) || 0;
   const words = content.split(/\s+/).filter(Boolean).length;

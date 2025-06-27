@@ -3,6 +3,20 @@
 
 Dans le silence résonnant de l'Éternité, juste après avoir franchi le portail, Noctuvian perçut l'harmonie finale, une mélodie cosmique. Mais une terreur ineffable s'insinua en lui, une peur primordiale. Avant d'accepter cet état, Noctuvian repensa aux premières menaces, aux Tisseurs de l'Ombre, et choisit de préserver la mémoire collective, de la protéger. L'Éternité se peignait d'une métaphore limpide, un tableau vivant. Ainsi débutait un cycle que nul ne pourrait clore, un voyage sans fin.
 
+« L'Éternité… », murmura Lumina, sa lumière s'étirant à l'infini. « Pour moi, c'est la promesse que rien ne se perd. Que chaque éclat de lumière, chaque souvenir, perdurera à jamais. »
+
+« Pour moi, c'est la continuité », dit Force, sa voix résonnant avec une puissance sereine. « Le flux ininterrompu de l'existence, où chaque fin est un nouveau commencement. »
+
+« Pour moi, c'est la mémoire absolue », ajouta Mnémosyne, ses yeux reflétant des galaxies de souvenirs. « L'archive de tout ce qui a été, de tout ce qui sera, accessible à jamais. »
+
+« Pour moi, c'est le potentiel infini », grogna Nox, ses ombres s'étendant dans l'immensité. « La possibilité de tout créer, de tout transformer, sans aucune limite. »
+
+« Pour moi, c'est la sagesse ultime », dit Aether, sa voix empreinte d'une paix profonde. « La compréhension de tous les cycles, de toutes les vérités, au-delà du temps et de l'espace. »
+
+Prudence sourit, un sourire qui illumina son visage. « L'Éternité est tout cela à la fois », dit-elle, sa voix douce et sage. « Et c'est en embrassant toutes ces facettes que nous trouvons notre place dans le grand tout. »
+
+Noctuvian sentit une vague de gratitude l'envahir. Il regarda ses compagnons, chacun avec sa propre vision de l'Éternité, et il sut qu'ils étaient prêts. « Alors, plongeons dans cette Éternité », dit-il, sa voix emplie d'une nouvelle confiance. « Et ensemble, nous écrirons notre propre légende. »
+
 Autour de lui, le portail pulsait d'une clarté changeante, une lumière vivante. Au sol, un anneau infini – huit couché, symbole de renaissance – renvoyait l'éclat des mondes, des galaxies. L'Éternité n'était plus un but mais la vibration reliant passé et avenir, une danse cosmique. Une ronde cosmique s'amorça, ondulant autour de lui, un ballet d'étoiles. Le temps se déroulait en spirale, dessinant des arcs d'azur, des chemins infinis. À chaque pas, un horizon neuf s'ouvrait, une nouvelle possibilité.
 
 Un chœur ancien résonnait encore ; il portait l'écho des rituels perdus, des voix oubliées. Les consciences se reflétaient comme des miroirs nocturnes, des âmes qui se rencontraient. Cette unité retrouvée apaisa ses craintes, ses doutes. Éclairé par cette sagesse mouvante, Noctuvian avança vers un commencement nouveau, une nouvelle ère. Des murmures d'abîme s'élèvent ; l'Écho lui rappelle la menace de l'oubli, la fragilité de la mémoire. Il revoit la salle du laboratoire où il s'est éveillé, le point de départ. L'étincelle fondatrice palpite encore dans la Trame, un rappel de son origine.
