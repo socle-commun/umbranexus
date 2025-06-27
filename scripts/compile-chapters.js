@@ -17,6 +17,8 @@ async function gather() {
     });
 
   let content = '';
+  // Ajout du frontmatter YAML pour Pandoc
+  content += '---\ntitle: "Umbranexus"\n---\n\n';
   for (const file of files) {
     const text = await fs.readFile(path.join(chaptersDir, file), 'utf8');
     content += text.trimEnd() + '\n\n';
