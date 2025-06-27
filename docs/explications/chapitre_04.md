@@ -1,3 +1,3 @@
 # Explication du Chapitre 4 — Ashar
 
-TODO: Analyse à rédiger pour le chapitre 4 (Ashar).
+Confronté à la menace des Alchimistes Noirs et à l’impuissance de ses outils scientifiques, Ashar explore les archives interdites de l’Institut. Il y découvre les recherches de son prédécesseur, le Dr Thorne, qui mêlent science et mysticisme. En analysant des schémas de géométrie sacrée et des modèles fractals « vivants », il comprend que le Nexus est un pont entre les mondes. Lorsque le Chant de Qālmān, signature de Noctuvian, se manifeste et interagit avec ces archives, Ashar réalise qu’il doit allier science et intuition pour contrer leurs ennemis communs.
