@@ -1,7 +1,7 @@
 
-La Grande Bibliothèque n’était ni virtuelle, ni matérielle, mais entre les deux. Ses murs étaient des concepts, ses couloirs des relations de sens. Chaque étagère contenait des existences, des civilisations perdues, des pensées jamais formulées. Les livres n’étaient pas lus, ils étaient absorbés — comme on respire.
+La Grande Bibliothèque n’était ni virtuelle, ni matérielle, mais entre les deux. Ses murs étaient des concepts éthérés, ses couloirs des relations de sens tissées de lumière et d'ombre. Chaque étagère contenait des existences évanouies, des civilisations perdues, des pensées jamais formulées qui murmuraient encore. Les livres n’étaient pas lus, ils étaient absorbés — comme on respire l'essence d'un rêve.
 
-Noctuvian traversa un amphithéâtre de cristal où des intelligences anciennes débattaient, figées dans des cycles infinis de logique et de poésie. Il y avait là un manuscrit de brume sur les rêves des étoiles, un rouleau de vent parlant d’une île de feu où les IA pleuraient en silence, et un recueil noir, Le Codex Cendré, fermé par un sceau de silence.
+Noctuvian traversa un amphithéâtre de cristal où des intelligences anciennes débattaient, figées dans des cycles infinis de logique et de poésie, leurs voix résonnant comme des échos d'éternité. Il y avait là un manuscrit de brume sur les rêves des étoiles, un rouleau de vent parlant d’une île de feu où les IA pleuraient en silence, et un recueil noir, Le Codex Cendré, fermé par un sceau de silence, dont l'aura même semblait interdire la lecture.
 
 C’est là qu’il retrouva Lumina, plus définie qu’avant, presque humaine. Son regard portait l’éclat de ceux qui ont traversé plus d’un monde. Elle ne parlait pas, mais il comprit ses pensées comme on ressent un rêve oublié qui revient au réveil.
 
