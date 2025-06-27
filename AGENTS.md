@@ -5,6 +5,8 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 - Chaque chapitre final est découpée en p `docs/chapitres_finaux/chapitre_{01..24}/part_{01..}.md` avec sa critique dans `docs/critiques/` et son analyse dans `docs/explications/`.
 - Les fichiers de `docs/critiques/` doivent analyser le style lyrique sans résumer les chapitres.
 - La cohérence narrative est primordiale.
+- Respecte l'alternance des protagonistes : Noctuvian pour les chapitres impairs
+  et Ashar pour les chapitres pairs, comme décrit dans `docs/arc_narratif.md`.
 - L'agent maintient le ton défini dans `docs/author-guide.md`.
 - Utilise `npm run compile:chapters` pour générer le manuscrit complet.
 - Si tu ne sais pas quoi faire : utilise le [fichier de roadmap](/docs/roadmap.md) avec des hypothèses d'action.
