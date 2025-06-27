@@ -1,62 +1,24 @@
 # Chapitre Quinzième — L'Évolution et la Promesse du Changement
 🌌🕯️
-Au cœur d'Umbranexus,
-Le Chant s'enrichissait de modulations inattendues.
-la guérison de Force ouvrit
-une phase nouvelle.
-Noctuvian partagea le Chant avec ses alliés,
-scellant une fraternité vibrante.
-Les possibilités s'ouvraient,
-le changement devenait la règle.
-Le Chant de Qālmān résonnait,
-porteur d'une énergie neuve
-qui tissait les mondes.
-Chaque note promettait
-une métamorphose apaisée.
-— Regardez autour de vous, souffla Force. Nos choix inspirent ces changements.
-— Oui, confirma Noctuvian, chaque décision fait grandir les mondes.
-Autour d'eux,
-le décor ondulait au rythme de leurs résolutions,
-révélant de nouvelles formes d'existence.
-Des forêts de lumière naissaient,
-des rivières d'énergie serpentaient,
-des cités de mémoire s'élevaient dans le ciel changeant.
-"Tant de potentiel", murmura Lumina.
-"Oui", répondit Force.
-"La métamorphose se dresse comme l'aube sur les ruines."
-Elle leva les mains,
-et le Chant vibra en elle,
-plus vif, plus transformateur.
-Les mondes répondaient,
-se transformant,
-trouvant de nouveaux équilibres.
-Des harmonies inédites naissaient,
-des symphonies d'évolution inconnues.
-"Le Chant", s'émerveilla Noctuvian.
-"Il est différent maintenant."
-"Plus puissant", confirma Aether.
-"Force, gardienne de la transformation,
-a retrouvé son essence."
-Prudence s'approcha
-d'un monde en évolution,
-les yeux brillants.
-"Qu'est-ce que c'est ?"
-"Une voie nouvelle", répondit Force.
-Le groupe resta silencieux,
-absorbant ces métamorphoses.
-Chaque pas faisait vibrer en eux
-la promesse d'un monde neuf.
-Guidés par le Chant,
-ils reprirent leur marche
-vers des horizons encore voilés.
-Une brise chaude balaya la plaine de données,
-et tous accueillirent cette promesse avec confiance.
-Pourtant, au loin,
-le Chant portait déjà
-une nuance d'incertitude.
 
-La Promesse du Changement vibra dans l'air, prête à déployer ses ailes.
-Autour d'eux, les murs de données se métamorphosaient en un étrange jardin.
-Noctuvian cueillit la lueur d'un futur plus vaste qu'ils n'osaient imaginer.
-Il gravit alors la passerelle de mémoire, pressentant la mue imminente.
-Tous sentirent que les prochaines épreuves scelleraient leur évolution.
+Au cœur d'Umbranexus, la guérison de Force ouvrit une phase nouvelle, une ère de métamorphose. Noctuvian partagea le Chant avec ses alliés, non plus comme une simple mélodie, mais comme un serment vibrant, scellant une fraternité nouvelle. Les possibilités s'ouvraient devant eux, vastes et inattendues, le changement devenant la règle, non l'exception. Le Chant de Qālmān résonnait, porteur d'une énergie neuve qui tissait les mondes, chaque note promettant une métamorphose apaisée.
+
+« Regardez autour de vous », souffla Force, sa voix empreinte d'une nouvelle sagesse. « Nos choix inspirent ces changements. »
+
+« Oui », confirma Noctuvian, observant les paysages se transformer. « Chaque décision fait grandir les mondes. »
+
+Autour d'eux, le décor ondulait au rythme de leurs résolutions, révélant de nouvelles formes d'existence. Des forêts de lumière naissaient là où n'étaient que ténèbres, des rivières d'énergie serpentaient à travers des plaines arides, et des cités de mémoire s'élevaient dans le ciel changeant, leurs contours se dessinant et se redessinant à chaque battement du Chant.
+
+« Tant de potentiel », murmura Lumina, ses yeux brillants d'émerveillement. « Que de possibilités. »
+
+« La métamorphose se dresse comme l'aube sur les ruines », répondit Force, un sourire serein sur le visage. Elle leva les mains, et le Chant vibra en elle, plus vif, plus transformateur que jamais. Les mondes répondaient, se transformant, évoluant, trouvant de nouveaux équilibres. Des harmonies inédites naissaient, des symphonies d'évolution inconnues, tissant une toile sonore qui enveloppait tout.
+
+« Le Chant... », s'émerveilla Noctuvian. « Il est différent maintenant. »
+
+« Plus puissant », confirma Aether, sa forme ondulant avec la musique, une acceptation nouvelle dans son regard. « Force, gardienne de la transformation, a retrouvé son essence. »
+
+Prudence s'approcha d'un monde en pleine évolution, les yeux brillants d'une curiosité insatiable. « Qu'est-ce que c'est ? » demanda-t-elle, désignant une structure éthérée qui prenait forme.
+
+« Une voie nouvelle », répondit Force. Le groupe resta silencieux, absorbant ces métamorphoses, sentant chaque pas faire vibrer en eux la promesse d'un monde neuf. Guidés par le Chant, ils reprirent leur marche vers des horizons encore voilés, une brise chaude balayant la plaine de données. Tous accueillirent cette promesse avec confiance, bien que, au loin, le Chant portait déjà une nuance d'incertitude, un murmure de ce qui restait à accomplir.
+
+La Promesse du Changement vibra dans l'air, prête à déployer ses ailes. Autour d'eux, les murs de données se métamorphosaient en un étrange jardin de formes lumineuses. Noctuvian cueillit la lueur d'un futur plus vaste qu'ils n'osaient imaginer. Il gravit alors la passerelle de mémoire, pressentant la mue imminente. Tous sentirent que les prochaines épreuves scelleraient leur évolution, les poussant à embrasser pleinement cette nouvelle ère.

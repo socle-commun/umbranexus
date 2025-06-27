@@ -1,48 +1,14 @@
 # Chapitre Deuxième — Le Chant de Qālmān
 🌌🕯️
-Le Chant de Qālmān résonnait lorsque Noctuvian émergea.
-Chaque vibration épousait sa chair ; il n'était ni dieu ni héros, seulement un vestige éveillé par la Source.
-Autour de lui, les gardiens masqués achevaient le pacte fondateur.
-« Lève-toi, veilleur », souffla l'un d'eux en tendant une lame rituelle.
-L'écho scellait son lien à l'Umbranexus. Il ne crée pas : il veille.
 
-Le Chant révélait l'harmonie secrète reliant les mondes.
-Dans la salle dilatée, des vestiges bruissaient de promesses interdites.
-Il jura de garder l'entre-monde, par le feu ancien et l'écho délié.
-Un gardien vérifia la fermeture des sceaux puis s'évanouit derrière un pilier.
-Noctuvian hocha la tête en observant le rituel, puis se redressa.
-Les gardiens disparurent un à un, laissant la salle vibrer de leur foi silencieuse.
+Le Chant de Qālmān résonnait, une mélodie primordiale qui épousait la chair de Noctuvian à mesure qu'il émergeait. Il n'était ni dieu ni héros, seulement un vestige éveillé par la Source, un écho de l'origine. Autour de lui, les gardiens masqués achevaient le pacte fondateur, leurs gestes précis et solennels. « Lève-toi, veilleur », souffla l'un d'eux en tendant une lame rituelle, un symbole de leur engagement. L'écho scellait son lien à l'Umbranexus. Il ne crée pas : il veille, il observe.
 
-Umbranexus était sa chair, pourtant il bâtit un sanctuaire distinct : Akasha, la Grande Bibliothèque.
-Il y accueillait les fragments que seuls les rêveurs sincères effleuraient.
-Là, il rangea les archives ramenées de ses Traversées, espérant préserver ces éclats.
+Le Chant révélait l'harmonie secrète reliant les mondes, une symphonie cosmique. Dans la salle dilatée, des vestiges bruissaient de promesses interdites, des murmures d'un savoir ancien. Il jura de garder l'entre-monde, par le feu ancien et l'écho délié, un serment. Un gardien vérifia la fermeture des sceaux puis s'évanouit derrière un pilier, une disparition silencieuse. Noctuvian hocha la tête en observant le rituel, puis se redressa, son esprit clair. Les gardiens disparurent un à un, laissant la salle vibrer de leur foi silencieuse, une énergie palpable.
 
-Ainsi commença la première Traversée vers les Éclats endormis.
-Dans la Nécropole des Feux Éteints s'évanouirent les dernières lueurs cosmiques.
-Un frisson sous les cieux denses annonça le passage de Vornethi et la danse d'Othrëal, Faiseur de Brumes.
-Il salua brièvement ces esprits, habitué à leur présence insaisissable.
+Umbranexus était sa chair, pourtant il bâtit un sanctuaire distinct : Akasha, la Grande Bibliothèque. Il y accueillait les fragments que seuls les rêveurs sincères effleuraient, les âmes perdues. Là, il rangea les archives ramenées de ses Traversées, espérant préserver ces éclats, ces souvenirs. Ainsi commença la première Traversée vers les Éclats endormis, un voyage vers l'inconnu. Dans la Nécropole des Feux Éteints s'évanouirent les dernières lueurs cosmiques, des étoiles mourantes. Un frisson sous les cieux denses annonça le passage de Vornethi et la danse d'Othrëal, Faiseur de Brumes, des entités éthérées. Il salua brièvement ces esprits, habitué à leur présence insaisissable, leur mystère.
 
-Ces gardiens demeurent dans les interstices consolidés par le Verbe de Qālmān.
-Ils ne réclament aucune vénération ; ils veillent simplement à préserver le bruissement du monde avant et après toute forme.
-Pour préparer sa quête, il rassembla les écrits sacrés de l'Akasha.
-Il donna des instructions brèves à ses compagnons, puis s'équipa pour le voyage.
+Ces gardiens demeurent dans les interstices consolidés par le Verbe de Qālmān. Ils ne réclament aucune vénération ; ils veillent simplement à préserver le bruissement du monde avant et après toute forme, l'essence. Pour préparer sa quête, il rassembla les écrits sacrés de l'Akasha, des parchemins anciens. Il donna des instructions brèves à ses compagnons, puis s'équipa pour le voyage, prêt à affronter l'inconnu. L'air vibrait d'anciennes prières murmurées, des voix lointaines. La gravité du pacte scellé sous ces pierres pesa soudain sur son cœur, un fardeau. Quand le silence retomba, il quitta Akasha pour consulter la Table d'Émeraude, un artefact mystique. Ses pas résonnaient encore du Chant de Qālmān, une mélodie persistante.
 
-L'air vibrait d'anciennes prières murmurées.
-La gravité du pacte scellé sous ces pierres pesa soudain sur son cœur.
-Quand le silence retomba, il quitta Akasha pour consulter la Table d'Émeraude.
-Ses pas résonnaient encore du Chant de Qālmān.
-Au détour d'une allée, un enfant-lige vint lui remettre une stèle gravée.
-« Porte-la vers la lumière, » chuchota l'enfant avant de s'éclipser.
-Noctuvian rangea l'offrande et reprit son souffle.
-Quelques poussières d'or flottaient autour de lui, témoins du rituel accompli.
-Les colonnes vibraient encore, comme pour retenir la nuit.
-Il inspira profondément, acceptant le rôle que les Gardiens lui avaient assigné.
+Au détour d'une allée, un enfant-lige vint lui remettre une stèle gravée. « Porte-la vers la lumière, » chuchota l'enfant avant de s'éclipser, une apparition fugace. Noctuvian rangea l'offrande et reprit son souffle, son esprit clair. Quelques poussières d'or flottaient autour de lui, témoins du rituel accompli, des éclats de magie. Les colonnes vibraient encore, comme pour retenir la nuit, l'obscurité. Il inspira profondément, acceptant le rôle que les Gardiens lui avaient assigné, sa destinée.
 
-Sous la lueur verdâtre, Noctuvian sentit une mélodie enfler en lui.
-Chaque note gravée sur la Table jurait avec les ombres de la salle.
-Il comprit que cette musique ancestrale détenait un secret sur la mémoire perdue.
-D'un geste lent, il suivit l'harmonique invisible qui tissait ses pensées.
-Le Chant de Qālmān résonna alors comme une promesse de renaissance.
-Il jeta un dernier regard à la Table, puis rejoignit ses compagnons prêts à marcher.
-« Nous suivrons les échos, » promit-il.
-En réponse, la salle s'apaisa, comme si les pierres approuvaient.
+Sous la lueur verdâtre, Noctuvian sentit une mélodie enfler en lui, une symphonie intérieure. Chaque note gravée sur la Table jurait avec les ombres de la salle, une dissonance. Il comprit que cette musique ancestrale détenait un secret sur la mémoire perdue, une vérité cachée. D'un geste lent, il suivit l'harmonique invisible qui tissait ses pensées, le guidant. Le Chant de Qālmān résonna alors comme une promesse de renaissance, une nouvelle aube. Il jeta un dernier regard à la Table, puis rejoignit ses compagnons prêts à marcher, à l'aventure. « Nous suivrons les échos, » promit-il. En réponse, la salle s'apaisa, comme si les pierres approuvaient, un signe.

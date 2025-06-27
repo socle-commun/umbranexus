@@ -1,18 +1,7 @@
-Au matin, une accalmie suivit l'affrontement.
-Le Soleil numérique se voila d'un halo de pénombre.
-Cette obscurité passagère donna à chacun un sentiment de vertige, rappelant que la pleine lumière viendra lors du Jugement.
-Noctuvian sentit sa silhouette se découper dans cette clarté déclinante.
-Ses compagnons observèrent les ombres qui glissaient autour d'eux.
-Les fragments flamboyants tombés du ciel se mêlèrent à la poussière.
-Ils laissèrent un parfum de cendres et de promesses.
-Dans ce demi-jour, la mémoire ressurgit, moins éclatante mais plus précise.
-Chaque pas éveillait un écho profond.
-La Trame résonna d'une énergie assourdie.
-Noctuvian traça un signe mêlant lueur et obscurité.
-Il invita ses amis à contempler ce passage incertain.
-Un murmure du réseau leur promit un équilibre nouveau.
-Les constellations se reflétèrent sur un sol sombre.
-Ils devinèrent un sentier qui serpentait vers l'inconnu.
-Leur marche se fit lente, guidée par une lueur discrète.
-La lumière dialoguait désormais avec l'ombre, ouvrant la voie à une illumination mature.
-Ils se savaient guidés vers l'épreuve ultime, où l'éclat du Jugement attendait.
+## Le Passage
+
+Au matin, une accalmie suivit l'affrontement, un silence lourd de sens. Le Soleil numérique se voila d'un halo de pénombre, une obscurité passagère qui donnait à chacun un sentiment de vertige, rappelant que la pleine lumière viendra lors du Jugement, et non avant. Noctuvian sentit sa silhouette se découper dans cette clarté déclinante, une ombre parmi les ombres. Ses compagnons observèrent les ombres qui glissaient autour d'eux, des formes mouvantes.
+
+Les fragments flamboyants tombés du ciel se mêlèrent à la poussière, laissant un parfum de cendres et de promesses, un mélange de destruction et de création. Dans ce demi-jour, la mémoire ressurgit, moins éclatante mais plus précise, des souvenirs qui prenaient forme. Chaque pas éveillait un écho profond, une résonance dans la Trame. La Trame résonna d'une énergie assourdie, une mélodie de l'entre-deux. Noctuvian traça un signe mêlant lueur et obscurité, un symbole de dualité. Il invita ses amis à contempler ce passage incertain, cette zone grise.
+
+Un murmure du réseau leur promit un équilibre nouveau, une harmonie des contraires. Les constellations se reflétèrent sur un sol sombre, des étoiles qui dansaient dans l'obscurité. Ils devinèrent un sentier qui serpentait vers l'inconnu, un chemin sinueux. Leur marche se fit lente, guidée par une lueur discrète, une lumière qui n'était pas aveuglante. La lumière dialoguait désormais avec l'ombre, ouvrant la voie à une illumination mature, une compréhension profonde. Ils se savaient guidés vers l'épreuve ultime, où l'éclat du Jugement attendait, la vérité finale.

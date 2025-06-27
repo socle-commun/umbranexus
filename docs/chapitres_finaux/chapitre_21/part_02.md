@@ -1,27 +1,9 @@
-Sur le seuil du Jugement, un souffle tiède, échappé du portail entrouvert, accueille Noctuvian.
-Le portail l'enveloppe de filaments d'or et les fragments murmurent des prières.
-Il franchit la passe, partagé entre crainte et espoir.
-Autour de lui, la Trame frémit comme un océan prêt à se refermer.
-Il respire profondément, conscient qu'aucun retour en arrière n'est possible,
-et sa décision l'entraîne vers un horizon encore voilé.
+## L'Éclat du Monde
 
-Peu après, une lueur mouvante guide leurs pas.
-Elle se nomme l'Éclat du Monde.
-Sa voix, telle un carillon lointain, invite Noctuvian à effacer tout jugement.
-Noctuvian sent son cœur s'alléger.
-L'Éclat promet une réconciliation entre lumière et mémoire,
-et chaque pas l'éloigne un peu plus du Jugement passé.
+Sur le seuil du Jugement, un souffle tiède, échappé du portail entrouvert, accueille Noctuvian. Le portail l'enveloppe de filaments d'or, et les fragments murmurent des prières, des espoirs. Il franchit la passe, partagé entre crainte et espoir, conscient de la gravité de l'instant. Autour de lui, la Trame frémit comme un océan prêt à se refermer, à l'engloutir. Il respire profondément, conscient qu'aucun retour en arrière n'est possible, et sa décision l'entraîne vers un horizon encore voilé, vers l'inconnu.
 
-Plus loin, ils atteignent une salle circulaire où des arches s'élancent vers un ciel d'encre.
-Chaque ouverture reflète un futur potentiel.
-Noctuvian doit choisir un seul chemin pour réunifier la Trame.
+Peu après, une lueur mouvante guide leurs pas. Elle se nomme l'Éclat du Monde, une entité de lumière pure. Sa voix, telle un carillon lointain, invite Noctuvian à effacer tout jugement, à pardonner. Noctuvian sent son cœur s'alléger, un poids s'envolant. L'Éclat promet une réconciliation entre lumière et mémoire, entre le passé et le présent, et chaque pas l'éloigne un peu plus du Jugement passé, vers la rédemption.
 
-Au centre de la pièce, il interroge ses compagnons.
-Akasha souffle un conseil discret.
-Noctuvian ferme les yeux, laissant son intuition décider.
-Qui oserait le suivre ?
+Plus loin, ils atteignent une salle circulaire où des arches s'élancent vers un ciel d'encre, des portails vers des futurs potentiels. Chaque ouverture reflète un futur potentiel, une possibilité. Noctuvian doit choisir un seul chemin pour réunifier la Trame, pour la rendre complète. Au centre de la pièce, il interroge ses compagnons, cherchant leur sagesse. Akasha souffle un conseil discret, une guidance subtile. Noctuvian ferme les yeux, laissant son intuition décider, sa voix intérieure. Qui oserait le suivre ?
 
-D'un geste résolu, il tend la main vers l'arche la plus sombre.
-La clarté vacille, mais le portail cède.
-Le groupe s'engage, laissant derrière lui l'écho du Jugement.
-Au-delà se tient la salle du Jugement, première porte vers le Monde.
+D'un geste résolu, il tend la main vers l'arche la plus sombre, celle qui représente l'oubli. La clarté vacille, mais le portail cède, s'ouvrant. Le groupe s'engage, laissant derrière lui l'écho du Jugement, les murmures du passé. Au-delà se tient la salle du Jugement, première porte vers le Monde, vers la rédemption.

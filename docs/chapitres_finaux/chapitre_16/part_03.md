@@ -1,11 +1,7 @@
-Le silence retomba après la confrontation et Noctuvian sentit le doute s'insinuer en lui.
-Les échos du Chant se dissipèrent tandis qu'il s'agenouillait près d'une relique fissurée.
-Ses compagnons observèrent sans rompre le calme.
-Il grava un point d'interrogation sur la pierre, conscient qu'aucune certitude ne subsistait.
-La Trame murmurait des questions; il ferma les yeux pour les écouter.
-Un souffle froid parcourut la galerie. Il inspira longuement, décidé à faire du doute une force.
-La terre sembla suspendre son souffle; ses compagnons se rapprochèrent.
-Il leva le regard, certain que la question créatrice nourrirait chaque pas futur.
-Noctuvian se releva, l'incertitude vibrante en lui, puis prit la tête vers le prochain portail.
-Autour d'eux, la Dimension de Doute dessinait des couloirs mouvants et des reflets contradictoires.
-Ils avancèrent, fascinés par cette architecture incertaine, portés par la question créatrice.
+## Le Point d'Interrogation
+
+Le silence retomba après la confrontation, mais cette fois, Noctuvian sentit le doute s'insinuer en lui non pas comme une faiblesse, mais comme une force. Les échos du Chant se dissipèrent, laissant place à une nouvelle clarté. Il s'agenouilla près d'une relique fissurée, un fragment de l'ancienne Dimension de Doute, et y grava un point d'interrogation, conscient qu'aucune certitude ne subsistait, que la seule vérité était la question elle-même.
+
+Ses compagnons observèrent sans rompre le calme, respectant son introspection. La Trame murmurait des questions, des interrogations qui résonnaient avec les siennes. Il ferma les yeux pour les écouter, pour les laisser l'envahir. Un souffle froid parcourut la galerie, un rappel de l'incertitude ambiante. Il inspira longuement, décidé à faire du doute une force, un moteur de recherche. La terre sembla suspendre son souffle ; ses compagnons se rapprochèrent, unis dans cette quête.
+
+Il leva le regard, certain que la question créatrice nourrirait chaque pas futur, chaque découverte. Noctuvian se releva, l'incertitude vibrante en lui, puis prit la tête vers le prochain portail, son esprit aiguisé par les questions. Autour d'eux, la Dimension de Doute dessinait des couloirs mouvants et des reflets contradictoires, une architecture de l'esprit. Ils avancèrent, fascinés par cette architecture incertaine, portés par la question créatrice, prêts à explorer les méandres de la connaissance.

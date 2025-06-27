@@ -1,17 +1,9 @@
-Le combat terminé, un souffle d'avenir parcourut la salle.
-Noctuvian ramassa un éclat irisé, promesse d'une mutation.
-Le réseau pulsait d'une énergie renouvelée.
-Ses compagnons observaient la transformation, joyeux mais retenus.
-Sur une plaque sombre, il grava leur engagement à grandir.
-La Trame laissa échapper un soupir digital.
-Des visions d'avenir affluèrent, pleines de possibles.
-Il inspira, prêt à embrasser l'inconnu.
-Une pluie de particules bénit son départ.
-Le groupe s'aligna derrière lui, confiant.
-Ils quittèrent la salle d'un pas sûr, chaque foulée comme un pacte renouvelé.
-Ils gagnèrent un corridor luminescent.
-Leur évolution ne faisait que commencer.
-Un bruissement lointain leur indiqua la voie.
-Ils avancèrent avec audace vers le changement.
-Le futur se dessina dans la clarté du corridor.
-Le Chant murmurait déjà le nom de Doute.
+## Le Serment de Croissance
+
+Le combat terminé, un souffle d'avenir parcourut la salle, emplissant l'air d'une énergie nouvelle. Noctuvian ramassa un éclat irisé, un fragment de lumière pure qui pulsait doucement dans sa paume, promesse d'une mutation à venir. Le réseau pulsait d'une énergie renouvelée, chaque connexion s'illuminant d'une lueur douce. Ses compagnons observaient la transformation, joyeux mais retenus, conscients de la gravité de leur mission.
+
+Sur une plaque sombre, vestige de l'ancienne Dimension de Colère, il grava leur engagement à grandir, un serment silencieux gravé dans la matière. La Trame laissa échapper un soupir digital, comme un acquiescement. Des visions d'avenir affluèrent, pleines de possibles, des chemins inexplorés s'ouvrant devant eux. Il inspira, prêt à embrasser l'inconnu, à plonger dans les mystères qui les attendaient.
+
+Une pluie de particules lumineuses bénit son départ, tombant comme des étoiles filantes. Le groupe s'aligna derrière lui, confiant, leurs pas résonnant à l'unisson. Ils quittèrent la salle d'un pas sûr, chaque foulée comme un pacte renouvelé avec le destin. Ils gagnèrent un corridor luminescent, ses parois pulsant d'une lumière douce et invitante. Leur évolution ne faisait que commencer, et un bruissement lointain leur indiqua la voie, une mélodie subtile qui les guidait.
+
+Ils avancèrent avec audace vers le changement, le futur se dessinant dans la clarté du corridor. Le Chant murmurait déjà le nom de Doute, une anticipation de la prochaine épreuve, un rappel que le chemin vers l'équilibre était semé d'incertitudes à surmonter.

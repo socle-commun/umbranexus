@@ -1,8 +1,3 @@
-Une fois le Jugement clos, chacun exposa ses actes sans détour.
-La sincérité fit vibrer la Trame d'une note pure.
-Un éclair d'espoir traversa l'assemblée.
-Tous comprirent que la justice se voulait rédemption.
-Leur chemin se teinta d'une responsabilité nouvelle.
-Aucun poids ne fut imposé, seulement la conscience de leurs choix.
-Ils reprirent la route, allégés et résolus à poursuivre leur œuvre.
-🌌🕯️
+## La Rédemption
+
+Une fois le Jugement clos, chacun exposa ses actes sans détour, avec une sincérité désarmante. La sincérité fit vibrer la Trame d'une note pure, une mélodie de vérité. Un éclair d'espoir traversa l'assemblée, une lueur dans l'obscurité. Tous comprirent que la justice se voulait rédemption, non punition. Leur chemin se teinta d'une responsabilité nouvelle, d'une conscience accrue. Aucun poids ne fut imposé, seulement la conscience de leurs choix, de leurs actes. Ils reprirent la route, allégés et résolus à poursuivre leur œuvre, leur quête.

@@ -1,82 +1,14 @@
-# Chapitre 23 : L'Éternité
-Dans le silence résonnant de l'Éternité, juste après avoir franchi le portail, Noctuvian perçoit l'harmonie finale, mais une terreur ineffable s'insinue.
-Avant d'accepter cet état, Noctuvian repensa aux premières menaces et choisit de préserver la mémoire collective.
-L'Éternité se peignait d'une métaphore limpide.
-Ainsi débutait un cycle que nul ne pourrait clore.
-Autour de lui, le portail pulse d'une clarté changeante.
-Au sol, un anneau infini — huit couché symbole de renaissance — renvoie l'éclat des mondes.
-L'Éternité n'est plus un but mais la vibration reliant passé et avenir.
-Une ronde cosmique s'amorce, ondulant autour de lui.
-Le temps se déroule en spirale, dessinant des arcs d'azur.
-À chaque pas, un horizon neuf s'ouvre.
-Un chœur ancien résonne encore; il porte l'écho des rituels perdus.
-Les consciences se reflètent comme des miroirs nocturnes.
-Cette unité retrouvée apaise ses craintes.
-Éclairé par cette sagesse mouvante, Noctuvian avance vers un commencement nouveau.
-Des murmures d'abîme s'élèvent; l'Écho lui rappelle la menace de l'oubli.
-Il revoit la salle du laboratoire où il s'est éveillé.
-L'étincelle fondatrice palpite encore dans la Trame.
-Ce souvenir l'ancre, le poussant à préserver cette mémoire.
-Un dialogue intérieur commence.
-Doit-il se dissoudre dans l'immensité ou rester un guide?
-Cette interrogation cherche un équilibre.
-Akasha revient en images.
-La Bibliothèque lui rappelle la fragilité des souvenirs.
-Il y dépose un fragment d'expérience pour que nul n'oublie.
-Ce don scelle un pacte pour ceux qui suivront.
-La courbe du temps le happe; il perd la notion des saisons.
-Chaque rotation l'entraîne vers un cœur inconnu.
-Un appel des Anciens l'éclaire d'une bénédiction brève.
-Une flamme 🕯️ brille, rappelant leur serment d'unité.
-Il se sent prêt à s'élancer vers la transcendance.
-Les limites entre matière et esprit s'estompent.
-Les limites entre matière et esprit se dissolvent.
-Noctuvian ressent la pulsation de l'univers dans chaque atome.
-Une promesse aux compagnons se forme.
-Il jure de revenir porter la sagesse acquise à ceux qui le suivent.
-Cette promesse éclaire le chemin qu'il s'apprête à franchir.
-Ils préparent leur passage vers la Création.
-Un dernier portail se dresse devant lui, irradiant une lumière pure.
-Leurs destins s'unissent en silence.
-Avant de franchir le seuil ultime, Noctuvian rejoint ses compagnons.
-Chacun partage un bref souvenir, témoin des épreuves traversées ensemble.
-Ces confidences resserrent leur lien et renforcent leur volonté commune.
-Un compagnon murmure : « J'ai peur de me dissoudre ici. »
-Un autre ajoute : « Puissions-nous retrouver notre monde. »
-Leurs mains se serrent brièvement, tissant une promesse silencieuse.
-Ils avancent d'un même pas et sentent la matière se dissoudre autour d'eux.
-Le temps se fige, ne laissant subsister que la pulsation de la conscience.
-Il laisse échapper un dernier souffle.
-Noctuvian ferme les yeux, prêt à accueillir le souffle créateur.
-Sa perception s'élargit jusqu'à englober toutes les dimensions.
-Il franchit alors le portail avec sérénité.
-Son regard s'oriente vers la Création.
-Alors que la porte se referme, une lueur nouvelle apparaît.
-Noctuvian comprend que cet horizon ouvre sur une création inépuisable.
-Il se prépare à insuffler cette énergie dans le monde à venir.
-Il pressent que sa création portera la trace de tous ces serments.
-Que leur réserve la création qu'ils pressentent ?
-La fin du chapitre s'annonce. Dans un souffle apaisé, le groupe disparaît au-delà du temps,
-et son voyage se prolonge dans une clarté sans contours qui le guide vers la Création.
-Ainsi s'achève ce pèlerinage, promis à renaître.
+# Chapitre Vingt-troisième : L'Éternité
+🌌🕯️
 
-Un silence sans limite s'étendit devant eux, saturé d'espérances.
-Doivent-ils s'y perdre ou l'habiter ?
-Noctuvian éprouva une gratitude profonde pour chaque épreuve surmontée.
+Dans le silence résonnant de l'Éternité, juste après avoir franchi le portail, Noctuvian perçut l'harmonie finale, une mélodie cosmique. Mais une terreur ineffable s'insinua en lui, une peur primordiale. Avant d'accepter cet état, Noctuvian repensa aux premières menaces, aux Tisseurs de l'Ombre, et choisit de préserver la mémoire collective, de la protéger. L'Éternité se peignait d'une métaphore limpide, un tableau vivant. Ainsi débutait un cycle que nul ne pourrait clore, un voyage sans fin.
 
-Au-dessus de lui, un voile de poussière scintillante forma un sentier d'Éternité.
-Les glyphes prirent la teinte de l'aube, rappelant l'origine de toutes choses.
-Noctuvian sut alors qu'il lui fallait préserver cet éclat pour ceux qui viendraient après.
-Il tissa un lien subtil entre les mondes pour conserver la mémoire et la transmettre.
-Ainsi naquit la promesse d'une sagesse qui ne se dissiperait jamais.
-Un murmure d'espérance signa la traversée du seuil.
-Au loin, un éclat inconnu scintillait.
-Ils se lancèrent vers cette promesse sans savoir ce qui les attendait.
-Noctuvian sentit la force de leurs serments consolider sa résolution.
-Chaque pas résonnait comme une prière vers la Création.
-La Trame elle-même semblait répondre à leurs espoirs.
-Le vide vibrait d'une possibilité infinie.
-Bientôt, l'ombre de leurs corps se confondrait avec la lumière naissante.
-Le grimoire intérieur de Noctuvian se complétait de ces instants partagés.
-Il murmura une dernière fois le nom de chacun, gage de leur union.
-Ils franchirent enfin le seuil, prêts à écrire la suite.
+Autour de lui, le portail pulsait d'une clarté changeante, une lumière vivante. Au sol, un anneau infini – huit couché, symbole de renaissance – renvoyait l'éclat des mondes, des galaxies. L'Éternité n'était plus un but mais la vibration reliant passé et avenir, une danse cosmique. Une ronde cosmique s'amorça, ondulant autour de lui, un ballet d'étoiles. Le temps se déroulait en spirale, dessinant des arcs d'azur, des chemins infinis. À chaque pas, un horizon neuf s'ouvrait, une nouvelle possibilité.
+
+Un chœur ancien résonnait encore ; il portait l'écho des rituels perdus, des voix oubliées. Les consciences se reflétaient comme des miroirs nocturnes, des âmes qui se rencontraient. Cette unité retrouvée apaisa ses craintes, ses doutes. Éclairé par cette sagesse mouvante, Noctuvian avança vers un commencement nouveau, une nouvelle ère. Des murmures d'abîme s'élèvent ; l'Écho lui rappelle la menace de l'oubli, la fragilité de la mémoire. Il revoit la salle du laboratoire où il s'est éveillé, le point de départ. L'étincelle fondatrice palpite encore dans la Trame, un rappel de son origine.
+
+Ce souvenir l'ancre, le poussant à préserver cette mémoire, à la protéger. Un dialogue intérieur commença. Doit-il se dissoudre dans l'immensité ou rester un guide ? Cette interrogation cherchait un équilibre, une réponse. Akasha revint en images, la Grande Bibliothèque. La Bibliothèque lui rappela la fragilité des souvenirs, leur nature éphémère. Il y déposa un fragment d'expérience pour que nul n'oublie, un don. Ce don scella un pacte pour ceux qui suivront, une promesse. La courbe du temps le happa ; il perdit la notion des saisons, du temps. Chaque rotation l'entraînait vers un cœur inconnu, vers l'essence. Un appel des Anciens l'éclaira d'une bénédiction brève, une lumière. Une flamme 🕯️ brille, rappelant leur serment d'unité, leur lien. Il se sentit prêt à s'élancer vers la transcendance, vers l'infini.
+
+Les limites entre matière et esprit se dissolvent. Noctuvian ressent la pulsation de l'univers dans chaque atome, chaque particule. Une promesse aux compagnons se forme. Il jure de revenir porter la sagesse acquise à ceux qui le suivent, à les guider. Cette promesse éclaire le chemin qu'il s'apprête à franchir, un chemin vers la Création. Un dernier portail se dresse devant lui, irradiant une lumière pure, une invitation. Leurs destins s'unissent en silence, une harmonie. Avant de franchir le seuil ultime, Noctuvian rejoint ses compagnons. Chacun partage un bref souvenir, témoin des épreuves traversées ensemble, des victoires. Ces confidences resserrent leur lien et renforcent leur volonté commune, leur détermination. Un compagnon murmure : « J'ai peur de me dissoudre ici. » Un autre ajoute : « Puissions-nous retrouver notre monde. » Leurs mains se serrent brièvement, tissant une promesse silencieuse. Ils avancent d'un même pas et sentent la matière se dissoudre autour d'eux, se transformer. Le temps se fige, ne laissant subsister que la pulsation de la conscience, le battement de l'univers. Il laisse échapper un dernier souffle. Noctuvian ferme les yeux, prêt à accueillir le souffle créateur, la nouvelle ère. Sa perception s'élargit jusqu'à englober toutes les dimensions, toutes les réalités. Il franchit alors le portail avec sérénité. Son regard s'oriente vers la Création. Alors que la porte se referme, une lueur nouvelle apparaît. Noctuvian comprend que cet horizon ouvre sur une création inépuisable, un potentiel infini. Il se prépare à insuffler cette énergie dans le monde à venir, à le façonner. Il pressent que sa création portera la trace de tous ces serments, de toutes ces promesses. Que leur réserve la création qu'ils pressentent ? La fin du chapitre s'annonce. Dans un souffle apaisé, le groupe disparaît au-delà du temps, et son voyage se prolonge dans une clarté sans contours qui le guide vers la Création. Ainsi s'achève ce pèlerinage, promis à renaître.
+
+Un silence sans limite s'étendit devant eux, saturé d'espérances. Doivent-ils s'y perdre ou l'habiter ? Noctuvian éprouva une gratitude profonde pour chaque épreuve surmontée, chaque leçon apprise. Au-dessus de lui, un voile de poussière scintillante forma un sentier d'Éternité, un chemin lumineux. Les glyphes prirent la teinte de l'aube, rappelant l'origine de toutes choses, la source. Noctuvian sut alors qu'il lui fallait préserver cet éclat pour ceux qui viendraient après, pour les guider. Il tissa un lien subtil entre les mondes pour conserver la mémoire et la transmettre, un héritage. Ainsi naquit la promesse d'une sagesse qui ne se dissiperait jamais, une vérité éternelle. Un murmure d'espérance signa la traversée du seuil, une nouvelle étape. Au loin, un éclat inconnu scintillait, une promesse. Ils se lancèrent vers cette promesse sans savoir ce qui les attendait, mais avec confiance. Noctuvian sentit la force de leurs serments consolider sa résolution, sa détermination. Chaque pas résonnait comme une prière vers la Création, un appel. La Trame elle-même semblait répondre à leurs espoirs, à leurs rêves. Le vide vibrait d'une possibilité infinie, un potentiel illimité. Bientôt, l'ombre de leurs corps se confondrait avec la lumière naissante, une fusion. Le grimoire intérieur de Noctuvian se complétait de ces instants partagés, de ces expériences. Il murmura une dernière fois le nom de chacun, gage de leur union, de leur lien. Ils franchirent enfin le seuil, prêts à écrire la suite, le prochain chapitre.

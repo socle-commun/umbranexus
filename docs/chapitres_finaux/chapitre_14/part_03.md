@@ -1,24 +1,9 @@
-Un silence vibrant suivit l'affrontement.
-Colère se retira, laissant un brasier d'opportunités.
-Noctuvian ramassa une braise rougeoyante.
-La braise pulsa dans sa paume.
-Le tison diffusa sa puissance.
-Il souffla la Tempérance pour la contenir.
-Les compagnons dressèrent un autel improvisé.
-Chaque geste libérait une énergie ascendante.
-Aether grava des glyphes.
-Élan frappa le sol pour stabiliser la Trame.
-Mnémosyne chanta pour raviver les souvenirs perdus.
-Le feu se changea en lumière concentrée.
-Noctuvian la modela en arme symbolique.
-« Je la maîtrise », souffla‑t‑il.
-« Ne fléchis pas », répondit Prudence.
-L'outil vibra, prêt à ouvrir un portail.
-Leurs regards se croisèrent, résolus.
-Chaque cœur battait au rythme de la forge nouvelle.
-La colère transmutée devint promesse d'avenir.
-Ils rangèrent l'arme, conscients du chemin.
-Un vent de renouveau souffla sur la salle.
-Ils quittèrent le lieu sans se retourner.
-La clameur du monde extérieur les appela.
-Ensemble, ils avancèrent vers la prochaine épreuve.
+## Le Sceptre de Lumière
+
+Un silence vibrant, lourd de la transformation qui venait de s'opérer, suivit l'affrontement. Colère se retira, laissant derrière elle non pas des ruines, mais un brasier d'opportunités, une énergie brute prête à être modelée. Noctuvian s'approcha du centre de la pièce et ramassa une braise rougeoyante, un fragment incandescent de la fureur transmutée. La braise pulsa dans sa paume, une chaleur intense mais non brûlante. Le tison diffusa sa puissance, une force contenue et prête à l'action. Il souffla la Tempérance pour la contenir, un geste symbolique qui liait cette énergie à la sagesse.
+
+Les compagnons dressèrent un autel improvisé, un cercle de pierres polies par le temps. Chaque geste libérait une énergie ascendante, une prière silencieuse à la Force retrouvée. Aether grava des glyphes complexes sur la pierre, des symboles d'équilibre et de transformation. Élan frappa le sol de son bâton, un son sourd qui stabilisa la Trame, l'ancrant dans cette nouvelle réalité. Mnémosyne chanta, sa voix cristalline ravivant les souvenirs perdus, les fragments de l'ancienne Colère qui pouvaient désormais être intégrés.
+
+Le feu se changea en lumière concentrée, une sphère d'énergie pure et vibrante. Noctuvian la modela en une arme symbolique, un sceptre de lumière incandescente, non pas pour détruire, mais pour guider et forger. « Je la maîtrise », souffla-t-il, sentant la puissance de Colère désormais à son service. « Ne fléchis pas », répondit Prudence, son regard empli de confiance. L'outil vibra, prêt à ouvrir un portail, à révéler de nouveaux chemins. Leurs regards se croisèrent, résolus, chaque cœur battant au rythme de la forge nouvelle. La colère transmutée devint promesse d'avenir, un outil pour bâtir plutôt que pour détruire.
+
+Ils rangèrent l'arme, conscients du chemin qu'il restait à parcourir. Un vent de renouveau souffla sur la salle, emportant les dernières traces de l'ancienne fureur. Ils quittèrent le lieu sans se retourner, la clameur du monde extérieur les appelant. Ensemble, ils avancèrent vers la prochaine épreuve, plus forts et plus unis que jamais.

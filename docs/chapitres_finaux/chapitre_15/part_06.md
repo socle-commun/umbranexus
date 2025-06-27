@@ -1,34 +1,11 @@
-Dans le corridor qui menait vers la Dimension de Doute, les miroirs se firent plus nombreux.
-Chaque miroir révélait un fragment d'avenir incertain, éclat de mémoire promis à se disperser.
-Prudence observa longuement une vision où le groupe se perdait.
-Force brisa ce reflet d'un simple geste.
-"N'écoutez pas ces illusions", dit-elle, assurée.
-Les voyageurs hochèrent la tête et reprirent leur marche, portés par le Chant de Qālmān.
+## Le Chemin de l'Incertitude
 
-Un carrefour se présenta, entouré de lueurs mouvantes.
-Noctuvian sentit les bribes d'un questionnement sourdre sous leurs pas.
-Aether posa la main au sol et perçut des pulsations désaccordées.
-"Le doute ronge cette intersection", murmura-t-il.
-Lumina dessina un symbole de lumière pour contenir les vibrations instables.
+Dans le corridor qui menait vers la Dimension de Doute, les miroirs se firent plus nombreux, leurs surfaces reflétant des fragments d'avenir incertain, des éclats de mémoire promis à se disperser. Prudence observa longuement une vision où le groupe se perdait dans un labyrinthe d'hésitations. Force brisa ce reflet d'un simple geste, sa main traversant la surface du miroir comme si elle était faite de fumée. « N'écoutez pas ces illusions », dit-elle, sa voix assurée, un roc dans la tempête.
 
-Le Chant se fit plus grave, marquant la transition vers un territoire de plus en plus flou.
-Les murs semblaient respirer, aspirant leurs propres pensées.
-Mnémosyne évoqua les fragments oubliés — bribes de runes jadis étudiées — qui menaient à cette dimension.
-Elle invita chacun à choisir un souvenir fondateur pour affronter l'incertitude.
+Les voyageurs hochèrent la tête et reprirent leur marche, portés par le Chant de Qālmān, leur ancre dans ce monde d'incertitude. Un carrefour se présenta, entouré de lueurs mouvantes, des lumières fantomatiques qui dansaient et se tordaient. Noctuvian sentit les bribes d'un questionnement sourdre sous leurs pas, des voix intérieures qui murmuraient des doutes. Aether posa la main au sol et perçut des pulsations désaccordées, des dissonances qui résonnaient avec ses propres peurs. « Le doute ronge cette intersection », murmura-t-il, son visage pâle.
 
-Le groupe partagea alors des souvenirs fugaces.
-Un rire d'enfance.
-Une étincelle d'aventure.
-La première rencontre autour du grimoire.
-Ces mémoires formèrent un écho réconfortant qui repoussa les ombres.
+Lumina dessina un symbole de lumière pour contenir les vibrations instables, un bouclier éphémère contre l'assaut des incertitudes. Le Chant se fit plus grave, marquant la transition vers un territoire de plus en plus flou, où les murs semblaient respirer, aspirant leurs propres pensées. Mnémosyne évoqua les fragments oubliés – des bribes de runes jadis étudiées – qui menaient à cette dimension. Elle invita chacun à choisir un souvenir fondateur, un pilier de certitude, pour affronter l'incertitude.
 
-Ils reprirent la route, traversant un long tunnel bordé de cristaux sombres.
-À chaque pas, une image de doute se formait, aussitôt dissipée par leur volonté commune.
-Noctuvian chanta doucement pour accompagner leur avancée.
-Force traçait un signe sur chaque paroi, scellant le passage derrière eux.
+Le groupe partagea alors des souvenirs fugaces, des éclats de bonheur et de détermination : un rire d'enfance, une étincelle d'aventure, la première rencontre autour du grimoire. Ces mémoires formèrent un écho réconfortant qui repoussa les ombres, créant un espace de clarté au milieu du chaos. Ils reprirent la route, traversant un long tunnel bordé de cristaux sombres. À chaque pas, une image de doute se formait, aussitôt dissipée par leur volonté commune, par la force de leurs souvenirs partagés. Noctuvian chanta doucement pour accompagner leur avancée, sa voix un phare dans l'obscurité. Force traçait un signe sur chaque paroi, scellant le passage derrière eux, coupant les ponts avec les hésitations passées.
 
-Au terme du tunnel, une dernière lueur s'éteignit.
-La Dimension de Doute s'étendait désormais devant eux, vaste et inconnue.
-Tous respirèrent profondément, conscients de l'épreuve à venir.
-Ils se tinrent prêts à affronter l'incertitude qui les attendait.
-🌌🕯️
+Au terme du tunnel, une dernière lueur s'éteignit. La Dimension de Doute s'étendait désormais devant eux, vaste et inconnue, un océan d'incertitudes. Tous respirèrent profondément, conscients de l'épreuve à venir, mais prêts à l'affronter. Ils se tinrent prêts à affronter l'incertitude qui les attendait, unis par leur détermination.

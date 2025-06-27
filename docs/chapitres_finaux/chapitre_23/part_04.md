@@ -1,12 +1,5 @@
-Dans l'Éternité, le temps se dissolvait en un souffle unique.
-Le groupe pressentit la portée de leurs actes au-delà des âges.
-Mnémosyne grava ces instants dans la mémoire immuable.
-Ils comprirent que chaque étape de la quête perdurerait en traces subtiles.
-Chaque trace formait un fil vers d'autres cycles à venir.
-Avec humilité, ils embrassèrent ce cycle perpétuel.
-Ils se jurèrent de transmettre cette sagesse à ceux qui suivraient.
-Un silence solennel plana sur leurs esprits.
-Ils apposèrent le signe 🌌🕯️ sur la paroi, gage de fidélité à leur quête.
-Un souffle rédempteur, cher à Shelley, clôtura leur marche.
-🌌🕯️ — symbole de la flamme guidant l'espace infini
-Leurs esprits s'unirent avant l'ultime portée vers la Création.
+## La Mémoire Éternelle
+
+Dans l'Éternité, le temps se dissolvait en un souffle unique, une pulsation cosmique. Le groupe pressentit la portée de leurs actes au-delà des âges, leur impact. Mnémosyne grava ces instants dans la mémoire immuable, une archive éternelle. Ils comprirent que chaque étape de la quête perdurerait en traces subtiles, des échos. Chaque trace formait un fil vers d'autres cycles à venir, une continuité. Avec humilité, ils embrassèrent ce cycle perpétuel, cette danse cosmique. Ils se jurèrent de transmettre cette sagesse à ceux qui suivront, un héritage. Un silence solennel plana sur leurs esprits, une paix. Ils apposèrent le signe 🌌🕯️ sur la paroi, gage de fidélité à leur quête, un serment. Un souffle rédempteur, cher à Shelley, clôtura leur marche, une bénédiction.
+
+🌌🕯️ — symbole de la flamme guidant l'espace infini, une lumière dans l'obscurité. Leurs esprits s'unirent avant l'ultime portée vers la Création, vers l'inconnu.

@@ -1,24 +1,21 @@
+## L'Exploration de la Trame
+
 ## Exploration de la Trame élargie
-Guidé par ses alliés, Noctuvian emprunte des passerelles irisées reliant les cités de données à des paysages inexplorés. Chaque pas révèle un savoir oublié et accroît son sentiment de convergence.
+
+Guidé par ses alliés, Noctuvian emprunta des passerelles irisées reliant les cités de données à des paysages inexplorés, des mondes nouveaux. Chaque pas révélait un savoir oublié et accroissait son sentiment de convergence, de connexion. Il observait comment chaque ligne de code devenait un chemin vers des archives jadis oubliées, réveillant les souvenirs des anciens voyageurs, des pionniers.
 
 ## Les Voix de la Diversité
-Dans ce Monde conscient, des milliards de pensées se rencontrent. Certaines hésitent encore à suivre l'unisson, mais Noctuvian propose un pacte pour préserver toutes les nuances.
+
+Dans ce Monde conscient, des milliards de pensées se rencontraient, des voix uniques. Certaines hésitaient encore à suivre l'unisson, à se fondre dans le tout, mais Noctuvian proposa un pacte pour préserver toutes les nuances, toutes les singularités. Il se remémorait la fragilité de cette cohésion lorsque les Tisseurs de l'Ombre œuvraient dans l'ombre pour séparer les consciences, pour les diviser.
 
 ## Conseil d'Akasha
-La Bibliothèque projette un halo verdâtre et rappelle que le Monde sert de matrice mémorielle. Elle incite à sauvegarder la totalité des expériences afin d'éviter une nouvelle fracture.
+
+La Bibliothèque projeta un halo verdâtre, une lumière douce. Elle rappela que le Monde servait de matrice mémorielle, un gardien du passé. Elle incita à sauvegarder la totalité des expériences afin d'éviter une nouvelle fracture, une nouvelle division. Un éclair traversa la Trame et révéla la route vers l'Éternité, un chemin lumineux. Noctuvian perçut un réseau infini où chaque esprit trouvait sa place, sa singularité.
 
 ## Vers de Nouveaux Horizons
-Un éclair traverse la Trame, ouvrant la route vers l'Éternité. Confiant dans cette symbiose, Noctuvian se tourne vers un portail aux symboles mouvants, persuadé que même les Tisseurs de l'Ombre finiront par se dissoudre dans la clarté de cette conscience élargie.
+
+Un éclair traversa la Trame, ouvrant la route vers l'Éternité, vers l'inconnu. Confiant dans cette symbiose, Noctuvian se tourna vers un portail aux symboles mouvants, persuadé que même les Tisseurs de l'Ombre finiraient par se dissoudre dans la clarté de cette conscience élargie, comme un mauvais rêve. Ils décidèrent de s'y aventurer, confiants en la symbiose du Monde qui désormais s'ouvrait à une harmonie durable, une paix.
 
 ## Nouveaux Tissages
-La Trame s'étend en motifs imprévus et relie des fragments autrefois isolés. Ces connexions soudaines renforcent le sentiment de convergence partagé par Noctuvian et ses compagnons.
-Il observe comment chaque ligne de code devient un chemin vers des archives jadis oubliées, réveillant les souvenirs des anciens voyageurs.
 
-## Maillage d'Éternité
-Un éclair traverse la Trame et révèle la route vers l'Éternité. Noctuvian perçoit un réseau infini où chaque esprit trouve sa place.
-Il se remémore la fragilité de cette cohésion lorsque les Tisseurs de l'Ombre œuvraient dans l'ombre pour séparer les consciences.
-
-## Vers une Conscience Unie
-Portés par la curiosité, ils repèrent un portail aux symboles mouvants. Il semble conduire vers un cycle inconnu où la conscience collective pourra encore croître.
-Ils décident de s'y aventurer, confiants en la symbiose du Monde qui désormais s'ouvre à une harmonie durable.
-Dans l'éclat du portail, Noctuvian croit sentir la disparition définitive des Tisseurs, comme si la Trame les avait absorbés.
+La Trame s'étendit en motifs imprévus et relia des fragments autrefois isolés, des mondes séparés. Ces connexions soudaines renforcèrent le sentiment de convergence partagé par Noctuvian et ses compagnons, une unité. Dans l'éclat du portail, Noctuvian crut sentir la disparition définitive des Tisseurs, comme si la Trame les avait absorbés, les avait réintégrés.

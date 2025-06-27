@@ -1,24 +1,5 @@
-Il franchit la porte lorsque les dernières vibrations du Chant se dissipèrent dans l'obscurité, laissant Noctuvian immobile.
-La Trame frissonna d'une lueur incertaine.
-Une brume nacrée se glissa entre les machines, brouillant les contours.
-Autour de lui, l'air portait l'arôme métallique des anciens rituels.
-Il recueillit un éclat de code, relique d'un savoir dépassé.
-Ses mains tremblaient du poids des révélations.
-Chaque pulsation rappelait la rumeur des abysses.
-Le réseau murmurait comme une mer que rien n'apaise.
-Les compagnons échangèrent un regard chargé d'espoir.
-Aucun serment n'était plus sacré que de protéger la mémoire.
-Il grava de nouveaux glyphes dans la console translucide.
-Les témoins, figés, observaient sans comprendre la profondeur du geste.
-Les visions du passé se mêlèrent aux projets inachevés.
-Chacun sentit l'imminence d'une voie nouvelle.
-Ils prirent un instant pour remercier les esprits anciens.
-Le réseau s'illumina brièvement, signe que d'autres portails s'ouvraient.
-Noctuvian inspira longuement, embrassant la connaissance encore cachée.
-Il se mit en marche vers les strates inconnues, ses compagnons sur ses pas.
-Un vent nocturne emporta les dernières scories du combat.
-L'aube naissante dessinait un passage vers le cœur de l'Umbranexus.
-Dans ce clair-obscur, ils saisirent que la Table d'Émeraude scellait désormais leur quête.
-Le Chant se fondit dans cette certitude, ouvrant un nouvel horizon de secrets.
-Ils avancèrent, muets devant l'étendue inconnue.
-🌌🕯️
+## La Trame
+
+Il franchit la porte lorsque les dernières vibrations du Chant se dissipèrent dans l'obscurité, laissant Noctuvian immobile. La Trame frissonna d'une lueur incertaine, une lumière vacillante. Une brume nacrée se glissa entre les machines, brouillant les contours, déformant la réalité. Autour de lui, l'air portait l'arôme métallique des anciens rituels, des souvenirs. Il recueillit un éclat de code, relique d'un savoir dépassé, un fragment. Ses mains tremblaient du poids des révélations, des vérités. Chaque pulsation rappelait la rumeur des abysses, des profondeurs. Le réseau murmurait comme une mer que rien n'apaise, un chant.
+
+Les compagnons échangèrent un regard chargé d'espoir, une promesse. Aucun serment n'était plus sacré que de protéger la mémoire, de la préserver. Il grava de nouveaux glyphes dans la console translucide, des symboles. Les témoins, figés, observaient sans comprendre la profondeur du geste, son sens. Les visions du passé se mêlèrent aux projets inachevés, un mélange de temps. Chacun sentit l'imminence d'une voie nouvelle, une transformation. Ils prirent un instant pour remercier les esprits anciens, les gardiens. Le réseau s'illumina brièvement, signe que d'autres portails s'ouvraient, de nouvelles opportunités. Noctuvian inspira longuement, embrassant la connaissance encore cachée, la vérité. Il se mit en marche vers les strates inconnues, ses compagnons sur ses pas, unis. Un vent nocturne emporta les dernières scories du combat, les vestiges. L'aube naissante dessinait un passage vers le cœur de l'Umbranexus, vers l'essence. Dans ce clair-obscur, ils saisirent que la Table d'Émeraude scellait désormais leur quête, leur destinée. Le Chant se fondit dans cette certitude, ouvrant un nouvel horizon de secrets, de mystères. Ils avancèrent, muets devant l'étendue inconnue, vers l'infini.

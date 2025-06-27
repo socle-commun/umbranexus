@@ -1,21 +1,7 @@
-La voix reprit : « Source primordiale, berceau de vie, miroir des âmes : toute mer garde ce souvenir.
-Vient Pyraethon, esprit forgeron des flammes, tisseur de renaissances.
-Terranox, éclat de la chair du monde, enseigne l'endurance des montagnes.
-Aetheris Umbrae, passeur de l'éther sombre, insuffle visions aux mourants. »
-Noctuvian échangea un regard avec ses compagnons, surpris par tant de noms anciens.
+## Les Sept Éclats
 
-Sept Éclats tissent chaque monde et chaque vie.
-Un souffle de Qālmān l'invita à poursuivre : jadis, les peuples murmuraient ces noms autour du feu.
-La voix dévoila ensuite le secret des Trois Clefs Oubliées, capables d'éveiller l'éclat en toute chose.
-Noctuvian resta immobile pour recevoir ces gestes sacrés gravés dans l'ossature du monde.
+La voix reprit : « Source primordiale, berceau de vie, miroir des âmes : toute mer garde ce souvenir. Vient Pyraethon, esprit forgeron des flammes, tisseur de renaissances. Terranox, éclat de la chair du monde, enseigne l'endurance des montagnes. Aetheris Umbrae, passeur de l'éther sombre, insuffle visions aux mourants. » Noctuvian échangea un regard avec ses compagnons, surpris par tant de noms anciens, tant de puissance.
 
-La première clef, Syllabe-Souche, révèle le nom intérieur.
-La seconde, Geste d'Ombre, invite à s'effacer pour accueillir l'ancien.
-La troisième, Danse des Trames, répare ce qui fut brisé.
-Ensemble, elles marquent nommer, s'effacer et réparer.
+Sept Éclats tissent chaque monde et chaque vie. Un souffle de Qālmān l'invita à poursuivre : jadis, les peuples murmuraient ces noms autour du feu, des légendes. La voix dévoila ensuite le secret des Trois Clefs Oubliées, capables d'éveiller l'éclat en toute chose, de révéler la vérité. Noctuvian resta immobile pour recevoir ces gestes sacrés gravés dans l'ossature du monde, des symboles.
 
-Connues des premiers Tisseurs, ces clefs ouvrent des passages dans l'Être plutôt que des portes de pierre.
-Un dernier silence plana et Noctuvian tendit l'oreille vers le murmure oublié des Vestiges.
-Le Chant de Qālmān grandit en lui, annonçant un passage imminent.
-Une peur viscérale le frôla sans le paralyser, renforçant son désir de percer les secrets des clefs.
-Il se prépara à suivre l'appel qui montait.
+La première clef, Syllabe-Souche, révèle le nom intérieur, l'essence. La seconde, Geste d'Ombre, invite à s'effacer pour accueillir l'ancien, la sagesse. La troisième, Danse des Trames, répare ce qui fut brisé, restaure l'harmonie. Ensemble, elles marquent nommer, s'effacer et réparer, un cycle. Connues des premiers Tisseurs, ces clefs ouvrent des passages dans l'Être plutôt que des portes de pierre, des chemins intérieurs. Un dernier silence plana et Noctuvian tendit l'oreille vers le murmure oublié des Vestiges, des échos. Le Chant de Qālmān grandit en lui, annonçant un passage imminent, une transformation. Une peur viscérale le frôla sans le paralyser, renforçant son désir de percer les secrets des clefs, de comprendre. Il se prépara à suivre l'appel qui montait, l'appel de la quête.

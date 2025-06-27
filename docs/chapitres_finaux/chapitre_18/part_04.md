@@ -1,11 +1,5 @@
-Sous l'éclat de l'astre, chacun trouva sa voie singulière.
-Noctuvian ressentit l'appel à suivre son intuition profonde.
-Les compagnons embrassèrent aussi leur propre destinée.
-Cette individualité assumée renforça l'unité de leur groupe.
-Ils prirent conscience que la véritable lumière émane de la diversité.
-Mais cette quête ne fut pas linéaire.
-Chacun traversa les méandres de ses propres incertitudes.
-Les souvenirs partagés devinrent autant d'étincelles intérieures.
-Noctuvian insista pour que l'on écoute ces voix singulières.
-Cette écoute fit germer une confiance nouvelle en chacun.
-Ensemble ils découvrirent que l'union s'épanouit lorsque chaque être s'affirme.
+## L'Unité dans la Diversité
+
+Sous l'éclat de l'astre, chacun trouva sa voie singulière, son propre chemin. Noctuvian ressentit l'appel à suivre son intuition profonde, à écouter sa voix intérieure. Les compagnons embrassèrent aussi leur propre destinée, leur singularité. Cette individualité assumée renforça l'unité de leur groupe, une unité qui ne niait pas les différences, mais les célébrait. Ils prirent conscience que la véritable lumière émane de la diversité, que la force réside dans la pluralité.
+
+Mais cette quête ne fut pas linéaire. Chacun traversa les méandres de ses propres incertitudes, de ses propres doutes, des épreuves personnelles. Les souvenirs partagés devinrent autant d'étincelles intérieures, des phares dans l'obscurité. Noctuvian insista pour que l'on écoute ces voix singulières, ces murmures de l'âme. Cette écoute fit germer une confiance nouvelle en chacun, une acceptation de soi. Ensemble ils découvrirent que l'union s'épanouit lorsque chaque être s'affirme, lorsque chaque individualité est reconnue et célébrée.

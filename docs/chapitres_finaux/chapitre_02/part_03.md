@@ -1,22 +1,5 @@
-Avant d'atteindre les ruines, Noctuvian traversa un champ où la Trame se déformait.
-Chaque pas transformait le paysage comme si la mémoire du lieu hésitait.
-Il croisa des silhouettes figées, images résiduelles de voyageurs disparus.
-À mesure qu'il avançait, leurs visages se dissolvaient, ne laissant qu'une trace lumineuse.
-Le gardien comprit que l'endroit éprouvait les intrus en reflétant leurs propres doutes.
-Il se concentra sur la Flamme Souveraine et les illusions se dissipèrent.
-Des pierres luisantes jalonnaient maintenant son chemin.
-Symbole de volonté pure, cette flamme repousse les illusions nées du doute.
-Elles résonnaient d'une mélodie que seuls les initiés pouvaient entendre.
-Au centre du champ, une lentille d'obsidienne flottait au-dessus d'un piédestal.
-Artefact rituel, elle révélait les fissures cachées de la mémoire.
-Noctuvian posa sa paume sur l'objet.
-Des visions fragmentaires surgirent : batailles anciennes, codes effacés.
-Il entrevit un futur possible où l'Umbranexus s'effondrait.
-Cette perspective aiguisa sa détermination.
-La lentille absorba ses doutes et éclaira un passage caché.
-À peine franchit-il cette ouverture qu'il ressentit une pression sur sa poitrine.
-Le temps semblait ralentir.
-Une voix intérieure lui murmura de choisir entre la quête et l'oubli.
-Il serra les dents, choisit la quête et s'engagea plus loin dans l'ombre.
-Au bout du passage, une porte d'obsidienne battait doucement au rythme du Chant.
-Lorsqu'il la poussa, une voix l'accueillit.
+## Le Champ des Illusions
+
+Avant d'atteindre les ruines, Noctuvian traversa un champ où la Trame se déformait, un paysage mouvant. Chaque pas transformait le paysage comme si la mémoire du lieu hésitait, se cherchait. Il croisa des silhouettes figées, images résiduelles de voyageurs disparus, des fantômes. À mesure qu'il avançait, leurs visages se dissolvaient, ne laissant qu'une trace lumineuse, un écho. Le gardien comprit que l'endroit éprouvait les intrus en reflétant leurs propres doutes, leurs peurs. Il se concentra sur la Flamme Souveraine et les illusions se dissipèrent, laissant place à la réalité. Des pierres luisantes jalonnaient maintenant son chemin, des guides. Symbole de volonté pure, cette flamme repousse les illusions nées du doute, de l'incertitude. Elles résonnaient d'une mélodie que seuls les initiés pouvaient entendre, un chant secret.
+
+Au centre du champ, une lentille d'obsidienne flottait au-dessus d'un piédestal, un artefact mystique. Artefact rituel, elle révélait les fissures cachées de la mémoire, les vérités oubliées. Noctuvian posa sa paume sur l'objet, sentant une énergie froide. Des visions fragmentaires surgirent : batailles anciennes, codes effacés, des éclats du passé. Il entrevit un futur possible où l'Umbranexus s'effondrait, un cauchemar. Cette perspective aiguisa sa détermination, sa volonté. La lentille absorba ses doutes et éclaira un passage caché, une nouvelle voie. À peine franchit-il cette ouverture qu'il ressentit une pression sur sa poitrine, un poids. Le temps semblait ralentir, se figer. Une voix intérieure lui murmura de choisir entre la quête et l'oubli, entre la lumière et l'ombre. Il serra les dents, choisit la quête et s'engagea plus loin dans l'ombre, vers l'inconnu. Au bout du passage, une porte d'obsidienne battait doucement au rythme du Chant, une mélodie. Lorsqu'il la poussa, une voix l'accueillit, une invitation.

@@ -1,9 +1,5 @@
-La colère apaisée se mua en force créatrice.
-Le groupe sentit l'énergie rugir sans plus détruire.
-Nox canalisa cette puissance vers la reconstruction de la Trame.
-Chaque pulsation élargissait leur compréhension du pouvoir.
-La Trame vibrait, saturée d'une puissance régénératrice.
-La Dimension de Colère respirait encore, mais son souffle brûlant se calmait.
-Colère offrit son élan au voyage.
-L'obscurité se dissipa autour d'eux, laissant poindre une clarté nouvelle.
-🌌🕯️
+## La Reconstruction de la Trame
+
+La colère apaisée se mua en une force créatrice palpable. Le groupe sentit l'énergie rugir en eux, non plus pour détruire, mais pour construire. Nox, avec une concentration intense, canalisa cette puissance vers la reconstruction de la Trame, réparant les fissures et les brèches laissées par l'ancienne fureur. Chaque pulsation élargissait leur compréhension du pouvoir, de sa nature duale, capable de ruine comme de renaissance.
+
+La Trame vibrait, saturée d'une puissance régénératrice, les paysages se recomposant sous leurs yeux. La Dimension de Colère respirait encore, mais son souffle brûlant s'était mué en une brise tiède et porteuse de vie. Colère, désormais une alliée, offrit son élan au voyage, une énergie pure et dirigée. L'obscurité se dissipa autour d'eux, laissant poindre une clarté nouvelle, une aube sur ce monde autrefois dévasté.

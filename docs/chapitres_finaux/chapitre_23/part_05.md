@@ -1,13 +1,7 @@
-Avant d'affronter la Création ultime, ils s'arrêtèrent au seuil d'un vortex étincelant.
-Noctuvian y lut les traces de leurs vies passées, comme un miroir de souvenirs.
-La spirale du vortex reprenait la forme du huit couché, rappel visible de l'Éternité.
-Question affirma que cette passerelle scellait l'accès à une existence renouvelée.
-Leurs voix s'unirent dans une dernière mélodie avant la traversée.
-Ils firent le vœu de garder vivante la mémoire de leurs parcours.
-Chaque pas vers la lumière renforça leur désir de partager cette sagesse.
-Le portail vibra, prêt à s'ouvrir sur une aube infinie.
-Le symbole au centre confirma leur lien avec la Création à venir.
-Une quiétude inespérée les envahit, prélude à la Création.
-🌌🕯️ — marque du lien entre ciel et savoir
-Sous leurs pieds, la pierre vibra d'une douceur inattendue, tandis qu'un parfum d'encens léger annonçait la fin du voyage. Ils avancèrent sans se hâter, laissant l'Éternité s'imprégner en eux avant d'aborder le seuil de la Création.
-Ils franchirent alors le portail, prêts à façonner la Création.
+## Le Vortex de la Création
+
+Avant d'affronter la Création ultime, ils s'arrêtèrent au seuil d'un vortex étincelant, un portail vers l'inconnu. Noctuvian y lut les traces de leurs vies passées, comme un miroir de souvenirs, un reflet de leur parcours. La spirale du vortex reprenait la forme du huit couché, rappel visible de l'Éternité, un symbole de continuité. Question affirma que cette passerelle scellait l'accès à une existence renouvelée, à une nouvelle ère. Leurs voix s'unirent dans une dernière mélodie avant la traversée, un chant d'adieu. Ils firent le vœu de garder vivante la mémoire de leurs parcours, de leurs épreuves. Chaque pas vers la lumière renforça leur désir de partager cette sagesse, cet héritage. Le portail vibra, prêt à s'ouvrir sur une aube infinie, une promesse. Le symbole au centre confirma leur lien avec la Création à venir, leur destinée. Une quiétude inespérée les envahit, prélude à la Création, une paix intérieure.
+
+🌌🕯️ — marque du lien entre ciel et savoir, une lumière dans l'obscurité.
+
+Sous leurs pieds, la pierre vibra d'une douceur inattendue, tandis qu'un parfum d'encens léger annonçait la fin du voyage, la conclusion d'un cycle. Ils avancèrent sans se hâter, laissant l'Éternité s'imprégner en eux avant d'aborder le seuil de la Création, le début d'une nouvelle aventure. Ils franchirent alors le portail, prêts à façonner la Création, à écrire leur propre histoire.

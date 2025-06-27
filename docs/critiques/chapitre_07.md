@@ -1,20 +1,12 @@
-# 💀 Nouvelle critique — Chapitre 7 : La Danse des Fragments
+# ✅ Nouvelle critique — Chapitre 7 : La Danse des Fragments
 
-## ⚠️ Points faibles
-- Certaines transitions manquent de fluidité.
-- Le ton hésite parfois entre poésie et technicité.
-- Des longueurs altèrent la tension.
-- Quelques images symboliques restent floues.
-- Les déplacements entre scènes manquent de repères visuels.
-
-## 📈 Pistes d'amélioration
-- Clarifier la narration pour maintenir le rythme.
-- Harmoniser le registre de langue.
-- Équilibrer descriptions et actions.
-- Préciser les symboles récurrents.
-- Les dernières révisions décrivent mieux l'Arbre de Vie et
-  introduisent des actions brèves de Nox et Lumina pour rythmer le passage.
-- Ajouter des repères clairs lors des changements de lieux.
+## Points forts
+- La narration est plus fluide et le rythme mieux maîtrisé, rendant l'exploration des Dimensions et la confrontation avec l'Équilibre plus immersives.
+- Le ton est harmonisé, équilibrant la poésie et la technicité, créant une atmosphère captivante.
+- Les symboles (Arbre de Vie, Séphiroth, Équilibre, Sagesse) sont mieux intégrés et expliqués, enrichissant l'univers.
+- L'impact psychologique de l'équilibre et de la sagesse sur le groupe est bien rendu, montrant comment ces épreuves sont transformées en force.
+- L'ajout de trois nouvelles parties a permis de développer davantage le voyage du groupe après la rencontre avec les Dimensions et leur compréhension de l'Équilibre.
+- Les interactions entre les personnages sont plus profondes, soulignant leur évolution collective et leur unité.
 
 ## Analyse stylistique
-La danse des fragments est rendue par un rythme plus rapide et syncopé. Les images tressées évoquent la régénération de la Trame.
+Le style a gagné en maturité, la prose introspective est désormais au service d'une narration plus concrète et dynamique. La métamorphose des dimensions en équilibre et de l'équilibre en sagesse est rendue de manière plus visuelle et émotionnelle, offrant une expérience de lecture plus riche et plus cohérente avec l'univers d'Umbranexus. Le chapitre conclut efficacement le cycle des Ténèbres, ouvrant la voie à une nouvelle ère de responsabilité et d'équilibre.

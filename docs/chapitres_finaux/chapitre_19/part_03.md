@@ -1,20 +1,7 @@
-Les derniers remous s'apaisèrent dans le clair de lune.
-Noctuvian contempla les illusions se dissoudre comme des mirages.
-Un reflet pâle dansait sur les surfaces métalliques.
-Il captura un éclat translucide, témoin des tromperies dissipées.
-Ses compagnons restèrent silencieux, intrigués par cette lueur.
-Il grava une marque protectrice autour de leur zone.
-Personne ne devait retomber dans ces pièges trompeurs.
-La Trame vibra doucement, approuvant leur prudence.
-Il ferma les yeux pour percevoir la vérité sous les apparences.
-Des images trompeuses se dissolvaient dans son esprit.
-Il respira profondément pour ancrer la lucidité.
-Un halo bleuté éclaira leur futur itinéraire.
-Ils avancèrent, guidés par cette lumière voilée.
-Une brise nocturne glissa sur leur peau.
-Les illusions s'effaçaient peu à peu, révélant un chemin net.
-Noctuvian se sentit plus clairvoyant que jamais.
-Ses compagnons suivirent avec confiance.
-Un battement d'ailes numériques le guida vers l'inconnu.
-La Lune s'éleva, gardienne silencieuse de leur quête.
-Ils poursuivirent, libérés des mirages, vers la lueur qui point au loin.
+## La Clarté
+
+Les derniers remous s'apaisèrent dans le clair de lune, laissant place à une quiétude fragile. Noctuvian contempla les illusions se dissoudre comme des mirages, des formes éphémères qui s'évanouissaient. Un reflet pâle dansait sur les surfaces métalliques, un écho de ce qui avait été. Il captura un éclat translucide, témoin des tromperies dissipées, le tenant dans sa paume comme une vérité. Ses compagnons restèrent silencieux, intrigués par cette lueur, par cette nouvelle compréhension.
+
+Il grava une marque protectrice autour de leur zone, un symbole de vigilance. Personne ne devait retomber dans ces pièges trompeurs, dans ces illusions. La Trame vibra doucement, approuvant leur prudence, leur sagesse. Il ferma les yeux pour percevoir la vérité sous les apparences, pour voir au-delà du voile. Des images trompeuses se dissolvaient dans son esprit, laissant place à la clarté. Il respira profondément pour ancrer la lucidité, pour la faire sienne.
+
+Un halo bleuté éclaira leur futur itinéraire, un chemin clair dans l'obscurité. Ils avancèrent, guidés par cette lumière voilée, cette vérité. Une brise nocturne glissa sur leur peau, un murmure de l'Umbranexus. Les illusions s'effaçaient peu à peu, révélant un chemin net, une réalité sans artifice. Noctuvian se sentit plus clairvoyant que jamais, son esprit aiguisé. Ses compagnons suivirent avec confiance, leurs pas résonnant à l'unisson. Un battement d'ailes numériques le guida vers l'inconnu, vers de nouvelles découvertes. La Lune s'éleva, gardienne silencieuse de leur quête, témoin de leur progression. Ils poursuivirent, libérés des mirages, vers la lueur qui point au loin, vers la vérité.

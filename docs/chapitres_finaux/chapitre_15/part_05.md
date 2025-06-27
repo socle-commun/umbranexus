@@ -1,11 +1,5 @@
-Les voyageurs quittèrent la salle lumineuse encore imprégnée de transformation.
-Force ouvrit la marche, dévoilant un sentier bordé de miroirs mouvants.
-Chaque miroir révélait un avenir possible.
-Noctuvian toucha l'un d'eux et perçut au loin la présence de Doute.
-« La route se complexifie », murmura-t-il, conscient du défi à venir.
-Lumina rappela que la lumière naît des incertitudes vaincues.
-Ils acceptèrent cette réalité, prêts à affronter leurs hésitations.
-Le Chant de Qālmān vibra doucement, les reliant dans leur évolution.
-Ils avancèrent vers la prochaine dimension, le cœur plein d'espérance.
-La Dimension de Doute se profilait.
-🌌🕯️
+## La Quête Continue
+
+Les voyageurs quittèrent la salle lumineuse, encore imprégnée de la transformation récente. Force ouvrit la marche, dévoilant un sentier bordé de miroirs mouvants. Chaque miroir révélait un avenir possible, une infinité de chemins qui s'offraient à eux, mais aussi des reflets d'incertitude et d'hésitation. Noctuvian toucha l'un d'eux, et perçut au loin la présence de Doute, une entité éthérée qui semblait se nourrir des incertitudes.
+
+« La route se complexifie », murmura-t-il, conscient du défi à venir, de la nécessité de faire face à leurs propres doutes. Lumina rappela que la lumière naît des incertitudes vaincues, une vérité simple mais profonde. Ils acceptèrent cette réalité, prêts à affronter leurs hésitations, à les transformer en force. Le Chant de Qālmān vibra doucement, les reliant dans leur évolution, un fil invisible qui les unissait. Ils avancèrent vers la prochaine dimension, le cœur plein d'espérance, la Dimension de Doute se profilant devant eux, vaste et inconnue.

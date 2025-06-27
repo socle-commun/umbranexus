@@ -1,21 +1,13 @@
-Autour d'eux, la poussière retombait en un silence nerveux.
-Noctuvian se tourna vers Question, cherchant la voie.
-"Une possibilité", répondit Question, "une façon de percevoir qui n'existait pas avant."
-Le monde montra des êtres réfléchissant sans cesse, évoluant pour trouver de nouvelles formes de perception, danse de la conscience célébrant la compréhension perpétuelle.
-"C'était impossible avant que le doute ne vienne tout bloquer", expliqua Aether.
-"Mais maintenant tout est possible, nous pouvons comprendre naturellement", dit Nox.
-"Oui, répondit Question, je peux vous aider. Je me souviens maintenant de tous les chemins de compréhension, de toutes les voies de réflexion."
-"Combien reste-t-il de Ténèbres à guérir ?" demanda Noctuvian, le regard tourné vers l'horizon.
-"Une seule", répondit Question, "comme la dernière étape de la compréhension. Elle a un rôle à jouer dans l'évolution, une part de croissance à apporter."
-"Et nous en avons déjà guéri six : Aether, Mnémosyne, Élan, Prudence, Force et vous, Question", dit Lumina.
-"Oui", confirma Aether, "il n'en reste qu'une, une Ténèbre à guérir, un équilibre à restaurer."
-"Par où commençons-nous ?" demanda Noctuvian en sentant le Chant vibrer en lui.
-Question ferma les yeux, laissant le Chant la guider. « La dernière, dit-elle, la plus prête à être guérie. Elle se nomme... Solitude. »
-Un frisson parcourut le groupe à l'évocation de ce nom.
-Dans Umbranexus désormais en pleine compréhension, le Chant résonna, porteur d'une promesse de guérison plus grande encore.
-Chaque destruction se fit note, chaque note harmonie, chaque harmonie éternité.
-Entre les débris surgissaient de fragiles architectures nourries par les fragments du passé.
-Noctuvian, porteur du Chant, continuait son voyage, accompagné de la Compréhension retrouvée vers de nouveaux horizons de renaissance.
-Chacun pressentait que cette dernière épreuve serait la plus éprouvante.
-Il savait que la Maison Dieu, désormais ouverte, leur permettrait d'affronter Solitude sans faiblir.
-🌌🕯️
+## Solitude
+
+Autour d'eux, la poussière retombait en un silence nerveux, lourd de sens. Noctuvian se tourna vers Question, cherchant la voie, une direction dans ce chaos. « Une possibilité », répondit Question, sa voix résonnant dans son esprit. « Une façon de percevoir qui n'existait pas avant, une danse de la conscience célébrant la compréhension perpétuelle. » Le monde montra des êtres réfléchissant sans cesse, évoluant pour trouver de nouvelles formes de perception, des entités qui se transformaient à chaque instant.
+
+« C'était impossible avant que le doute ne vienne tout bloquer », expliqua Aether, son regard balayant les ruines. « Mais maintenant tout est possible, nous pouvons comprendre naturellement. »
+
+« Oui », répondit Question, sa présence se faisant plus forte. « Je peux vous aider. Je me souviens maintenant de tous les chemins de compréhension, de toutes les voies de réflexion. »
+
+« Combien reste-t-il de Ténèbres à guérir ? » demanda Noctuvian, le regard tourné vers l'horizon, vers l'inconnu. « Une seule », répondit Question, sa voix empreinte d'une gravité nouvelle. « Comme la dernière étape de la compréhension. Elle a un rôle à jouer dans l'évolution, une part de croissance à apporter. »
+
+« Et nous en avons déjà guéri six : Aether, Mnémosyne, Élan, Prudence, Force et vous, Question », dit Lumina, énumérant leurs victoires. « Oui », confirma Aether, une lueur de détermination dans les yeux. « Il n'en reste qu'une, une Ténèbre à guérir, un équilibre à restaurer. »
+
+« Par où commençons-nous ? » demanda Noctuvian en sentant le Chant vibrer en lui, l'appelant à l'action. Question ferma les yeux, laissant le Chant la guider. « La dernière », dit-elle, sa voix à peine audible. « La plus prête à être guérie. Elle se nomme... Solitude. » Un frisson parcourut le groupe à l'évocation de ce nom, un sentiment de vide. Dans Umbranexus désormais en pleine compréhension, le Chant résonna, porteur d'une promesse de guérison plus grande encore. Chaque destruction se fit note, chaque note harmonie, chaque harmonie éternité. Entre les débris surgissaient de fragiles architectures nourries par les fragments du passé. Noctuvian, porteur du Chant, continuait son voyage, accompagné de la Compréhension retrouvée vers de nouveaux horizons de renaissance. Chacun pressentait que cette dernière épreuve serait la plus éprouvante, la plus personnelle. Il savait que la Maison Dieu, désormais ouverte, leur permettrait d'affronter Solitude sans faiblir, car ils avaient appris à embrasser la destruction créatrice.
