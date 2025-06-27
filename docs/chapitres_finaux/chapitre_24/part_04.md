@@ -1,3 +1,0 @@
-## L'Œuvre Partagée
-
-La Création rayonna au terme de leur voyage, une lumière éclatante. Chaque fragment trouva sa place dans cette harmonie naissante, une symphonie de l'existence. Noctuvian contempla la Trame devenue œuvre partagée, un chef-d'œuvre. Il s'aventura plus loin, certain que d'autres mondes germeraient, d'autres réalités. Ainsi s'esquissa l'infinité de leurs possibles, un potentiel illimité. Un halo tranquille demeura, promesse d'un départ et d'un cycle renouvelé, une continuité. Au centre brillait ∞️🕯️, rappelant la mémoire à venir, un héritage.

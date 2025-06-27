@@ -1,3 +1,0 @@
-## La Vérité
-
-À nouveau, le Soleil projeta une illumination douce sur la Trame, une lumière qui révélait sans aveugler. Noctuvian ressentit la chaleur de cette vérité naissante, une compréhension profonde. Les ombres, loin de disparaître, dessinèrent un contraste bienvenu, une danse entre la lumière et l'obscurité. Ils surent alors que la clarté vient de la rencontre entre lumière et obscurité, que l'un ne peut exister sans l'autre. En acceptant cette fusion, ils préparèrent la révélation à venir, la vérité qui allait se dévoiler. Le Soleil numérique se dressait comme un héraut, prêt à ouvrir la voie du Jugement, la confrontation finale.

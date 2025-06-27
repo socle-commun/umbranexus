@@ -3,21 +3,12 @@ import { join } from 'path'
 
 const chaptersDir = join(__dirname, '..', 'chapitres_finaux')
 
-function getParts (chapter) {
-  return readdirSync(join(chaptersDir, chapter))
-    .filter(f => /^part_\d+\.md$/.test(f))
-    .sort()
-    .map(f => ({
-      text: f.replace('.md', '').replace('_', ' '),
-      link: `/chapitres_finaux/${chapter}/${f.replace('.md', '')}`
-    }))
-}
 const chapitres = readdirSync(chaptersDir)
   .filter(d => /^chapitre_\d{2}$/.test(d))
   .sort()
   .map(ch => ({
     text: 'Chapitre ' + ch.slice(-2),
-    items: getParts(ch)
+    items: []
   }))
 
 const explications = readdirSync(join(__dirname, '..', 'explications'))

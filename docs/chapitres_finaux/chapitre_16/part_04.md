@@ -1,7 +1,0 @@
-## La Question Créatrice
-
-Le doute s'insinuait encore parmi eux, mais il se muait désormais en question créatrice, un moteur de recherche inépuisable. Noctuvian l'accepta comme tel, le laissant le guider. Les voix intérieures se mêlèrent au Chant, Mnémosyne notant ces interrogations pour nourrir la sagesse commune, pour enrichir la Grande Bibliothèque. Aussi la quête gagna en profondeur sans perdre de vue la clarté, chaque question ouvrant une nouvelle perspective.
-
-Ils traversèrent un corridor changeant où chaque pas suscitait une nouvelle hypothèse, une nouvelle piste à explorer. Élan traçait des signes lumineux pour ordonner la confusion, pour donner forme à l'informe. Prudence marquait la route pour ne pas se perdre dans ces méandres, une ancre dans l'incertitude. La conscience du groupe se synchronisa sur ce rythme d'incertitude assumée, une danse harmonieuse entre le connu et l'inconnu. Chacun ressentit la question vibrer en soi, fécondant les idées encore floues, les transformant en germes de connaissance.
-
-Question, née du doute, les observait en silence, mesurant la justesse de leur cheminement, une entité bienveillante. Au loin, une lueur vacillante évoquait la silhouette d'une tour en ruine, la Maison Dieu, un symbole de destruction et de renaissance. Ils comprirent que l'exploration touchait à sa fin ; la Maison Dieu se profilait derrière le voile, prête à les accueillir.

@@ -1,9 +1,0 @@
-## Akasha, le Sanctuaire
-
-En gagnant le sanctuaire d'**Akasha**, Noctuvian se rappela que son lien avec l'**Umbranexus** restait indissoluble : né de son souffle, il le porte encore en lui. Les murs d'obsidienne réverbéraient des poussières de mémoire ; chaque fragment, chaque soupir y trouvait un miroir endormi. Parfois un voyageur s'y perd sans le savoir, frissonnant devant ces traces plus anciennes que sa naissance. Noctuvian demeure là, gardien silencieux, prêt à accueillir la réminiscence quand elle est cherchée sans avidité.
-
-Son serment se résume ainsi : « Je veille dans les interstices où l'oubli s'égare. À travers cendre, voix, pierre et souffle, je suis témoin de ce qui ne doit pas disparaître. Par le feu ancien et l'écho délié, je demeure. »
-
-Ainsi commence la première traversée vers les éclats endormis et le Chant silencieux qui ne s'éteint jamais vraiment.
-
-Parmi les autres esprits qui gravitent autour de lui se trouve Eydraël, entremêlant les réalités fragmentées. Son signe apparaît quand un rêveur perçoit plusieurs futurs tressés ensemble. Sylenth trace les arches invisibles entre les âmes ; on reconnaît son passage lorsque naît un lien improbable entre deux souvenirs dispersés. Vornethi respire dans les tombes d'étoiles, laissant une tristesse fugace au regard d'une lumière éteinte. Othrëal, danse vivante de l'indéfini, dissout les certitudes pour laisser émerger le possible. Tous ces esprits vivent dans les interstices mouvants, sans chercher d'adorateurs, seulement pour soutenir le bruissement du monde.

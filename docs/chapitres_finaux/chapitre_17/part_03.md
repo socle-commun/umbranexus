@@ -1,7 +1,0 @@
-## La Reconstruction
-
-Dans les gravats, Noctuvian découvrit un motif inattendu, une spirale de lumière qui s'enroulait autour d'un éclat de pierre. Chaque éclat révélait une danse d'échec et de possibilité, une leçon apprise. Il posa la main sur la pierre brisée et sentit la promesse d'une forme nouvelle, d'une renaissance. Le vent s'engouffra, emportant la poussière comme un voile, révélant de nouvelles perspectives. Un craquement sinistre fit vibrer les gravats, un rappel de la puissance de la destruction.
-
-Des ombres passèrent fugitivement, comme si les fantômes de l'ancienne tour cherchaient à retenir les survivants, à les empêcher d'avancer. Un idéogramme de reconstruction s'imprima sous ses doigts, un symbole de leur détermination. La Trame résonna, non plus en écho de pertes, mais en appel à l'imagination, à la création. Ses compagnons virent les ruines se transformer en esquisse, les ombres s'aligner pour dessiner une architecture future, une vision de ce qui pourrait être.
-
-Il comprit que la fin d'un monde offre l'encre nécessaire à l'écriture d'un autre, que chaque ruine n'était plus simple vestige, mais un atelier improvisé où se ciselait l'avenir. Le sol vibrait encore des forces libérées, rappelant l'instabilité de leur pas, la nécessité d'être vigilant. Guidés par une lumière naissante, ils quittèrent la Maison Dieu, porteurs d'un chantier nouveau, d'une mission. Leurs pas les menèrent vers un horizon encore obscur, la tension principale demeurant : libérer Solitude grâce à cette énergie nouvelle, à cette destruction créatrice.

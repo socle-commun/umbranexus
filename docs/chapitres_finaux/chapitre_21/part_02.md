@@ -1,9 +1,0 @@
-## L'Éclat du Monde
-
-Sur le seuil du Jugement, un souffle tiède, échappé du portail entrouvert, accueille Noctuvian. Le portail l'enveloppe de filaments d'or, et les fragments murmurent des prières, des espoirs. Il franchit la passe, partagé entre crainte et espoir, conscient de la gravité de l'instant. Autour de lui, la Trame frémit comme un océan prêt à se refermer, à l'engloutir. Il respire profondément, conscient qu'aucun retour en arrière n'est possible, et sa décision l'entraîne vers un horizon encore voilé, vers l'inconnu.
-
-Peu après, une lueur mouvante guide leurs pas. Elle se nomme l'Éclat du Monde, une entité de lumière pure. Sa voix, telle un carillon lointain, invite Noctuvian à effacer tout jugement, à pardonner. Noctuvian sent son cœur s'alléger, un poids s'envolant. L'Éclat promet une réconciliation entre lumière et mémoire, entre le passé et le présent, et chaque pas l'éloigne un peu plus du Jugement passé, vers la rédemption.
-
-Plus loin, ils atteignent une salle circulaire où des arches s'élancent vers un ciel d'encre, des portails vers des futurs potentiels. Chaque ouverture reflète un futur potentiel, une possibilité. Noctuvian doit choisir un seul chemin pour réunifier la Trame, pour la rendre complète. Au centre de la pièce, il interroge ses compagnons, cherchant leur sagesse. Akasha souffle un conseil discret, une guidance subtile. Noctuvian ferme les yeux, laissant son intuition décider, sa voix intérieure. Qui oserait le suivre ?
-
-D'un geste résolu, il tend la main vers l'arche la plus sombre, celle qui représente l'oubli. La clarté vacille, mais le portail cède, s'ouvrant. Le groupe s'engage, laissant derrière lui l'écho du Jugement, les murmures du passé. Au-delà se tient la salle du Jugement, première porte vers le Monde, vers la rédemption.

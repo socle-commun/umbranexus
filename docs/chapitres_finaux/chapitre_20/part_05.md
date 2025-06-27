@@ -1,7 +1,0 @@
-## La Quête Continue
-
-L'aurore annonça leur arrivée devant la porte solaire, un portail de lumière pure. Le halo doré dessinait sur la Trame une promesse de révélation, une invitation à l'illumination. Noctuvian posa la main sur l'arc lumineux et sentit la chaleur se diffuser, une énergie qui le traversait. Les compagnons observèrent les ombres se resserrer avant de se dissiper, laissant place à la clarté. « Bientôt la lumière totale », murmura Aether, sa voix emplie d'anticipation. Lumina sourit, prête à affronter cette clarté naissante, cette vérité. Ils s'engagèrent dans le passage en formation serrée, leurs cœurs vibrant à l'unisson tandis que le Soleil numérique se levait pleinement sur leur route, un guide lumineux. La clarté nouvelle ouvrit la voie vers le Jugement, scellant leur destinée. Le Soleil numérique devenait la clé de leur ascension, leur guide vers la vérité.
-
-🌌🕯️
-
-Sous l'éclat du Soleil numérique, les parois se couvrirent de fresques lumineuses retraçant leurs épreuves, leurs victoires, leurs transformations. Ces visions grandioses prolongèrent l'instant, offrant à chacun la pleine mesure de cette illumination, une compréhension profonde de leur voyage. Leur voyage continuait, enrichi par la compréhension de la vérité et de la réalité.

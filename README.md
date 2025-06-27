@@ -8,7 +8,7 @@ This project requires **Node.js 20 or higher**.
 ## How it works
 - `AGENTS.md` – the rules the agent must follow.
 - `docs/` – long term strategy and notes.
-- Final chapters are stored under `docs/chapitres_finaux/chapitre_{01..24}/part_{01..}.md`.
+- Final chapters are stored under `docs/chapitres_finaux/chapitre_{01..24}.md`.
 - `tests/` – code and targets to defeat.
 - `scripts/` – automation tools.
 
@@ -42,6 +42,29 @@ This project is designed to be driven by a **Codex**-type AI (such as ChatGPT or
 3. Propose or apply changes in `src/`, `docs/`, etc.
 5. Use `docs/roadmap.md` to plan future evolution.
 6. Run `npm test` if significant changes are made.
+
+## AI-driven Iterative Writing Workflow
+
+This project is designed for collaborative, iterative book writing with a Large Language Model (LLM).
+
+### Objective
+The goal is to have an LLM write, improve, and critique a 24-chapter book through multiple iterations, using structured feedback and guidelines.
+
+### Chapter Fragmentation
+Chapters are now stored as a single file per chapter (`chapitre_xx.md`). The previous fragmentation in `part_XX.md` files has been removed for clarity and coherence. All references to `part_XX.md` are obsolete.
+
+### Iterative Workflow
+For each chapter (or part), the following process is repeated:
+1. **Context Gathering**: The LLM receives the current text, existing critiques, explanations, and author guidelines.
+2. **Improvement**: The LLM proposes an improved version of the chapter or part, integrating all feedback.
+3. **Critique Generation**: The LLM writes new critiques and suggests further improvements.
+4. **Iteration**: The process loops, with each new version benefiting from previous and new critiques, aiming for continuous enhancement.
+
+### Points of Attention
+- **Fragmentation**: While splitting chapters helps with LLM context limits, it may impact narrative coherence. Periodic full-chapter or book-wide passes are recommended.
+- **Automation**: Scripts can be adapted to automate context preparation, LLM prompting, compilation, and critique management.
+
+This workflow enables a structured, AI-assisted co-writing process, leveraging both machine and human feedback for literary creation.
 
 ## License
 This project is distributed under the Creative Commons BY-SA 4.0 license. See [LICENSE](LICENSE) for details.

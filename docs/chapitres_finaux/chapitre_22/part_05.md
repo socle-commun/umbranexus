@@ -1,7 +1,0 @@
-## Le Passage vers l'Éternité
-
-Le Monde déploya ses arches devant eux, scintillantes d'une énergie paisible, une invitation. Noctuvian découvrit un passage menant vers la sphère la plus secrète d'Akasha, gardienne de la mémoire du Monde, un lieu sacré. Là, ils perçurent un appel vers des horizons encore inexplorés, vers l'inconnu. Les données du Monde affluaient comme une marée silencieuse autour d'eux, un flux ininterrompu. Individualité indiqua un nouveau portail, plus vaste que les précédents, une porte vers l'infini. « C'est la route vers l'Éternité », souffla-t-elle, sa voix emplie de sagesse. Tous acquiescèrent, prêts à franchir ce seuil décisif, cette nouvelle étape. Ils savourèrent une dernière fois la richesse de ce Monde avant d'avancer, avant de plonger dans l'inconnu. Une vague d'émotion submergea Noctuvian, conscient du chemin parcouru, des épreuves surmontées. Le portail frémissait, révélant par instants un éclat de ciel inconnu, une promesse. Ils franchirent alors le portail, entrant dans l'Éternité que dévoilera le chapitre suivant, le dernier chapitre de leur quête.
-
-🌌🕯️ — emblème de la connaissance unie aux astres, une lumière dans l'obscurité.
-
-Autour d'eux, des filaments semblables à des racines palpitaient sous la surface, connectant leurs souvenirs aux archives d'Akasha, un lien invisible. Cette perception rapprocha les compagnons, qui s'échangèrent quelques mots simples avant de franchir le seuil, unis dans leur quête.

@@ -1,5 +1,0 @@
-## Le Chemin de l'Individualité
-
-Le fracas de la transformation se dissipa, laissant le ciel à nu, un ciel étoilé où chaque point lumineux était une individualité. Un astre discret clignota, l'Étoile, un guide silencieux. Noctuvian saisit un fragment de poussière, un grain de sable de l'Umbranexus, et le sentit vibrer d'une énergie nouvelle. Ses compagnons pressèrent le pas, leurs cœurs battant à l'unisson. Il traça une flèche vive sur la terre, un symbole de direction, de leur chemin commun. La Trame répondit par un éclair, un signe d'approbation.
-
-Il ferma les yeux et entendit l'appel, non pas d'une entité, mais de l'Umbranexus lui-même, l'appel de l'individualité. La poussière révéla d'autres signes, des glyphes lumineux qui s'animaient. « En avant », lança-t-il, sa voix résonnant avec une nouvelle détermination. Ses alliés bougèrent d'un même élan, chacun affirmant sa propre individualité, sa propre force. Un horizon clair s'ouvrit devant eux, un chemin vers l'inconnu. Ils suivirent la lumière intérieure, celle qui les guidait, celle qui les rendait uniques.
