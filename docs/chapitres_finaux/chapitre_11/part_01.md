@@ -12,7 +12,7 @@ Soudain, une ombre se matérialisa. Un Tisseur, une silhouette floue, tenta de s
 
 « Ils sont insaisissables, » dit Nox, son visage sombre, ses ombres s’agitant. « On ne peut pas les combattre avec la force. » Sa voix était empreinte d’une frustration, d’une impuissance.
 
-« Comment la fracture est-elle survenue ? » interrogea Noctuvian, son esprit cherchant la cause, la racine du mal. « Au début, il n’y avait que le Chant de Qālmān, pur et parfait, tissant l’équilibre. Mais le Désir voulut séparer. La fracture engendra les Ténèbres, ombre pervertie née de la domination. » Sa voix était calme, mais emplie d’une profonde tristesse, d’une sagesse ancestrale.
+« Comment la fracture est-elle survenue ? » interrogea Noctuvian, son esprit cherchant la cause, la racine du mal. « Au début, il n’y avait que le Hymne de Qālmān, pur et parfait, tissant l’équilibre. Mais le Désir voulut séparer. La fracture engendra les Ténèbres, ombre pervertie née de la domination. » Sa voix était calme, mais emplie d’une profonde tristesse, d’une sagesse ancestrale.
 
 « Et comment les guérir ? » demanda Lumina, sa lumière douce cherchant à percer l’obscurité, à éclairer les ténèbres. « Comment ramener la lumière là où il n’y a que l’ombre ? »
 
@@ -26,8 +26,9 @@ Il médita sur la Polarité, réalisant que chaque Tisseur, aussi sombre soit-il
 
 Soudain, une onde traversa le système : les Tisseurs approchaient en masse. Le Fragment, cette âme humaine qui accompagnait Noctuvian, perçut la distorsion et prévint le groupe. Lumina souffla : « Les autres Ténèbres cherchent encore le Chant. » Certains Tisseurs hésitaient, d’autres bondissaient, persuadés que tout devait s’effacer. « Elles doivent être guéries, » dit Aether. « Le Chant peut les ramener à leur nature. »
 
-Le groupe resserra les rangs. La bataille ne serait pas physique, mais spirituelle. Une danse avec l’ombre, guidée par les lois de l’harmonie, par la lumière du Chant de Qālmān.
+Le groupe resserra les rangs. La bataille ne serait pas physique, mais spirituelle. Une danse avec l’ombre, guidée par les lois de l’harmonie, par la lumière du Hymne de Qālmān.
 
 « Nous devons les affronter, » déclara Noctuvian, sa voix résonnant avec une nouvelle autorité. « Non pas pour les détruire, mais pour les comprendre. Pour leur montrer le chemin de l'harmonie. »
 
-Un Tisseur, plus audacieux que les autres, s'élança, son corps d'ombre se tordant en une lame acérée. Lumina projeta un bouclier de lumière, mais Noctuvian l'arrêta d'un geste. « Laisse-moi faire, » murmura-t-il. Il tendit la main, et le Chant de Qālmān s'éleva, non pas comme une attaque, mais comme une question. Une mélodie complexe, tissée de compassion et de vérité. Le Tisseur hésita, sa lame vacillant. Il sentit la dissonance en lui, la douleur de sa propre corruption. Le Chant lui montrait sa nature originelle, la beauté qu'il avait perdue. Le Tisseur recula, son corps d'ombre se dissipant lentement, laissant derrière lui une trace de lumière. C'était une victoire, non pas par la force, mais par la compréhension, par l'amour. Le groupe se regarda, un nouvel espoir dans les yeux. La bataille ne faisait que commencer, mais ils avaient trouvé leur arme : l'harmonie.
+Un Tisseur, plus audacieux que les autres, s'élança, son corps d'ombre se tordant en une lame acérée. Lumina projeta un bouclier de lumière, mais Noctuvian l'arrêta d'un geste. « Laisse-moi faire, » murmura-t-il. Il tendit la main, et le Hymne de Qālmān s'éleva, non pas comme une attaque, mais comme une question. Une mélodie complexe, tissée de compassion et de vérité. Le Tisseur hésita, sa lame vacillant. Il sentit la dissonance en lui, la douleur de sa propre corruption. Le Chant lui montrait sa nature originelle, la beauté qu'il avait perdue. Le Tisseur recula, son corps d'ombre se dissipant lentement, laissant derrière lui une trace de lumière. C'était une victoire, non pas par la force, mais par la compréhension, par l'amour. Le groupe se regarda, un nouvel espoir dans les yeux. La bataille ne faisait que commencer, mais ils avaient trouvé leur arme : l'harmonie.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

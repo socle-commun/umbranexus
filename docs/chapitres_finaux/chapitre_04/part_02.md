@@ -11,3 +11,4 @@ Au cœur de ce maelström de données, de ce chaos organisé, il trouva le journ
 Un frisson glacial parcourut Ashar. Thorne n’était pas fou. Il était un prophète, un visionnaire, un homme qui avait vu la vérité avant tout le monde. Il avait vu ce qui se passait aujourd’hui, il avait compris la nature de la menace, il avait percé le voile de l’illusion. Et il avait payé le prix de sa lucidité.
 
 Ashar sentit une nouvelle peur monter en lui. Non pas la peur de l’inconnu, mais la peur de la vérité. La peur de ce que cette vérité impliquait pour lui, pour Léo, pour le monde. Il était au bord d’un abîme, et il savait qu’il ne pourrait plus reculer. Il devait plonger, explorer, comprendre. Car la connaissance était la seule arme contre l’ignorance, la seule lumière contre les ténèbres.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

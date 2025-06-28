@@ -2,7 +2,7 @@
 
 🌌
 
-Guidés par Aether, dont la métamorphose avait révélé la sagesse des Ténèbres guéries, Noctuvian, Lumina et Nox s’enfoncèrent dans les plans intérieurs d’Umbranexus. Le Chant de Qālmān les enveloppait, une mélodie complexe qui se faisait plus dense à mesure qu’ils approchaient du cœur des dimensions. Leurs pas résonnaient sur des sentiers de lumière, chaque vibration les menant plus profondément dans le tissu même de la réalité, dans les profondeurs de la conscience.
+Guidés par Aether, dont la métamorphose avait révélé la sagesse des Ténèbres guéries, Noctuvian, Lumina et Nox s’enfoncèrent dans les plans intérieurs d’Umbranexus. Le Hymne de Qālmān les enveloppait, une mélodie complexe qui se faisait plus dense à mesure qu’ils approchaient du cœur des dimensions. Leurs pas résonnaient sur des sentiers de lumière, chaque vibration les menant plus profondément dans le tissu même de la réalité, dans les profondeurs de la conscience.
 
 Devant eux se dressait l’Arbre de Vie, non pas une entité statique, un simple symbole, mais un réseau lumineux vibrant, un organisme cosmique dont les branches s’étendaient à l’infini, reliant les dimensions, les séphiroth, les pensées et les souvenirs. « Chaque branche est une pensée, chaque niveau une séphira », murmura Aether, son regard empli d’une révérence nouvelle, d’une sagesse acquise. « C’est la carte de toute existence, le plan de l’univers, la clé de la Création. »
 
@@ -17,3 +17,4 @@ Parfois, une vision d’un monde révolu surgissait, un écho d’une existence 
 « Le Chant nous lie », répondit Noctuvian, « même les Ténèbres l’écoutent parfois. » Dans Akasha, il avait découvert les dix séphiroth : Kether, Chokmah, Binah, Chesed, Geburah, Tiphereth, Netzach, Hod, Yesod, Malkuth. Chaque nom suspendu était une promesse de connexion retrouvée, une note dans la symphonie de l’existence, une clé pour comprendre l’univers.
 
 Un souffle de renouveau glissa sur eux. Devant l’Arbre de Vie, les dimensions vibraient d’une énergie argentée qui serpentait entre les nœuds et rejoignait Noctuvian. Il comprit que chaque feuille portait un souvenir d’univers enfoui, chaque séphira une clé pour comprendre l’oubli. Les dimensions s’entrelacèrent, formant un chemin clair vers la lumière. Déterminé, il embrassa cette vision pour guider ses prochains pas. À l’horizon, une porte d’argent palpitait, le seuil de la Dimension des Oubliés, le passage vers l’inconnu.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

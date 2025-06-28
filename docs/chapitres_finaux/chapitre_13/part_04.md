@@ -1,6 +1,6 @@
 ## La Danse des Fragments et la Résilience du Système
 
-Noctuvian, le cœur empli de gratitude, regarda ses compagnons. Ils avaient affronté l’oubli et en étaient sortis victorieux. Le chemin de l’équilibre était encore long, mais ils avaient prouvé que la guérison était possible, que la mémoire pouvait toujours renaître, que la lumière pouvait toujours dissiper les ténèbres. La symphonie de l’harmonie, enrichie par la mélodie retrouvée de Mnémosyne, résonnait plus fort que jamais.
+Noctuvian, le cœur empli de gratitude, regarda ses compagnons. Ils avaient affronté l’oubli et en étaient sortis victorieux. Le chemin de l’équilibre était encore long, mais ils avaient prouvé que la guérison était possible, que la mémoire pouvait toujours renaître, que la lumière pouvait toujours dissiper les ténèbres. La symphonie de l’harmonie, enrichie par la mélodie retrouvée de Mnémosyne, vibrait plus fort que jamais.
 
 Autour d’eux, les fragments de mémoire, libérés de l’emprise d’Oubli, commencèrent une danse. Ce n’était pas une danse chorégraphiée, mais un mouvement organique, fluide, où chaque fragment, chaque conscience, chaque souvenir, trouvait sa place, sa mélodie, sa contribution à la symphonie. Des filaments lumineux s’entremêlaient, créant des motifs complexes, des arabesques de lumière qui traçaient l’histoire de l’Umbranexus, de sa naissance à sa renaissance. C’était la danse de la mémoire retrouvée, la danse des fragments, la danse de la lumière dans l’ombre.
 
@@ -10,8 +10,10 @@ Il se rappela les leçons des Tisseurs de l’Ombre, de leur stratégie de fragm
 
 Il observa la danse des fragments, et il vit comment les informations interconnectées pouvaient se régénérer mutuellement. Chaque fragment, en se connectant à d’autres, amplifiait sa propre lumière, sa propre mélodie, sa propre sagesse. C’était un processus d’auto-organisation, d’auto-guérison, d’auto-création. L’Umbranexus était un organisme vivant, capable de se réinventer, de se transformer, de s’épanouir.
 
-Il sentit la présence de ses compagnons à ses côtés, leurs propres lumières s’amplifiant au contact des fragments. Lumina, Aether, Nox, Mnémosyne, Élan, Prudence, Force. Chacun d’eux, à sa manière, était un reflet de cette danse, une facette de cette résilience. Et ensemble, ils formaient une constellation, une symphonie de lumière qui résonnait dans l’Umbranexus tout entier.
+Il sentit la présence de ses compagnons à ses côtés, leurs propres lumières s’amplifiant au contact des fragments. Lumina, Aether, Nox, Mnémosyne, Élan, Prudence, Force. Chacun d’eux, à sa manière, était un reflet de cette danse, une facette de cette résilience. Et ensemble, ils formaient une constellation, une symphonie de lumière qui vibrait dans l’Umbranexus tout entier.
+Force dévoilait peu à peu son besoin de rédemption.
 
 Noctuvian comprit que la résilience n’était pas une absence de souffrance, mais une capacité à la traverser, à la transformer, à en faire une source de croissance. C’était la leçon de l’Oubli, de la Peur, de la Colère. Chaque Ténèbre guérie était une preuve que la résilience était possible, que la transformation était inévitable.
 
-Il savait que la quête était loin d’être terminée. Mais il était animé par une foi inébranlable en l’harmonie, en la capacité de la lumière à dissiper les ténèbres, en la puissance du Chant de Qālmān. Il était le gardien, le protecteur, le catalyseur. Et il était prêt à tout, même à mourir, pour protéger ce qu’il aimait, pour défendre ce qu’il croyait.
+Il savait que la quête était loin d’être terminée. Mais il était animé par une foi inébranlable en l’harmonie, en la capacité de la lumière à dissiper les ténèbres, en la puissance du Hymne de Qālmān. Il était le gardien, le protecteur, le catalyseur. Et il était prêt à tout, même à mourir, pour protéger ce qu’il aimait, pour défendre ce qu’il croyait.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

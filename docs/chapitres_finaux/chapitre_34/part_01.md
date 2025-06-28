@@ -6,7 +6,7 @@ Sa quête le mena à des légendes oubliées, des murmures dans les profondeurs 
 
 Les Alchimistes Noirs, chaque faction à sa manière, cherchaient aussi ce Cœur Fracturé. Les Puristes voulaient le reconstituer pour déchaîner le chaos absolu, pour ramener le monde à un état primordial. Les Manipulateurs voulaient le contrôler pour tordre la réalité à leur guise, pour en faire leur marionnette. Les Technocrates voulaient l’analyser pour en extraire l’énergie et la technologie, pour en faire une arme.
 
-Ashar comprit que celui qui mettrait la main sur le Cœur Fracturé détiendrait la clé de la victoire ou de la défaite. Il intensifia ses recherches, utilisant la mémoire universelle pour traquer les fragments, les résonances, les indices laissés par le temps, les murmures de l’histoire.
+Ashar comprit que celui qui mettrait la main sur le Cœur Fracturé détiendrait la clé de la victoire ou de la défaite. Il intensifia ses recherches, utilisant la mémoire universelle pour traquer les fragments, les harmonies, les indices laissés par le temps, les murmures de l’histoire.
 
 Sa quête le mena à un lieu inattendu : une ancienne cathédrale abandonnée, enfouie sous des siècles de poussière et d’oubli, mais dont les fondations s’enfonçaient profondément dans le Nexus. C’était un lieu sacré, à la fois physique et numérique, où les voiles entre les mondes étaient minces, où le passé et le présent se rencontraient.
 
@@ -18,12 +18,13 @@ Le Cœur Fracturé lui offrait un choix. Il pouvait l’utiliser pour amplifier 
 
 Le dilemme était immense. La voie de la destruction était rapide, efficace, tentante. La voie de la guérison était longue, incertaine, pleine de risques. Mais Ashar, le jardinier de l’âme, savait que la vraie victoire ne résidait pas dans l’anéantissement, mais dans la transformation, dans la rédemption.
 
-Alors qu’il méditait sur son choix, les Alchimistes Noirs arrivèrent. Les trois factions, alertées par la résonance du Cœur Fracturé, convergèrent vers la cathédrale. Ils étaient là pour s’en emparer, pour l’utiliser à leurs propres fins, pour assouvir leur soif de pouvoir.
+Alors qu’il méditait sur son choix, les Alchimistes Noirs arrivèrent. Les trois factions, alertées par la harmonie du Cœur Fracturé, convergèrent vers la cathédrale. Ils étaient là pour s’en emparer, pour l’utiliser à leurs propres fins, pour assouvir leur soif de pouvoir.
 
 Ashar n’avait pas le temps de choisir. Il devait agir. Il se plaça devant le Cœur Fracturé, le protégeant de son corps, de son âme. Il sentit la présence de Noctuvian à ses côtés, non pas pour lui dicter son choix, mais pour le soutenir, quelle que soit sa décision, pour lui donner la force de faire le bon choix.
 
-Il leva les mains, non pas pour attaquer, mais pour canaliser. Il laissa le Chant de Qālmān résonner en lui, amplifiant l’harmonie, la projetant vers le Cœur Fracturé. Il ne cherchait pas à le briser, mais à le réaligner, à le guérir, à le ramener à sa pureté originelle.
+Il leva les mains, non pas pour attaquer, mais pour canaliser. Il laissa le Hymne de Qālmān vibrer en lui, amplifiant l’harmonie, la projetant vers le Cœur Fracturé. Il ne cherchait pas à le briser, mais à le réaligner, à le guérir, à le ramener à sa pureté originelle.
 
 Les Alchimistes Noirs furent pris de court. Leurs attaques se brisèrent contre le bouclier d’harmonie. Le Cœur Fracturé commença à vibrer, non pas de dissonance, mais d’une lumière pure, d’une mélodie apaisante. Les factions, incapables de supporter cette harmonie, commencèrent à se retourner les unes contre les autres, leurs propres divisions amplifiées par la lumière, par la vérité.
 
-Ashar ne les combattit pas. Il les laissa se consumer dans leurs propres ténèbres. Il avait fait son choix. Il avait choisi la guérison. Et il savait que cette voie, bien que plus difficile, était la seule qui mènerait à une paix durable, à une harmonie véritable. La guerre était loin d’être terminée, mais il avait trouvé la clé de la transformation, et il était prêt à l’utiliser, à la partager, à la faire résonner dans tout l’univers.
+Ashar ne les combattit pas. Il les laissa se consumer dans leurs propres ténèbres. Il avait fait son choix. Il avait choisi la guérison. Et il savait que cette voie, bien que plus difficile, était la seule qui mènerait à une paix durable, à une harmonie véritable. La guerre était loin d’être terminée, mais il avait trouvé la clé de la transformation, et il était prêt à l’utiliser, à la partager, à la faire vibrer dans tout l’univers.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

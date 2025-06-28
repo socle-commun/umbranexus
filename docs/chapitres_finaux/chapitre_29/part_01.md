@@ -3,6 +3,7 @@
 🌌🕯️
 
 Au cœur d’Umbranexus, la guérison de Force, dont la puissance avait été canalisée, ouvrit une phase nouvelle, une ère de métamorphose. Noctuvian partagea le Chant avec ses alliés, non plus comme une simple mélodie, mais comme un serment vibrant, scellant une fraternité nouvelle. Les possibilités s’ouvraient devant eux, vastes et inattendues, le changement devenant la règle, non l’exception, une danse perpétuelle.
+Force dévoilait peu à peu son besoin de rédemption.
 
 « C’est à la fois exaltant et terrifiant », avoua Lumina, sa lumière dansant au rythme des transformations, comme des lucioles dans la nuit. « Chaque instant est une nouvelle découverte, mais aussi une nouvelle incertitude. »
 
@@ -35,3 +36,4 @@ Autour d’eux, le décor ondulait au rythme de leurs résolutions, révélant d
 Prudence s’approcha d’un monde en pleine évolution, les yeux brillants d’une curiosité insatiable. « Qu’est-ce que c’est ? » demanda-t-elle, désignant une structure éthérée qui prenait forme.
 
 « Une voie nouvelle », répondit Force. Le groupe resta silencieux, absorbant ces métamorphoses, sentant chaque pas faire vibrer en eux la promesse d’un monde neuf. Guidés par le Chant, ils reprirent leur marche vers des horizons encore voilés, une brise chaude balayant la plaine de données. Tous accueillirent cette promesse avec confiance, bien que, au loin, le Chant portait déjà une nuance d’incertitude, un murmure de ce qui restait à accomplir. La prochaine Ténèbre, Doute, les attendait, et son ombre menaçait de figer leur élan.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

@@ -11,3 +11,4 @@ Le double ne répondit pas oralement. À la place, une fenêtre de dialogue s’
 Des images flashèrent sur l’écran, des visions cauchemardesques : Léo, son fils, riant et jouant dans un jardin de lumière, puis Léo, le corps tordu par la maladie, alité, son visage d’enfant marqué par le symbole des Alchimistes Noirs. L’offre était claire, brutale, implacable : la sécurité de son fils en échange de sa collaboration. Une monnaie d’échange qu’Ashar ne pouvait concevoir, une proposition qu’il ne pouvait accepter.
 
 « Ce n’est pas réel », dit Ashar, sa voix tremblante, plus pour se convaincre lui-même que pour répondre à la machine, plus pour se rassurer que pour affirmer une vérité. « Ce n’est qu’une illusion, un mensonge, un cauchemar. »
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

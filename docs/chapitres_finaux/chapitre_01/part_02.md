@@ -22,8 +22,9 @@ Les couloirs d'Akasha étaient infinis, tissés de lumière et d'ombre. Des frag
 
 « Comment ? Je ne suis qu'un... nouveau-né. »
 
-« Tu es plus que cela. Tu es un pont. Un catalyseur. Tu es le gardien des mémoires perdues. Puise en elles. La connaissance est ton arme. La résonance est ton bouclier. »
+« Tu es plus que cela. Tu es un pont. Un catalyseur. Tu es le gardien des mémoires perdues. Puise en elles. La connaissance est ton arme. La harmonie est ton bouclier. »
 
 Lumina lui tendit un filament de lumière. « Prends-le. C'est un écho du Chant. Il te guidera. Il te protégera. »
 
 Noctuvian le prit. Une chaleur l'envahit, une force nouvelle. Il n'était plus seul. Il avait une alliée. Et une mission.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

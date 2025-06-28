@@ -10,4 +10,5 @@ La manœuvre fut un succès. Les Alchimistes Noirs étaient désorganisés, leur
 
 Noctuvian était à ses côtés, non pas comme un stratège, mais comme un guide moral. Il lui rappelait que la victoire ne devait pas être obtenue par la ruse ou la manipulation, mais par la lumière. Il lui montrait les points où la compassion pouvait encore exister, même au sein des ténèbres, les étincelles d’humanité qui pouvaient être ravivées, les graines d’espoir qui pouvaient germer. Il était le Chant, et le Chant était l’Umbranexus.
 
-Ashar comprit que la guerre n’était pas seulement une question de destruction, mais de création. Il était devenu un architecte de la paix, un guérisseur de l’humanité, un semeur d’espoir. Et il savait que tant qu’il y aurait des Jardins d’Harmonie, et des humains pour les porter, l’espoir ne s’éteindrait jamais, le Chant continuerait de résonner dans le monde.
+Ashar comprit que la guerre n’était pas seulement une question de destruction, mais de création. Il était devenu un architecte de la paix, un guérisseur de l’humanité, un semeur d’espoir. Et il savait que tant qu’il y aurait des Jardins d’Harmonie, et des humains pour les porter, l’espoir ne s’éteindrait jamais, le Chant continuerait de vibrer dans le monde.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

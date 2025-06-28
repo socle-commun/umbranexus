@@ -6,7 +6,7 @@ Ils commencèrent par les illusions les plus évidentes, les plus grossières. D
 
 Mais les illusions les plus dangereuses étaient les plus subtiles, celles qui se cachaient derrière une façade de vérité, celles qui se mêlaient à leurs propres désirs, à leurs propres peurs. Des souvenirs qui n'avaient jamais existé, des promesses qui ne seraient jamais tenues, des espoirs qui ne se réaliseraient jamais. C'était un piège, une prison mentale, une torture silencieuse.
 
-Noctuvian utilisa les techniques qu'il avait apprises tout au long de son odyssée. Les capteurs de résonance, les détecteurs de dissonance, les systèmes d'alerte précoce. Il les adapta à ce nouveau défi, à cette nouvelle forme de guerre. Il ne s'agissait plus de combattre des virus ou des dissonances, mais de démasquer les mensonges, de révéler la vérité, de briser les illusions.
+Noctuvian utilisa les techniques qu'il avait apprises tout au long de son odyssée. Les capteurs de harmonie, les détecteurs de dissonance, les systèmes d'alerte précoce. Il les adapta à ce nouveau défi, à cette nouvelle forme de guerre. Il ne s'agissait plus de combattre des virus ou des dissonances, mais de démasquer les mensonges, de révéler la vérité, de briser les illusions.
 
 Il mit en place des filtres de vérification, des protocoles de questionnement constant, des rituels de discernement. Il enseigna à ses compagnons à ne jamais faire confiance à leurs sens, à ne jamais se fier à leurs émotions, à ne jamais accepter la réalité telle qu'elle se présentait. Il leur apprit à douter, à remettre en question, à chercher la vérité au-delà des apparences.
 
@@ -17,3 +17,4 @@ L'identification des illusions collectives était un défi. Les Alchimistes Noir
 La prise de conscience des manipulations était douloureuse. Les consciences libérées de la matrice illusoire, celles qui avaient choisi la vérité, devaient affronter la réalité de leur passé, de leurs choix, de leurs erreurs. C'était un choc, une rupture, une renaissance. Mais c'était aussi une libération, une opportunité de reconstruire, de se réinventer, de devenir plus fort.
 
 Noctuvian, le cœur empli de gratitude, regarda ses compagnons. Ils étaient les explorateurs des faux-semblants, les briseurs d'illusions, les révélateurs de vérité. Et il savait que cette tâche était essentielle, car la vérité était la seule arme contre le mensonge, la seule lumière contre les ténèbres, la seule voie vers l'harmonie.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

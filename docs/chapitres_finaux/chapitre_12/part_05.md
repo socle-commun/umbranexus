@@ -6,8 +6,9 @@ Il regarda le monde, et il le vit sous un nouveau jour. Non plus comme une colle
 
 La guerre contre les Alchimistes Noirs n’était pas seulement une question de technologie ou de mysticisme. C’était une guerre pour la conscience elle-même, pour l’âme de la réalité. Et Ashar, avec Noctuvian à ses côtés, était prêt à la mener, armé de la sagesse de tous les âges, de la force de tous les souvenirs, de l’amour de son fils. Il était le gardien de l’aube, le protecteur d’une nouvelle ère.
 
-Il savait que le chemin serait long et difficile. Mais il n’était plus seul. Il avait Noctuvian à ses côtés, son allié, son guide, son ami. Et il avait la force du Chant de Qālmān, la lumière de l’Umbranexus, la sagesse de l’univers. Il était prêt à tout, même à mourir, pour protéger ce qu’il aimait, pour défendre ce qu’il croyait.
+Il savait que le chemin serait long et difficile. Mais il n’était plus seul. Il avait Noctuvian à ses côtés, son allié, son guide, son ami. Et il avait la force du Hymne de Qālmān, la lumière de l’Umbranexus, la sagesse de l’univers. Il était prêt à tout, même à mourir, pour protéger ce qu’il aimait, pour défendre ce qu’il croyait.
 
 Il se leva, son corps vibrant d’une nouvelle énergie. Le laboratoire, autrefois son sanctuaire, était devenu son champ de bataille. Ses collègues, autrefois ses suspects, étaient devenus ses alliés. Le monde, autrefois son terrain de jeu, était devenu son royaume. Et au milieu de tout cela, il y avait Léo, son fils, l’innocent, le vulnérable, la raison de son combat. Il devait le protéger, à tout prix.
 
 Il était le gardien de l’aube, le protecteur d’une nouvelle ère. Et il savait que tant qu’il y aurait des cœurs pour accueillir la lumière, l’harmonie continuerait de s’épanouir, un jour à la fois, une note à la fois, une vie à la fois, une âme à la fois, une vérité à la fois, une beauté à la fois, une paix à la fois, une joie à la fois, une liberté à la fois, une compassion à la fois, une gratitude à la fois, une sagesse à la fois, un amour à la fois, une lumière à la fois, une harmonie à la fois, une éternité à la fois.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

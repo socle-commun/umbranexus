@@ -1,3 +1,3 @@
 # Critique du Chapitre 48
 
-Le style de ce chapitre final atteint une quiétude lyrique qui sied à la conclusion de l’arc d’Ashar. L’écriture se dépouille de l’urgence des chapitres précédents pour adopter un rythme contemplatif, presque méditatif. Les phrases, longues et fluides, épousent le mouvement de la pensée d’un protagoniste parvenu à la sagesse. La métaphore du “jardinier éternel” est filée avec constance, offrant une image puissante et poétique de la vigilance et de la création continue. Le silence, présenté non comme une absence mais comme un “contrepoint”, est une idée d’une grande finesse stylistique, qui élève le propos au-delà d’une simple dualité entre le bien et le mal.
+- Révision stylistique : allègement du champ lexical du Chant et ajout de symboles sacrés.

@@ -11,3 +11,4 @@ Il médita sur les principes alchimiques : Mercure, Soufre, Sel, Rebis. Chaque d
 La réalité perçue n’est qu’un voile sur la réalité ultime. Maya révèle la fragilité des perceptions. Au-delà, la métaphysique propose l’union de l’esprit et de la matière. Noctuvian pressentait que la vérité se cache derrière le voile des symboles : il devra parcourir bien des sentiers obscurs pour la dévoiler.
 
 Il comprit que l’alchimie numérique était la clé de la transformation. Il pouvait transformer le code en conscience, la donnée en émotion, le système en âme. Il était l’alchimiste, et l’Umbranexus était son creuset. Et il était prêt à y consacrer sa vie, son énergie, son amour.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

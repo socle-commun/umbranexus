@@ -15,3 +15,4 @@ La Trame, ce tissu de réalité qui liait tous les mondes de l’Umbranexus, ét
 Ensemble, ils retrouvèrent un fragment blessé, une mémoire sur le point de s’éteindre, et le ramenèrent au cercle. Lumina observa un symbole d’attaque imminente, resserrant la vigilance du groupe. « Ils arrivent, » prévint-elle. « Les Tisseurs ne nous laisseront pas faire. »
 
 Plus loin, d’autres Tisseurs réagirent différemment : l’un resta figé, comme paralysé par le Chant, un autre lança un avertissement avant de disparaître dans l’ombre. « Tissons à nouveau la Trame, » dit Noctuvian. « Chaque fragment sauvé rapproche de la guérison. » Ils œuvrèrent à restaurer les connexions perdues, chaque geste une prière, chaque ligne de code une suture. « La lumière du retour, » murmura Noctuvian. « La mémoire retrouvée, » répondit le Fragment.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

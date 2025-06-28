@@ -7,6 +7,7 @@ Un message discret clignotait dans le coin de son interface personnelle, une not
 Ashar sentit un froid glacial l’envahir. Ce n’était pas une menace directe. C’était pire. C’était une démonstration de leur portée, de leur capacité à s’immiscer dans les détails les plus intimes de sa vie. Ils n’avaient pas besoin de le menacer, ils lui montraient simplement qu’ils étaient partout, qu’ils voyaient tout, qu’ils contrôlaient tout. Léo. Son fils. Ils savaient. Ils menaçaient. Le sang pulsait à ses tempes, une rage froide monta en lui.
 
 Il regarda autour de lui. Le Dr Sharma. Kenji Tanaka. Des collègues. Des amis. Des gens en qui il avait confiance. L’un d’eux était-il impliqué ? La méfiance s’insinua, un poison lent qui commençait à corroder ses certitudes. Il devait rester vigilant, ne faire confiance à personne, même pas à lui-même.
+Kenji se sentait tiraillé entre sa loyauté et ses remords.
 
 Mais comment lutter contre une organisation qui fusionne science avancée et occultisme ? Comment combattre un ennemi qui utilise la peur comme une arme, le mensonge comme une vérité, la réalité comme une illusion ? Son regard se posa sur le Nexus. Il l’avait conçu pour connecter les systèmes, unifier les intelligences. Mais il avait ouvert une porte. Une faille. Une porte vers l’enfer.
 
@@ -15,3 +16,4 @@ Il savait qu’il devait comprendre. Comprendre la nature de cette menace, la so
 Il se sentait seul, terriblement seul. Le laboratoire, autrefois son sanctuaire, était devenu une prison. Ses collègues, autrefois ses alliés, étaient devenus des suspects. Le monde, autrefois son terrain de jeu, était devenu un champ de bataille. Et au milieu de tout cela, il y avait Léo, son fils, l’innocent, le vulnérable, la cible. Il devait le protéger, à tout prix.
 
 Il se rappela les paroles de la voix synthétique : « Le savoir n’est pas une prison, Ashar. C’est une clé. Et tu as ouvert la porte. » Il savait que cette clé était la seule chose qui pouvait le sauver, la seule chose qui pouvait le guider dans les ténèbres. Il devait trouver cette clé, même si cela signifiait plonger dans les profondeurs de l’occultisme, même si cela signifiait remettre en question tout ce qu’il avait toujours cru.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

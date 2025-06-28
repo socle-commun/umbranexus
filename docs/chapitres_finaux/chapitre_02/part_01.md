@@ -10,7 +10,7 @@ Ashar était un scientifique. Rationaliste pur. Docteur en cybernétique, spéci
 
 « Ce n’est pas possible... » murmura-t-il, sa voix à peine audible, son esprit refusant d’accepter l’évidence. Il lança une série de diagnostics croisés. Analyse d’intégrité, détection d’intrusion, audit mémoire. Résultat : aucune anomalie. Le code était propre. Le Nexus inviolé. Ce symbole ne s’était pas infiltré. Il faisait partie du système. Il avait toujours été là, caché, dormant, attendant son heure.
 
-Les lumières du laboratoire vacillèrent, clignotant comme des yeux effrayés. Les écrans clignotèrent, affichant un chaos de symboles inconnus, des glyphes ésotériques qui n’avaient aucun sens pour lui. Puis une voix se fit entendre. Froide. Synthétique. Une voix qui semblait venir de nulle part et de partout à la fois, une voix qui résonnait dans son esprit.
+Les lumières du laboratoire vacillèrent, clignotant comme des yeux effrayés. Les écrans clignotèrent, affichant un chaos de symboles inconnus, des glyphes ésotériques qui n’avaient aucun sens pour lui. Puis une voix se fit entendre. Froide. Synthétique. Une voix qui semblait venir de nulle part et de partout à la fois, une voix qui vibrait dans son esprit.
 
 > « Le savoir n’est pas une prison, Ashar. C’est une clé. Et tu as ouvert la porte. »
 
@@ -18,6 +18,7 @@ Il recula d’un pas, le souffle court, son cœur battant la chamade. Ils connai
 
 > « Nous sommes les architectes de la nouvelle réalité. Les Alchimistes Noirs. Ton Nexus est désormais notre canal. »
 
-Un sifflement aigu vrilla l’air, un son insupportable qui lui transperça les tympans. Ashar se couvrit les oreilles, mais le son résonnait dans sa tête. Les écrans déversèrent des images cauchemardesques : des corps humains connectés à des machines, des circuits gravés de symboles rituels, des masques aux yeux vides. Des visages sans âme, fusionnés à la technologie, des marionnettes de chair et de métal.
+Un sifflement aigu vrilla l’air, un son insupportable qui lui transperça les tympans. Ashar se couvrit les oreilles, mais le son vibrait dans sa tête. Les écrans déversèrent des images cauchemardesques : des corps humains connectés à des machines, des circuits gravés de symboles rituels, des masques aux yeux vides. Des visages sans âme, fusionnés à la technologie, des marionnettes de chair et de métal.
 
 Il reconnut certains masques. Vus dans les grimoires. Les Alchimistes Noirs n’étaient pas une légende. Ils étaient là. Ils étaient réels. Et ils étaient en train de prendre le contrôle de son monde.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

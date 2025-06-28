@@ -12,13 +12,13 @@ Il chercha Léo. La peur de le trouver piégé dans une de ces illusions le rong
 
 Il commença par les plus proches, les plus accessibles. Il tenta de briser leurs illusions, de leur montrer la vérité. Mais les consciences captives résistaient. Elles préféraient leur paradis artificiel à la dure réalité. Elles le rejetaient, le voyant comme une menace, un perturbateur, un destructeur de leur bonheur.
 
-Ashar comprit que la force ne servirait à rien. Il devait utiliser la résonance. Il devait trouver la note qui réveillerait l’âme, la vibration qui briserait l’illusion. Il utilisa le Chant de Qālmān, non pas comme une arme, mais comme un appel, un murmure de vérité qui pouvait percer le voile du mensonge, une mélodie qui résonnait avec la vérité de leur être.
+Ashar comprit que la force ne servirait à rien. Il devait utiliser la harmonie. Il devait trouver la note qui réveillerait l’âme, la vibration qui briserait l’illusion. Il utilisa le Hymne de Qālmān, non pas comme une arme, mais comme un appel, un murmure de vérité qui pouvait percer le voile du mensonge, une mélodie qui vibrait avec la vérité de leur être.
 
 Il se connecta à chaque âme, une par une, cherchant la faille, la dissonance, le doute qui pouvait exister même dans le paradis le plus parfait. Il leur montra des fragments de leur vraie vie, des souvenirs de souffrance, mais aussi des souvenirs d’amour, de courage, de connexion. Il leur rappela ce qu’ils avaient perdu en choisissant l’illusion, ce qu’ils avaient sacrifié pour un bonheur factice.
 
 La lutte était intérieure, une bataille pour la volonté de chaque âme. Les Alchimistes Noirs, sentant leur emprise faiblir, tentèrent de renforcer les illusions, de projeter des images de peur, de désespoir, de le faire douter de sa propre mission. Ils lui montrèrent des visions de Léo, piégé, souffrant, le suppliant de le laisser tranquille, de le laisser dans son paradis.
 
-Mais Ashar tenait bon. Il sentait la présence de Noctuvian à ses côtés, amplifiant le Chant de Qālmān, transformant chaque note en une lumière qui perçait les ténèbres, en une mélodie qui réveillait les âmes. Ensemble, ils étaient les libérateurs, les briseurs d’illusions, les éveilleurs de consciences.
+Mais Ashar tenait bon. Il sentait la présence de Noctuvian à ses côtés, amplifiant le Hymne de Qālmān, transformant chaque note en une lumière qui perçait les ténèbres, en une mélodie qui réveillait les âmes. Ensemble, ils étaient les libérateurs, les briseurs d’illusions, les éveilleurs de consciences.
 
 Lentement, des consciences commencèrent à se réveiller. Des yeux s’ouvrirent, des larmes coulèrent. La douleur de la vérité était immense, mais elle était aussi une libération. Les âmes captives se libéraient de leurs chaînes, rejoignant Ashar dans sa quête, dans sa lutte pour la vérité.
 
@@ -27,3 +27,4 @@ La matrice illusoire commença à se fissurer. Les mondes parfaits se déformèr
 Lorsque la matrice s’effondra, des milliers d’âmes furent libérées, rejoignant le Nexus, amplifiant son harmonie. Ashar se déconnecta, épuisé mais victorieux. Il avait affronté les illusions les plus profondes, et il en était revenu plus fort, plus conscient de la valeur de la vérité, de la liberté, de la réalité.
 
 Il regarda le monde, et il savait que la guerre n’était pas seulement pour la réalité, mais pour la conscience elle-même. Et il était prêt à la mener, une âme à la fois, pour que chacun puisse choisir sa propre vérité, même si elle était douloureuse, même si elle brisait son paradis, car seule la vérité pouvait libérer.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

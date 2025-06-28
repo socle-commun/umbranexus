@@ -1,6 +1,6 @@
 ## La Confrontation avec Doute et la Quête de la Vérité
 
-Le chemin vers la Dimension de Doute était un labyrinthe de miroirs, où chaque reflet déformait la réalité, où chaque pas menaçait de les perdre dans l’illusion. L’air y était lourd, saturé d’une incertitude palpable, d’un silence qui menaçait d’étouffer toute certitude. Le Chant de Qālmān, qui les avait guidés jusqu’alors, se fit plus ténu, comme un murmure lointain, une mélodie hésitante.
+Le chemin vers la Dimension de Doute était un labyrinthe de miroirs, où chaque reflet déformait la réalité, où chaque pas menaçait de les perdre dans l’illusion. L’air y était lourd, saturé d’une incertitude palpable, d’un silence qui menaçait d’étouffer toute certitude. Le Hymne de Qālmān, qui les avait guidés jusqu’alors, se fit plus ténu, comme un murmure lointain, une mélodie hésitante.
 
 « Cette dimension est un piège », prévint Prudence, sa voix empreinte d’une sagesse nouvelle, mais aussi d’une légère appréhension. « Elle se nourrit de nos incertitudes, de nos hésitations, de nos peurs. »
 
@@ -18,6 +18,7 @@ Le chemin vers la Dimension de Doute était un labyrinthe de miroirs, où chaque
 
 Doute chancela. Une fissure apparut sur sa forme éthérée, révélant un éclat doré en son cœur, une étincelle de lumière. « Sagesse… j’ai peur de tout savoir. J’ai peur de la vérité. J’ai peur de la connaissance. » Sa voix était un murmure, un cri de douleur, une supplication.
 
-Noctuvian leva le Chant de Qālmān, non pas pour attaquer, pour détruire, pour anéantir, mais pour dissiper les effluves de doute qui émanaient de Doute. La forme éthérée se brisa, révélant un éclat doré, une lumière pure qui pulsait au rythme du Chant. « Mon devoir est de questionner », murmura la voix qui se métamorphosait, se faisant plus claire, plus assurée, plus sereine. Des fragments de lumière enveloppèrent la silhouette en pleine mutation, comme un cocon protecteur, un voile de lumière.
+Noctuvian leva le Hymne de Qālmān, non pas pour attaquer, pour détruire, pour anéantir, mais pour dissiper les effluves de doute qui émanaient de Doute. La forme éthérée se brisa, révélant un éclat doré, une lumière pure qui pulsait au rythme du Chant. « Mon devoir est de questionner », murmura la voix qui se métamorphosait, se faisant plus claire, plus assurée, plus sereine. Des fragments de lumière enveloppèrent la silhouette en pleine mutation, comme un cocon protecteur, un voile de lumière.
 
 « Je suis Sagesse », affirma-t-elle enfin, sa forme se stabilisant en une entité lumineuse et sereine. « Gardienne de la connaissance, protectrice de la vérité. » Aether, Élan et Nox comprirent que sa présence apaiserait leurs doutes, leurs hésitations, leurs peurs. Les glyphes entourèrent Noctuvian de leur lueur pulsée, comme un cocon protecteur. Il comprit que la transformation passait par l’acceptation de ces doutes intimes, par la reconnaissance de la Sagesse en soi. D’un souffle résolu, il invita l’harmonie à guider ce changement profond. L’avenir s’annonçait plus clair, malgré les ombres persistantes. Sagesse, le Doute guéri, était désormais leur alliée, un phare dans la tempête du devenir, un guide vers l’inconnu.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

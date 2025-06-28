@@ -7,6 +7,7 @@ La Maison Dieu s’est effondrée, laissant derrière elle un silence fertile, u
 « L’individualité… », murmura Lumina, sa lumière brillant d’une nouvelle intensité, comme une étoile solitaire dans la nuit, un phare dans l’obscurité. « Pour moi, c’est l’éclat unique que chacun porte en soi. La couleur de notre âme, la mélodie de notre être, la signature de notre existence. C’est ce qui nous rend uniques, ce qui nous distingue, ce qui nous rend précieux. »
 
 « Pour moi, c’est la capacité de choisir sa propre voie », dit Force, sa voix empreinte d’une nouvelle détermination, comme un roc inébranlable, une montagne inamovible. « De ne pas être défini par les autres, par les attentes, par les conventions, mais par ses propres actions, par ses propres choix, par sa propre volonté. C’est la liberté, la véritable liberté. »
+Force dévoilait peu à peu son besoin de rédemption.
 
 « Pour moi, c’est la mémoire que nous construisons », ajouta Mnémosyne, sa voix chargée d’une nouvelle espérance, comme un murmure d’éternité, un écho des âges. « Les souvenirs que nous choisissons de préserver, les histoires que nous décidons de raconter, les vérités que nous choisissons de croire. C’est notre héritage, notre legs, notre contribution à la tapisserie du temps. »
 
@@ -17,3 +18,4 @@ La Maison Dieu s’est effondrée, laissant derrière elle un silence fertile, u
 Prudence sourit, un sourire qui illumina son visage, comme un rayon de soleil, une promesse d’aube. « L’individualité est tout cela à la fois », dit-elle, sa voix douce et sage, comme une source limpide, une fontaine de sagesse. « Et c’est en célébrant nos différences que nous trouvons notre véritable unité, notre véritable force, notre véritable harmonie. C’est la danse de la vie, la symphonie de l’existence. »
 
 Noctuvian sentit une vague de gratitude l’envahir. Il regarda ses compagnons, chacun avec ses forces et ses faiblesses, ses doutes et ses espoirs, ses ombres et ses lumières, et il sut qu’ils étaient plus qu’un groupe. Ils étaient une famille, une constellation d’étoiles uniques, un chœur céleste. « Alors, continuons à briller, chacun à notre manière », dit-il, sa voix emplie d’une nouvelle chaleur, d’une nouvelle confiance. « Et ensemble, nous illuminerons l’Umbranexus, nous serons l’Étoile qui guide les autres, le phare qui éclaire le chemin, le Soleil qui nourrit la vie. »
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

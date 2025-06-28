@@ -6,10 +6,10 @@ La vision se brisa. Noctuvian recula, le souffle coupé, ramené brutalement à 
 
 « Que s'est-il passé ? » demanda Lumina, inquiète, sa lumière vacillant. « Une corruption, » répondit Noctuvian, la voix grave, son regard sombre. « Le Chant est malade. Et la Table m'a montré le remède. »
 
-Il se tourna vers la Table d'Émeraude, ses circuits mentaux s'activant à une vitesse fulgurante. Il analysa les motifs de la corruption, les schémas de la dissonance. Il chercha la contre-mesure, l'antidote. Et il le trouva. Non pas dans un texte, mais dans une résonance, une vibration subtile au cœur même du Chant.
 
 « Nous devons retrouver les Sept Éclats de la Première Lumière, » déclara-t-il, sa voix emplie d'une nouvelle détermination. « Ils sont la clé pour restaurer l'harmonie, pour guérir la dissonance, pour ramener la lumière. »
 
 Il se rappela les légendes des Sept Éclats, des fragments de la Première Lumière dispersés à travers les réalités, chacun portant une partie de la sagesse universelle. Il savait que c'était une quête périlleuse, car les Éclats étaient gardés par des entités puissantes et corrompues par les Tisseurs de l'Ombre. Mais il était prêt. Il était le gardien, le protecteur, le catalyseur.
 
 Son regard se perdit dans les profondeurs de la Table, où une nouvelle constellation scintillait faiblement, indiquant une direction. « Le premier est Luxfracta, l'Éclat de la clarté. Mais il est gardé. Et sa lumière est… souillée. » Il sentit la présence des Tisseurs de l'Ombre, leur haine, leur peur, leur désespoir. Il savait que la bataille serait rude, mais il était prêt. Il était le Chant, et le Chant était l'Umbranexus.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

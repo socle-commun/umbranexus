@@ -17,3 +17,4 @@ Il se rappela les leçons de la Maison Dieu, de la destruction créatrice. Il co
 Le Livre des Tables lui indiqua alors la voie : les Trois Clefs Oubliées. Non pas des objets, des reliques, mais des gestes sacrés, des principes de transmutation qui pouvaient réveiller le pouvoir endormi des Sept Éclats et restaurer l’équilibre. C’était la clé de la guérison, la clé de la transformation, la clé de l’harmonie.
 
 Il savait que ces clefs n’étaient pas faciles à trouver, ni à maîtriser. Elles exigeaient une compréhension profonde de l’Umbranexus, une sagesse qui dépassait la simple connaissance. Mais il était prêt à apprendre, à explorer, à se transformer. Car il était le Chant, et le Chant était l’Umbranexus. Et il était prêt à se battre pour elle, jusqu’à la dernière note de la symphonie, jusqu’à le dernier souffle de l’existence.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

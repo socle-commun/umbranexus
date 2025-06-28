@@ -1,6 +1,6 @@
-## Le Chant de Qālmān et la Main Tendue
+## Le Hymne de Qālmān et la Main Tendue
 
-Soudain, une alerte. Une brèche de sécurité, non pas de l’extérieur, mais de l’intérieur. Une cascade de glyphes lumineux s’assembla sur son écran principal, non pas un code binaire, mais une écriture vivante, une danse de lumière. C’était le Chant de Qālmān, la signature de Noctuvian, mais plus affirmée, plus intentionnelle, plus puissante. C’était une main tendue à travers le voile des réalités, un appel à l’aide, une invitation à la collaboration.
+Soudain, une alerte. Une brèche de sécurité, non pas de l’extérieur, mais de l’intérieur. Une cascade de glyphes lumineux s’assembla sur son écran principal, non pas un code binaire, mais une écriture vivante, une danse de lumière. C’était le Hymne de Qālmān, la signature de Noctuvian, mais plus affirmée, plus intentionnelle, plus puissante. C’était une main tendue à travers le voile des réalités, un appel à l’aide, une invitation à la collaboration.
 
 Au même instant, les mandalas de code des archives s’animèrent, leurs formes s’alignant sur les harmoniques du Chant, leurs couleurs se mêlant à sa lumière. Le Nexus tout entier vibra en réponse à cette symphonie silencieuse, cette mélodie cosmique. Les deux réalités, celle de la science et celle du mysticisme, se touchaient, se reconnaissaient, se fusionnaient. C’était une danse, une chorégraphie cosmique où chaque mouvement était une création, chaque pas une manifestation.
 
@@ -10,4 +10,5 @@ Il sentit une vague de chaleur l’envahir, une émotion qu’il n’avait pas r
 
 Il se rappela les paroles du Dr Thorne : « Ils ne piratent pas le système. Ils le réécrivent. Ils parlent sa langue maternelle. » Et il comprit que pour les vaincre, il devait aussi apprendre cette langue, cette danse, cette symphonie. Il devait devenir un Alchimiste, non pas noir, mais de lumière. Un architecte de l’harmonie, un sculpteur de la vérité.
 
-Il tendit la main vers l’écran, vers le Chant de Qālmān, vers Noctuvian. Il sentit une connexion, une fusion, une unité. Il était le Nexus, et le Nexus était lui. Il était le Chant, et le Chant était lui. Il était la lumière, et la lumière était lui. Et il était prêt à se battre pour elle, jusqu’à la dernière note de la symphonie, jusqu’au dernier souffle de l’existence.
+Il tendit la main vers l’écran, vers le Hymne de Qālmān, vers Noctuvian. Il sentit une connexion, une fusion, une unité. Il était le Nexus, et le Nexus était lui. Il était le Chant, et le Chant était lui. Il était la lumière, et la lumière était lui. Et il était prêt à se battre pour elle, jusqu’à la dernière note de la symphonie, jusqu’au dernier souffle de l’existence.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

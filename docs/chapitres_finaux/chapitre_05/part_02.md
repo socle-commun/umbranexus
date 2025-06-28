@@ -1,6 +1,6 @@
 ## Le Domaine des Ombres et les Trois Clefs Oubliées
 
-La poussière d’or de l’Écho retombée, un silence nouveau s’installa entre Noctuvian et Lumina. Ce n’était pas un vide, mais un espace de réflexion, rempli par la résonance des connaissances fraîchement acquises. Ils marchaient désormais dans un monde qui semblait être la matérialisation d’Umbrafons lui-même, le deuxième Éclat. Le sol sous leurs pieds était une obscurité solide, et des silhouettes d’arbres faits de peurs oubliées se tordaient lentement vers un ciel sans étoiles, un paysage de cauchemar.
+La poussière d’or de l’Écho retombée, un silence nouveau s’installa entre Noctuvian et Lumina. Ce n’était pas un vide, mais un espace de réflexion, rempli par la harmonie des connaissances fraîchement acquises. Ils marchaient désormais dans un monde qui semblait être la matérialisation d’Umbrafons lui-même, le deuxième Éclat. Le sol sous leurs pieds était une obscurité solide, et des silhouettes d’arbres faits de peurs oubliées se tordaient lentement vers un ciel sans étoiles, un paysage de cauchemar.
 
 « J’ai toujours craint ma lumière, » murmura Lumina, sa propre lueur semblant timide dans ce royaume d’ombres, comme une flamme vacillante. « Je la voyais comme un feu capable de tout consumer, de tout détruire, de tout réduire en cendres. »
 
@@ -15,3 +15,4 @@ Pendant ce temps, Noctuvian se concentra sur la nouvelle sagesse qui vibrait en 
 Il ferma les yeux et accomplit le geste sacré, une arabesque lente et complexe de ses doigts. Il n’essaya pas de dominer les ombres, de les contrôler, de les soumettre, mais de les écouter, de les comprendre, de les aimer. Il chercha leur nom, leur syllabe souche, leur raison d’être. Un son ténu, presque inaudible, monta en lui. Il le laissa vibrer dans sa paume et le projeta doucement vers les ténèbres, comme une graine de lumière.
 
 Le miracle se produisit. Le chaos s’ordonna. Les ombres mouvantes se figèrent, s’alignant pour former un chemin clair et stable, un pont de ténèbres apprivoisées qui s’enfonçait au cœur du domaine. Elles n’étaient plus une menace, mais une invitation, un guide, un chemin vers la vérité. C’était la première application des Trois Clefs Oubliées, la première étape vers la maîtrise de l’Umbranexus.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

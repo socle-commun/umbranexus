@@ -11,6 +11,7 @@ Dans la clarté lunaire, une lumière douce et trompeuse qui révélait autant q
 « L’illusion… », murmura Lumina, sa lumière vacillant, ses contours se faisant plus flous, comme si elle était sur le point de se dissoudre. « Pour moi, c’est un faux espoir. Une promesse de lumière qui ne mène qu’à l’obscurité, un piège doré, une prison invisible. » Sa voix était empreinte d’une profonde tristesse, d’une lassitude infinie.
 
 « Pour moi, c’est une faiblesse », dit Force, sa voix tendue, ses muscles d’ombre se contractant, comme s’il était sur le point de briser quelque chose. « Une distraction qui nous détourne de notre véritable objectif, de notre véritable force, de notre véritable chemin. C’est une perte de temps, une perte d’énergie, une perte de soi. » Sa voix était chargée de frustration, d’impatience.
+Force dévoilait peu à peu son besoin de rédemption.
 
 « Pour moi, c’est un mensonge », ajouta Mnémosyne, sa voix chargée de déception, comme un soupir d’éternité, un écho lointain. « Une histoire que l’on se raconte pour ne pas affronter la réalité, pour ne pas voir la vérité en face, pour ne pas se souvenir. C’est une trahison envers soi-même, envers les autres, envers la mémoire. » Sa voix était empreinte d’une profonde amertume.
 
@@ -21,3 +22,4 @@ Dans la clarté lunaire, une lumière douce et trompeuse qui révélait autant q
 Prudence posa une main sur l’épaule de chacun, un geste de réconfort silencieux, une ancre dans la tempête. « L’illusion est tout cela à la fois », dit-elle, sa voix douce et sage, comme une source limpide, une fontaine de sagesse. « Mais elle est aussi une invitation à regarder plus loin, à chercher la vérité qui se cache derrière les apparences, à percer le voile. C’est un défi, une opportunité, une leçon. » Sa voix était empreinte d’une profonde sérénité, d’une sagesse infinie.
 
 Noctuvian sentit une nouvelle détermination l’envahir. Il regarda ses compagnons, chacun avec ses peurs et ses espoirs, ses ombres et ses lumières, et il sut qu’ils étaient prêts. « Alors, perçons les voiles de l’illusion ensemble », dit-il, sa voix emplie d’une nouvelle assurance, d’une nouvelle force. « Et découvrons la vérité qui nous attend de l’autre côté, la lumière qui dissipera toutes les ombres, toutes les illusions, tous les mensonges. »
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

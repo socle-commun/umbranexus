@@ -1,6 +1,6 @@
 ## La Colère et la Réconciliation
 
-Le Chant de Qālmān résonnait, plus fluide que jamais, portant en lui la mémoire restaurée de Mnémosyne, la créativité renouvelée d’Élan, et la sagesse protectrice de Prudence. L’air même vibrait d’une énergie nouvelle, désormais teintée de la complexité des relations au sein du groupe, une symphonie de volontés. « Regardez », dit Prudence, sa voix tissant une protection discrète autour d’eux. « Les mondes se réveillent. Le changement redevient possible. »
+Le Hymne de Qālmān vibrait, plus fluide que jamais, portant en lui la mémoire restaurée de Mnémosyne, la créativité renouvelée d’Élan, et la sagesse protectrice de Prudence. L’air même vibrait d’une énergie nouvelle, désormais teintée de la complexité des relations au sein du groupe, une symphonie de volontés. « Regardez », dit Prudence, sa voix tissant une protection discrète autour d’eux. « Les mondes se réveillent. Le changement redevient possible. »
 
 Autour d’eux, les paysages gelés de la Dimension des Oubliés commençaient à fondre, révélant des possibilités insoupçonnées. Les cristaux de glace se transformaient en rivières de lumière scintillante, les montagnes figées devenaient des vagues de potentiel en mouvement, et les forêts immobiles se muaient en jardins luxuriants de possibilités. Chaque transformation était une promesse, un chemin nouveau qui n’était plus bloqué par la peur, mais ouvert à l’exploration, à la croissance, à la vie.
 
@@ -8,7 +8,7 @@ Autour d’eux, les paysages gelés de la Dimension des Oubliés commençaient �
 
 « Oui », répondit Prudence, un sourire calme sur le visage. « Car maintenant, le changement n’est plus une menace, mais une occasion de grandir. »
 
-Elle leva les mains, et le Chant de Qālmān résonna à travers elle, amplifié par sa nouvelle compréhension. Les mondes répondirent, se transformant, évoluant, trouvant de nouveaux équilibres. Des harmonies inattendues naissaient, mêlant l’audace visionnaire de Jules Verne à la noirceur cosmique de Lovecraft, sculptant un horizon paradoxal et fascinant.
+Elle leva les mains, et le Hymne de Qālmān résonna à travers elle, amplifié par sa nouvelle compréhension. Les mondes répondirent, se transformant, évoluant, trouvant de nouveaux équilibres. Des harmonies inattendues naissaient, mêlant l’audace visionnaire de Jules Verne à la noirceur cosmique de Lovecraft, sculptant un horizon paradoxal et fascinant.
 
 « Le Chant... », dit Noctuvian, émerveillé par cette symphonie de mutations. « Il est différent, plus fluide. »
 
@@ -38,8 +38,9 @@ Alors que la tension montait, Aether et Nox se firent face. Leurs propres confli
 
 « Et c’est toi qui as raison, Nox », répondit Aether, un sourire rare sur ses lèvres, une lueur d’espoir dans ses yeux. « La stabilité est nécessaire, mais le mouvement est essentiel. » Il se tourna vers Colère. « Votre feu peut éclairer, pas seulement brûler. Il peut guider, pas seulement aveugler. »
 
-Le Chant de Qālmān enfla, non pas pour combattre Colère, mais pour l’envelopper, pour la comprendre, pour la guérir. Noctuvian, Lumina, Mnémosyne, Élan et Prudence se joignirent à Aether et Nox, leurs voix s’unissant dans une symphonie de réconciliation, un chœur céleste. Ils montrèrent à Colère que sa puissance n’était pas dans la destruction, mais dans la transformation. Que son feu pouvait forger de nouvelles réalités, éclairer de nouveaux chemins, créer de nouvelles harmonies.
+Le Hymne de Qālmān enfla, non pas pour combattre Colère, mais pour l’envelopper, pour la comprendre, pour la guérir. Noctuvian, Lumina, Mnémosyne, Élan et Prudence se joignirent à Aether et Nox, leurs voix s’unissant dans une symphonie de réconciliation, un chœur céleste. Ils montrèrent à Colère que sa puissance n’était pas dans la destruction, mais dans la transformation. Que son feu pouvait forger de nouvelles réalités, éclairer de nouveaux chemins, créer de nouvelles harmonies.
 
 Lentement, la fureur de Colère commença à s’apaiser. Les flammes se firent plus douces, les rugissements des murmures. L’entité se transforma, devenant une silhouette de lumière et de chaleur, son regard empli d’une sagesse nouvelle, d’une compassion infinie. « Je me souviens », dit Colère, sa voix une mélodie apaisante, un murmure d’éternité. « Je suis… Passion. »
 
 La Dimension de Colère se transforma en un jardin de flammes douces, où chaque étincelle était une idée, chaque braise une création. La réconciliation entre Aether et Nox était complète, leurs forces complémentaires, leurs ambitions unifiées. Ils avaient trouvé l’équilibre entre la stabilité et le mouvement, entre la peur et l’audace, entre l’ombre et la lumière. Ils étaient les architectes de la paix, les guérisseurs de l’humanité, les semeurs d’espoir.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

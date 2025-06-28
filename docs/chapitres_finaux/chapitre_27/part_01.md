@@ -1,4 +1,5 @@
 # Chapitre 27 — La Colère et la Force Créatrice
+Force dévoilait peu à peu son besoin de rédemption.
 
 🌌🔥🕯️
 
@@ -17,3 +18,4 @@ Force, silencieuse jusqu’alors, sentit sa propre énergie vibrer en écho à c
 Noctuvian écouta attentivement chaque point de vue, reconnaissant la validité de chaque approche. « Nous ne pouvons pas l’aborder avec une seule stratégie », conclut-il, sa voix servant de point d’ancrage, de médiateur. « Nous devrons être à la fois forts et compatissants, prudents et audacieux. Nous devrons être tout ce que nous sommes devenus. »
 
 Prudence hocha la tête, un léger sourire aux lèvres. « C’est cela, l’équilibre. Et c’est cet équilibre qui nous permettra de la guérir. »
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

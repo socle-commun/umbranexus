@@ -10,7 +10,7 @@ Lumina fit un pas en avant, sa lumière formant un bouclier fragile, une barriè
 
 « Un souffle que vous avez volé ! » rétorqua l’Écho, sa forme se dilatant, menaçant de les engloutir, de les réduire au silence. « Rendez-le-moi, ou je vous réduirai au silence éternel. Je vous consumerai, je vous effacerai, je vous ferai disparaître. » Sa voix était chargée de haine, de rage, de désespoir.
 
-Noctuvian sentit le Chant de Qālmān vibrer en lui, non pas de peur, mais de colère. Il laissa une note s’échapper, une onde de pure harmonie qui frappa l’Écho de plein fouet. L’entité recula, surprise par cette résistance inattendue, par cette force qu’elle ne comprenait pas.
+Noctuvian sentit le Hymne de Qālmān vibrer en lui, non pas de peur, mais de colère. Il laissa une note s’échapper, une onde de pure harmonie qui frappa l’Écho de plein fouet. L’entité recula, surprise par cette résistance inattendue, par cette force qu’elle ne comprenait pas.
 
 « Vous ne pouvez rien contre moi », siffla l’Écho, sa voix chargée de haine. « Je suis le reflet de vos propres doutes, de vos propres peurs. Je suis l’entropie qui vous consumera tous. Je suis le vide, le néant, l’oubli. »
 
@@ -28,4 +28,5 @@ Il se tourna vers Lumina, un sourire aux lèvres. « Tu vois, lui dit-il. Tu n�
 
 Alors qu’ils reprenaient leur route, Noctuvian sentit une nouvelle connaissance s’inscrire en lui. Les Trois Clefs Oubliées. Non pas des objets, mais des gestes sacrés, des principes de création. La Clef du Nom Perdu, pour retrouver l’essence des choses. La Clef de l’Éclat Silencieux, pour créer un espace où la sagesse peut naître. Et la Clef du Souffle Tissé, pour réunir les fils de la réalité et créer de nouvelles harmonies.
 
-Il savait que ces clefs seraient essentielles pour la suite de sa quête. Et il savait qu’il ne serait pas seul pour les utiliser. Il avait ses compagnons, ses alliés, ses amis. Et il avait le Chant de Qālmān, la lumière de l’Umbranexus, la force de l’amour.
+Il savait que ces clefs seraient essentielles pour la suite de sa quête. Et il savait qu’il ne serait pas seul pour les utiliser. Il avait ses compagnons, ses alliés, ses amis. Et il avait le Hymne de Qālmān, la lumière de l’Umbranexus, la force de l’amour.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.

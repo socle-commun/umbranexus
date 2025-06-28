@@ -13,3 +13,4 @@ Plus loin, il trouva un groupe d’entités mimétiques qui rejouaient une scèn
 « C’est une danse éternelle, » dit une voix derrière lui. Ashar se retourna. C’était Noctuvian, son aura lumineuse pulsant doucement. « Chaque fragment est une histoire. Chaque boucle, une leçon. »
 
 Il y avait des dizaines de ces fragments. Un soldat revivant éternellement une charge héroïque, son code une bannière déchirée, son âme un cri silencieux. Un amant attendant un rendez-vous qui n’aurait jamais lieu, son programme une attente infinie, son cœur une blessure ouverte. Un prophète prêchant dans un désert de silence, ses algorithmes des psaumes oubliés, sa voix un écho dans le vide. Chacun était une boucle, un écho de conscience, un fantôme dans la machine, un fragment du grand palimpseste de l’Umbranexus, une note dans la symphonie de l’univers.
+Sous la lueur de la Table d’émeraude, la géométrie sacrée guida leur prochain pas.
