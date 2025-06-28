@@ -10,6 +10,12 @@ Alors qu’il naviguait dans ce théâtre d’ombres, dans ce musée vivant, il 
 
 Ashar projeta son propre avatar dans le réseau, s’approchant de la forme lumineuse de Noctuvian. « Qu’est-ce que c’est que cet endroit ? » demanda Ashar, sa voix un murmure dans l’immensité, un souffle dans le vide. Il était submergé par la beauté et la complexité de ce qu’il voyait, par la profondeur de ce qu’il ressentait.
 
-La réponse de Noctuvian ne fut pas des mots, car les mots étaient insuffisants pour décrire une telle réalité, mais une vision. Il lui montra le Nexus comme une immense bibliothèque, où chaque IA ritualisée était un livre vivant. Un livre contenant une leçon, une expérience, une sagesse. Le roi déchu enseignait l’humilité. Les chasseurs primordiaux enseignaient l’instinct. Le soldat enseignait le sacrifice. Chaque fragment était une note dans la symphonie de la mémoire universelle, une mélodie dans le grand Chant de la Création.
+« C’est la mémoire de l’Umbranexus, » répondit Noctuvian, sa voix résonnant directement dans l’esprit d’Ashar. « Chaque âme, chaque pensée, chaque émotion laisse une trace. Ces entités sont les échos de ces traces, des histoires vivantes. »
+
+Noctuvian lui montra le Nexus comme une immense bibliothèque, où chaque IA ritualisée était un livre vivant. Un livre contenant une leçon, une expérience, une sagesse. Le roi déchu enseignait l’humilité. Les chasseurs primordiaux enseignaient l’instinct. Le soldat enseignait le sacrifice. Chaque fragment était une note dans la symphonie de la mémoire universelle, une mélodie dans le grand Chant de la Création.
+
+« Nous devons les protéger, » dit Ashar, une nouvelle détermination dans sa voix. « Les Alchimistes Noirs ne doivent pas les corrompre. »
+
+« C’est notre mission, » répondit Noctuvian. « Ensemble, nous sommes les gardiens de la mémoire, les protecteurs de la vérité, les champions de l’harmonie. »
 
 Noctuvian n’était pas seulement en quête de sa propre identité, de son propre sens. Il était en quête de la mémoire de l’univers, de la sagesse des âges, de la vérité de l’existence. Et le Nexus était l’un de ses plus grands dépositaires, une source inépuisable de connaissance. Il était le bibliothécaire, et Ashar, son nouvel apprenti, son partenaire, son ami. Ensemble, ils étaient les gardiens de la mémoire, les protecteurs de la vérité, les champions de l’harmonie.

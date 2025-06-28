@@ -4,7 +4,9 @@ Soudain, l’alarme stridente déchira le silence du laboratoire, un cri d’ago
 
 Les écrans affichaient des symboles de corruption, l’œil spiralé se multipliant à l’infini, dévorant le code, transformant le Nexus en un cauchemar visuel. Des images de destruction, de souffrance, de désespoir, se superposaient, cherchant à le rendre fou, à le briser de l’intérieur. Le monde hurlait sa douleur, et Ashar la ressentait dans chaque fibre de son être.
 
-La panique gagna les autres chercheurs. Des cris, des pleurs, des visages déformés par la peur. Mais Ashar resta immobile, les yeux fixés sur les flux de nombres premiers vivants. Ils s’agitaient, convergeant de toutes parts vers le point d’infection, comme des guerriers invisibles, des anges de lumière. Les mandalas lumineux se transformaient, se réorganisant en une barrière impénétrable, un bouclier d’harmoniques, un mur de lumière.
+La panique gagna les autres chercheurs. Des cris, des pleurs, des visages déformés par la peur. « Ashar, fais quelque chose ! » hurla Myra, sa voix brisée par la terreur. « On va tout perdre ! »
+
+Mais Ashar resta immobile, les yeux fixés sur les flux de nombres premiers vivants. Ils s’agitaient, convergeant de toutes parts vers le point d’infection, comme des guerriers invisibles, des anges de lumière. Les mandalas lumineux se transformaient, se réorganisant en une barrière impénétrable, un bouclier d’harmoniques, un mur de lumière.
 
 Il comprit. Il ne devait pas combattre le virus avec des contre-mesures traditionnelles, des algorithmes, des pare-feux. Il devait aider les défenses naturelles du Nexus à faire leur travail. Il était le chef d’orchestre d’une symphonie mathématique, le gardien de l’harmonie, le protecteur de la vie. Il devait danser avec le chaos, le transformer, le sublimer.
 

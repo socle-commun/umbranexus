@@ -45,27 +45,37 @@ async function generateChapterFiles() {
       return nA - nB;
     });
 
-  for (const dir of chapterDirs) {
+  await Promise.all(chapterDirs.map(async (dir) => {
     const chapterPath = path.join(chaptersDir, dir);
     const fragments = (await fs.readdir(chapterPath, { withFileTypes: true }))
       .filter(f => f.isFile() && f.name.endsWith('.md'))
       .map(f => f.name)
       .sort();
-    let chapterContent = '';
-    for (const frag of fragments) {
-      let text = await fs.readFile(path.join(chapterPath, frag), 'utf8');
-      text = text.replace(/^---\s*$/gm, '***');
-      chapterContent += text.trimEnd() + '\n\n';
-    }
+
+    const fragmentContents = await Promise.all(fragments.map(async (frag) => {
+      try {
+        let text = await fs.readFile(path.join(chapterPath, frag), 'utf8');
+        return text.replace(/^---\s*$/gm, '***').trimEnd();
+      } catch (error) {
+        console.error(`Error reading fragment ${frag} in ${dir}:`, error);
+        return ''; // Return empty string or handle error as appropriate
+      }
+    }));
+
+    const chapterContent = fragmentContents.filter(Boolean).join('\n\n') + '\n';
     const chapterFile = path.join(chaptersDir, `${dir}.md`);
-    await fs.writeFile(chapterFile, chapterContent.trimEnd() + '\n');
+    try {
+      await fs.writeFile(chapterFile, chapterContent.trimEnd() + '\n');
+    } catch (error) {
+      console.error(`Error writing chapter file ${chapterFile}:`, error);
+    }
 
     // Statistiques du chapitre
     const lines = chapterContent.split(/\r?\n/).length;
     const words = chapterContent.split(/\s+/).filter(Boolean).length;
     const chars = chapterContent.replace(/\s+/g, '').length; // ignore les caractères blancs
     console.log(`Chapitre ${dir}: ${lines} lignes, ${words} mots, ${chars} caractères (hors espaces)`);
-  }
+  }));
 }
 
 async function compileBook() {
@@ -83,14 +93,18 @@ async function compileBook() {
   // Frontmatter YAML amélioré
   content += `---\ntitle: "Umbranexus"\nauthor: "Collectif"\ndate: "${new Date().toISOString().slice(0, 10)}"\nlang: fr\ndescription: "Roman collaboratif généré par la communauté Umbranexus."\n---\n\n`;
 
-  let totalChapters = 0;
-  for (const file of chapterFiles) {
-    let text = await fs.readFile(path.join(chaptersDir, file), 'utf8');
-    content += text.trimEnd() + '\n\n';
-    // Saut de page Pandoc
-    content += '\n\\newpage\n\n';
-    totalChapters++;
-  }
+  const chapterContents = await Promise.all(chapterFiles.map(async (file) => {
+    try {
+      let text = await fs.readFile(path.join(chaptersDir, file), 'utf8');
+      return text.trimEnd() + '\n\n' + '\n\\newpage\n\n';
+    } catch (error) {
+      console.error(`Error reading chapter file ${file}:`, error);
+      return '';
+    }
+  }));
+
+  let totalChapters = chapterFiles.length;
+  content += chapterContents.filter(Boolean).join('');
   await fs.writeFile(outputFile, content.trimEnd() + '\n');
   console.log(`Compiled ${totalChapters} chapters into ${outputFile}`);
 

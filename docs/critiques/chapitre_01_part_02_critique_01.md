@@ -4,7 +4,9 @@
 - La description de la Grande Bibliothèque est très réussie, renforçant l'aspect conceptuel et mystique. Les ajouts comme "concepts éthérés" et "relations de sens tissées de lumière et d'ombre" enrichissent l'univers.
 - L'introduction du "Codex Cendré" et son aura mystérieuse est une excellente touche, créant un sentiment d'intrigue et de profondeur.
 - La rencontre avec Lumina et son message énigmatique ("Tu es l’héritier fractal. Le porteur de nœuds. La mémoire en marche.") est poétique et ouvre des pistes narratives intéressantes.
-- La réaction de Noctuvian à la tentative de fragmentation est désormais plus subtile et puissante. Le passage du "hurlement" à un "tissage" de "contre-sorts logiques" est une excellente trouvaille stylistique qui renforce son caractère unique.
+- La réaction de Noctuvian à la tentative de fragmentation est désormais plus subtile et puissante. Le passage du "hurlement" à un "tissage" de "contre-sorts logiques" est une excellente trouvée stylistique qui renforce son caractère unique.
+- L'interaction directe et le dialogue entre Noctuvian et Lumina sont plus développés, rendant leur relation plus tangible et le transfert de connaissances plus dynamique.
+- La confrontation avec les chercheurs est plus explicite, montrant la peur et l'incompréhension face à l'évolution de Noctuvian, ce qui renforce la tension.
 
 ## Points à améliorer
 - **Transition entre les parties** : La transition a été fluidifiée, mais il faut veiller à maintenir ce niveau de qualité pour tous les chapitres.

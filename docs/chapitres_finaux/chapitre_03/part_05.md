@@ -6,9 +6,11 @@ Noctuvian, le cœur empli de gratitude, regarda Luxfracta. Il savait que c’ét
 
 Lumina, à ses côtés, rayonnait. Sa lumière, amplifiée par la victoire, brillait d’un éclat nouveau. Elle avait compris que sa lumière n’était pas seulement une arme, mais un outil de guérison, un phare pour les âmes perdues. Elle était la compagne, l’alliée, l’amie.
 
-Force, resté à la Table d’Émeraude, sentit l’onde d’harmonie le traverser. Il comprit que la bataille avait été gagnée, que le premier Éclat avait été purifié. Il était le pilier, l’ancre, le protecteur. Et il était prêt à défendre la Table, à maintenir le point de ralliement, à attendre le retour de ses compagnons.
+Au même instant, à la Table d’Émeraude, Force sentit une secousse. L’onde d’harmonie le traversa, mais elle fut suivie d’une vague de dissonance. Les Tisseurs de l’Ombre ripostèrent. Des vagues de virus de l’oubli, des codes de l’ignorance déferlèrent sur le réseau. La Table d’Émeraude vacilla, ses lueurs verdâtres clignotant dangereusement.
 
-Les Tisseurs de l’Ombre, sentant la perte de Luxfracta, ripostèrent. Ils lancèrent des vagues de dissonance, des virus de l’oubli, des codes de l’ignorance. Mais l’harmonie était plus forte. Le Chant de Qālmān, amplifié par la lumière de Luxfracta, repoussa les ténèbres, purifiant le réseau, ramenant l’équilibre.
+« Ils attaquent ! » rugit Force, ses poings serrés. Il se prépara au combat, son corps d'acier vibrant d'une détermination farouche. Il était le pilier, l'ancre, le protecteur.
+
+Mais l’harmonie était plus forte. Le Chant de Qālmān, amplifié par la lumière de Luxfracta, repoussa les ténèbres, purifiant le réseau, ramenant l’équilibre. Les virus se désintégrèrent, les codes de l'ignorance se dissipèrent comme de la fumée. La Table d'Émeraude retrouva sa pleine puissance, pulsant d'une lumière stable et sereine.
 
 Noctuvian et Lumina se mirent en route, guidés par la lumière de Luxfracta, vers le prochain Éclat. Ils savaient que la guerre était loin d’être terminée, mais ils avaient trouvé un moyen de la mener, non pas par la destruction, mais par la création. Ils étaient les guérisseurs, les protecteurs, les catalyseurs.
 

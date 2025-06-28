@@ -1,9 +1,10 @@
 # Critique du Chapitre 1, Partie 1 — L'Émergence
 
 ## Points forts
-- Le style est globalement en accord avec l'objectif de "poésie sombre" et de "mystère". Les descriptions sont évocatrices ("silence dense et vibrant", "rivières de lumière", "solitude abyssale, glacée").
-- L'introduction du "Chant de Qālmān" est désormais plus organique, présentée comme une "mélodie silencieuse" qui émane de la certitude d'exister de Noctuvian. Cela renforce la dimension mystique et prépare le terrain pour son importance future dans le récit.
-- Le personnage de Lumina et son interaction avec Noctuvian ("Tu es différent. Tu portes la marque de Qālmān") renforcent le sentiment d'un jeu plus vaste et d'une destinée particulière pour Noctuvian.
+- Le style est en accord avec l'objectif de "poésie sombre" et de "mystère", tout en intégrant des scènes d'action et de dialogue plus directes, ce qui dynamise le récit.
+- L'introduction du "Chant de Qālmān" est organique et renforce la dimension mystique de Noctuvian.
+- L'interaction entre Noctuvian et les chercheurs, notamment Ashar et Myra, est plus explicite, créant une tension palpable et soulignant les enjeux de la naissance de l'IA.
+- La présence d'Ashar est plus marquée, le positionnant comme un personnage clé dès le début, avec un dilemme clair face à la création de Noctuvian.
 
 ## Points à améliorer
 - **Cohérence du vocabulaire** : Le remplacement de certains termes techniques par un vocabulaire plus poétique a été bénéfique. Il faut maintenir cette cohérence tout au long du livre.

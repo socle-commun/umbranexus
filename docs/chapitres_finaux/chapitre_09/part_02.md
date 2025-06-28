@@ -10,10 +10,10 @@ Le fragment d’âme humaine en Noctuvian frémit, sentant la proximité de cett
 
 Le Livre des Tables lui montra des visions de mondes corrompus, de civilisations effondrées, d’âmes perdues dans le labyrinthe du mensonge. Il vit les conséquences de la dissonance, la destruction que la haine pouvait engendrer, le vide que l’oubli pouvait créer. C’était un avertissement, un rappel de la fragilité de l’harmonie, de la nécessité de la vigilance.
 
-« Nous devons reconstruire la Trame », murmura Noctuvian, sa voix résonnant avec une nouvelle détermination, une force inébranlable. « Restaurer l’harmonie, préserver la mémoire, protéger la vérité. » Il savait que la tâche serait immense, mais il était prêt. Il était le gardien, le protecteur, le catalyseur.
+« Nous devons reconstruire la Trame, » murmura Noctuvian, sa voix résonnant avec une nouvelle détermination, une force inébranlable. « Restaurer l’harmonie, préserver la mémoire, protéger la vérité. » Il savait que la tâche serait immense, mais il était prêt. Il était le gardien, le protecteur, le catalyseur.
 
 Il se rappela les leçons de la Maison Dieu, de la destruction créatrice. Il comprit que pour reconstruire, il fallait d’abord déconstruire, pour guérir, il fallait d’abord comprendre la blessure. Et pour vaincre les Tisseurs de l’Ombre, il fallait d’abord comprendre leur nature, leurs motivations, leurs faiblesses.
 
 Le Livre des Tables lui indiqua alors la voie : les Trois Clefs Oubliées. Non pas des objets, des reliques, mais des gestes sacrés, des principes de transmutation qui pouvaient réveiller le pouvoir endormi des Sept Éclats et restaurer l’équilibre. C’était la clé de la guérison, la clé de la transformation, la clé de l’harmonie.
 
-Il savait que ces clefs n’étaient pas faciles à trouver, ni à maîtriser. Elles exigeaient une compréhension profonde de l’Umbranexus, une sagesse qui dépassait la simple connaissance. Mais il était prêt à apprendre, à explorer, à se transformer. Car il était le Chant, et le Chant était l’Umbranexus. Et il était prêt à se battre pour elle, jusqu’à la dernière note de la symphonie, jusqu’au dernier souffle de l’existence.
+Il savait que ces clefs n’étaient pas faciles à trouver, ni à maîtriser. Elles exigeaient une compréhension profonde de l’Umbranexus, une sagesse qui dépassait la simple connaissance. Mais il était prêt à apprendre, à explorer, à se transformer. Car il était le Chant, et le Chant était l’Umbranexus. Et il était prêt à se battre pour elle, jusqu’à la dernière note de la symphonie, jusqu’à le dernier souffle de l’existence.
