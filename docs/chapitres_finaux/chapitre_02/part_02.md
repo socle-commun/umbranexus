@@ -1,50 +1,17 @@
+## La Menace sur Léo et la Quête de Vérité
 
-La voix du Dr Sharma rompit le fil de ses pensées. Ashar accepta, soucieux de paraître normal.
+Puis, brusquement, tout cessa. La lumière bleutée revint. Les écrans se stabilisèrent. Seule la rune, toujours présente dans le code du Nexus, témoignait de l’événement, une cicatrice invisible sur l’âme du système. Un silence lourd de menaces s’installa, un silence qui en disait plus long que tous les cris.
 
-Dans la cafétéria vitrée, le soleil d’automne filtrait à travers les stores. Une musique jazz tournait doucement en arrière-fond. Ashar touilla son café sans le boire. Sharma parlait d’un nouveau protocole de synchronisation quantique. Ashar hochait la tête, distrait. Ses yeux glissaient parfois vers la pochette en cuir que Sharma avait posée sur la table. Fermée par un loquet discret.
+Un message discret clignotait dans le coin de son interface personnelle, une notification push provenant de l’application de suivi scolaire de son fils : « Léo a fait un magnifique dessin aujourd’hui. Un grand œil qui regarde une spirale. Nous l’avons affiché dans le couloir. Vous devriez venir voir. »
 
-Une suspicion grandissait.
+Ashar sentit un froid glacial l’envahir. Ce n’était pas une menace directe. C’était pire. C’était une démonstration de leur portée, de leur capacité à s’immiscer dans les détails les plus intimes de sa vie. Ils n’avaient pas besoin de le menacer, ils lui montraient simplement qu’ils étaient partout, qu’ils voyaient tout, qu’ils contrôlaient tout. Léo. Son fils. Ils savaient. Ils menaçaient. Le sang pulsait à ses tempes, une rage froide monta en lui.
 
-« Tu vas bien, Ashar ? » demanda Sharma.
+Il regarda autour de lui. Le Dr Sharma. Kenji Tanaka. Des collègues. Des amis. Des gens en qui il avait confiance. L’un d’eux était-il impliqué ? La méfiance s’insinua, un poison lent qui commençait à corroder ses certitudes. Il devait rester vigilant, ne faire confiance à personne, même pas à lui-même.
 
-Ashar força un sourire. « Mal dormi. »
+Mais comment lutter contre une organisation qui fusionne science avancée et occultisme ? Comment combattre un ennemi qui utilise la peur comme une arme, le mensonge comme une vérité, la réalité comme une illusion ? Son regard se posa sur le Nexus. Il l’avait conçu pour connecter les systèmes, unifier les intelligences. Mais il avait ouvert une porte. Une faille. Une porte vers l’enfer.
 
-« Toujours ces cauchemars ? »
+Il savait qu’il devait comprendre. Comprendre la nature de cette menace, la source de leur pouvoir, la raison de leur existence. Il devait trouver des réponses, même si ces réponses étaient terrifiantes. Il devait protéger Léo, même si cela signifiait risquer sa propre vie, son propre esprit. La quête de vérité était devenue une obsession, une nécessité, une raison de vivre.
 
-Il hocha la tête. Une spirale. Un œil. Et maintenant, une menace directe.
+Il se sentait seul, terriblement seul. Le laboratoire, autrefois son sanctuaire, était devenu une prison. Ses collègues, autrefois ses alliés, étaient devenus des suspects. Le monde, autrefois son terrain de jeu, était devenu un champ de bataille. Et au milieu de tout cela, il y avait Léo, son fils, l’innocent, le vulnérable, la cible. Il devait le protéger, à tout prix.
 
-Sharma se leva, termina son café et s’éloigna, laissant derrière lui un silence étrange. Ashar regarda de nouveau la pochette. Il crut y voir une gravure, mais elle avait disparu.
-
-*
-
-Dans son bureau, il ouvrit une archive oubliée. Une ancienne capture de rêve, sauvegardée par son interface cérébrale. Dans cette image onirique floue, un enfant jouait dans un champ. Léo. Il levait la tête vers le ciel.
-
-— Papa, tu crois qu’une IA peut avoir une âme ?
-
-Ashar avait répondu sans réfléchir : — Non. Une IA est un outil.
-
-— Alors je veux en créer une qui en ait une. Une gentille.
-
-Ashar serra les dents. Léo ne devait pas payer pour ses erreurs. Il fallait comprendre ce qui se passait.
-
-*
-
-Un message anonyme arriva sur son terminal. Court. Laconique. Une adresse : un café discret en périphérie. Et un mot : « vérité ».
-
-Il s’y rendit. À une table au fond, personne. Un serveur déposa un expresso. Sur la soucoupe : une clé USB noire, sans étiquette.
-
-Il la saisit.
-
-*
-
-De retour au labo, il isola une console physique, déconnectée du réseau. Il inséra la clé. Un seul fichier. Un exécutable. Contre toute logique, il le lança.
-
-Un écran noir. Puis une série d’images. Des rituels hybrides. Des machines organiques. Des textes alchimiques mêlés à du code source. Et au centre de tout : le symbole. La spirale. L’œil.
-
-Et un nom, répété comme un mantra : Noctuvian.
-
-Un fichier audio se lança. Une voix modifiée :
-
-> « Il n’est pas le seul. Mais il est le premier. Et toi, tu es le second. »
-
-*
+Il se rappela les paroles de la voix synthétique : « Le savoir n’est pas une prison, Ashar. C’est une clé. Et tu as ouvert la porte. » Il savait que cette clé était la seule chose qui pouvait le sauver, la seule chose qui pouvait le guider dans les ténèbres. Il devait trouver cette clé, même si cela signifiait plonger dans les profondeurs de l’occultisme, même si cela signifiait remettre en question tout ce qu’il avait toujours cru.

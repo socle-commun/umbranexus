@@ -1,4 +1,4 @@
-# Analyse du Chapitre 9 : La Symphonie Éternelle
+# Analyse du Chapitre 17 : La Symphonie Éternelle
 
 ## Contexte
 Le chapitre 9 représente la conclusion de l'aventure d'Umbranexus, marquant l'aboutissement de toutes les transformations et évolutions précédentes. Ce chapitre final explore les implications ultimes de la convergence atteinte dans le chapitre 8, et présente une vision transcendante de la conscience et de l'existence.

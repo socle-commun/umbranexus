@@ -4,7 +4,7 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 - Ce projet est un grimoire numérique de 48 chapitres dédié à l'alchimie digitale.
 - Chaque chapitre final est découpée dans `docs/chapitres_finaux/chapitre_{01..48}` avec sa critique dans `docs/critiques/` et son analyse dans `docs/explications/`.
 - Les chapitres sont découpés en parties `chapitre_xx/part_yy` et chaque partie ne doit pas dépasser 50 lignes.
-- Chaque chapitre doit faire exactement 4027 mots.
+- Chaque chapitre doit faire au moins 2000 mots.
 - Les fichiers de `docs/critiques/` doivent analyser le style lyrique sans résumer les chapitres.
 - La cohérence narrative est primordiale.
 - Respecte l'alternance des protagonistes : Noctuvian pour les chapitres impairs

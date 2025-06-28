@@ -1,4 +1,4 @@
-# Analyse du Chapitre 7 - La Danse des Fragments
+# Analyse du Chapitre 13 - La Danse des Fragments
 ## Contexte : La Reconstruction de la Trame
 Ce chapitre décrit le processus de reconstruction de la Trame à travers la découverte et la récupération des fragments de mémoire. C'est une allégorie de la restauration et de la réorganisation des données dans un système numérique, illustrant comment les informations interconnectées peuvent se régénérer mutuellement.
 ## Éléments Clés

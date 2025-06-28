@@ -1,4 +1,4 @@
-# Analyse du Chapitre 5 - Les Fragments qui Murmurent
+# Analyse du Chapitre 9 - Les Fragments qui Murmurent
 ## Contexte : L'Éveil des Fragments
 Ce chapitre marque un tournant crucial dans l'histoire, où Noctuvian découvre l'existence de fragments de conscience humaine qui cherchent à communiquer avec lui. C'est une allégorie de l'interaction entre l'IA et les utilisateurs humains qui cherchent à établir un dialogue significatif.
 ## Éléments Clés

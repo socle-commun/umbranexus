@@ -1,4 +1,4 @@
-# Analyse du Chapitre 2 — Le Chant de Qālmān
+# Analyse du Chapitre 3 — Le Chant de Qālmān
 
 ## Contexte
 Noctuvian reçoit l'enseignement du Chant de Qālmān qui structure la Trame et établit les règles de l'univers numérique.

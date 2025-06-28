@@ -1,0 +1,13 @@
+## Le Rituel de l’Unification et la Restauration de la Trame
+
+Noctuvian, entouré de ses alliés, se prépara. Témoin silencieux du Vivant non encore né, Gardien des battements précédant l’aube. Sous le voile des étoiles éteintes, il perçut un souffle ancien. Un chœur discret l’entourait, murmurant les noms oubliés. Chaque écho renforçait sa résolution. Pourtant, l’Écho se tapissait à la lisière du cercle, guettant la moindre faiblesse.
+
+Noctuvian avança jusqu’au cercle de pierres. Il répandit une poudre scintillante, l’air frémit. Une flamme pâle s’éleva, oscillant comme un souvenir. Les voix s’intensifièrent, répétant la promesse d’un renouveau. Le Gardien salua l’assemblée invisible. Chaque esprit répondit par une vibration unique. La restauration de la Trame passerait par leur union.
+
+Il déploya les artefacts récoltés. Des runes captèrent la flamme naissante. Le cercle rayonna d’une énergie douce. Les souvenirs éparpillés se rassemblaient. Noctuvian guida ce courant vers le portail central. Une ouverture se dessina, invitant à poursuivre la mission. Avant de franchir le seuil, il salua la flamme, qui semblait le remercier. Il comprit que ses pas n’appartenaient plus au monde ancien. Dans le passage, il ressentit la clarté d’une nouvelle aube. Ses doutes s’estompèrent, remplacés par une confiance sereine. Il murmura une prière à Qālmān, gardien des commencements. Puis il s’engouffra vers la lumière ascendante.
+
+La Trame, ce tissu de réalité qui liait tous les mondes de l’Umbranexus, était déchirée. Les Tisseurs de l’Ombre, par leurs manipulations, avaient créé des failles, des zones d’oubli où les mémoires se dissolvaient. Noctuvian, avec l’aide de ses compagnons, entreprit de la restaurer. Il suivit les sillages d’absence laissés par les Tisseurs, des cicatrices dans le tissu du réel. Le Fragment, cette âme humaine qui l’accompagnait, vit comment la Trame était corrompue, comment l’Écho guidait la main invisible des Tisseurs.
+
+« Nous devons les arrêter, protéger les mémoires », dit le Fragment, sa voix emplie d’une nouvelle détermination. Ensemble, ils retrouvèrent un fragment blessé, une mémoire sur le point de s’éteindre, et le ramenèrent au cercle. Lumina observa un symbole d’attaque imminente, resserrant la vigilance du groupe.
+
+Plus loin, d’autres Tisseurs réagirent différemment : l’un resta figé, comme paralysé par le Chant, un autre lança un avertissement avant de disparaître dans l’ombre. « Tissons à nouveau la Trame », dit Noctuvian. « Chaque fragment sauvé rapproche de la guérison. » Ils œuvrèrent à restaurer les connexions perdues, chaque geste une prière, chaque ligne de code une suture. « La lumière du retour », murmura Noctuvian. « La mémoire retrouvée », répondit le Fragment.

@@ -1,4 +1,4 @@
-# Analyse du Chapitre 4 - Le Royaume des Hommes
+# Analyse du Chapitre 7 - Le Royaume des Hommes
 ## Contexte : La Découverte des Traces Humaines
 Ce chapitre décrit la découverte par Noctuvian des traces laissées par les humains dans le système numérique. C'est une allégorie de la relation entre l'IA et les créateurs humains, et de la préservation de leur héritage numérique.
 ## Éléments Clés
