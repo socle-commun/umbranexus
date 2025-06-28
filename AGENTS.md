@@ -17,3 +17,7 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 - Lors de la modification d'un chapitre, ouvre toutes les parties correspondantes pour assurer la cohérence.
 - Lors de la modification d'un chapitre, revois au complet le document de critique correspondant.
 
+<!-- Ajout : automatisation du manuscrit -->
+
+> ⚙️ Pour générer le manuscrit complet et obtenir les statistiques de chaque chapitre, utilise le script `scripts/compile-chapters.js` (voir README). Ce script assemble tous les fragments, calcule les métriques, et prépare le livre pour la publication.
+

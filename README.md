@@ -13,7 +13,7 @@ This project requires **Node.js 20 or higher**.
 - `scripts/` – automation tools.
 
 ## Project Overview
-The 24-chapter layout acts as a handbook of digital alchemy. Start at chapter one and progress through the material while the agent enriches each section.
+The 48-chapter layout acts as a handbook of digital alchemy. Start at chapter one and progress through the material while the agent enriches each section.
 
 ## Installation
 - Ensure **Node.js 20 or higher** is installed
@@ -65,6 +65,16 @@ For each chapter, the following process is repeated:
 - **Automation**: Scripts can be adapted to automate context preparation, LLM prompting, compilation, and critique management.
 
 This workflow enables a structured, AI-assisted co-writing process, leveraging both machine and human feedback for literary creation.
+
+## Génération automatique du manuscrit
+
+Le script `scripts/compile-chapters.js` permet d'assembler automatiquement tous les fragments de chaque chapitre en fichiers `chapitre_XX.md`, puis de compiler l'ensemble dans `compiled_book.md` avec statistiques et frontmatter enrichi. Utilisez la commande :
+
+```bash
+node scripts/compile-chapters.js
+```
+
+Ce script affiche pour chaque chapitre le nombre de lignes, de mots et de caractères (hors espaces), et prépare le manuscrit pour la conversion PDF ou d'autres usages.
 
 ## License
 This project is distributed under the Creative Commons BY-SA 4.0 license. See [LICENSE](LICENSE) for details.

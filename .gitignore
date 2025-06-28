@@ -57,3 +57,5 @@ coverage/
 # Generated book compilation
 docs/chapitres_finaux/compiled_book.md
 docs/chapitres_finaux/compiled_book.pdf
+# Ignorer les fichiers chapitres concaténés générés automatiquement
+/docs/chapitres_finaux/chapitre_*.md
