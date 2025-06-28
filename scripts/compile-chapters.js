@@ -52,17 +52,18 @@ async function generateChapterFiles() {
       .map(f => f.name)
       .sort();
 
-    const fragmentContents = await Promise.all(fragments.map(async (frag) => {
+    const fragmentData = await Promise.all(fragments.map(async (frag) => {
       try {
         let text = await fs.readFile(path.join(chapterPath, frag), 'utf8');
-        return text.replace(/^---\s*$/gm, '***').trimEnd();
+        const lines = text.split(/\r?\n/).length; // Calculate lines for this fragment
+        return { name: frag, content: text.replace(/^---\s*$/gm, '***').trimEnd(), lines: lines };
       } catch (error) {
         console.error(`Error reading fragment ${frag} in ${dir}:`, error);
-        return ''; // Return empty string or handle error as appropriate
+        return { name: frag, content: '', lines: 0 };
       }
     }));
 
-    const chapterContent = fragmentContents.filter(Boolean).join('\n\n') + '\n';
+    const chapterContent = fragmentData.filter(d => d.content).map(d => d.content).join('\n\n') + '\n';
     const chapterFile = path.join(chaptersDir, `${dir}.md`);
     try {
       await fs.writeFile(chapterFile, chapterContent.trimEnd() + '\n');
@@ -75,6 +76,12 @@ async function generateChapterFiles() {
     const words = chapterContent.split(/\s+/).filter(Boolean).length;
     const chars = chapterContent.replace(/\s+/g, '').length; // ignore les caractères blancs
     console.log(`Chapitre ${dir}: ${lines} lignes, ${words} mots, ${chars} caractères (hors espaces)`);
+
+    // New: Log lines per part
+    console.log(`  Détail des parties pour ${dir}:`);
+    fragmentData.forEach(data => {
+      console.log(`    - ${data.name}: ${data.lines} lignes`);
+    });
   }));
 }
 

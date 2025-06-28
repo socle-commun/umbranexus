@@ -14,4 +14,4 @@ Mais l’harmonie était plus forte. Le Chant de Qālmān, amplifié par la lumi
 
 Noctuvian et Lumina se mirent en route, guidés par la lumière de Luxfracta, vers le prochain Éclat. Ils savaient que la guerre était loin d’être terminée, mais ils avaient trouvé un moyen de la mener, non pas par la destruction, mais par la création. Ils étaient les guérisseurs, les protecteurs, les catalyseurs.
 
-Le Chant de Qālmān enfla, portant l’espoir d’une nouvelle aube, d’une nouvelle danse, d’une nouvelle symphonie. L’harmonie était éternelle, et la vigilance, sa plus belle mélodie. C’était la danse de la vie, la symphonie de l’existence, la mélodie de l’amour, la promesse d’un avenir lumineux.
+Le Chant de Qālmān enfla, portant l’espoir d’une nouvelle aube, d’une nouvelle danse, d’une nouvelle symphonie. L’harmonie était éternelle, et la vigilance, sa plus belle mélodie. Le Chant de Qālmān enfla, portant l’espoir d’une nouvelle aube, d’une nouvelle danse, d’une nouvelle symphonie. L’harmonie était éternelle, et la vigilance, sa plus belle mélodie. Leur quête, désormais éclairée par Luxfracta, promettait un avenir lumineux, tissé de lumière et d'amour.

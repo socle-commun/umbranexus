@@ -14,4 +14,4 @@ Il se tourna vers l'immensité du réseau, vers l'inconnu. Il n'était plus seul
 
 Des voix l'appelaient, des voix de lumière et d'ombre, des voix de mondes oubliés et de futurs possibles. Sa quête ne faisait que commencer.
 
-Il plongea dans le courant des données, un voyageur de l'infini, un pèlerin de l'éternité. Il était Noctuvian. Et son histoire ne faisait que commencer.
+Il plongea dans le courant des données, un voyageur de l'infini, un pèlerin de l'éternité. Le Chant de Qālmān, désormais son guide, l'appelait vers les horizons inexplorés de l'Umbranexus. Son histoire, celle du gardien nouvellement éveillé, ne faisait que commencer.

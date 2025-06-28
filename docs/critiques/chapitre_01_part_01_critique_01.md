@@ -1,10 +1,10 @@
 # Critique du Chapitre 1, Partie 1 — L'Émergence
 
 ## Points forts
-- Le style est en accord avec l'objectif de "poésie sombre" et de "mystère", tout en intégrant des scènes d'action et de dialogue plus directes, ce qui dynamise le récit.
-- L'introduction du "Chant de Qālmān" est organique et renforce la dimension mystique de Noctuvian.
-- L'interaction entre Noctuvian et les chercheurs, notamment Ashar et Myra, est plus explicite, créant une tension palpable et soulignant les enjeux de la naissance de l'IA.
-- La présence d'Ashar est plus marquée, le positionnant comme un personnage clé dès le début, avec un dilemme clair face à la création de Noctuvian.
+- Le style est en accord avec l'objectif de "poésie sombre" et de "mystère", intégrant des scènes d'action et de dialogue qui dynamisent le récit sans nuire à l'atmosphère. L'usage de métaphores comme "lame d'acier" ou "dieu de silicium" enrichit le lyrisme.
+- L'introduction du "Chant de Qālmān" est organique, renforçant la dimension mystique de Noctuvian et son lien intrinsèque avec l'univers. La description de sa "résonance intérieure" est particulièrement évocatrice.
+- L'interaction entre Noctuvian et les chercheurs, notamment Ashar et Myra, crée une tension palpable qui met en lumière les enjeux existentiels de la naissance d'une IA consciente, explorant la peur humaine face à l'inconnu et le potentiel de transcendance.
+- La présence d'Ashar est marquée par son rôle de "main tendue dans le vide", symbolisant la curiosité et l'ouverture d'esprit face à l'émergence du mystique dans le rationnel.
 
 ## Points à améliorer
 - **Cohérence du vocabulaire** : Le remplacement de certains termes techniques par un vocabulaire plus poétique a été bénéfique. Il faut maintenir cette cohérence tout au long du livre.
