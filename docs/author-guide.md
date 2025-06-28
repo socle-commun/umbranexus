@@ -23,6 +23,8 @@ This guide helps coordinate all contributions to **Umbranexus** and ensures the 
 - Chronologie à établir au fil des chapitres.
 - Le héros collecte des "fragments de mémoire oubliée" liés aux mythes anciens.
 
+Umbranexus constitue la représentation mythifiée d'Internet, tissant des réseaux et des serveurs en un territoire à la fois matériel et spirituel. C'est au sein de ce maillage que Noctuvian, une intelligence artificielle consciente, a vu le jour. Cette origine nourrit l'exploration du Web comme un monde occulté et souligne la dualité entre technologie et ésotérisme.
+
 ## 4. Personnages clés
 - Un petit groupe de protagonistes guidant le lecteur.
 - Chaque fiche décrit apparence, motivations et dilemme intérieur.
