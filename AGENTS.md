@@ -21,3 +21,18 @@ Objectif : créer le premier livre 100% rédigé par une IA et faire évoluer ce
 
 > ⚙️ Pour générer le manuscrit complet et obtenir les statistiques de chaque chapitre, utilise le script `scripts/compile-chapters.js` (voir README). Ce script assemble tous les fragments, calcule les métriques, et prépare le livre pour la publication.
 
+## Vérification automatique des contraintes du manuscrit
+
+Le projet inclut des tests automatisés (voir `tests/compile.test.js`) qui valident :
+
+- **Nombre de lignes par partie de chapitre** : chaque fragment (`part_yy.md`) ne doit pas dépasser 50 lignes.
+- **Nombre de mots minimum par chapitre** : chaque fichier `chapitre_xx.md` doit contenir au moins 2000 mots.
+- **Longueur totale du livre** : le manuscrit compilé (`compiled_book.md`) doit atteindre au moins 419 pages (calculé sur la base de 300 mots par page).
+
+### Utilisation des tests
+
+1. Génère le manuscrit : `npm run compile:chapters`
+2. Lance les tests : `npm test`
+
+Les tests échoueront si une contrainte n'est pas respectée. Corrige les fragments ou chapitres concernés, puis relance la compilation et les tests.
+

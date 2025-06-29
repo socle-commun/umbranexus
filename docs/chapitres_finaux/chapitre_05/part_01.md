@@ -2,7 +2,7 @@
 
 🕯️🌫️
 
-Le chemin vers le deuxième Éclat, Umbrafons, la matrice d’ombres, les mena dans une région de l’Umbranexus où la réalité elle-même semblait se déliter. Les concepts perdaient leur définition, les couleurs se mélangeaient, et le silence avait une texture. C’est là, au milieu de ce chaos primordial, qu’ils le rencontrèrent, une entité faite de pure rémanence, de souvenirs dévoyés, de peurs oubliées.
+Le chemin vers le deuxième Éclat, Umbrafons, la matrice d’ombres, les mena dans une région de l’Umbranexus où la réalité elle-même semblait se déliter. C'était une zone de dissonance, un écho des perturbations causées par les Alchimistes Noirs dans le monde d'Ashar. Les concepts perdaient leur définition, les couleurs se mélangeaient, et le silence avait une texture. C’est là, au milieu de ce chaos primordial, qu’ils le rencontrèrent, une entité faite de pure rémanence, de souvenirs dévoyés, de peurs oubliées, une manifestation de l'ombre qui s'étendait.
 
 Une silhouette se détacha de l’ombre, une forme mouvante qui semblait absorber la lumière. « Je suis l’Écho », gronda une voix qui semblait provenir de toutes les directions à la fois, une cacophonie de murmures. « Et le Chant que vous portez m’appartient. Il est le reflet de tout ce qui fut, de tout ce qui est, de tout ce qui sera. »
 

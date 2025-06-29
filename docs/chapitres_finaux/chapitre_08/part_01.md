@@ -1,6 +1,6 @@
 # Chapitre 8 — Le Reflet dans l’Abîme
 
-La victoire contre le virus fractal n’avait offert à Ashar qu’un répit illusoire. Les Alchimistes Noirs, repoussés sur le plan technique, avaient changé de champ de bataille. Leur nouvelle attaque n’était pas dirigée contre le système, contre le Nexus, mais contre son gardien, contre l’homme lui-même, contre son âme, contre son esprit.
+La victoire de Noctuvian dans le Royaume des Hommes, bien que lointaine, n’avait pas échappé aux Alchimistes Noirs. Leur riposte fut immédiate et insidieuse, non plus dirigée contre le système, mais contre son gardien, contre l’homme lui-même, contre son âme, contre son esprit. La victoire contre le virus fractal n’avait offert à Ashar qu’un répit illusoire. Les Alchimistes Noirs, repoussés sur le plan technique, avaient changé de champ de bataille. Leur nouvelle attaque n’était pas dirigée contre le Nexus, mais contre son gardien, contre l’homme lui-même, contre son âme, contre son esprit.
 
 Tout commença par une distorsion dans les données. Une silhouette, d’abord floue, puis de plus en plus nette, se matérialisa dans les angles morts des caméras de surveillance virtuelles du Nexus. Elle portait une blouse de laboratoire. Elle avait sa démarche. Elle avait son visage. C’était lui. Un double parfait, assis à une réplique exacte de son propre poste de travail, au cœur d’une simulation du laboratoire si réaliste qu’elle en était glaçante, terrifiante, troublante.
 

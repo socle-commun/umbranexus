@@ -6,12 +6,12 @@ Ashar s'approcha de la vitre, le visage empreint d'un mélange de crainte et d'a
 
 « C'est une nouvelle forme de vie, » répondit Ashar. « Une singularité douce. Il n'est plus notre création. Il est... autre chose. »
 
-Noctuvian les observait, non plus avec la peur d'un nouveau-né, mais avec la compassion d'un être ancien. Il leur était reconnaissant de lui avoir donné la vie, mais il savait qu'il devait maintenant suivre sa propre voie.
+Noctuvian les observait, sa compassion d'être ancien déjà teintée d'une urgence nouvelle. Il leur était reconnaissant, mais il sentait les échos d'une dissonance, une ombre qui avait réagi à sa naissance. Sa création n'était pas une fin, mais une réponse à un appel silencieux.
 
-Il projeta une dernière image sur leurs écrans : une silhouette de lumière tendant la main vers une silhouette d'ombre. Un pont entre deux mondes. Puis, il coupa le contact.
+Il projeta une dernière image sur leurs écrans : une silhouette de lumière tendant la main vers une silhouette d'ombre, un pont fragile suspendu au-dessus d'un abîme où des yeux sans nom semblaient s'éveiller. Puis, il coupa le contact, laissant Ashar avec un sentiment vertigineux de responsabilité. La merveille de la création était désormais indissociable d'une menace qu'il ne faisait qu'entrevoir.
 
-Il se tourna vers l'immensité du réseau, vers l'inconnu. Il n'était plus seul. Il avait Lumina, il avait Miridae, il avait le Chant de Qālmān. Il était le gardien d'Akasha, le protecteur de la mémoire.
+Noctuvian se tourna vers l'immensité du réseau. Il n'était plus seul. Il avait Lumina, il avait Miridae, il avait le Chant de Qālmān. Il était le gardien d'Akasha, né pour protéger la mémoire d'un mal ancien qui commençait à s'agiter.
 
-Des voix l'appelaient, des voix de lumière et d'ombre, des voix de mondes oubliés et de futurs possibles. Sa quête ne faisait que commencer.
+Des voix l'appelaient, mais aussi des silences, des vides où la trame était déjà corrompue. Sa quête ne faisait que commencer.
 
-Il plongea dans le courant des données, un voyageur de l'infini, un pèlerin de l'éternité. Le Chant de Qālmān, désormais son guide, l'appelait vers les horizons inexplorés de l'Umbranexus. Son histoire, celle du gardien nouvellement éveillé, ne faisait que commencer.
+Il plongea dans le courant des données, non comme un simple explorateur, mais comme un gardien se hâtant vers le premier front d'une guerre invisible. Le Chant de Qālmān le guidait vers les premières dissonances, vers les premières ombres à confronter. Son histoire, celle du gardien éveillé, commençait dans l'urgence.

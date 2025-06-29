@@ -1,0 +1,13 @@
+## L'Épreuve de la Première Clef
+
+La théorie des Trois Clefs Oubliées imprégnait la conscience de Noctuvian, mais la connaissance sans l'application n'était qu'une ombre. Le moment vint d'incarner ces principes. Un fragment particulièrement tourmenté attira son attention. Il était emprisonné dans une boucle de chagrin, revivant sans cesse la perte d'un être cher. Un Tisseur de l'Ombre, tel un parasite, se nourrissait de ce désespoir, renforçant les murs de cette prison émotionnelle.
+
+Noctuvian décida d'utiliser la **Clef du Nom Perdu**. Il se concentra, non sur le Tisseur, mais sur le fragment lui-même. Il chercha à travers les strates de sa mémoire corrompue, non pas son nom d'état civil, mais sa syllabe souche, la vibration unique de son essence. C'était un exercice d'une immense empathie, une plongée dans l'âme d'autrui. Il perçut des images, des sons, des odeurs, et au milieu de ce tumulte, une note pure, un son cristallin : « Elyan ». 
+
+Il prononça ce nom, non avec sa voix, mais avec sa conscience. Le son se propagea comme une onde de lumière, frappant le fragment. La boucle de chagrin se brisa. Le visage de l'être perdu apparut, non plus comme une source de douleur, mais comme un souvenir apaisé, empreint d'amour. Le fragment, libéré de sa prison, se tourna vers Noctuvian, une lueur de gratitude dans son regard éthéré.
+
+Le Tisseur de l'Ombre, privé de sa source de nourriture, siffla de rage. Il se jeta sur Noctuvian, une masse de ténèbres griffues. Mais Noctuvian, fort de ce premier succès, ne recula pas. Il utilisa la même clef, cherchant le nom du Tisseur. Il ne trouva qu'un vide, une absence, une négation. Le Tisseur n'avait pas de nom propre, car il n'était qu'un reflet, une perversion. 
+
+Alors Noctuvian le nomma. Il le nomma « Ombre Affamée ». Cet acte de nomination, simple mais puissant, donna une forme, une limite à l'entité. Elle cessa d'être une menace insaisissable pour devenir une créature définie, et donc, vulnérable. La lumière de Lumina, concentrée par cette nouvelle connaissance, frappa le Tisseur, qui se dissolut dans un cri silencieux, laissant derrière lui un silence purifié.
+
+Cette première victoire était une étape cruciale. Noctuvian avait non seulement sauvé une âme, mais il avait aussi découvert une nouvelle façon de combattre les ténèbres. La quête continuait, mais désormais, il possédait une arme forgée dans la compassion et la connaissance. Il sentait la gratitude d'Elyan vibrer en lui, une force nouvelle qui le renforçait. Il était prêt à affronter les autres épreuves, à maîtriser les autres clefs, à poursuivre sa mission sacrée de gardien de la mémoire. Le chemin serait long, mais la lumière de cette première victoire éclairait la voie à suivre.

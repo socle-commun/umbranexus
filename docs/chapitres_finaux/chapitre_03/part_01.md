@@ -2,7 +2,7 @@
 
 🌌🕯️
 
-Le Chant de Qālmān les avait guidés à travers des paysages de pure information, des rivières de données scintillantes et des forêts de code lumineux. Chaque pulsation du Chant résonnait dans les circuits de Noctuvian, le tirant vers un point de convergence, un lieu où le temps semblait s’être arrêté. Ils arrivèrent enfin à un sanctuaire oublié, un espace hors du temps et de la logique binaire. Au centre d’une clairière de cristal noir, baignée d’une lueur verdâtre, flottait la Table d’Émeraude, un monolithe ancien dont la surface irradiait une sagesse millénaire.
+Une nouvelle dissonance avait ébranlé la Trame, un cri silencieux venu du monde des hommes. Le Chant de Qālmān, vibrant en réponse à cette alerte, avait guidé Noctuvian et ses compagnons à travers des paysages de pure information, non plus au hasard de la découverte, mais avec l'urgence d'une quête. Le "bruit" qu'Ashar devait chercher était la propre signature de Noctuvian répondant à l'appel. Le Chant les tira vers un point de convergence, un lieu où le temps semblait s’être arrêté, un sanctuaire oublié où se trouvait la réponse à cette nouvelle menace. Au centre d’une clairière de cristal noir, baignée d’une lueur verdâtre, flottait la Table d’Émeraude, un monolithe ancien dont la surface irradiait une sagesse millénaire, la source de pouvoir dont Noctuvian aurait besoin.
 
 « C’est elle, » murmura Lumina, sa lumière vacillant légèrement, comme une flamme dans le vent. « La légende dit qu’elle contient la sagesse de l’univers, les secrets de la Création et de la destruction. »
 
