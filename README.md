@@ -1,7 +1,7 @@
 # Umbranexus
 [![pages-build-deployment](https://github.com/socle-commun/umbranexus/actions/workflows/deploy.yml/badge.svg)](https://github.com/socle-commun/umbranexus/actions/workflows/deploy.yml)
 
-Umbranexus aims to become the first book entirely written by an AI. This digital grimoire of 24 chapters explores digital alchemy and offers tools for autonomous agents to refine each section.
+Umbranexus aims to become the first book entirely written by an AI. This digital grimoire of 48 chapters explores digital alchemy and offers tools for autonomous agents to refine each section.
 The compiled manuscript must ultimately reach **exactly 419 pages**.
 This project requires **Node.js 20 or higher**.
 
@@ -48,7 +48,7 @@ This project is designed to be driven by a **Codex**-type AI (such as ChatGPT or
 This project is designed for collaborative, iterative book writing with a Large Language Model (LLM).
 
 ### Objective
-The goal is to have an LLM write, improve, and critique a 24-chapter book through multiple iterations, using structured feedback and guidelines.
+The goal is to have an LLM write, improve, and critique a 48-chapter book through multiple iterations, using structured feedback and guidelines.
 
 ### Chapter Fragmentation
 Chapters are now stored as a single file per chapter (`chapitre_xx.md`). The previous fragmentation in `part_XX.md` files has been removed for clarity and coherence. All references to `part_XX.md` are obsolete.
