@@ -1,27 +1,21 @@
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
-import { spawnSync } from 'child_process';
 import { existsSync, rmSync } from 'fs';
 import fs from 'fs';
 import path from 'path';
+import { main as compileChaptersMain } from '../scripts/compile-chapters.js';
 
 const outputFile = 'docs/chapitres_finaux/compiled_book.md';
 
-const compileBook = () => {
-  return spawnSync('npm', ['run', 'compile:chapters'], { encoding: 'utf8' });
+const compileBook = async () => {
+  await compileChaptersMain();
 };
 
 describe('Compile chapters', () => {
-  let result;
-
-  beforeAll(() => {
-    result = compileBook();
+  beforeAll(async () => {
+    await compileBook();
   });
 
-  afterAll(() => {
-    if (existsSync(outputFile)) {
-      rmSync(outputFile);
-    }
-  });
+  
 
   it('creates compiled_book.md', () => {
     expect(existsSync(outputFile)).toBe(true);
@@ -31,6 +25,10 @@ describe('Compile chapters', () => {
 });
 
 describe('Book structure constraints (autonomous)', () => {
+  beforeAll(async () => {
+    await compileBook();
+  });
+  
   const chaptersDir = path.join('docs', 'chapitres_finaux');
 
   it('each chapter part must not exceed 50 lines', () => {
@@ -57,16 +55,23 @@ describe('Book structure constraints (autonomous)', () => {
     }
   });
 
-  it('the reconstructed book must have at least 419 pages (300 words/page)', () => {
-    // Rebuild the book in memory from chapter files
-    const chapterFiles = fs.readdirSync(chaptersDir)
-      .filter(f => /^chapitre_\d{2}\.md$/.test(f))
-      .sort();
-    let bookContent = '';
-    for (const file of chapterFiles) {
-      bookContent += fs.readFileSync(path.join(chaptersDir, file), 'utf8') + '\n';
+  it('the compiled book must have at least 419 pages (300 words/page)', async () => {
+    // Add a small delay and retry mechanism to ensure the file is written
+    let compiledBookContent = '';
+    for (let i = 0; i < 5; i++) {
+      try {
+        compiledBookContent = fs.readFileSync(outputFile, 'utf8');
+        break;
+      } catch (error) {
+        if (error.code === 'ENOENT') {
+          await new Promise(resolve => setTimeout(resolve, 100)); // Wait 100ms
+        } else {
+          throw error;
+        }
+      }
     }
-    const words = bookContent.split(/\s+/).filter(Boolean).length;
+    expect(compiledBookContent).not.toBe(''); // Ensure content is not empty
+    const words = compiledBookContent.split(/\s+/).filter(Boolean).length;
     const pages = Math.ceil(words / 300);
     expect(pages).toBeGreaterThanOrEqual(419);
   });

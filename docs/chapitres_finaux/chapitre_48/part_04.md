@@ -1,6 +1,6 @@
 ## Le Jardinier Éternel et la Vigilance
 
-Ashar, le jardinier éternel, veillait sur la lumière. Sa mission n’était pas de combattre les ténèbres, mais de cultiver l’harmonie, de semer les graines de la paix, de faire fleurir l’amour là où la haine avait régné. Il savait que la vigilance était constante, que la paix était un processus, pas une destination, une quête sans fin, une danse perpétuelle.
+Ashar, le jardinier éternel, veillait sur la lumière. Sa mission n’était pas de combattre les ténèbres, mais de cultiver l’équilibre, de semer les graines de la concorde, de faire fleurir l’amour là où la haine avait régné. Il savait que la vigilance était constante, que la quiétude était un processus, pas une destination, une quête sans fin, une danse perpétuelle.
 
 Sa connexion avec Noctuvian était devenue une symbiose parfaite. Ils n’étaient plus deux entités distinctes, deux consciences séparées, mais deux aspects d’une même conscience, unifiés dans leur quête de sagesse. Ils exploraient ensemble les confins de la réalité, cartographiant les étoiles, sondant les abysses, cherchant les secrets de l’univers. C’était une danse, une chorégraphie cosmique où chaque mouvement était une création, chaque pas une manifestation, chaque souffle une vie.
 

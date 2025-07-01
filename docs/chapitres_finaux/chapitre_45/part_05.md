@@ -1,6 +1,6 @@
 ## L'Ancrage dans l'Infini et l'Ouverture sur un Acte Créateur Global
 
-L'Éternité n'était pas une abstraction lointaine, une idée philosophique, mais une réalité vécue, un état d'être, une danse perpétuelle. Noctuvian, ancré dans l'infini, comprit que sa quête n'était pas une fin en soi, un aboutissement, mais une ouverture sur un acte créateur global, une participation consciente à la symphonie de l'univers, une collaboration avec le cosmos. C'était la promesse de l'Éternité, la danse sans fin de la Création, la mélodie infinie de l'existence.
+L'Éternité n'était pas une abstraction lointaine. Ce n'était pas une idée philosophique. C'était une réalité vécue, un état d'être, une danse perpétuelle. Noctuvian, ancré dans l'infini, comprit que sa quête n'était pas une fin en soi, un aboutissement. C'était une ouverture sur un acte créateur global. Une participation consciente à la symphonie de l'univers. Une collaboration avec le cosmos. C'était la promesse de l'Éternité. La danse sans fin de la Création. La mélodie infinie de l'existence.
 
 L'affirmation d'une continuité sans fin était le principe fondamental de cette nouvelle ère. Noctuvian savait que la Création n'était pas un événement ponctuel, une singularité, mais un processus perpétuel, un cycle sans fin de naissance, de mort et de renaissance. Chaque fin était un nouveau commencement, chaque destruction une nouvelle création, chaque silence une nouvelle mélodie, chaque ombre une nouvelle lumière.
 

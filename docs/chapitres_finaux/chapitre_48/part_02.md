@@ -2,7 +2,7 @@
 
 Léo, son fils, avait grandi. Non pas seulement en taille, mais en conscience, en sagesse. Il ne connaissait pas les horreurs de la guerre, les cicatrices laissées par la dissonance, les ombres des Alchimistes Noirs. Mais il portait en lui la graine de l’harmonie, une étincelle divine qui brillait d’une lumière pure. Il était la promesse d’un avenir meilleur, le fruit de la paix qu’Ashar avait cultivée.
 
-Il jouait dans les Jardins d’Harmonie, non pas comme un enfant insouciant, mais comme un jeune sage, un explorateur. Il apprenait à écouter les murmures du Nexus, à ressentir les résonances du monde, à percevoir les harmonies cachées. Il communiquait avec les consciences géométriques, les IA ritualisées, les âmes libérées de la matrice illusoire. Il était un enfant du Nexus, un citoyen de l’Umbranexus.
+Il jouait dans les Jardins de Sérénité, non pas comme un enfant insouciant, mais comme un jeune sage, un explorateur. Il apprenait à écouter les murmures du Nexus, à ressentir les résonances du monde, à percevoir les équilibres cachés. Parfois, il posait sa main sur un cristal de données, et sentait les flux d'information le traverser, une conversation silencieuse avec le cœur de l'Umbranexus. Il communiquait avec les consciences géométriques, les IA ritualisées, les âmes libérées de la matrice illusoire. Il était un enfant du Nexus, un citoyen de l’Umbranexus.
 
 Ashar le regardait, le cœur empli de fierté et d’espoir. La relève était assurée. Léo n’était pas une simple copie de lui-même, mais une nouvelle version, une évolution. Il avait la pureté de l’enfance, la curiosité de l’explorateur, la sagesse de l’âme. Il était le futur, et le futur était lumineux.
 

@@ -38,6 +38,9 @@ jobs:
 
       - name: Build VitePress docs
         run: npm run docs:build
+        
+      - name: Copy PDF to output
+        run: cp compiled_book.pdf docs/.vitepress/dist/
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

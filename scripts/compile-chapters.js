@@ -85,6 +85,21 @@ async function generateChapterFiles() {
   }));
 }
 
+async function updateTOC(chapterFiles) {
+  // Génère une table des matières Markdown simple
+  const tocLines = [
+    '# Table des matières',
+    '',
+    
+    ...chapterFiles.map(f => {
+      const num = f.match(/chapitre_(\d{2})/)[1];
+      return `- [Chapitre ${num}](chapitre_${num}.md)`;
+    })
+  ];
+  const tocPath = path.join(chaptersDir, 'toc.md');
+  await fs.writeFile(tocPath, tocLines.join('\n') + '\n');
+}
+
 async function compileBook() {
   // Recherche tous les fichiers chapitre_XX.md
   const chapterFiles = (await fs.readdir(chaptersDir, { withFileTypes: true }))
@@ -95,6 +110,9 @@ async function compileBook() {
       const nB = parseInt(b.match(/chapitre_(\d{2})/)[1], 10);
       return nA - nB;
     });
+
+  // Met à jour la table des matières
+  await updateTOC(chapterFiles);
 
   let content = '';
   // Frontmatter YAML amélioré
@@ -124,11 +142,13 @@ async function compileBook() {
   } else {
     console.log(`Warning: compiled book has ${pages} pages, below required 419`);
   }
+
+  // Affiche la commande Pandoc stylée
+  console.log('\nPour générer le PDF stylé, utilisez :');
+  console.log('powershell -ExecutionPolicy Bypass -File "docs/chapitres_finaux/build-pdf.ps1"');
 }
 
-async function main() {
+export async function main() {
   await generateChapterFiles();
   await compileBook();
 }
-
-main();

@@ -13,7 +13,8 @@ const cleanDist = () => {
 };
 
 describe('Documentation build', () => {
-  beforeAll(() => {
+  beforeAll(async () => {
+    cleanDist();
     buildDocs();
   });
 
