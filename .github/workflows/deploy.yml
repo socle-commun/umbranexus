@@ -25,7 +25,7 @@ jobs:
       - name: Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc wkhtmltopdf
+          sudo apt-get install -y pandoc texlive-xetex
 
       - name: Install npm dependencies
         run: npm ci
@@ -40,7 +40,7 @@ jobs:
         run: npm run docs:build
         
       - name: Copy PDF to output
-        run: cp compiled_book.pdf docs/.vitepress/dist/
+        run: cp docs/chapitres_finaux/Umbranexus-livre.pdf docs/.vitepress/dist/
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

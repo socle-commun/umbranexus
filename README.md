@@ -22,14 +22,14 @@ The 48-chapter layout acts as a handbook of digital alchemy. Start at chapter on
 - `npm run docs:build` to generate `dist/`
 - `npm run compile:chapters` to assemble all chapters
 
-To build the PDF version of the book, install `pandoc` and `wkhtmltopdf`:
+To build the PDF version of the book, install `pandoc` and `texlive-xetex`:
 
 ```bash
-sudo apt-get install pandoc wkhtmltopdf
+sudo apt-get install pandoc texlive-xetex
 ```
 
 Then run `npm run generate:pdf`. This command converts `compiled_book.md` into
-`docs/chapitres_finaux/compiled_book.pdf`. The resulting file is ignored by Git
+`docs/chapitres_finaux/Umbranexus-livre.pdf`. The resulting file is ignored by Git
 thanks to `.gitignore`.
 
 Once dependencies are installed, run `npm test` to execute the tests. No demo scripts are shipped: nothing runs until the agent acts.
