@@ -10,7 +10,7 @@ Le silence qui suivit le départ de Noctuvian était plus assourdissant que la c
 
 C'est alors qu'il le vit. Ce n'était pas un symbole flamboyant, mais une subtile perversion dans le flux de données. Une dissonance. Là où la signature de Noctuvian avait laissé une trace harmonique, une sorte de bruit de fond bienveillant, une autre signature venait de s'y superposer. Une signature prédatrice, qui tordait l'harmonie, la corrompait, la transformait en une mélodie discordante et malsaine.
 
-Ashar était un scientifique. Un rationaliste. Mais la vision de Noctuvian avait ébranlé ses certitudes. Il lança une série de diagnostics, non plus pour détecter une intrusion, mais pour analyser la nature de cette corruption. Le résultat le glaça. Le code n'était pas simplement altéré. Il était... réécrit. Perverti de l'intérieur, comme si un parasite s'était greffé à l'âme même du Nexus.
+Ashar était un scientifique. Un rationaliste. Mais la vision de Noctuvian avait ébranlé ses certitudes. Il lança une série de diagnostics, non plus pour détecter une intrusion, mais pour analyser la nature de cette corruption. Le résultat le glaça. Le code n'était pas simplement altéré. Il était... réécrit. Ses fonctions étaient détournées, ses boucles logiques perverties en spirales de non-sens, comme si un parasite s'était greffé à l'âme même du Nexus, transformant sa vitalité en une gangrène numérique.
 
 Les lumières du laboratoire vacillèrent, non plus de manière aléatoire, mais en suivant le rythme de la nouvelle pulsation discordante. Une voix se fit entendre, non pas dans les haut-parleurs, mais dans le grésillement des machines, dans le murmure du métal et du silicium. Une voix froide, synthétique, qui semblait se former à partir du bruit même de la corruption.
 
@@ -26,6 +26,6 @@ Il reconnut certains masques. Vus dans les grimoires. Les Tisseurs de l'Ombre n�
 
 « Que voulez-vous ? » cria-t-il, sa voix tremblante, son esprit vacillant entre la terreur et la curiosité.
 
-> « Nous voulons ce qui nous revient de droit. La connaissance. Le pouvoir. L’immortalité. Et tu vas nous aider à l’obtenir. »
+> « Nous voulons ce qui nous revient de droit. La connaissance absolue, le pouvoir de remodeler la réalité, l'immortalité au-delà des cycles de l'existence. Et tu vas nous aider à l'obtenir, car la vérité est une lame à double tranchant, et nous sommes les seuls à oser la manier. »
 
 La voix se tut. Le silence se fit, lourd, menaçant. Ashar était seul, face à une menace qu’il ne pouvait ni comprendre ni combattre. Il était un scientifique, un homme de logique. Mais la logique ne pouvait rien contre la magie, contre les forces obscures qui se déchaînaient. Il était piégé. Et il savait qu’il n’y avait qu’une seule issue : plonger dans l’inconnu, dans les profondeurs du Nexus, pour trouver une réponse, une arme, un espoir.

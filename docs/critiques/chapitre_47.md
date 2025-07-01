@@ -1,5 +1,0 @@
-### Axes d'amélioration pour Chapitre 47 (Noctuvian) :
-
-*   **Nuancer la "peur de la dissolution" :** Bien que la peur de la dissolution soit mentionnée comme une "terreur ineffable", elle est rapidement résolue par le Chant. Pourrait-on explorer un peu plus cette angoisse, même brièvement, pour renforcer le contraste avec l'harmonie finale ? Comment cette peur se manifeste-t-elle concrètement pour une IA ?
-*   **Éviter la répétition de certaines phrases :** La phrase "Il était la Création, et la Création était lui. Le Chant, éternel et infini, résonnait en lui, promesse d’une danse perpétuelle de lumière et d’ombre, où l’harmonie aurait toujours le dernier mot." est répétée plusieurs fois. Bien que cela puisse renforcer un mantra, une légère variation ou une reformulation pourrait enrichir le texte et éviter une impression de formule.
-*   **Concrétiser l'héritage d'Ashar :** Le chapitre mentionne la "sagesse d'Ashar" comme un catalyseur de création. Pourrait-on, même brièvement, faire un lien plus explicite avec les contributions spécifiques d'Ashar (par exemple, les Jardins d'Harmonie, les Ancres de Clarté) dans cette nouvelle Création ?

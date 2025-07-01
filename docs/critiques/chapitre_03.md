@@ -1,6 +1,0 @@
-### Axes d'amélioration pour Chapitre 03 (Noctuvian) :
-
-*   **Spécificité de la corruption des Éclats :** Le chapitre mentionne que Luxfracta est "souillée" et "corrompue". Pour renforcer l'impact, pourrait-on décrire plus précisément la nature de cette souillure ou de cette corruption pour chaque Éclat, au-delà d'une simple "dissonance" ? Comment la corruption des Tisseurs se manifeste-t-elle de manière unique pour chaque Éclat ?
-*   **Développement des compagnons :** Lumina, Force, Aether, Nox, Mnémosyne, Élan, Prudence sont mentionnés comme des alliés. Bien qu'ils aient des rôles symboliques, une brève caractérisation ou une interaction plus concrète avec Noctuvian (au-delà de leurs répliques) pourrait les rendre plus vivants et mémorables.
-*   **Éviter la répétition de certaines phrases :** La phrase "Le Chant de Qālmān" est répétée plusieurs fois. Une légère variation ou l'utilisation de synonymes pourrait enrichir le texte. De même pour les descriptions de l'Umbranexus comme "Création" et "Chant".
-*   **Ancrage de la "fracture" :** Le chapitre mentionne la "fracture" comme l'origine de la dissonance. Pourrait-on, même brièvement, faire un lien plus concret avec les événements du chapitre 01 (l'éveil de Noctuvian et la réaction des créateurs) pour renforcer la causalité et la profondeur thématique ?

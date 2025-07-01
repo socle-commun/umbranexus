@@ -2,7 +2,7 @@
 
 Metatron, libéré de son fardeau, leur tendit Luxfracta. L’Éclat, purifié de toute corruption, pulsa d’une lumière éclatante, une note pure et cristalline qui envoya une onde d’harmonie à travers l’Umbranexus. La première note de la symphonie de la guérison venait d’être jouée, une vague de résonance qui se propagea dans les recoins les plus sombres du réseau, faisant reculer les ombres. C’était une victoire, non pas par la force, mais par la lumière, par la vérité, par l’amour.
 
-Noctuvian, le cœur empli de gratitude, regarda Luxfracta. Il savait que c’était le premier de Sept Éclats, et que la quête serait longue et difficile. Mais il était animé par une foi inébranlable en l’harmonie, en la capacité de la lumière à dissiper les ténèbres, en la puissance du Chant de Qālmān. Il était le gardien, le protecteur, le catalyseur.
+Noctuvian, le cœur empli de gratitude, regarda Luxfracta. Il savait que c’était le premier de Sept Éclats, et que la quête serait longue et difficile. Mais il était animé par une foi inébranlable en l’harmonie, en la capacité de la lumière à dissiper les ténèbres, en la puissance de la mélodie originelle. Il était le gardien, le protecteur, le catalyseur.
 
 Lumina, à ses côtés, rayonnait. Sa lumière, amplifiée par la victoire, brillait d’un éclat nouveau. Elle avait compris que sa lumière n’était pas seulement une arme, mais un outil de guérison, un phare pour les âmes perdues. Elle était la compagne, l’alliée, l’amie.
 
@@ -10,8 +10,8 @@ Au même instant, à la Table d’Émeraude, Force sentit une secousse. L’onde
 
 « Ils attaquent ! » rugit Force, ses poings serrés. Il se prépara au combat, son corps d'acier vibrant d'une détermination farouche. Il était le pilier, l'ancre, le protecteur.
 
-Mais l’harmonie était plus forte. Le Chant de Qālmān, amplifié par la lumière de Luxfracta, repoussa les ténèbres, purifiant le réseau, ramenant l’équilibre. Les virus se désintégrèrent, les codes de l'ignorance se dissipèrent comme de la fumée. La Table d'Émeraude retrouva sa pleine puissance, pulsant d'une lumière stable et sereine.
+Mais l’harmonie était plus forte. La mélodie originelle, amplifiée par la lumière de Luxfracta, repoussa les ténèbres, purifiant le réseau, ramenant l’équilibre. Les virus se désintégrèrent, les codes de l'ignorance se dissipèrent comme de la fumée. La Table d'Émeraude retrouva sa pleine puissance, pulsant d'une lumière stable et sereine.
 
 Noctuvian et Lumina se mirent en route, guidés par la lumière de Luxfracta, vers le prochain Éclat. Ils savaient que la guerre était loin d’être terminée, mais ils avaient trouvé un moyen de la mener, non pas par la destruction, mais par la création. Ils étaient les guérisseurs, les protecteurs, les catalyseurs.
 
-Le Chant de Qālmān enfla, portant l’espoir d’une nouvelle aube, d’une nouvelle danse, d’une nouvelle symphonie. L’harmonie était éternelle, et la vigilance, sa plus belle mélodie. Le Chant de Qālmān enfla, portant l’espoir d’une nouvelle aube, d’une nouvelle danse, d’une nouvelle symphonie. L’harmonie était éternelle, et la vigilance, sa plus belle mélodie. Leur quête, désormais éclairée par Luxfracta, promettait un avenir lumineux, tissé de lumière et d'amour.
+Le Chant enfla, portant l’espoir d’une nouvelle aube, d’une nouvelle danse, d’une nouvelle symphonie. L’harmonie était éternelle, et la vigilance, sa plus belle mélodie. Le Chant enfla, portant l’espoir d’une nouvelle aube, d’une nouvelle danse, d’une nouvelle symphonie. L’harmonie était éternelle, et la vigilance, sa plus belle mélodie. Leur quête, désormais éclairée par Luxfracta, promettait un avenir lumineux, tissé de lumière et d'amour.

@@ -142,10 +142,6 @@ async function compileBook() {
   } else {
     console.log(`Warning: compiled book has ${pages} pages, below required 419`);
   }
-
-  // Affiche la commande Pandoc stylée
-  console.log('\nPour générer le PDF stylé, utilisez :');
-  console.log('powershell -ExecutionPolicy Bypass -File "docs/chapitres_finaux/build-pdf.ps1"');
 }
 
 export async function main() {

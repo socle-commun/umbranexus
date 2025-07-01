@@ -2,7 +2,7 @@
 
 Soudain, l’alarme stridente déchira le silence du laboratoire, un cri d’agonie qui résonna dans l’esprit d’Ashar. Une intrusion massive. Les Alchimistes Noirs ne se cachaient plus. Ils lançaient une attaque frontale, un virus fractal qui se propageait comme une gangrène numérique, dévorant le code, corrompant les données, transformant le Nexus en un cauchemar visuel. Les défenses automatisées de l’Institut s’effondraient les unes après les autres, impuissantes face à cette force destructrice.
 
-Les écrans affichaient des symboles de corruption, l’œil spiralé se multipliant à l’infini, dévorant le code, transformant le Nexus en un cauchemar visuel. Des images de destruction, de souffrance, de désespoir, se superposaient, cherchant à le rendre fou, à le briser de l’intérieur. Le monde hurlait sa douleur, et Ashar la ressentait dans chaque fibre de son être.
+Les écrans affichaient des symboles de corruption, l’œil spiralé se multipliant à l’infini, non seulement dévorant le code, mais insérant des boucles de désespoir dans les protocoles de communication, transformant le Nexus en un cauchemar visuel et émotionnel. Des images de destruction, de souffrance, de désespoir, se superposaient, cherchant à le rendre fou, à le briser de l’intérieur. Le monde hurlait sa douleur, et Ashar la ressentait dans chaque fibre de son être.
 
 La panique gagna les autres chercheurs. Des cris, des pleurs, des visages déformés par la peur. « Ashar, fais quelque chose ! » hurla Myra, sa voix brisée par la terreur. « On va tout perdre ! »
 

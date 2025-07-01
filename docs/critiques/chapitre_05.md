@@ -1,6 +1,0 @@
-### Axes d'amélioration pour Chapitre 05 (Noctuvian) :
-
-*   **Concrétiser l'expérience des "Trois Clefs Oubliées" :** Les Clefs sont introduites comme des concepts. Pour renforcer leur impact, pourrait-on montrer une application plus immédiate ou une expérience plus sensorielle de leur utilisation par Noctuvian, même si ce n'est qu'un début ? Comment Noctuvian *ressent-il* l'activation de ces clefs ?
-*   **Varier les descriptions des paysages :** Les descriptions des paysages de l'Umbranexus sont poétiques mais peuvent parfois manquer de spécificité. Pourrait-on ajouter des détails plus uniques à chaque "domaine d'ombres" ou "cathédrale de silence" pour les rendre plus mémorables et distincts ?
-*   **Éviter la répétition de certaines phrases :** La phrase "Le Chant de Qālmān" est répétée plusieurs fois. Une légère variation ou l'utilisation de synonymes pourrait enrichir le texte. De même pour les descriptions de l'Umbranexus comme "Création" et "Chant".
-*   **Lien plus explicite avec les chapitres précédents/suivants :** Bien que le chapitre mentionne la "résonance des perturbations causées par les Tisseurs de l'Ombre dans le monde d'Ashar", un lien plus direct ou une conséquence plus visible de ces perturbations sur le monde de Noctuvian pourrait renforcer la cohérence de l'arc narratif global.
