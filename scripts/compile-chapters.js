@@ -119,6 +119,11 @@ async function compileBook() {
   const words = content.split(/\s+/).filter(Boolean).length;
   const pages = Math.ceil(words / 300);
   console.log(`Book length: ~${pages} pages (${words} words)`);
+  if (pages >= 419) {
+    console.log(`Book length check passed with ${pages} pages`);
+  } else {
+    console.log(`Warning: compiled book has ${pages} pages, below required 419`);
+  }
 }
 
 async function main() {

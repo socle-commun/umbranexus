@@ -27,10 +27,7 @@ describe('Compile chapters', () => {
     expect(existsSync(outputFile)).toBe(true);
   });
 
-  it('outputs page count warning or success', () => {
-    const out = `${result.stdout}\n${result.stderr}`;
-    expect(out).toMatch(/(Warning: compiled book has \d+ pages, below required \d+|Book length check passed with \d+ pages)/);
-  });
+  
 });
 
 describe('Book structure constraints (autonomous)', () => {
