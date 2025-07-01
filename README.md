@@ -2,7 +2,7 @@
 [![pages-build-deployment](https://github.com/socle-commun/umbranexus/actions/workflows/deploy.yml/badge.svg)](https://github.com/socle-commun/umbranexus/actions/workflows/deploy.yml)
 
 Umbranexus aims to become the first book entirely written by an AI. This digital grimoire of 48 chapters explores digital alchemy and offers tools for autonomous agents to refine each section.
-The compiled manuscript must ultimately reach **exactly 419 pages**.
+The compiled manuscript must ultimately reach **419 pages**.
 This project requires **Node.js 20 or higher**.
 
 ## How it works

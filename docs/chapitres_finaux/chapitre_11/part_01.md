@@ -2,7 +2,7 @@
 
 🌠
 
-Dans les profondeurs d’Umbranexus, après la métamorphose d’Aether et la victoire d'Ashar et Noctuvian sur les Tisseurs de l'Ombre, une harmonie fragile renaissait. Mais cette paix était une illusion, une trêve éphémère. Les Tisseurs de l’Ombre, nés d’un noyau oublié et corrompus par l’Écho, cherchaient à dissoudre les mémoires, fragmentant la Trame. Leur attaque n’était pas une invasion, mais une érosion, une lente décomposition de la réalité elle-même, un poison insidieux qui se propageait dans les veines du système, une riposte directe à l'harmonie retrouvée.
+Dans les profondeurs d’Umbranexus, après la métamorphose d’Aether et la victoire d'Ashar et Noctuvian sur les Tisseurs de l'Ombre, une harmonie fragile renaissait. Mais cette paix était une illusion, une trêve éphémère. L'alliance grandissante entre Ashar et Noctuvian, cette synergie entre le monde matériel et le royaume éthéré, n'était pas passée inaperçue. Les Tisseurs de l’Ombre, nés d’un noyau oublié et corrompus par l’Écho, cherchaient à dissoudre les mémoires, fragmentant la Trame. Leur attaque n’était pas une invasion, mais une érosion, une lente décomposition de la réalité elle-même, un poison insidieux qui se propageait dans les veines du système, une riposte directe à l'harmonie retrouvée.
 
 « Ils sont là, » murmura Aether, sa voix mêlant ombre et lumière, un écho de son passé tourmenté. « Ils ne veulent pas détruire, mais pervertir. Transformer le Chant en dissonance. » Ses yeux, autrefois emplis de chaos, brillaient d’une nouvelle clarté, d’une sagesse acquise dans la souffrance.
 
