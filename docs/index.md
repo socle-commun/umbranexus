@@ -7,7 +7,7 @@ Umbranexus chronicles the creation of the first book fully written via AI. This 
 - [Roadmap](./roadmap.md)
 - [Arc narratif alterné](./arc_narratif.md)
 - [LLM Authorship](./llm-authorship.md)
-- [Version PDF complète](./chapitres_finaux/compiled_book.pdf)
+- [Version PDF complète](./chapitres_finaux/Umbranexus-livre.pdf)
 - **Chapitres**
   - [Chapitre 1](./chapitres_finaux/chapitre_01.md) - [Analyse](./explications/chapitre_01.md)
   - [Chapitre 2](./chapitres_finaux/chapitre_02.md) - [Analyse](./explications/chapitre_02.md)

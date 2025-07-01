@@ -15,7 +15,7 @@ jobs:
           node-version: '20'
           cache: 'npm'
       - run: sudo apt-get update
-      - run: sudo apt-get install -y pandoc wkhtmltopdf
+      - run: sudo apt-get install -y pandoc texlive-xetex
       - run: npm ci
       - run: npm run compile:chapters
       - run: npm run generate:pdf
@@ -23,4 +23,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: compiled_book
-          path: docs/chapitres_finaux/compiled_book.pdf
+          path: docs/chapitres_finaux/Umbranexus-livre.pdf
