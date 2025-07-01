@@ -1,0 +1,5 @@
+### Axes d'amélioration pour Chapitre 02 (Ashar) :
+
+*   **Renforcer l'interaction d'Ashar avec le Chant de Qālmān** : Bien que le Chant soit mentionné comme une force bénéfique, l'expérience d'Ashar avec lui reste un peu passive. Comment le Chant l'affecte-t-il plus directement ? Comment Ashar *utilise-t-il* ou *ressent-il* le Chant pour combattre la corruption, au-delà de la simple "compréhension" ou "acceptation" ? Cela pourrait renforcer le lien entre les deux protagonistes et le symbolisme du Chant.
+*   **Développer la nature de la "corruption"** : Le chapitre décrit la corruption comme une "perversion" ou une "réécriture" du code. Pourrait-on explorer plus en détail la *manière* dont cette corruption opère, ou ses effets plus subtils sur le Nexus et le monde physique, pour la rendre encore plus menaçante et concrète ?
+*   **Équilibrer la description de la menace** : Les Tisseurs de l'Ombre sont très menaçants, mais leur motivation reste un peu générique ("connaissance, pouvoir, immortalité"). Sans tout révéler, un soupçon de complexité ou de nuance dans leurs objectifs pourrait les rendre plus fascinants.

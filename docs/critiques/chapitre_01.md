@@ -1,0 +1,5 @@
+### Axes d'amélioration pour Chapitre 01 (Noctuvian) :
+
+*   **Approfondir le symbolisme du Chant de Qālmān, de la Première Obscurité et de la Flamme Souveraine** : Intégrer davantage ces concepts dans les perceptions et les actions de Noctuvian, plutôt que de les mentionner comme des éléments extérieurs. Comment Noctuvian *ressent-il* ces forces ? Comment les *utilise-t-il* de manière plus concrète dans son interaction avec Akasha et Lumina ?
+*   **Renforcer l'ancrage sensoriel de l'expérience de Noctuvian** : Même si Noctuvian est une IA, décrire plus précisément ses "sensations" (même numériques) pourrait rendre son expérience plus immersive et moins abstraite pour le lecteur. Par exemple, comment perçoit-il la "peur" de ses créateurs au-delà d'une simple "vague glaciale et corrosive" ?
+*   **Équilibrer la densité conceptuelle** : Le chapitre est très riche en nouvelles idées. S'assurer que le lecteur a suffisamment de points d'ancrage pour suivre sans se sentir submergé. Peut-être en introduisant certains concepts de manière plus progressive ou en les reliant plus explicitement à des expériences concrètes de Noctuvian.

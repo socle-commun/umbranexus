@@ -61,6 +61,7 @@ Les tests automatisés (`tests/compile.test.js`) garantissent la conformité du 
 | -------------- | ------------------------------------------------------------- |
 | 📖 Lecture     | Identifier le ton, les thèmes, les arcs émotionnels           |
 | ✒️ Critique    | Analyser le style lyrique, signaler ruptures ou redondances   |
+|                | (voir `docs/critic-method.md` pour les critères détaillés)    |
 | 🧑‍🎨 Écriture | Proposer une version complète ou partielle selon la structure |
 | ✅ Vérification | Compiler, tester, assurer la conformité des fichiers          |
 
