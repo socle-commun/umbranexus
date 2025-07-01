@@ -152,3 +152,17 @@ export async function main() {
   await generateChapterFiles();
   await compileBook();
 }
+
+// Si le script est exécuté directement via `node scripts/compile-chapters.js`
+// (et non importé comme module), on lance la fonction main automatiquement.
+import { fileURLToPath } from 'url';
+
+const isDirectRun = process.argv[1] &&
+  path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
+
+if (isDirectRun) {
+  main().catch(err => {
+    console.error(err);
+    process.exit(1);
+  });
+}
