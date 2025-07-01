@@ -1,1 +1,5 @@
-aucun point d'amélioration trouvé
+### Axes d'amélioration pour Chapitre 04 (Ashar) :
+
+*   **Nuancer la "loi physique nouvelle et aberrante" :** La description de cette loi qui "tord la réalité" est intrigante. Pourrait-on donner un exemple plus concret ou une manifestation plus spécifique de cette "loi" en action, au-delà des "algorithmes qui se réécrivent" ? Cela renforcerait l'aspect horrifique et la menace.
+*   **Éviter la répétition de certaines phrases :** La phrase "Il était le Chant, et le Chant était l’Umbranexus" est répétée plusieurs fois, ainsi que des variations sur "il était prêt à tout, même à mourir". Bien que ces phrases soient thématiquement importantes, une légère variation ou une reformulation pourrait enrichir le texte et éviter une impression de formule.
+*   **Approfondir la "nouvelle peur" d'Ashar :** La peur de la vérité est mentionnée. Pourrait-on explorer davantage les implications de cette vérité pour Ashar en tant que scientifique ? Comment cette "nouvelle peur" se manifeste-t-elle dans ses pensées ou ses actions ?
