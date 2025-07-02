@@ -15,7 +15,7 @@ jobs:
           node-version: '20'
           cache: 'npm'
       - run: sudo apt-get update
-      - run: sudo apt-get install -y pandoc texlive-xetex fonts-ebgaramond fonts-noto-color-emoji
+      - run: sudo apt-get install -y pandoc texlive-xetex fonts-ebgaramond fonts-symbola
       - run: fc-cache -fv
       - name: Show font list (debug)
         run: fc-list | grep -i "emoji"
