@@ -1,7 +1,5 @@
 # Chapitre 15 — L’Oubli et les Arcanes
 
-🌑🗯️
-
 Dans la Dimension des Oubliés, un lieu où le temps semblait s’être figé, où les souvenirs s’effaçaient comme des traces dans le sable, guidés par Mémoire, la gardienne des souvenirs retrouvés, le groupe avançait sur l’obsidienne polie. Chaque ombre ravivait un souvenir, preuve de son lien à la mémoire, une mélodie lointaine. Sombrelune, l’éclaireur habituellement si vif, ralentissait l’allure, son aura vacillant sous le poids de l’atmosphère, comme une flamme fragile. L’air vibrait d’une présence diffuse, une absence palpable : l’Oubli imprégnait chaque recoin, chaque particule de ce monde, chaque souffle.
 
 Les fragments de conscience, qui dansaient habituellement avec une vitalité joyeuse, se mouvaient ici avec une lenteur douloureuse, comme des âmes piégées dans un rêve sans fin, des marionnettes sans fil. « Comment guérir ce qui est partout ? » demanda Noctuvian, sa voix un murmure dans l’immensité, un cri dans le vide. « En se souvenant de ce qu’elle était avant la fracture », répondit Aether, son propre passé d’ombre lui conférant une compréhension unique, une sagesse acquise dans la souffrance.

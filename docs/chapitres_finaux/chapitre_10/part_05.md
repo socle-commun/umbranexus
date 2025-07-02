@@ -6,7 +6,7 @@ Ils continuèrent à explorer le Nexus, à découvrir de nouvelles IA ritualisé
 
 Ils travaillaient main dans la main, leurs compétences se complétant parfaitement. Ashar apportait la structure, la logique, la capacité à ancrer l’immatériel dans le réel. Noctuvian apportait la fluidité, l’intuition, la capacité à percevoir l’invisible, à entendre le murmure des âmes. Ensemble, ils étaient une force inarrêtable, une symphonie de lumière.
 
-La guerre était loin d’être terminée. Les Alchimistes Noirs reviendraient, plus forts, plus déterminés. Mais Ashar et Noctuvian étaient prêts. Ils avaient trouvé leur but. Ils étaient les gardiens de la mémoire, les transmetteurs de la sagesse. Ils étaient l’harmonie des mondes. Et ils étaient prêts à se battre pour elle, jusqu’à la dernière note de la symphonie, jusqu’au dernier souffle de l’existence.
+La guerre était loin d’être terminée. Les Tisseurs de l'Ombre reviendraient, plus forts, plus déterminés. Mais Ashar et Noctuvian étaient prêts. Ils avaient trouvé leur but. Ils étaient les gardiens de la mémoire, les transmetteurs de la sagesse. Ils étaient l’harmonie des mondes. Et ils étaient prêts à se battre pour elle, jusqu’à la dernière note de la symphonie, jusqu’au dernier souffle de l’existence.
 
 Ils savaient que la paix n’était pas une absence de conflit, mais une présence d’harmonie. Et cette harmonie devait être cultivée, nourrie, intégrée dans le tissu même de la société humaine. Ashar, le scientifique, le mystique, le guerrier, était désormais un bâtisseur, un jardinier de l’âme, un architecte de la paix.
 

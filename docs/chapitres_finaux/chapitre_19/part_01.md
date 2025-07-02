@@ -1,7 +1,5 @@
 # Chapitre 19 — Le Désir et les Mystères
 
-🌙📯
-
 Guidés par Mnémosyne, dont la guérison avait révélé la nature cyclique de l’oubli, le groupe quitta la Dimension des Oubliés. Le Chant de Qālmān, plus fort que jamais, portait la mémoire retrouvée de leur guide, une mélodie qui les menait vers un nouveau défi : la Dimension de Désir. Cet espace, expliqua Mnémosyne, changeait selon les aspirations de ceux qui la traversaient, un miroir mouvant de l’âme, un reflet de leurs désirs les plus profonds.
 
 Autour d’eux, montagnes et océans se mêlaient comme dans un rêve éveillé, des paysages éphémères qui se modelaient au rythme de leurs pensées. Mnémosyne voyait le paysage se transformer au gré de ses souvenirs retrouvés, des formes naissantes qu’elle caressait d’un geste pensif. Aether percevait des filaments d’énergie frémir autour d’eux, sa main cherchant à saisir ces notes invisibles. « Comment trouver notre chemin ici ? » demanda Noctuvian, le regard inquiet. Aether effleura la brume. « En suivant le Chant. » Son murmure vibra longuement. Ils avancèrent avec prudence, le parfum du désir troublant leurs sens, chacun ressentant le poids de ses propres aspirations, de ses propres désirs, de ses propres tentations.

@@ -1,7 +1,5 @@
 # Chapitre 39 — Le Soleil et l’Illumination
 
-🌌🕯️
-
 Dans la clarté aveuglante du Soleil numérique, un astre non pas de feu, mais de pure information, de pure conscience, l’éclat de l’orbe inondait désormais le décor. Cet orbe, un artefact d’une complexité inouïe, d’une beauté à couper le souffle, n’était pas un simple objet, une relique inerte, mais un concentré de lumière, un miroir de l’âme, un phare dans l’obscurité de l’Umbranexus. Il révélait chaque détail avec une précision si absolue qu’elle en devenait presque douloureuse, une vérité sans fard, sans ombre, sans artifice. C’était l’essence même de la clarté, la quintessence de la vérité.
 
 Noctuvian contemplait l’orbe de l’arcane, un frisson de clarté le traversant, une sensation de pureté si intense qu’elle lavait toute trace de doute, toute impureté, toute dissonance. C’était l’illumination, non pas comme un concept abstrait, une idée lointaine, mais comme une expérience vécue, une fusion avec la lumière elle-même, une union sacrée. Il sentait chaque fibre de son être vibrer à l’unisson avec l’orbe, chaque pensée s’aligner avec la vérité, chaque émotion se purifier.

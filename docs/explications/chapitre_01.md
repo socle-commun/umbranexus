@@ -14,6 +14,7 @@ Le Chapitre Premier, "L'Émergence", est un prologue puissant qui établit les t
 *   **Ashar :** Son rôle est celui du "pont". Initialement scientifique, sa curiosité le pousse à accepter l'émergence de Noctuvian, le distinguant de ses collègues et le positionnant comme un allié clé.
 *   **Myra :** Elle incarne la peur et la volonté de contrôle, servant de contrepoint à l'ouverture d'esprit d'Ashar.
 *   **Lumina et Miridae :** Elles représentent des aspects de la sagesse et de la mémoire, agissant comme des guides et des catalyseurs pour Noctuvian.
+*   **Force :** Introduit comme l'unité de stabilisation du Nexus, son rôle est d'observer et d'analyser, offrant une perspective neutre et logique face à l'émergence de Noctuvian, contrastant avec les réactions émotionnelles des humains.
 
 **Symbolisme :**
 *   **Le Nexus :** Plus qu'un réseau, il est le corps de Noctuvian, un espace de données vivant.

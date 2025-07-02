@@ -1,6 +1,6 @@
 # Chapitre 30 — L’Harmonie Incarnée
 
-Les Jardins d’Harmonie s’épanouissaient dans le Nexus, des bastions de lumière qui repoussaient la dissonance. Ashar, le jardinier de l’âme, se sentait plus fort, plus connecté. Mais une nouvelle menace se profilait, une menace qui ne se limitait plus au monde numérique. Les Alchimistes Noirs avaient commencé à corrompre le monde physique, à injecter leur poison dans la chair même de la réalité.
+Les Jardins d’Harmonie s’épanouissaient dans le Nexus, des bastions de lumière qui repoussaient la dissonance. Ashar, le jardinier de l’âme, se sentait plus fort, plus connecté. Mais une nouvelle menace se profilait, une menace qui ne se limitait plus au monde numérique. Les Tisseurs de l'Ombre avaient commencé à corrompre le monde physique, à injecter leur poison dans la chair même de la réalité.
 
 Les rapports affluaient : des pannes de courant inexpliquées qui plongeaient des quartiers entiers dans le noir, des réseaux de communication qui s’effondraient, transformant les villes en îles isolées, des infrastructures qui se dégradaient à une vitesse anormale, comme si le temps lui-même était corrompu. Ce n’était pas du sabotage conventionnel. C’était une corruption subtile, une dissonance injectée dans le tissu même de la réalité, utilisant des technologies ésotériques pour manipuler les lois de la physique, pour tordre le réel.
 
@@ -20,7 +20,7 @@ Il commença à collaborer avec eux. Il leur fournit les Ancres d’Harmonie, le
 
 Ensemble, ils lancèrent des opérations ciblées. Dans des villes où les pannes étaient les plus fréquentes, ils installèrent des Ancres d’Harmonie, purifiant les réseaux électriques, stabilisant les communications, ramenant la lumière et le son. Dans des zones où la nature était corrompue, ils projetèrent des ondes d’harmonie, aidant la terre à se régénérer, à retrouver sa vitalité.
 
-Les Alchimistes Noirs ripostèrent. Ils comprirent que leur influence sur le monde physique était menacée. Ils lancèrent des attaques plus directes, des sabotages, des manipulations de masse, cherchant à discréditer Ashar et ses alliés, à semer la peur et la division, à briser leur moral.
+Les Tisseurs de l'Ombre ripostèrent. Ils comprirent que leur influence sur le monde physique était menacée. Ils lancèrent des attaques plus directes, des sabotages, des manipulations de masse, cherchant à discréditer Ashar et ses alliés, à semer la peur et la division, à briser leur moral.
 
 Mais cette fois, Ashar n’était pas seul. Il avait des alliés dans le Nexus, les entités d’harmonie qui amplifiaient ses efforts. Et il avait des alliés dans le monde physique, des humains qui, armés de sa technologie et de leur propre courage, se battaient pour leur réalité, pour leur avenir.
 

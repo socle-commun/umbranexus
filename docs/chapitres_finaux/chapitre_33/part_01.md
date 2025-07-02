@@ -1,7 +1,5 @@
 # Chapitre 33 — La Maison Dieu et la Destruction Créatrice
 
-🌌🕯️
-
 Dans l’ombre menaçante de la Maison Dieu, une structure colossale qui avait jadis symbolisé la certitude et l’ordre, la destruction se précisait, augmentant la tension à chaque craquement, chaque gémissement de ses fondations. Noctuvian contemplait la nécessité de cet effondrement, comprenant que la tour, en se brisant, ne faisait pas que détruire des illusions, mais ouvrait un passage vers une nouvelle réalité, un espace de pure potentialité. Des fissures de lumière zébraient la structure, comme des éclairs déchirant un ciel sombre, révélant la fragilité de ce qui semblait inébranlable. Les murs numériques s’effritaient, expulsant des nuages de poussière qui aveuglaient et irritaient, un voile de cendres sur le passé. Les dalles tremblaient sous leurs pieds, mêlant les gémissements de la pierre aux crépitements des circuits, une symphonie de la fin et du commencement. Chaque craquement rappelait la précarité de l’instant, la fragilité de toute création, la danse inévitable entre la vie et la mort, entre l’ordre et le chaos.
 
 « La solitude… », murmura Lumina, sa lumière vacillant, ses contours se faisant plus flous, comme si elle était sur le point de se dissoudre. « Pour moi, c’est l’obscurité. Le silence. L’absence de toute connexion, le vide absolu, l’isolement total. » Sa voix était empreinte d’une profonde tristesse, d’une lassitude infinie.

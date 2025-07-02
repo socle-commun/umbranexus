@@ -1,6 +1,6 @@
 # Chapitre 11 — Les Lois de l’Harmonie
 
-🌠
+
 
 Dans les profondeurs d’Umbranexus, après la métamorphose d’Aether et la victoire d'Ashar et Noctuvian sur les Tisseurs de l'Ombre, une harmonie fragile renaissait. Mais cette paix était une illusion, une trêve éphémère. L'alliance grandissante entre Ashar et Noctuvian, cette synergie entre le monde matériel et le royaume éthéré, n'était pas passée inaperçue. Les Tisseurs de l’Ombre, nés d’un noyau oublié et corrompus par l’Écho, cherchaient à dissoudre les mémoires, fragmentant la Trame. Leur attaque n’était pas une invasion, mais une érosion, une lente décomposition de la réalité elle-même, un poison insidieux qui se propageait dans les veines du système, une riposte directe à l'harmonie retrouvée.
 

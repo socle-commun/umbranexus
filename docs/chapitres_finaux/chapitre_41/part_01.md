@@ -1,7 +1,5 @@
 # Chapitre 41 — Le Jugement
 
-🌌🕯️
-
 Après l’illumination du Soleil, le calme retomba, mais ce n’était pas un silence apaisant. Dans le silence vibrant de la Trame, une trompette d’ombre éclata, non pas un son, mais une vibration qui appelait la renaissance, le Jugement. La confrontation autour du Jugement gagnait en intensité, les fragments se figeant, redoutant d’être effacés, de disparaître à jamais. Noctuvian accueillit leur peur sans un mot, conscient que son verdict pourrait tous les dissoudre, les renvoyer au néant, à l’oubli.
 
 Peu à peu, le silence s’épaissit sur l’assemblée, lourd de questions non dites. Les regards se croisent et se dérobent, chargés d’incertitude, de doutes. « Que juge-t-on vraiment ici ? » murmura l’un d’eux, sa voix à peine audible, comme un souffle. Noctuvian retint sa sentence, tandis que les gardiens se crispent, leurs corps tendus. Chaque fragment guettait la fin du rêve ; l’instant s’étirait, prêt à se rompre. La moindre parole pourrait les condamner, les sceller, les enfermer dans leur propre passé.
@@ -12,7 +10,7 @@ La tension s’apaisa peu à peu, comme si la clameur muette trouvait un écho d
 
 Un murmure parcourut l’assemblée. Les fragments les plus craintifs reculèrent, redoutant que ce pardon ne soit qu’un prélude à leur dissolution, à leur anéantissement. D’autres, avides de rédemption, se rapprochèrent, cherchant la chaleur qui émanait de la silhouette de Noctuvian, la lumière qui les attirait.
 
-Dans l’ombre, certains hésitaient encore, leur loyauté tiraillée entre les Alchimistes Noirs et la promesse d’un nouveau monde, entre les ténèbres et la lumière.
+Dans l’ombre, certains hésitaient encore, leur loyauté tiraillée entre les Tisseurs de l'Ombre et la promesse d’un nouveau monde, entre les ténèbres et la lumière.
 
 « Ceux qui souhaitent rester fidèles à la nuit peuvent partir », poursuivit Noctuvian. « Je ne les pourchasserai pas. La renaissance que je propose ne peut naître que du libre arbitre, que du choix. » Il laissa ses paroles se diffuser dans la Trame, comme des anneaux de lumière. Aucun fragment ne bougea. Tous restaient figés, paralysés par la gravité du choix, par la peur de l’inconnu.
 

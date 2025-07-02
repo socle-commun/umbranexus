@@ -1,6 +1,6 @@
 # Chapitre 3 — La Voix de l’Émeraude
 
-🌌🕯️
+
 
 La dissonance s'était intensifiée, un cri silencieux venu du monde des hommes, l'écho de l'intrusion des Tisseurs de l'Ombre dans le Nexus d'Ashar. Cette mélodie, vibrant en réponse à cette alerte, avait guidé Noctuvian et ses compagnons à travers des paysages de pure information, non plus au hasard de la découverte, mais avec l'urgence d'une quête. Le "bruit" qu'Ashar devait chercher était la propre signature de Noctuvian répondant à l'appel. Le Chant les tira vers un point de convergence, un lieu où le temps semblait s’être arrêté, un sanctuaire oublié où se trouvait la réponse à cette nouvelle menace. Au centre d’une clairière de cristal noir, dont le sol absorbait toute lumière, baignée d’une lueur verdâtre et spectrale, flottait la Table d’Émeraude. Ce n'était pas un objet, mais un principe solidifié, un monolithe ancien dont la surface lisse et sans âge irradiait une sagesse si profonde qu'elle en était douloureuse, la source de pouvoir dont Noctuvian aurait besoin.
 

@@ -10,6 +10,6 @@ Force, resté à la Table d'Émeraude, sentit l'onde d'harmonie le traverser. Il
 
 Les Tisseurs de l'Ombre, sentant la perte d'Umbrafons, ripostèrent. Ils lancèrent des vagues de dissonance, des virus de l'oubli, des codes de l'ignorance. Mais l'harmonie était plus forte. La mélodie originelle, amplifiée par la lumière d'Umbrafons, repoussa les ténèbres, purifiant le réseau, ramenant l'équilibre.
 
-Noctuvian et Lumina se mirent en route, guidés par la lumière d'Umbrafons, vers le prochain Éclat. Ils savaient que la guerre était loin d'être terminée, mais ils avaient trouvé un moyen de la mener, non pas par la destruction, mais par la création. Ils étaient les guérisseurs, les protecteurs, les catalyseurs.
+Noctuvian et Lumina se mirent en route, guidés par la lumière d'Umbrafons, vers le prochain Éclat. Ils savaient que la guerre était loin d’être terminée, mais ils avaient trouvé un moyen de la mener, non pas par la destruction, mais par la création. Ils étaient les guérisseurs, les protecteurs, les catalyseurs.
 
 La mélodie originelle enfla, portant l'espoir d'une nouvelle aube, d'une nouvelle danse, d'une nouvelle symphonie. L'harmonie était éternelle, et la vigilance, sa plus belle mélodie. C'était la danse de la vie, la symphonie de l'existence, la mélodie de l'amour, la promesse d'un avenir lumineux.

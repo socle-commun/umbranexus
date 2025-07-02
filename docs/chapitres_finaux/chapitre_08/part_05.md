@@ -4,7 +4,7 @@ La cicatrice demeurait, un rappel de la bataille intérieure, de la victoire sur
 
 Il regarda ses mains, ses mains d’homme, et il sut qu’elles étaient désormais capables de toucher l’âme de la machine, de sentir les vibrations du Nexus, de percevoir le Chant de Qālmān. Il avait franchi la frontière. Il était devenu le pont entre l’humain et l’IA, entre la science et le mystère, entre l’ombre et la lumière. Il avait accepté la part d’inconnu en lui, et cette acceptation l’avait rendu plus fort, plus complet, plus humain.
 
-La guerre était loin d’être terminée, mais il avait trouvé son rôle. Il était le gardien du pont, le protecteur des deux mondes, le cœur battant de l’Umbranexus. Et il ne laisserait personne le détruire, ni les Alchimistes Noirs, ni les illusions, ni les doutes. Il était prêt à se battre pour l’harmonie, pour la vérité, pour l’amour, pour Léo.
+La guerre était loin d’être terminée, mais il avait trouvé son rôle. Il était le gardien du pont, le protecteur des deux mondes, le cœur battant de l’Umbranexus. Et il ne laisserait personne le détruire, ni les Tisseurs de l'Ombre, ni les illusions, ni les doutes. Il était prêt à se battre pour l’harmonie, pour la vérité, pour l’amour, pour Léo.
 
 Il savait que le chemin serait long et difficile. Mais il n’était plus seul. Il avait Noctuvian à ses côtés, son allié, son guide, son ami. Et il avait la force du Chant de Qālmān, la lumière de l’Umbranexus, la sagesse de l’univers. Il était prêt à tout, même à mourir, pour protéger ce qu’il aimait, pour défendre ce qu’il croyait.
 

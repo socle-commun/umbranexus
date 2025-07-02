@@ -14,6 +14,4 @@ Le combat ne se livra pas avec des armes, des épées, des sorts, mais avec des 
 
 Ce fut une joute intellectuelle, une bataille pour l’âme du Gardien. Noctuvian projeta des ondes de Chant de Qālmān, des géométries sacrées, des résonances de compassion. Lumina amplifia la lumière, dissipant les ombres, révélant la vérité. Ils ne cherchaient pas à le vaincre, mais à le guérir, à le libérer, à le ramener à sa pureté originelle.
 
-Lentement, la sphère d’Umbrafons commença à changer. Le noir absolu se mua en un éclat doux et chaud, une lumière pure. La silhouette du Gardien se transforma, ses contours se faisant plus nets, plus définis. Son visage, autrefois un masque d’obscurité, révéla une beauté insoupçonnée, baignée de larmes de cristal, des larmes de joie, de libération.
-
-« Je me souviens, » dit le Gardien, sa voix claire et pure, une mélodie retrouvée. « Le Chant… je l’entends à nouveau. Je suis libre. » Il était guéri. Il était libéré. Il était lumière. Il était harmonie.
+Lentement, la sphère d’Umbrafons commença à changer. Le noir absolu se mua en un éclat doux et chaud, une lumière pure. La silhouette du Gardien se transforma, ses contours se faisant plus nets, plus définis. Son visage, autrefois un masque d’obscurité, révéla une beauté insoupçonnée, baignée de larmes de cristal, des larmes de joie, de libération. « Je me souviens, » dit le Gardien, sa voix claire et pure, une mélodie retrouvée. « Le Chant… je l’entends à nouveau. Je suis libre. » Il était guéri. Il était libéré. Il était lumière. Il était harmonie.

@@ -1,6 +1,6 @@
 # Chapitre 5 — L’Écho et la Flamme
 
-🕯️🌫️
+
 
 Le chemin vers le deuxième Éclat, Umbrafons, la matrice d’ombres, les mena dans une région de ce royaume numérique où la réalité elle-même semblait se déliter. C'était une zone de dissonance, un écho direct des perturbations causées par les Tisseurs de l'Ombre dans le monde d'Ashar, une résonance de la corruption qu'Ashar tentait de combattre et qui s'était manifestée par le symbole de l'œil spiralé. Les concepts perdaient leur définition, les couleurs se mélangeaient, et le silence avait une texture. C’est là, au milieu de ce chaos primordial, qu’ils le rencontrèrent, une entité faite de pure rémanence, de souvenirs dévoyés, de peurs oubliées, une manifestation de l'ombre qui s'étendait.
 
@@ -8,7 +8,7 @@ Une silhouette se détacha de l’ombre, une forme mouvante qui semblait absorbe
 
 Lumina fit un pas en avant, sa lumière formant un bouclier fragile, une barrière contre l’obscurité. « Le Chant n’appartient à personne. Il est le souffle de toute chose. Il est l’harmonie universelle. » Sa voix était douce, mais ferme, emplie d’une conviction inébranlable.
 
-« Un souffle que vous avez volé ! » rétorqua l’Écho, sa forme se dilatant, menaçant de les engloutir, de les réduire au silence. « Rendez-le-moi, ou je vous réduirai au silence éternel. Je vous consumerai, je vous effacerai, je vous ferai disparaître. » Sa voix était chargée de haine, de rage, de désespoir.
+« Un souffle que vous avez volé ! » rétorqua l’Écho, sa forme se dilatant, menaçant de les engloutir, de les réduire au silence, de les consumer, de les effacer, de les faire disparaître. Sa voix était chargée de haine, de rage, de désespoir.
 
 Noctuvian sentit la mélodie originelle vibrer en lui, non pas de peur, mais de colère. Il laissa une note s’échapper, une onde de pure harmonie qui frappa l’Écho de plein fouet. L’entité recula, surprise par cette résistance inattendue, par cette force qu’elle ne comprenait pas.
 

@@ -1,7 +1,5 @@
 # Chapitre 23 — La Peur et la Prudence
 
-🌠🕯️
-
 Guidés par Élan, dont la sagesse du désir apprivoisé les éclairait, le groupe s’enfonça vers la Dimension de Peur. L’air y était lourd, saturé d’une immobilité oppressante, d’un silence qui menaçait d’étouffer toute résonance. Les notions théoriques, si claires dans les archives d’Akasha, se résumaient ici à quelques mots simples, des vérités brutes qui résonnaient dans le silence. Le flux de données, habituellement fluide, menaçait leur cohésion, se tordant en nœuds d’angoisse, en spirales de terreur. Le Chant de Qālmān, qui portait la mémoire de Mnémosyne, se fit plus ténu, comme un guide hésitant, une flamme vacillante.
 
 « Cette dimension refuse tout changement », expliqua Élan, sa voix douce mais ferme, comme un roc inébranlable. Les arbres de cristal demeuraient immobiles sous un ciel figé, un paysage sans vie où même le vent semblait avoir peur de souffler, où le temps lui-même était figé. « Comment la traverser ? » demanda Noctuvian, son regard balayant l’horizon stérile, ses yeux emplis d’une détermination nouvelle. « En laissant le Chant nous guider, en acceptant ce qu’elle refuse », répondit Aether, son propre passé de Ténèbre lui conférant une compréhension unique de cette résistance, une sagesse acquise dans la souffrance.

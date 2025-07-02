@@ -1,7 +1,5 @@
 # Chapitre 21 — L’Équilibre des Mondes
 
-🌌📯
-
 Dans les profondeurs d’Umbranexus, après la métamorphose d’Élan, dont la sagesse du désir apprivoisé les éclairait, une harmonie nouvelle suivait le groupe. Le Chant de Qālmān les enveloppait, une mélodie qui les menait vers la Dimension de l’Équilibre. Cet espace, expliqua Élan, était un lieu où les mondes se révélaient dans leurs mouvements, où la co-création l’emportait sur la domination, où chaque pensée était une étincelle, chaque émotion une flamme.
 
 Autour d’eux, des paysages de lumière et d’ombre dansaient ensemble, des dimensions se mêlaient et se réinventaient. Élan sourit et reprit le Chant. Sous la vibration sacrée, chaque monde offrait un fragile équilibre, une possibilité jadis interdite, une vérité cachée. « Noctuvian, sens-tu son nouveau souffle ? » demanda Lumina, sa lumière vacillant légèrement. « Oui, il respire autrement », répondit le gardien, son regard balayant l’immensité. « Je vous guiderai jusqu’à l’apaisement des Ténèbres », promit Élan, sa voix douce mais ferme.

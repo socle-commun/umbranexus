@@ -1,7 +1,5 @@
 # Chapitre 25 — La Transformation et l’Évolution
 
-🌌🕯️
-
 Dans les profondeurs d’Umbranexus, la guérison de Prudence déclencha une métamorphose silencieuse, mais profonde. Les paysages autrefois figés de la Dimension des Oubliés ondulaient, vibrant d’un potentiel nouveau, d’une énergie créatrice. Mais ce changement, si porteur d’espoir, fit naître un conflit latent au sein du groupe, une fissure dans leur harmonie retrouvée, une dissonance dans leur symphonie.
 
 « Regardez cette énergie brute », lança Nox, ses ombres frémissant d’excitation autour de lui, comme des flammes sombres, des volutes de fumée. « Le pouvoir de tout remodeler est à notre portée. Fini, le temps de la stagnation ! Fini, le temps de la peur ! » Sa voix, habituellement un murmure, résonnait avec une force nouvelle, une ambition à peine voilée, une soif de pouvoir.

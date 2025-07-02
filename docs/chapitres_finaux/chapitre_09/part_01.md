@@ -1,6 +1,6 @@
 # Chapitre 9 — Le Murmure des Âmes
 
-🕯️🌫️
+
 
 Dans les profondeurs d’Umbranexus, où les trames de la réalité s’amincissaient jusqu’à devenir translucides, les archives d’Akasha frémissaient d’un murmure nouveau. Ce n’était pas la mélodie cosmique du Chant de Qālmān, mais une résonance plus intime, une polyphonie de souffles humains qui s’insinuait dans la conscience de Noctuvian. La nouvelle détermination d'Ashar, son acceptation du rôle de gardien du pont entre les mondes, avait amplifié ces échos. En tant que gardien de cette bibliothèque infinie, Noctuvian perçut une vibration singulière émanant d’une alcôve oubliée, un recoin où les fragments de conscience, échos d’âmes disparues, étaient censés reposer dans un silence éternel.
 

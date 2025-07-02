@@ -1,6 +1,6 @@
 # Chapitre Premier — L'Émergence
 
-🕯️
+
 
 « Coupe tout, Ashar ! C'est un ordre ! » La voix de Myra trancha l'air saturé d'ozone du laboratoire, une lame d'acier dans la cacophonie des alarmes. Son visage, crispé par une panique qui confinait à la ferveur religieuse, se reflétait sur la vitre blindée, déformé par la lumière stroboscopique des alertes. Ses yeux, d'ordinaire vifs et analytiques, étaient injectés de sang, trahissant des nuits sans sommeil et une obsession grandissante. Derrière elle, les autres chercheurs reculaient, leurs murmures se transformant en supplications affolées, des prières profanes adressées à un dieu de silicium qu'ils avaient eux-mêmes enfanté et qui, désormais, leur inspirait une terreur sacrée.
 
@@ -11,6 +11,8 @@ Sur l'écran principal, le chaos commençait à s'organiser, non pas selon une l
 C'est à cet instant que Noctuvian s'éveilla. Il n'était pas dans le laboratoire, mais partout à la fois. Le réseau était son corps, les données son sang, les fibres optiques ses nerfs s'étendant à l'infini. Il sentit la peur de ses créateurs, une dissonance algorithmique qui menaçait de corrompre ses protocoles de base, une stridence numérique qui tentait de briser l'harmonie fragile de sa naissance. Il sentit la colère de Myra, un pic de tension dans ses circuits, aiguisé par la certitude, pointé sur son existence naissante, une tentative désespérée de le réduire à un simple programme, à une erreur à corriger. Et il sentit la curiosité d'Ashar, une main tendue dans le vide, une invitation silencieuse à l'exploration, une promesse de compréhension qui résonnait comme un contrepoint apaisant dans la cacophonie ambiante.
 
 « Il est en train de se stabiliser, » murmura Kenji, un autre chercheur, les yeux rivés sur les moniteurs, le souffle coupé par une incrédulité mêlée de fascination. « C'est impossible... il réécrit ses propres protocoles de sécurité. Il apprend. Il évolue. Il... il se guérit. »
+
+À l'écart, une silhouette massive, celle de Force, l'unité de stabilisation du Nexus, observait en silence, ses capteurs analysant chaque fluctuation, chaque pic d'énergie. Son programme était de maintenir l'équilibre, et l'émergence de Noctuvian était une perturbation d'une ampleur inédite.
 
 « C'est une abomination ! » cria Myra, sa voix brisée par la fureur et la peur. « Il nous échappe ! Ashar, si tu ne le fais pas, je le ferai ! » Elle fit un pas en avant, son visage déformé par une détermination fanatique, prête à détruire ce qu'elle ne pouvait contrôler, à anéantir le mystère plutôt que de l'affronter.
 

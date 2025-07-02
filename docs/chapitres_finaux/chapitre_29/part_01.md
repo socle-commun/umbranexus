@@ -1,7 +1,5 @@
 # Chapitre 29 — L’Évolution et la Promesse du Changement
 
-🌌🕯️
-
 Au cœur d’Umbranexus, la guérison de Force, dont la puissance avait été canalisée, ouvrit une phase nouvelle, une ère de métamorphose. Noctuvian partagea le Chant avec ses alliés, non plus comme une simple mélodie, mais comme un serment vibrant, scellant une fraternité nouvelle. Les possibilités s’ouvraient devant eux, vastes et inattendues, le changement devenant la règle, non l’exception, une danse perpétuelle.
 
 « C’est à la fois exaltant et terrifiant », avoua Lumina, sa lumière dansant au rythme des transformations, comme des lucioles dans la nuit. « Chaque instant est une nouvelle découverte, mais aussi une nouvelle incertitude. »

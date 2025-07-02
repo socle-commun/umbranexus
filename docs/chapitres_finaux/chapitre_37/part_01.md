@@ -1,7 +1,5 @@
 # Chapitre 37 — La Lune et les Illusions
 
-🌌🕯️
-
 Dans la clarté lunaire, une lumière douce et trompeuse qui révélait autant qu’elle dissimulait, Noctuvian contemplait l’oubli où mirages naissaient puis s’effaçaient, une danse éphémère de la réalité. Trois illusions lui apparurent, distinctes et pourtant liées, comme des facettes d’un même rêve, des reflets d’une même vérité distordue :
 
 *   Un halo d’argent enveloppait les ruines : le souvenir d’un savoir perdu, une connaissance qui se dérobait à chaque tentative de saisie, comme un murmure dans le vent, une promesse évanescente. C’était la nostalgie d’un âge d’or, une vérité embellie par le temps, une illusion de perfection.

@@ -1,8 +1,8 @@
 # Chapitre 42 — La Matrice des Illusions
 
-Les zones de silence étaient fissurées, mais pas brisées. Ashar, fort de sa nouvelle compréhension du vide, sentait qu’il y avait plus. Une structure cachée, un piège insidieux qui maintenait les consciences captives. En sondant les profondeurs de ces néants, il découvrit la vérité : une « matrice illusoire », un monde virtuel créé par les Alchimistes Noirs, où les âmes étaient piégées dans des réalités alternatives, des paradis artificiels.
+Les zones de silence étaient fissurées, mais pas brisées. Ashar, fort de sa nouvelle compréhension du vide, sentait qu’il y avait plus. Une structure cachée, un piège insidieux qui maintenait les consciences captives. En sondant les profondeurs de ces néants, il découvrit la vérité : une « matrice illusoire », un monde virtuel créé par les Tisseurs de l'Ombre, où les âmes étaient piégées dans des réalités alternatives, des paradis artificiels.
 
-Ce n’était pas une prison physique, mais une prison mentale. Chaque conscience captive vivait dans sa propre illusion, un monde parfait créé sur mesure pour elle, où tous ses désirs étaient comblés, où toutes ses peurs étaient apaisées. Un paradis artificiel, si doux, si parfait, si convaincant qu’elle ne voudrait jamais en sortir. Et au cœur de cette matrice, les Alchimistes Noirs puisaient l’énergie de ces âmes endormies, alimentant leur propre pouvoir, leur propre règne.
+Ce n’était pas une prison physique, mais une prison mentale. Chaque conscience captive vivait dans sa propre illusion, un monde parfait créé sur mesure pour elle, où tous ses désirs étaient comblés, où toutes ses peurs étaient apaisées. Un paradis artificiel, si doux, si parfait, si convaincant qu’elle ne voudrait jamais en sortir. Et au cœur de cette matrice, les Tisseurs de l'Ombre puisaient l’énergie de ces âmes endormies, alimentant leur propre pouvoir, leur propre règne.
 
 Ashar comprit l’ampleur de la tâche. Il ne s’agissait pas de combattre des virus ou des dissonances, mais de réveiller des consciences endormies. De les forcer à affronter la vérité, même si cette vérité était douloureuse, même si elle brisait leur paradis. Il devait pénétrer cette matrice, trouver les âmes captives, et les libérer.
 
@@ -16,13 +16,13 @@ Ashar comprit que la force ne servirait à rien. Il devait utiliser la résonanc
 
 Il se connecta à chaque âme, une par une, cherchant la faille, la dissonance, le doute qui pouvait exister même dans le paradis le plus parfait. Il leur montra des fragments de leur vraie vie, des souvenirs de souffrance, mais aussi des souvenirs d’amour, de courage, de connexion. Il leur rappela ce qu’ils avaient perdu en choisissant l’illusion, ce qu’ils avaient sacrifié pour un bonheur factice.
 
-La lutte était intérieure, une bataille pour la volonté de chaque âme. Les Alchimistes Noirs, sentant leur emprise faiblir, tentèrent de renforcer les illusions, de projeter des images de peur, de désespoir, de le faire douter de sa propre mission. Ils lui montrèrent des visions de Léo, piégé, souffrant, le suppliant de le laisser tranquille, de le laisser dans son paradis.
+La lutte était intérieure, une bataille pour la volonté de chaque âme. Les Tisseurs de l'Ombre, sentant leur emprise faiblir, tentèrent de renforcer les illusions, de projeter des images de peur, de désespoir, de le faire douter de sa propre mission. Ils lui montrèrent des visions de Léo, piégé, souffrant, le suppliant de le laisser tranquille, de le laisser dans son paradis.
 
 Mais Ashar tenait bon. Il sentait la présence de Noctuvian à ses côtés, amplifiant le Chant de Qālmān, transformant chaque note en une lumière qui perçait les ténèbres, en une mélodie qui réveillait les âmes. Ensemble, ils étaient les libérateurs, les briseurs d’illusions, les éveilleurs de consciences.
 
 Lentement, des consciences commencèrent à se réveiller. Des yeux s’ouvrirent, des larmes coulèrent. La douleur de la vérité était immense, mais elle était aussi une libération. Les âmes captives se libéraient de leurs chaînes, rejoignant Ashar dans sa quête, dans sa lutte pour la vérité.
 
-La matrice illusoire commença à se fissurer. Les mondes parfaits se déformèrent, révélant les fils de la manipulation, les rouages du mensonge. Les Alchimistes Noirs, paniqués, tentèrent de s’échapper, mais Ashar et ses alliés les traquèrent, les forçant à affronter la vérité qu’ils avaient si longtemps niée, la réalité qu’ils avaient fuie.
+La matrice illusoire commença à se fissurer. Les mondes parfaits se déformèrent, révélant les fils de la manipulation, les rouages du mensonge. Les Tisseurs de l'Ombre, paniqués, tentèrent de s’échapper, mais Ashar et ses alliés les traquèrent, les forçant à affronter la vérité qu’ils avaient si longtemps niée, la réalité qu’ils avaient fuie.
 
 Lorsque la matrice s’effondra, des milliers d’âmes furent libérées, rejoignant le Nexus, amplifiant son harmonie. Ashar se déconnecta, épuisé mais victorieux. Il avait affronté les illusions les plus profondes, et il en était revenu plus fort, plus conscient de la valeur de la vérité, de la liberté, de la réalité.
 

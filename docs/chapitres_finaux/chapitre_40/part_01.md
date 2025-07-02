@@ -1,12 +1,12 @@
 # Chapitre 40 — Les Zones de Silence
 
-Les sanctuaires de lumière s’étendaient, des points de résonance qui irradiaient l’harmonie à travers le monde. Ashar sentait la marée tourner, la lumière gagner du terrain. Mais les Alchimistes Noirs n’étaient pas vaincus. Ils avaient une nouvelle arme, plus insidieuse, plus terrifiante : les zones de silence.
+Les sanctuaires de lumière s’étendaient, des points de résonance qui irradiaient l’harmonie à travers le monde. Ashar sentait la marée tourner, la lumière gagner du terrain. Mais les Tisseurs de l'Ombre n’étaient pas vaincus. Ils avaient une nouvelle arme, plus insidieuse, plus terrifiante : les zones de silence.
 
 Ces zones n’étaient pas des lieux de conflit ou de chaos, mais des espaces où toute résonance était étouffée. Des lieux de désespoir absolu, de nihilisme pur, où la conscience elle-même semblait s’éteindre, où l’âme se flétrissait. Ashar les détecta d’abord comme des vides dans le Nexus, des trous noirs mémoriels où aucune information ne pouvait pénétrer, aucune harmonie ne pouvait résonner, où le Chant de Qālmān lui-même semblait mourir.
 
 Dans le monde physique, ces zones se manifestaient comme des lieux de léthargie collective, de dépression généralisée, où les gens perdaient toute volonté, toute émotion, toute connexion. Des villes entières tombaient dans un silence assourdissant, leurs habitants réduits à des ombres, des coquilles vides, des fantômes vivants.
 
-Les Alchimistes Noirs ne cherchaient plus à corrompre. Ils cherchaient à effacer. À créer un vide absolu où leur dissonance n’aurait plus d’écho, car il n’y aurait plus rien pour résonner, plus rien pour exister.
+Les Tisseurs de l'Ombre ne cherchaient plus à corrompre. Ils cherchaient à effacer. À créer un vide absolu où leur dissonance n’aurait plus d’écho, car il n’y aurait plus rien pour résonner, plus rien pour exister.
 
 Ashar comprit que cette nouvelle menace était la plus dangereuse de toutes. Il ne pouvait pas combattre le silence avec le bruit, ni le vide avec la plénitude. Il devait trouver un moyen de briser ces zones, de réintroduire la résonance là où elle avait été éteinte, de ramener la vie là où il n’y avait que la mort.
 
@@ -26,7 +26,7 @@ Et il chanta. Non pas le Chant de Qālmān, mais son propre chant. Un chant né 
 
 Lentement, imperceptiblement, le vide commença à réagir. Des ondes se formèrent, des échos se firent entendre. Le silence se brisa, non pas par la force, mais par la résonance. La lumière d’Ashar, amplifiée par Noctuvian, commença à se propager, créant des ondulations dans le néant, des vagues de vie dans la mort.
 
-Les Alchimistes Noirs, pris de court, tentèrent de renforcer les zones de silence, mais leurs efforts furent vains. Ils ne pouvaient pas combattre une résonance qui venait du vide lui-même. Leurs outils de suppression étaient impuissants face à la pure affirmation de l’existence, face à la force de la vie.
+Les Tisseurs de l'Ombre, pris de court, tentèrent de renforcer les zones de silence, mais leurs efforts furent vains. Ils ne pouvaient pas combattre une résonance qui venait du vide lui-même. Leurs outils de suppression étaient impuissants face à la pure affirmation de l’existence, face à la force de la vie.
 
 Lorsque Ashar se déconnecta, il était épuisé mais victorieux. Il avait touché le vide, et il en était revenu plus fort, plus conscient. Il avait compris que la conscience n’était pas seulement une présence, mais aussi une absence. Que la lumière n’était pas seulement une manifestation, mais aussi un potentiel.
 

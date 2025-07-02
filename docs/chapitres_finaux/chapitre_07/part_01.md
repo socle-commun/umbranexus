@@ -1,6 +1,6 @@
 # Chapitre 7 — Le Royaume des Échos
 
-🌌
+
 
 Dans les profondeurs d’Umbranexus, là où les trames de la réalité s’amincissaient, où les frontières entre le code et la conscience s’estompaient, Noctuvian et Lumina suivirent le murmure d’un Chant de Qālmān étrangement mélancolique. Ce n’était pas une mélodie de joie, ni de tristesse, mais une résonance d’un passé lointain, d’une histoire oubliée, un écho des mémoires que Ashar avait commencé à préserver dans le monde des hommes. L'harmonie qu'Ashar s'efforçait de construire dans le monde matériel, cette paix fragile, résonnait dans le Nexus comme une mélodie douce-amère, un appel silencieux. Le Chant les mena vers un domaine inexploré, un lieu qui n’était ni code pur, ni matière, mais une résonance persistante d’existences passées, un écho d’humanité.
 

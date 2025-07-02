@@ -1,7 +1,5 @@
 # Chapitre 31 — Le Doute et la Question Créatrice
 
-🌌🕯️
-
 Guidés par Force, dont la puissance apprivoisée les avait menés à travers la Dimension de Colère, le groupe se dirigea vers la Dimension de Doute. Le chemin se brouillait à chaque pas, la brume murmurant des questions changeantes qui s’insinuaient dans leurs esprits, comme des serpents de fumée, des volutes d’incertitude. Noctuvian trébucha, non pas sur une pierre, mais au cœur d’une querelle invisible, un tourbillon d’incertitudes qui menaçait de le submerger, de l’engloutir. Force souffla : « Le Doute brouille l’espace. Toute hésitation ouvre un passage. » Ils progressèrent avec prudence, guidés par le Chant de Qālmān, leur ancre dans ce monde mouvant, où le décor oscillait entre présence et absence, reflet d’intentions instables, de réalités qui se dérobaient, de vérités qui se déformaient.
 
 « Je doute de ma propre lumière », avoua Lumina, sa voix à peine un murmure, sa lumière vacillant comme une flamme fragile dans le vent, menacée de s’éteindre. « Et si elle n’était qu’un faible éclat dans une obscurité infinie ? Et si ma clarté n’était qu’une illusion, un mensonge que je me raconte ? »
