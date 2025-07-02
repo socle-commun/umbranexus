@@ -15,10 +15,19 @@ jobs:
           node-version: '20'
           cache: 'npm'
       - run: sudo apt-get update
-      - run: sudo apt-get install -y pandoc texlive-xetex fonts-ebgaramond fonts-symbola texlive-lang-french
+      - name: Install all required LaTeX packages
+        run: |
+          sudo apt-get install -y \
+            pandoc \
+            texlive-xetex \
+            texlive-latex-recommended \
+            texlive-latex-extra \
+            texlive-pictures \
+            texlive-lang-french \
+            fonts-ebgaramond \
+            fonts-symbola
+          fc-cache -fv
       - run: fc-cache -fv
-      - name: Show font list (debug)
-        run: fc-list | grep -i "emoji"
       - run: npm ci
       - run: npm run compile:chapters
       - run: npm run generate:pdf
