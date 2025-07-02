@@ -5,8 +5,6 @@ import path from 'path';
 const base = path.join(process.cwd(), 'docs', 'chapitres_finaux');
 const input = path.join(base, 'compiled_book.md');
 const output = path.join(base, 'Umbranexus-livre.pdf');
-const cover = path.join('scripts', 'cover.md');
-const toc = path.join('scripts', 'toc.md');
 const template = path.join('scripts', 'template-umbranexus.tex');
 
 function checkFile(file, label) {
@@ -58,14 +56,12 @@ function listDir(dir) {
 checkPandoc();
 checkXeLaTeX();
 checkFile(input, 'compiled_book.md');
-checkFile(cover, 'cover.md');
-checkFile(toc, 'toc.md');
 checkFile(template, 'template-umbranexus.tex');
 listDir(base);
 listDir('scripts');
 
 // Génère le PDF stylé avec couverture, toc, template LaTeX
-const command = `pandoc "${cover}" "${toc}" "${input}" --pdf-engine=xelatex --template="${template}" --toc --toc-depth=2 -V mainfont="Times New Roman" -V geometry:margin=2.5cm -o "${output}"`;
+const command = `pandoc "${input}" --pdf-engine=xelatex --template="${template}" --toc --toc-depth=2 -o "${output}"`;
 console.log('Commande pandoc :', command);
 try {
   execSync(command, { stdio: 'inherit' });

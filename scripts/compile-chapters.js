@@ -56,7 +56,7 @@ async function generateChapterFiles() {
       try {
         let text = await fs.readFile(path.join(chapterPath, frag), 'utf8');
         const lines = text.split(/\r?\n/).length; // Calculate lines for this fragment
-        return { name: frag, content: text.replace(/^---\s*$/gm, '***').trimEnd(), lines: lines };
+        return { name: frag, content: text.replace(/^---\s*$/gm, '').trimEnd(), lines: lines };
       } catch (error) {
         console.error(`Error reading fragment ${frag} in ${dir}:`, error);
         return { name: frag, content: '', lines: 0 };
@@ -85,21 +85,6 @@ async function generateChapterFiles() {
   }));
 }
 
-async function updateTOC(chapterFiles) {
-  // Génère une table des matières Markdown simple
-  const tocLines = [
-    '# Table des matières',
-    '',
-    
-    ...chapterFiles.map(f => {
-      const num = f.match(/chapitre_(\d{2})/)[1];
-      return `- [Chapitre ${num}](chapitre_${num}.md)`;
-    })
-  ];
-  const tocPath = path.join(chaptersDir, 'toc.md');
-  await fs.writeFile(tocPath, tocLines.join('\n') + '\n');
-}
-
 async function compileBook() {
   // Recherche tous les fichiers chapitre_XX.md
   const chapterFiles = (await fs.readdir(chaptersDir, { withFileTypes: true }))
@@ -111,17 +96,27 @@ async function compileBook() {
       return nA - nB;
     });
 
-  // Met à jour la table des matières
-  await updateTOC(chapterFiles);
-
   let content = '';
-  // Frontmatter YAML amélioré
-  content += `---\ntitle: "Umbranexus"\nauthor: "Collectif"\ndate: "${new Date().toISOString().slice(0, 10)}"\nlang: fr\ndescription: "Roman collaboratif généré par la communauté Umbranexus."\n---\n\n`;
 
   const chapterContents = await Promise.all(chapterFiles.map(async (file) => {
     try {
+      let chapterNumber = file.match(/chapitre_(\d{2})\.md$/)[1];
+      let coverPath = path.join(chaptersDir, `chapitre_${chapterNumber}`, 'cover.png');
+      let coverExists = false;
+      try {
+        await fs.access(coverPath);
+        coverExists = true;
+      } catch {}
+
+      let coverCode = '';
+      if (coverExists) {
+        // Use forward slashes for LaTeX path
+        const latexCoverPath = `docs/chapitres_finaux/chapitre_${chapterNumber}/cover.png`;
+        coverCode = `\\newpage\n\\thispagestyle{empty}\n\\begin{tikzpicture}[remember picture, overlay]\n  \\node[anchor=north west, inner sep=0pt] at (current page.north west) {\\includegraphics[width=\\paperwidth,height=\\paperheight]{${latexCoverPath}}};\n\\end{tikzpicture}\n\\newpage\n`;
+      }
+
       let text = await fs.readFile(path.join(chaptersDir, file), 'utf8');
-      return text.trimEnd() + '\n\n' + '\n\\newpage\n\n';
+      return (coverCode ? coverCode + '\n' : '') + text.trimEnd() + '\n\n' + '\n\\newpage\n\n';
     } catch (error) {
       console.error(`Error reading chapter file ${file}:`, error);
       return '';
