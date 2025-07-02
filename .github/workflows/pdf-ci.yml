@@ -15,7 +15,7 @@ jobs:
           node-version: '20'
           cache: 'npm'
       - run: sudo apt-get update
-      - run: sudo apt-get install -y pandoc texlive-xetex fonts-ebgaramond
+      - run: sudo apt-get install -y pandoc texlive-xetex fonts-ebgaramond fonts-noto-color-emoji
       - run: fc-cache -fv
       - run: npm ci
       - run: npm run compile:chapters
