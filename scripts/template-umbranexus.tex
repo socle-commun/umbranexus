@@ -20,3 +20,20 @@
 \hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
 % Lettrine possible avec \usepackage{lettrine}
 % Pour une couverture illustrée, ajouter une image dans cover.md
+
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$for(author)$$author$$sep$ \\ $endfor$}
+$endif$
+$if(date)$
+\date{$date$}
+$endif$
+
+\begin{document}
+\maketitle
+
+$body$
+
+\end{document}
