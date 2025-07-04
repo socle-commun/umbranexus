@@ -6,6 +6,7 @@ Le Chapitre Deuxième, "L'Écho du Code", est un pivot narratif qui déplace le 
 *   **Confrontation entre Rationalité et Irrationnel :** Le chapitre explore la rupture brutale des certitudes scientifiques d'Ashar face à des phénomènes inexplicables et terrifiants, le poussant aux confins de la folie.
 *   **Menace Insidieuse et Horrifique :** Les Tisseurs de l'Ombre sont présentés comme une force non seulement manipulatrice, mais profondément perturbante, s'immisçant dans la vie personnelle d'Ashar et utilisant la peur comme une arme psychologique. Leur présence est rendue palpable par des descriptions sensorielles (sifflement aigu, images cauchemardesques).
 *   **Amour Paternel comme Motivation :** La menace directe sur Léo est le catalyseur de la transformation d'Ashar, le poussant à dépasser ses propres limites et à embrasser l'inconnu, même si cela implique l'horreur.
+*   **Responsabilité d'Ashar en tant qu'architecte du Nexus :** Il se sent coupable de la brèche qu'il a ouverte, ce qui renforce sa détermination à purifier le système.
 *   **Alliance entre Science et Mysticisme :** La connexion naissante entre Ashar et Noctuvian, guidée par le Chant de Qālmān, symbolise la fusion nécessaire de ces deux mondes pour combattre une menace qui les dépasse.
 *   **Quête de Vérité et de Survie :** Ashar se lance dans une quête désespérée pour comprendre la nature de la menace, non seulement pour la connaissance, mais pour sa survie et celle de son fils, explorant des domaines qu'il a toujours rejetés.
 

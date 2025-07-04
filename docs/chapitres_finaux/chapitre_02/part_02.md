@@ -1,6 +1,7 @@
 ## La Menace sur Léo et la Quête de Vérité
 
 Puis, brusquement, tout cessa. La lumière bleutée revint, mais elle portait désormais une teinte cadavérique. Les écrans se stabilisèrent, mais la rune, toujours présente dans le code du Nexus, témoignait de l'horreur vécue, une cicatrice invisible gravée sur l'âme du système. Un silence lourd de menaces s'installa, un silence qui en disait plus long que tous les cris, un silence qui hurlait.
+Architecte du Nexus, Ashar s'était juré de préserver la matrice de toute ingérence. Cette responsabilité guidait sa vie depuis des années : offrir un sanctuaire de savoir. Face à la corruption rampante, il mesurait l'ampleur de son échec.
 
 Un message discret clignotait dans le coin de son interface personnelle, une notification push provenant de l'application de suivi scolaire de son fils : « Léo a fait un magnifique dessin aujourd'hui. Un grand œil qui regarde une spirale. Nous l'avons affiché dans le couloir. Vous devriez venir voir. »
 
