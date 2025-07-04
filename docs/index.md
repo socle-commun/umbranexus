@@ -34,6 +34,6 @@ Umbranexus chronicles the creation of the first book fully written via AI. This 
   - [Chapitre 23](./chapitres_finaux/chapitre_23.md) - [Analyse](./explications/chapitre_23.md)
   - [Chapitre 24](./chapitres_finaux/chapitre_24.md) - [Analyse](./explications/chapitre_24.md)
 - [Explications](./explications/)
-- [Critiques](./critiques/)
+- [Critiques](./critiques/) — analyses style and improvement points for each chapter
 
 The GitHub Pages site displays this page as the home page.

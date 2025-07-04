@@ -20,3 +20,7 @@ node scripts/compile-chapters.js
 ```
 
 Le résultat sera dans `docs/chapitres_finaux/compiled_book.md`.
+
+## Critiques litt\u00e9raires
+
+Les analyses stylistiques de chaque chapitre sont conserv\u00e9es dans le dossier `docs/critiques/`. Utilisez le fichier `template.md` comme base pour r\u00e9diger chaque critique.
