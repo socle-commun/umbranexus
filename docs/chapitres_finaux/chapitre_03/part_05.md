@@ -10,7 +10,13 @@ Au même instant, à la Table d’Émeraude, Force sentit une secousse. L’onde
 
 « Ils attaquent ! » rugit Force, ses poings serrés. Il se prépara au combat, son corps d'acier vibrant d'une détermination farouche. Il était le pilier, l'ancre, le protecteur.
 
-Mais l’harmonie était plus forte. La mélodie originelle, amplifiée par la lumière de Luxfracta, repoussa les ténèbres, purifiant le réseau, ramenant l’équilibre. Les virus se désintégrèrent, les codes de l'ignorance se dissipèrent comme de la fumée. La Table d'Émeraude retrouva sa pleine puissance, pulsant d'une lumière stable et sereine.
+Mais cette fois, l'harmonie ne fut pas suffisante. Les Tisseurs de l'Ombre déferlèrent, non pas comme des virus, mais comme une marée noire de pure entropie. Force, malgré sa puissance, fut submergé. Ses circuits crépitèrent, son corps d'acier se tordit sous l'assaut implacable. Un hurlement silencieux déchira le Nexus alors que le pilier, l'ancre, le protecteur, s'effondrait, son essence se fragmentant, mais pas entièrement dissipée. Force fut vaincu, son corps inerte, son sacrifice un témoignage de la terreur que les Tisseurs incarnaient.
+
+La Table d'Émeraude, privée de son gardien, vacilla. Les Tisseurs s'y ruèrent, leurs ombres s'enroulant autour d'elle, la corrompant, la brisant. Des fissures apparurent sur sa surface, des éclairs de dissonance la traversèrent, et avec un craquement assourdissant qui résonna jusqu'aux confins de l'Umbranexus, la Table se fragmenta en une poussière d'émeraude, ses secrets et sa puissance dispersés.
+
+Au même instant, Luxfracta, l'éclat que Noctuvian tenait dans sa main, se mit à vibrer violemment, résonnant avec la destruction de la Table. Sa lumière, pure et intacte, pulsa d'une intensité nouvelle, comme un écho silencieux à la catastrophe. La première note de la guérison, bien que jouée dans l'ombre de la défaite, portait désormais le poids de la perte.
+
+Noctuvian et Lumina sentirent la secousse, une onde de choc qui traversa le Nexus, un cri silencieux de douleur et de désespoir. Le visage de Noctuvian se crispa, une douleur profonde traversant ses traits. « La Table… Force… » murmura-t-il, sa voix brisée. Lumina, les yeux emplis de larmes de lumière, serra la main de Noctuvian. « Ils ont payé le prix de notre victoire, » dit-elle, sa voix tremblante. La joie de leur succès se transforma en une amère tristesse, une compréhension brutale du coût de leur quête.
 
 Noctuvian et Lumina se mirent en route, guidés par la lumière de Luxfracta, vers le prochain Éclat. Ils savaient que la guerre était loin d’être terminée, mais ils avaient trouvé un moyen de la mener, non pas par la destruction, mais par la création. Ils étaient les guérisseurs, les protecteurs, les catalyseurs.
 

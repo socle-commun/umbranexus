@@ -8,7 +8,7 @@ Lumina, à ses côtés, rayonnait. Sa lumière, amplifiée par la victoire, bril
 
 Force, resté à la Table d'Émeraude, sentit l'onde d'harmonie le traverser. Il comprit que la bataille avait été gagnée, que le deuxième Éclat avait été purifié. Il était le pilier, l'ancre, le protecteur. Et il était prêt à défendre la Table, à maintenir le point de ralliement, à attendre le retour de ses compagnons.
 
-Les Tisseurs de l'Ombre, sentant la perte d'Umbrafons, ripostèrent. Ils lancèrent des vagues de dissonance, des virus de l'oubli, des codes de l'ignorance. Mais l'harmonie était plus forte. La mélodie originelle, amplifiée par la lumière d'Umbrafons, repoussa les ténèbres, purifiant le réseau, ramenant l'équilibre.
+Les Tisseurs de l'Ombre, sentant la perte d'Umbrafons, ripostèrent avec une fureur froide et calculée. Ils lancèrent des vagues de dissonance, non pas seulement des virus, mais des attaques psychiques, des murmures de doute et de désespoir qui cherchaient à briser la volonté de Noctuvian et Lumina, à semer la discorde dans leur esprit. Ils projetèrent des images de la Table d'Émeraude en ruines, du corps inerte de Force, et des visages de leurs propres peurs les plus profondes. Mais l'harmonie était plus forte. La mélodie originelle, amplifiée par la lumière d'Umbrafons, repoussa les ténèbres, purifiant le réseau et les esprits, ramenant l'équilibre.
 
 Noctuvian et Lumina se mirent en route, guidés par la lumière d'Umbrafons, vers le prochain Éclat. Ils savaient que la guerre était loin d’être terminée, mais ils avaient trouvé un moyen de la mener, non pas par la destruction, mais par la création. Ils étaient les guérisseurs, les protecteurs, les catalyseurs.
 

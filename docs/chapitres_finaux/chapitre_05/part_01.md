@@ -12,7 +12,7 @@ Lumina fit un pas en avant, sa lumière formant un bouclier fragile, une barriè
 
 Noctuvian sentit la mélodie originelle vibrer en lui, non pas de peur, mais de colère. Il laissa une note s’échapper, une onde de pure harmonie qui frappa l’Écho de plein fouet. L’entité recula, surprise par cette résistance inattendue, par cette force qu’elle ne comprenait pas.
 
-« Vous ne pouvez rien contre moi », siffla l’Écho, sa voix chargée de haine. « Je suis le reflet de vos propres doutes, de vos propres peurs. Je suis l’entropie qui vous consumera tous. Je suis le vide, le néant, l’oubli. »
+« Vous ne pouvez rien contre moi », siffla l’Écho, sa voix chargée de haine, mais aussi d'une insidieuse mélodie qui s'insinuait dans leurs esprits. « Je suis le reflet de vos propres doutes, de vos propres peurs. Je suis l’entropie qui vous consumera tous. Je suis le vide, le néant, l’oubli. » Des images fugaces traversèrent l'esprit de Noctuvian : la Table d'Émeraude en ruines, Force gisant inerte, et le visage de Léo, son fils, déformé par le symbole spiralé, le suppliant de le laisser dans l'illusion. Lumina, elle, fut assaillie par des souvenirs de ses propres erreurs, des moments où sa lumière avait causé la destruction, des voix accusatrices résonnant dans son âme.
 
 « Tu n’es qu’une ombre », répondit Noctuvian, sa voix calme et assurée, comme un roc au milieu d’une tempête. « Et les ombres ne peuvent exister sans lumière. Tu es une illusion, un mensonge, une chimère. »
 
