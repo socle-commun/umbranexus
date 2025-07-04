@@ -51,7 +51,7 @@ This project is designed for collaborative, iterative book writing with a Large 
 The goal is to have an LLM write, improve, and critique a 48-chapter book through multiple iterations, using structured feedback and guidelines.
 
 ### Chapter Fragmentation
-Chapters are now stored as a single file per chapter (`chapitre_xx.md`). The previous fragmentation in `part_XX.md` files has been removed for clarity and coherence. All references to `part_XX.md` are obsolete.
+Chapters are divided into short fragments named `part_YY.md` under `docs/chapitres_finaux/chapitre_xx/`. Each part stays below 50 lines to facilitate incremental writing. The script `scripts/compile-chapters.js` assembles these fragments into `chapitre_xx.md` files for compilation.
 
 ### Iterative Workflow
 For each chapter, the following process is repeated:
