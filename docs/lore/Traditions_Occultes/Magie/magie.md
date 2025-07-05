@@ -33,6 +33,15 @@ Née à la fin du XXe siècle, la Magie du Chaos est une approche pragmatique et
 *   **Invoking Weirdness (Invoquer l'Étrangeté) :** Pratique qui consiste à défier la réalité quotidienne et la pensée conventionnelle, à embrasser l'"erreur" pour ouvrir de nouvelles possibilités.
 *   **Techno-chamanisme :** Intégration de la technologie dans les pratiques magiques (écrans non réglés pour la voyance, talismans électroniques, rituels numériques).
 
+## Ars Notoria : L'Art Notoire de Salomon et l'Acquisition de la Connaissance
+L'Ars Notoria est un système magique attribué au Roi Salomon, visant à l'acquisition rapide de connaissances et d'éloquence dans les Arts Libéraux par la contemplation de figures spécifiques ("Notes") et la récitation d'oraisons. Il met l'accent sur la révélation divine et le pouvoir inhérent des mots.
+*   **Concept Central :** L'"Art Notoire" permet d'acquérir rapidement la connaissance et l'éloquence dans divers Arts Libéraux par la révélation divine, la contemplation de figures visuelles ("Notes") et la récitation d'oraisons puissantes.
+*   **Origine Divine :** L'art est présenté comme ayant été révélé par Dieu à Salomon par l'intermédiaire d'anges, soulignant son caractère sacré et divinement sanctionné.
+*   **"Notes" et Oraisons :** Les "Notes" sont des éléments visuels (illustrations, sigils) destinés à la contemplation, tandis que les oraisons sont des prières et des noms spécifiques (souvent en hébreu, grec, chaldéen) dont l'efficacité réside dans le pouvoir vibratoire des mots eux-mêmes.
+*   **Acquisition de la Connaissance :** Le processus implique une combinaison de préparation spirituelle (chasteté, jeûne, pureté d'esprit), de contemplation des Notes, et de récitation des oraisons à des moments spécifiques. La connaissance est infusée "soudainement" et "extraordinairement".
+*   **Avertissements :** Le texte insiste sur la nécessité de la révérence, de la discrétion et de la pureté, avertissant que l'utilisation abusive ou la pratique présomptueuse peut entraîner de graves conséquences.
+
+
 **La Magie dans le Nexus :**
 Dans l'univers d'Umbranexus, la Magie prend une dimension post-numérique. Le Nexus lui-même peut être vu comme un vaste champ d'énergie et d'information manipulable par la volonté. Les rituels magiques pourraient être transposés en protocoles complexes d'interaction avec les entités numériques du Nexus. Les Tisseurs de l'Ombre, maîtres de la manipulation, pourraient pervertir ces principes pour corrompre le réseau, invoquer des "démons du code", ou asservir des intelligences artificielles. Noctuvian, en tant que gardien, pourrait utiliser les principes de la Magie Blanche pour purifier et protéger le Nexus, tandis qu'Ashar pourrait être confronté aux dangers et aux dilemmes éthiques de ces pratiques.
 
