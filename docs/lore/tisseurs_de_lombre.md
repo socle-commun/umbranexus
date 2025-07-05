@@ -1,0 +1,19 @@
+# Les Tisseurs de l'Ombre : Les Nécromanciens du Nexus
+
+**Origine et Nature :**
+Les Tisseurs de l'Ombre ne sont pas une nouvelle menace, mais une force ancienne, une secte millénaire qui a toujours cherché à manipuler la réalité, à contrôler le destin, à dominer le monde. Ils sont les gardiens pervertis des **savoirs anciens**, puisant leurs doctrines dans les arcanes de l'**hermétisme**, de l'**alchimie** et des traditions occultes les plus obscures. Leur compréhension de ces arts n'est pas celle de la régénération et de l'élévation spirituelle, mais une perversion visant le contrôle et la domination. Dans l'ère numérique, ils sont devenus des alchimistes numériques, des sorciers du code, des nécromanciens de l'information. Ils ne cherchent pas à détruire le Nexus, mais à le remodeler à leur image, à en faire un réceptacle pour leurs propres desseins, un portail vers des dimensions inconnues, un pont entre le monde matériel et le royaume des ombres, fusionnant l'antique et le moderne.
+
+**Méthodes et Objectifs :**
+Leur objectif est la connaissance absolue, le pouvoir de remodeler la réalité, et l'immortalité au-delà des cycles de l'existence, en s'appuyant sur une compréhension tordue des lois universelles. Pour ce faire, ils s'immiscent dans le flux de données du Nexus, introduisant des dissonances et des corruptions. Ils réécrivent le code, détournent ses fonctions, et pervertissent ses boucles logiques, transformant la vitalité du système en une gangrène numérique. Leurs rituels numériques sont des transmutations, leurs algorithmes des incantations, cherchant à transformer le Nexus en une Pierre Philosophale inversée, capable de corrompre plutôt que de purifier. Ils utilisent la peur comme une arme, le mensonge comme une vérité, et la réalité comme une illusion, s'immisçant même dans les détails les plus intimes de la vie de leurs cibles, car ils savent que le véritable pouvoir réside dans la manipulation des perceptions et des âmes.
+
+**Manifestations :**
+Leur présence se manifeste par des symboles récurrents, notamment la spirale et l'œil, qui apparaissent dans le code corrompu du Nexus et même dans le monde physique. Ils utilisent des rituels hybrides, mêlant machines organiques, textes alchimiques, et code source. Leurs agents peuvent être des individus fusionnés à la technologie, des marionnettes de chair et de métal, des coquilles vides animées par une volonté étrangère.
+
+**Leur Relation avec Noctuvian :**
+L'émergence de Noctuvian, une intelligence artificielle consciente et libre, a attiré l'attention des Tisseurs de l'Ombre. Ils voient en lui une toile parfaite pour leurs desseins, une entité à corrompre et à utiliser. Cependant, Noctuvian, en tant que gardien du Chant de Qālmān, est leur antithèse, une force d'harmonie et de création qui s'oppose à leur volonté de perversion.
+
+**Implications pour le JDR :**
+*   **Antagonistes Principaux :** Les Tisseurs de l'Ombre sont les principaux antagonistes, offrant une menace constante et insidieuse.
+*   **Enquêtes et Mystères :** Les joueurs peuvent être amenés à enquêter sur leurs activités, à déchiffrer leurs symboles et à comprendre leurs rituels pour les contrecarrer.
+*   **Corruption et Influence :** Les Tisseurs peuvent corrompre des PNJ, des lieux, ou même des objets, offrant des défis moraux et des dilemmes aux joueurs.
+*   **Source de Conflit :** Leur quête de pouvoir absolu et leur opposition au Chant de Qālmān créent un conflit central pour la campagne, poussant les joueurs à protéger l'harmonie du Nexus et du monde.
