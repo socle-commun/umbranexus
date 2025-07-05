@@ -1,0 +1,16 @@
+# La Sorcellerie en Nouvelle-Angleterre Expliquée par le Spiritisme Moderne (Allen Putnam)
+
+Ce fragment résume l'ouvrage d'Allen Putnam, "Witchcraft Of New England Explained By Modern Spiritualism" (1881). L'auteur propose une réinterprétation des événements de la sorcellerie en Nouvelle-Angleterre, notamment à Salem, à travers le prisme du spiritisme moderne, arguant que les phénomènes observés étaient des manifestations de forces psychologiques et médiumniques, plutôt que l'œuvre du Diable ou de la supercherie.
+
+## Concepts Clés
+
+*   **Réinterprétation de la Sorcellerie** : Putnam rejette les explications traditionnelles de la sorcellerie (pacte avec le Diable, fraude, hystérie) et propose que les "afflictions" et les "merveilles" observées étaient des manifestations de forces naturelles, bien qu'occultes à l'époque. Il considère les accusés et les affligés comme des "médiums" ou des "sensitifs" agissant sous l'influence d'entités désincarnées.
+*   **Force Psychologique et Magnétisme** : L'auteur introduit le concept de "force psychologique" ou "magnétisme" comme l'agent principal derrière les phénomènes de sorcellerie. Cette force, résidant dans l'âme et la volonté, peut être exercée par des individus (incarnés ou désincarnés) pour influencer la matière et d'autres êtres humains. Il cite l'exemple d'Agassiz et de la transe mesmérique pour illustrer le pouvoir de cette force.
+*   **Phénomènes Spirituels et Médiumniques** : Les manifestations de la sorcellerie sont comparées aux phénomènes du spiritisme moderne : raps, lévitations, mouvements d'objets, écritures automatiques, matérialisations, et prescience. Putnam soutient que ces phénomènes, bien que mystérieux, sont naturels et obéissent à des lois encore mal comprises.
+*   **Critique des Historiens Précédents** : L'ouvrage critique les interprétations de Cotton Mather, Robert Calef, Thomas Hutchinson et C.W. Upham, arguant qu'ils n'avaient pas les outils conceptuels (le spiritisme) pour comprendre la vraie nature des événements. Il accuse Mather de partialité et Calef de ne pas avoir pleinement saisi la portée des phénomènes qu'il décrivait.
+*   **Le Cas de Margaret Rule** : Le cas de Margaret Rule (1693) est analysé en détail comme un exemple de médiumnité. Ses "crises", ses jeûnes prolongés, sa prescience d'un noyade, et sa lévitation sont interprétés comme des manifestations de forces spirituelles agissant à travers elle. Les "spectres" qu'elle voyait sont considérés comme des apparitions d'esprits désincarnés.
+*   **Survie de l'Âme** : L'un des objectifs sous-jacents de l'ouvrage est de fournir des preuves de la survie de l'âme après la mort, en utilisant les phénomènes de sorcellerie et de spiritisme comme démonstrations de l'existence d'êtres intelligents désincarnés.
+
+## Objectif de l'Auteur
+
+Allen Putnam, lui-même observateur et praticien du spiritisme, cherche à réhabiliter la réputation des personnes impliquées dans les procès de sorcellerie de Salem, en les présentant non pas comme des coupables ou des imposteurs, mais comme des individus sensibles aux influences spirituelles. Il vise à éclairer le passé par les découvertes du présent, et à promouvoir une compréhension plus large des forces occultes de la nature.

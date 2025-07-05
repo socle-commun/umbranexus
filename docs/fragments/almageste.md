@@ -1,0 +1,3 @@
+**Almageste**
+
+Traité d'astronomie et de mathématiques écrit par Ptolémée au IIe siècle. Bien que principalement scientifique, cet ouvrage a eu une influence considérable sur l'astrologie et les sciences occultes du Moyen Âge et de la Renaissance. Il présentait un modèle géocentrique de l'univers qui a servi de base à la cosmologie occidentale pendant plus de 1400 ans, intégrant les mouvements des planètes à des fins divinatoires.

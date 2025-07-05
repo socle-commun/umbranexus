@@ -1,0 +1,23 @@
+# Les Trois Livres de la Philosophie Occulte ou de la Magie (Henry Cornelius Agrippa) - Livre Premier : La Magie Naturelle
+
+Ce fragment résume les concepts fondamentaux de la Magie Naturelle tels que présentés dans le premier livre de l'œuvre majeure d'Henry Cornelius Agrippa, "De Occulta Philosophia Libri Tres". Agrippa y expose une vision du monde où les influences célestes et intellectuelles agissent sur le monde élémentaire, et comment le magicien peut exploiter ces correspondances pour opérer des merveilles.
+
+## Concepts Clés de la Magie Naturelle
+
+*   **Le Monde Triple et les Influences** : Agrippa postule un monde triple (Élémentaire, Céleste et Intellectuel) où chaque niveau inférieur est gouverné par son supérieur. Les vertus et les influences divines descendent à travers les anges, les cieux, les étoiles, les éléments, les animaux, les plantes, les métaux et les pierres. Le magicien cherche à remonter cette chaîne pour attirer de nouvelles vertus d'en haut.
+*   **Définition de la Magie** : La magie est présentée comme une faculté d'une vertu merveilleuse, contenant la contemplation la plus profonde des choses secrètes. Elle instruit sur les correspondances et les désaccords entre les choses, produisant des effets merveilleux en unissant les vertus des choses par leur application mutuelle et leur connexion avec les corps supérieurs.
+*   **Les Trois Philosophies** : La magie englobe et active trois philosophies principales :
+    1.  **Philosophie Naturelle** : Étudie la nature des choses du monde, leurs causes, effets, temps, lieux, et propriétés occultes. Elle explore les éléments (Feu, Terre, Eau, Air), leurs qualités (chaud, sec, froid, humide) et leurs transmutations mutuelles. Agrippa insiste sur le fait que la matière est éternelle, niant la création ex nihilo.
+    2.  **Philosophie Mathématique (Céleste)** : Concerne la quantité des corps naturels, le mouvement des corps célestes, et les influences des étoiles et des planètes sur les choses terrestres. Elle est la base de l'astrologie.
+    3.  **Philosophie Théologique (Divine)** : Traite de Dieu, de l'Esprit, de l'Intelligence, des Anges, des Démons, de l'Âme, de la Religion, des institutions sacrées, des rites et des mystères. Elle aborde la foi, les miracles, la vertu des mots et des figures, et les opérations secrètes des sceaux.
+*   **Vertus Occultes et Correspondances** : Agrippa détaille comment les vertus occultes sont infusées dans les choses par les Idées, l'Âme du Monde et les rayons des étoiles. Il explique comment trouver et examiner ces vertus par similitude, amitié et inimitié, et comment elles se manifestent dans la substance entière ou dans des parties spécifiques des êtres.
+*   **Influence des Planètes et des Signes** : Une partie importante du livre est dédiée à la classification des choses (minéraux, plantes, animaux, parties du corps, lieux, royaumes) sous l'influence des sept planètes (Soleil, Lune, Saturne, Jupiter, Mars, Vénus, Mercure) et des signes du zodiaque.
+*   **Sceaux et Caractères** : L'ouvrage décrit l'utilisation des sceaux et des caractères pour attirer les influences célestes et vitales. Il explique comment les compositions naturelles et artificielles peuvent attirer des dons célestes, vitaux, intellectuels et divins.
+*   **Sortilèges, Parfums et Anneaux Magiques** : Agrippa aborde les sortilèges, leur pouvoir, la composition et l'usage des parfums (suffumigations) pour les planètes, les collyres, les onctions, les philtres d'amour, les alligations et suspensions naturelles, et la fabrication d'anneaux magiques.
+*   **Divination** : Diverses formes de divination sont explorées, y compris la géomancie, l'hydromancie, l'aéromancie, la pyromancie, la divination par les rêves, et les divinations liées à la mélancolie.
+*   **Pouvoir de l'Imagination et des Passions** : Le texte discute de la capacité de l'imagination et des passions de l'esprit à transformer le corps et à influencer d'autres corps, soulignant l'importance de la constance mentale dans toute œuvre magique.
+*   **Vertu des Mots et des Écritures** : Agrippa explore le pouvoir occulte des mots, des noms propres, des phrases, des vers, des charmes, des enchantements, des imprécations et des inscriptions, ainsi que la correspondance des lettres avec les signes célestes et les planètes.
+
+## Contexte et Réception
+
+Écrit par Agrippa dans sa jeunesse (vers 1510) et publié plus tard (1533), cet ouvrage a été controversé. Agrippa lui-même a ensuite tenté de le rétracter dans son "De vanitate scientiarum", mais il reste une œuvre fondamentale pour comprendre la pensée magique de la Renaissance. La correspondance avec Trithemius, un autre mystique, éclaire les intentions d'Agrippa et la réception de son travail.

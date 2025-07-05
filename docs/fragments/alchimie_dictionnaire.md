@@ -1,0 +1,3 @@
+**Alchimie (selon le Dictionnaire des Sciences Occultes)**
+
+Science hermétique visant la transmutation des métaux vils en or, mais aussi la quête de la panacée (remède universel) et de l'élixir de longue vie. L'alchimie est à la fois une pratique matérielle et une discipline spirituelle. Le Grand Œuvre, son objectif ultime, symbolise la purification de la matière et de l'âme, la transformation de l'imparfait vers le parfait. Ses adeptes utilisaient un langage symbolique et allégorique pour préserver leurs secrets.
