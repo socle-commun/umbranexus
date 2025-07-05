@@ -1,5 +1,5 @@
 import os
-file_to_delete = "D:/workspace/socle-commun/umbranexus/.occultisme_extracted/Within The Temple Of Isis.txt"
+file_to_delete = "D:/workspace/socle-commun/umbranexus/commit_message.txt"
 if os.path.exists(file_to_delete):
     os.remove(file_to_delete)
     print(f"Fichier supprimé : {file_to_delete}")

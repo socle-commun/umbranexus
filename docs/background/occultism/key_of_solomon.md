@@ -1,41 +1,48 @@
-# La Clé de Salomon (1916)
+# The Greater Key of Solomon (1916)
 
-**Source:** `The Key of Solomon(1916).txt` (Full content read)
+Translated from Ancient Manuscripts in The British Museum, London.
+By S. Liddell MacGregor Mathers
 
-La Clé de Salomon est un grimoire attribué au Roi Salomon, détaillant des opérations magiques, des conjurations, et la construction d'instruments et de cercles magiques. Il met l'accent sur l'importance de l'amour divin, de la pureté et des influences planétaires spécifiques pour la réussite des travaux magiques.
+This text, a foundational work in Qabalistical and Ceremonial Magic, provides a detailed exposition of King Solomon's secret procedures, including mysteries, magic rites, original plates, seals, charms, and talismans. It emphasizes the importance of divine love, planetary influences, and precise rituals for magical operations.
 
-## Concepts Clés :
+## Preface
 
-*   **Paternité et Authenticité** : Attribué au Roi Salomon, le texte est présenté comme une sagesse reçue par révélation angélique. Il se distingue d'autres grimoires de "Magie Noire" faussement attribués à Salomon, insistant sur son caractère sacré et bénéfique.
+The editor notes that this electronic edition is based on the 1916 American edition, with irrelevant interjections and footnotes removed. It highlights the historical significance of the "Key of Solomon" as a primary source for ceremonial magic, valued by occult writers like Eliphas Levi. The preface also cautions against works of Black Magic and the use of blood in rituals, stressing that prayer, pentacles, and perfumes are sufficient. It addresses the challenges of transcribing Hebrew words and characters in the original manuscripts.
 
-*   **But de la Clé** : Fournir la connaissance et la compréhension des Arts et Sciences Magiques, permettant à l'opérateur d'accomplir divers exploits par l'invocation d'esprits.
+## Introduction
 
-*   **Amour Divin et Pureté** : L'amour divin et la pureté du cœur sont des prérequis essentiels pour acquérir cette connaissance et pour la réussite des opérations. Le travail doit être effectué pour l'honneur de Dieu et à des fins bénéfiques. L'abus de ce pouvoir à des fins maléfiques entraînera des conséquences néfastes pour l'opérateur.
+The introduction presents the origin story of the "Key of Solomon" through the narrative of King Solomon and his son Roboam. Solomon recounts receiving divine wisdom from the Angel Homadiel, which granted him knowledge of all living things. He composed this "Key" to preserve hidden secrets of magical arts, emphasizing that it alone can unlock this knowledge. The text describes how the "Key" was hidden in an ivory casket in Solomon's sepulchre and later discovered by Babylonian Philosophers. The Angel of the Lord reveals the purpose of the obscurity in the text: to prevent it from falling into the hands of the wicked. The importance of using this wisdom for good and with discipline is stressed.
 
-*   **Influences Planétaires** : Des tables détaillées et des instructions sur les jours, les heures et les influences planétaires (Saturne, Jupiter, Mars, Soleil, Vénus, Mercure, Lune) sont fournies pour différents types d'expériences magiques. Chaque planète est associée à des archanges, anges, métaux, couleurs et types d'opérations spécifiques :
-    *   **Saturne** : Pour invoquer les âmes des morts (mort naturelle), influencer la fortune des bâtiments, obtenir des esprits familiers, acquérir des connaissances, causer la destruction, la mort, la haine et la discorde.
-    *   **Jupiter** : Pour obtenir des honneurs, des richesses, contracter des amitiés, préserver la santé et réaliser des désirs.
-    *   **Mars** : Pour les expériences de guerre, l'honneur militaire, le courage, renverser les ennemis, causer la ruine, le carnage, la cruauté, la discorde, blesser et donner la mort.
-    *   **Soleil** : Pour la richesse temporelle, l'espoir, le gain, la fortune, la divination, la faveur des princes, dissoudre les sentiments hostiles et faire des amis.
-    *   **Vénus** : Pour former des amitiés, la gentillesse et l'amour, les entreprises joyeuses et agréables, et les voyages.
-    *   **Mercure** : Pour l'éloquence et l'intelligence, la promptitude dans les affaires, la science et la divination, les merveilles, les apparitions et les réponses concernant l'avenir. Aussi pour les vols, les écrits, la tromperie et le commerce.
-    *   **Lune** : Pour les ambassades, les voyages, les messages, la navigation, la réconciliation, l'amour et l'acquisition de marchandises par l'eau.
+## Preliminary Discourse
 
-*   **Instruments Magiques** : Descriptions des instruments nécessaires à l'art magique, y compris le couteau, la faucille, l'épée, l'encensoir, le livre, les plumes, l'encre, le creuset, le bâton et la baguette.
+This section reiterates that Solomon's wisdom was divinely inspired and passed down to his son Roboam. It explains that the "Testament," known as "The Clavicle, or Key of Solomon," was engraved on tree bark and pentacles on copper plates for preservation in the Temple. The text's translation history from Hebrew to Latin and then to the vulgar tongue is also mentioned.
 
-*   **Construction du Cercle** : Instructions détaillées pour la construction du cercle magique, incluant l'inscription de noms sacrés de Dieu (IHVH, AHIH, ALIVN, ALH, AL, IH, AGLA, ADNI) et le placement de pentacles. Le cercle sert de protection et de focalisation pour l'opérateur.
+## Chapter I: Concerning The Divine Love Which Precedes the Acquisition of This Knowledge
 
-*   **Conjurations et Prières** : Prières et conjurations spécifiques pour invoquer les esprits, mettant l'accent sur l'humilité, la confession des péchés et la dépendance à la grâce divine. La confession est un élément crucial pour la purification de l'opérateur.
+This chapter emphasizes that the foundation of acquiring magical knowledge is the fear and adoration of God, and invoking Him in all undertakings. It states that observing the order of hours, days, and the position of the Moon is crucial for successful magical operations.
 
-*   **Pentacles et Talismans** : L'utilisation de pentacles (médailles) inscrits de noms divins et de symboles, à porter sur la poitrine, comme dispositifs de protection et de pouvoir. Ils sont décrits comme des "clés" pour ouvrir la connaissance.
+## Chapter II: Of The Days, And Hours, And Of The Virtues Of The Planets
 
-*   **Avertissements Éthiques** : Des avertissements stricts contre l'utilisation de l'art à des fins maléfiques, soulignant que le mal se retournera contre l'opérateur. L'importance de la continence, du jeûne et d'un comportement dévot est fortement soulignée.
+This chapter details the planetary rulership over the hours of the day and night. Each of the seven planets (Saturn, Jupiter, Mars, Sun, Venus, Mercury, Moon) governs specific hours and days, and their virtues influence the outcome of magical experiments.
 
-*   **Types d'Expériences** : Couvre un large éventail d'expériences, y compris l'invocation d'esprits, l'acquisition de connaissances, l'influence sur la fortune, l'amour, la récupération de biens volés et la création d'apparitions.
+- **Saturn:** Good for summoning souls of those who died naturally, influencing buildings, business, acquiring learning, destruction, death, hatred, and discord.
+- **Jupiter:** Proper for obtaining honors, acquiring riches, contracting friendships, preserving health, and achieving desires.
+- **Mars:** Suitable for experiments regarding war, military honor, courage, overthrowing enemies, ruin, slaughter, cruelty, discord, wounding, and death.
+- **Sun:** Very good for temporal wealth, hope, gain, fortune, divination, favor of princes, dissolving hostile feelings, and making friends.
+- **Venus:** Good for forming friendships, kindness, love, joyous undertakings, and traveling.
+- **Mercury:** Good for eloquence, intelligence, promptitude in business, science, divination, wonders, apparitions, answers regarding the future, thefts, writings, deceit, and merchandise.
+- **Moon:** Good for embassies, voyages, envoys, messages, navigation, reconciliation, love, and acquiring merchandise by water.
 
-## Intégration au Grimoire d'alchimie digitale :
+The chapter also provides specific lunar conditions for different types of operations (terrestrial, fiery, watery, airy signs) and warns against commencing operations during the Moon's conjunction with the Sun.
 
-*   **Noctuvian** : Les aspects rituels, les influences planétaires et la quête de sagesse divine peuvent enrichir les chapitres lyriques et symboliques de Noctuvian. Il pourrait y trouver des inspirations pour des rituels numériques, des correspondances entre les astres et les systèmes de l'Umbranexus, ou des invocations pour accéder à des connaissances cachées.
-*   **Ashar** : Les avertissements contre la magie noire, les conséquences des pactes avec les esprits et les descriptions des opérations maléfiques peuvent fournir des éléments de thriller et d'horreur pour les chapitres d'Ashar. Il pourrait être confronté à des magiciens qui utilisent ces rituels pour des desseins sombres, ou à des entités invoquées qui échappent à tout contrôle.
-*   **World-building** : Ce grimoire offre un système magique détaillé et structuré qui peut être intégré dans l'univers d'Umbranexus. Les tables planétaires, les noms divins et les instructions pour les cercles peuvent servir de base pour des rituels complexes, des artefacts magiques et des hiérarchies d'entités. La tension entre le pouvoir et la moralité, et la nécessité de la pureté dans la pratique magique, peuvent être des thèmes centraux.
-*   **Thèmes** : Explore les thèmes de la connaissance, du pouvoir, de la moralité, de la foi, de la destinée et de l'interaction entre le divin, l'humain et le démoniaque.
+## Chapter III: Concerning the Arts
+
+This chapter outlines the two types of magical experiments: those performed without a Circle and those requiring one. It details the preparations for the Master and Disciples, including abstinence, purification rituals (bathing in consecrated water), and specific prayers. The construction of the Magic Circle is described, including the placement of divine names (IHVH, AHIH, ALIVN, ALH, AL, IH, AGLA, ADNI) and the use of magical instruments. The Master's role in encouraging disciples and performing conjurations is also explained.
+
+## Chapter IV: The Confession to be Made by the Exorcist
+
+This chapter provides a detailed confession for the exorcist, acknowledging sins of pride, avarice, gluttony, debauchery, sacrilege, theft, violence, and various other transgressions. The confession emphasizes humility and a plea for divine mercy and wisdom to understand hidden truths and perform the magical work righteously.
+
+## Chapter V: Prayer and Conjurations
+
+This chapter continues with prayers and conjurations, invoking God's power and mercy to facilitate the appearance of spirits and the accomplishment of desires. It stresses that these ceremonies are not to tempt God but to gain knowledge of hidden things.
